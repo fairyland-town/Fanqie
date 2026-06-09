@@ -71,11 +71,9 @@ jobs:
         file_pattern: data api
         branch: main
 
-    # ---- Deploy to GitHub Pages (inline, 绕过 GITHUB_TOKEN 不触发其他 workflow 的限制) ----
+    # ---- Deploy to GitHub Pages ----
     - name: Setup Pages
       uses: actions/configure-pages@v5
-      with:
-        enablement: true
 
     - name: Upload Pages artifact
       uses: actions/upload-pages-artifact@v3
