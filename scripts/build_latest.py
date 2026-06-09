@@ -186,7 +186,7 @@ def build_ai_prompt(cat_name: str, cat: dict, trend: dict) -> str:
     fallers = trend.get("top_fallers", [])
     fallers_text = "、".join(f"《{f['title']}》{f['change']}" for f in fallers) if fallers else "无"
 
-    return f"""你是一位网文行业分析师。请根据以下数据，为番茄小说「{cat_name}」分类新书榜生成结构化分析。
+    return f"""你是一位网文行业分析师。请根据以下数据，为番茄小说「{cat_name}」分类阅读榜生成结构化分析。
 
 ## 当前榜单 Top 20
 {intros_text}
@@ -222,22 +222,30 @@ BATCH_SIZE = 3  # 每批合并的分类数
 MARKET_PERIODS = [("7", 7), ("14", 14), ("30", 30), ("all", None)]
 
 GENRE_GROUPS = [
-    {"name": "古风言情", "categories": ["古风世情", "古言脑洞", "宫斗宅斗", "种田"]},
-    {"name": "现代言情", "categories": ["现言脑洞", "豪门总裁", "职场婚恋", "青春甜宠"]},
-    {"name": "幻想言情", "categories": ["玄幻言情", "科幻末世", "悬疑脑洞", "女频悬疑"]},
-    {"name": "快穿衍生", "categories": ["快穿", "女频衍生"]},
-    {"name": "年代民国", "categories": ["年代", "民国言情"]},
-    {"name": "娱乐星光", "categories": ["星光璀璨"]},
-    {"name": "游戏体育", "categories": ["游戏体育"]},
+    {"name": "玄幻奇幻", "categories": ["玄幻", "奇幻", "高武世界"]},
+    {"name": "仙侠修真", "categories": ["仙侠", "修真"]},
+    {"name": "都市现实", "categories": ["都市", "现实", "职场"]},
+    {"name": "历史军事", "categories": ["历史", "军事", "架空历史"]},
+    {"name": "科幻末世", "categories": ["科幻", "末世", "未来世界"]},
+    {"name": "游戏竞技", "categories": ["游戏", "电竞", "体育"]},
+    {"name": "悬疑灵异", "categories": ["悬疑", "灵异", "诡异"]},
+    {"name": "其他", "categories": ["言情", "同人", "其他"]},
 ]
 
 MARKET_KEYWORDS = [
-    "重生", "穿书", "快穿", "系统", "空间", "团宠", "萌宝", "幼崽", "女配", "炮灰",
-    "反派", "权臣", "宅斗", "宫斗", "和离", "替嫁", "逃荒", "种田", "美食", "经商",
-    "年代", "七零", "八零", "军婚", "豪门", "总裁", "真假千金", "先婚后爱", "追妻",
-    "甜宠", "双洁", "强制爱", "无CP", "末世", "废土", "天灾", "囤货", "异能",
-    "国运", "星际", "修仙", "玄学", "无限流", "悬疑", "直播", "综艺", "娱乐圈",
-    "校园", "暗恋", "青梅竹马", "民国", "兽世", "远古", "基建",
+    "重生", "系统", "穿越", "无敌", "升级", "打怪", "签到",
+    "赘婿", "兵王", "神医", "战神", "奶爸", "龙王",
+    "修仙", "修真", "渡劫", "飞升", "金丹", "元婴",
+    "玄幻", "斗气", "武魂", "血脉", "觉醒", "天赋",
+    "都市", "逆袭", "装逼", "打脸", "龙傲天",
+    "末世", "废土", "丧尸", "天灾", "囤货", "异能",
+    "面板", "属性", "加点", "技能", "任务",
+    "历史", "架空", "三国", "明朝", "争霸", "谋略",
+    "灵异", "诡异", "探险", "盗墓", "风水", "驱魔",
+    "科幻", "星际", "机甲", "太空", "未来",
+    "游戏", "网游", "电竞", "副本", "BOSS",
+    "军旅", "特种兵", "狙击手", "抗战",
+    "直播", "综艺", "娱乐圈", "商战",
 ]
 
 
@@ -311,7 +319,7 @@ def build_batch_ai_prompt(batch: list) -> str:
 
     return (
         f"你是一位网文行业分析师。请根据以下数据，"
-        f"为番茄小说的多个分类新书榜分别生成结构化分析。\n\n"
+        f"为番茄小说的多个分类阅读榜分别生成结构化分析。\n\n"
         f"{all_sections}\n\n"
         f"## 输出要求\n\n"
         f"请严格按照以下格式，为每个分类分别输出分析。"
@@ -711,7 +719,7 @@ def build_market_ai_prompt(payload: dict) -> str:
             f"- 规则兜底: {data['fallback_summary']}"
         )
 
-    return f"""你是一位网文市场编辑，请根据番茄女频新书榜的统计结果，为每个周期生成一段全站热点判断。
+    return f"""你是一位网文市场编辑，请根据番茄男频阅读榜的统计结果，为每个周期生成一段全站热点判断。
 
 {chr(10).join(sections)}
 
@@ -960,7 +968,7 @@ def main():
 
     # 查找 JSON 快照文件
     snapshots = sorted(
-        glob.glob(os.path.join(data_dir, "fanqie_female_new_ranks_*.json"))
+        glob.glob(os.path.join(data_dir, "fanqie_male_read_ranks_*.json"))
     )
 
     if not snapshots:
@@ -971,7 +979,7 @@ def main():
     if args.date:
         target_date_compact = args.date.replace("-", "")
         target_path = os.path.join(
-            data_dir, f"fanqie_female_new_ranks_{target_date_compact}.json"
+            data_dir, f"fanqie_male_read_ranks_{target_date_compact}.json"
         )
         if not os.path.exists(target_path):
             print(f"❌ 未找到 {args.date} 的快照文件: {target_path}")
@@ -1112,7 +1120,7 @@ def main():
     date_list = []
     for s in snapshots:
         fname = os.path.basename(s)
-        # fanqie_female_new_ranks_YYYYMMDD.json -> YYYY-MM-DD
+        # fanqie_male_read_ranks_YYYYMMDD.json -> YYYY-MM-DD
         m = re.search(r"(\d{4})(\d{2})(\d{2})", fname)
         if m:
             date_list.append(f"{m.group(1)}-{m.group(2)}-{m.group(3)}")

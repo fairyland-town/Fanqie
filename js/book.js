@@ -40,7 +40,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     function snapshotUrl(date) {
-        return `data/fanqie_female_new_ranks_${date.replace(/-/g, '')}.json`;
+        return `data/fanqie_male_read_ranks_${date.replace(/-/g, '')}.json`;
     }
 
     function fetchJson(url) {

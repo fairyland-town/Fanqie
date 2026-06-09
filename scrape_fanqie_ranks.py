@@ -22,14 +22,14 @@ def decode_text(text: str) -> str:
             result.append(char)
     return "".join(result)
 
-# 我们将直接从页面解析所有新书榜类别目录，实现动态抓取
+# 我们将直接从页面解析所有阅读榜类别目录，实现动态抓取
 
 OUTPUT_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data")
 
 def run_scraper(limit=30, sleep_sec=5):
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     date_str = datetime.now().strftime("%Y%m%d")
-    output_file = os.path.join(OUTPUT_DIR, f"fanqie_female_new_ranks_{date_str}.json")
+    output_file = os.path.join(OUTPUT_DIR, f"fanqie_male_read_ranks_{date_str}.json")
     state_file = os.path.join(OUTPUT_DIR, f"task_state_{date_str}.json")
     
     # ------------- 状态恢复逻辑 -------------
@@ -63,8 +63,8 @@ def run_scraper(limit=30, sleep_sec=5):
         )
         page = context.new_page()
         
-        # 先访问新书榜的基准前缀页面，以此为入口模拟人工作业
-        init_url = "https://fanqienovel.com/rank/0_1_1139"
+        # 先访问阅读榜的基准前缀页面，以此为入口模拟人工作业
+        init_url = "https://fanqienovel.com/rank/1_2_1141"
         print(f"[{datetime.now().strftime('%H:%M:%S')}] 正在初始化并访问基础榜单页：{init_url}")
         page.goto(init_url, wait_until="load", timeout=15000)
         page.wait_for_selector('a[href^="/page/"]', timeout=5000)
@@ -73,7 +73,7 @@ def run_scraper(limit=30, sleep_sec=5):
         categories_js = """
         () => {
             return Array.from(document.querySelectorAll('a'))
-                .filter(a => a.href.includes('/rank/0_1_'))
+                .filter(a => a.href.includes('/rank/1_2_'))
                 .map(a => ({
                     name: a.innerText.trim(),
                     href: a.getAttribute('href')
@@ -241,5 +241,5 @@ def run_scraper(limit=30, sleep_sec=5):
     print(f"\n✅ 当日选定类目任务已完毕或刷新！数据源：{output_file}")
 
 if __name__ == "__main__":
-    print("开始执行番茄女频新书榜抓取计划...")
+    print("开始执行番茄男频阅读榜抓取计划...")
     run_scraper(limit=30, sleep_sec=5)

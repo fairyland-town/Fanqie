@@ -32,7 +32,7 @@ jobs:
       id: check_data
       run: |
         TODAY=$(date -u +"%Y%m%d")
-        FILE="data/fanqie_female_new_ranks_${TODAY}.json"
+        FILE="data/fanqie_male_read_ranks_${TODAY}.json"
         if [ -f "$FILE" ]; then
           echo "exists=true" >> $GITHUB_OUTPUT
           echo "✅ 今日数据已存在: $FILE，跳过爬取"
@@ -61,12 +61,8 @@ jobs:
       env:
         GITHUB_ACTIONS: true
 
-    - name: Build Latest Data with AI Summary
-      run: pip install openai && python scripts/build_latest.py
-      env:
-        API_BASE_URL: ${{ secrets.API_BASE_URL }}
-        API_KEY: ${{ secrets.API_KEY }}
-        API_MODEL: ${{ secrets.API_MODEL }}
+    - name: Build Latest Data (no AI)
+      run: python scripts/build_latest.py
 
     - name: Commit and Push Changes
       uses: stefanzweifel/git-auto-commit-action@v5
