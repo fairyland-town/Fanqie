@@ -23,6 +23,28 @@ def decode_text(text: str) -> str:
     return "".join(result)
 
 # 我们将直接从页面解析所有阅读榜类别目录，实现动态抓取
+# 男频阅读榜 19 个分类（兜底用，动态发现失败时使用）
+MALE_READ_CATEGORIES = [
+    {"name": "玄幻", "href": "/rank/1_2_1141"},
+    {"name": "都市", "href": "/rank/1_2_1140"},
+    {"name": "历史", "href": "/rank/1_2_8"},
+    {"name": "仙侠", "href": "/rank/1_2_261"},
+    {"name": "游戏", "href": "/rank/1_2_124"},
+    {"name": "科幻", "href": "/rank/1_2_1014"},
+    {"name": "悬疑", "href": "/rank/1_2_273"},
+    {"name": "言情", "href": "/rank/1_2_27"},
+    {"name": "灵异", "href": "/rank/1_2_263"},
+    {"name": "同人", "href": "/rank/1_2_258"},
+    {"name": "奇幻", "href": "/rank/1_2_272"},
+    {"name": "武侠", "href": "/rank/1_2_539"},
+    {"name": "军事", "href": "/rank/1_2_262"},
+    {"name": "体育", "href": "/rank/1_2_257"},
+    {"name": "短篇", "href": "/rank/1_2_751"},
+    {"name": "轻小说", "href": "/rank/1_2_504"},
+    {"name": "现实", "href": "/rank/1_2_746"},
+    {"name": "诸天无限", "href": "/rank/1_2_718"},
+    {"name": "网文", "href": "/rank/1_2_1016"},
+]
 
 OUTPUT_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data")
 
@@ -81,7 +103,11 @@ def run_scraper(limit=30, sleep_sec=5):
         }
         """
         categories = page.evaluate(categories_js)
-        print(f"✅ 成功自适应提取到 {len(categories)} 个分类标签。开始全量模拟点击抓取下级数据...")
+        # 如果动态发现失败，使用兜底列表
+        if not categories:
+            print("⚠️ 动态发现未找到分类，使用预设的 19 个男频阅读榜分类")
+            categories = MALE_READ_CATEGORIES
+        print(f"✅ 共 {len(categories)} 个分类标签。开始全量模拟点击抓取下级数据...")
         
         for cat in categories:
             cat_name = cat["name"]
@@ -94,7 +120,14 @@ def run_scraper(limit=30, sleep_sec=5):
             print(f"[{datetime.now().strftime('%H:%M:%S')}] 模拟点击执行类别切换 -> {cat_name}")
             try:
                 # 使用 Playwright 模拟真实的人为鼠标定位与点击跳转分类
-                page.locator(f"a[href='{cat_href}']").click()
+                link = page.locator(f"a[href='{cat_href}']")
+                if link.count() > 0:
+                    link.first.click()
+                else:
+                    # 如果页面上找不到链接，直接导航到该 URL
+                    full_url = f"https://fanqienovel.com{cat_href}"
+                    print(f"  页面未找到链接，直接导航到 {full_url}")
+                    page.goto(full_url, wait_until="load", timeout=15000)
                 time.sleep(2) # 等待 SPA 页面骨架和组件请求的动画渲染完毕
                 page.wait_for_selector('a[href^="/page/"]', timeout=5000)
             except Exception as e:
