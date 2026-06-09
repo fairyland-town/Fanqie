@@ -23,27 +23,13 @@ def decode_text(text: str) -> str:
     return "".join(result)
 
 # 我们将直接从页面解析所有阅读榜类别目录，实现动态抓取
-# 男频阅读榜 19 个分类（兜底用，动态发现失败时使用）
-MALE_READ_CATEGORIES = [
-    {"name": "玄幻", "href": "/rank/1_2_1141"},
-    {"name": "都市", "href": "/rank/1_2_1140"},
-    {"name": "历史", "href": "/rank/1_2_8"},
-    {"name": "仙侠", "href": "/rank/1_2_261"},
-    {"name": "游戏", "href": "/rank/1_2_124"},
-    {"name": "科幻", "href": "/rank/1_2_1014"},
-    {"name": "悬疑", "href": "/rank/1_2_273"},
-    {"name": "言情", "href": "/rank/1_2_27"},
-    {"name": "灵异", "href": "/rank/1_2_263"},
-    {"name": "同人", "href": "/rank/1_2_258"},
-    {"name": "奇幻", "href": "/rank/1_2_272"},
-    {"name": "武侠", "href": "/rank/1_2_539"},
-    {"name": "军事", "href": "/rank/1_2_262"},
-    {"name": "体育", "href": "/rank/1_2_257"},
-    {"name": "短篇", "href": "/rank/1_2_751"},
-    {"name": "轻小说", "href": "/rank/1_2_504"},
-    {"name": "现实", "href": "/rank/1_2_746"},
-    {"name": "诸天无限", "href": "/rank/1_2_718"},
-    {"name": "网文", "href": "/rank/1_2_1016"},
+# 男频阅读榜 19 个分类 URL（兜底用，动态发现失败时访问这些页面提取真实分类名）
+MALE_READ_CATEGORY_URLS = [
+    "/rank/1_2_1141", "/rank/1_2_1140", "/rank/1_2_8", "/rank/1_2_261",
+    "/rank/1_2_124", "/rank/1_2_1014", "/rank/1_2_273", "/rank/1_2_27",
+    "/rank/1_2_263", "/rank/1_2_258", "/rank/1_2_272", "/rank/1_2_539",
+    "/rank/1_2_262", "/rank/1_2_257", "/rank/1_2_751", "/rank/1_2_504",
+    "/rank/1_2_746", "/rank/1_2_718", "/rank/1_2_1016",
 ]
 
 OUTPUT_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data")
@@ -103,10 +89,40 @@ def run_scraper(limit=30, sleep_sec=5):
         }
         """
         categories = page.evaluate(categories_js)
-        # 如果动态发现失败，使用兜底列表
+        # 如果动态发现失败，访问每个 URL 从页面提取真实分类名
         if not categories:
-            print("⚠️ 动态发现未找到分类，使用预设的 19 个男频阅读榜分类")
-            categories = MALE_READ_CATEGORIES
+            print("⚠️ 动态发现未找到分类，正在从各分类页面提取真实名称...")
+            categories = []
+            for url_path in MALE_READ_CATEGORY_URLS:
+                try:
+                    full_url = f"https://fanqienovel.com{url_path}"
+                    page.goto(full_url, wait_until="load", timeout=15000)
+                    time.sleep(1)
+                    # 从页面提取分类名：优先找侧边栏高亮项，其次用页面标题
+                    cat_name = page.evaluate("""
+                        () => {
+                            // 方法1：找当前选中的分类链接
+                            const active = document.querySelector('a[href*="/rank/1_2_"].active, a[href*="/rank/1_2_"][class*="selected"], a[href*="/rank/1_2_"][class*="current"]');
+                            if (active) return active.innerText.trim();
+                            // 方法2：找所有分类链接中与当前URL匹配的
+                            const links = document.querySelectorAll('a[href*="/rank/1_2_"]');
+                            for (const a of links) {
+                                if (a.getAttribute('href') === arguments[0]) return a.innerText.trim();
+                            }
+                            // 方法3：用页面标题
+                            const title = document.title || '';
+                            const match = title.match(/(.+?)[_\-|]/);
+                            return match ? match[1].trim() : '';
+                        }
+                    """, url_path)
+                    if not cat_name:
+                        # 最终兜底：用 URL 中的 ID
+                        cat_name = url_path.split("_")[-1]
+                    categories.append({"name": cat_name, "href": url_path})
+                    print(f"  发现分类: {cat_name} ({url_path})")
+                except Exception as e:
+                    print(f"  ⚠️ 提取分类名失败 {url_path}: {e}")
+                    categories.append({"name": url_path.split("_")[-1], "href": url_path})
         print(f"✅ 共 {len(categories)} 个分类标签。开始全量模拟点击抓取下级数据...")
         
         for cat in categories:
