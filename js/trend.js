@@ -12,14 +12,14 @@ document.addEventListener('DOMContentLoaded', () => {
     let selectedDays = 7;
 
     const genreGroups = [
-        { name: '玄幻奇幻', categories: ['玄幻', '奇幻', '诸天无限'] },
-        { name: '仙侠武侠', categories: ['仙侠', '武侠'] },
-        { name: '都市现实', categories: ['都市', '现实', '网文'] },
-        { name: '历史军事', categories: ['历史', '军事'] },
-        { name: '科幻悬疑', categories: ['科幻', '悬疑', '灵异'] },
-        { name: '游戏体育', categories: ['游戏', '体育'] },
-        { name: '言情同人', categories: ['言情', '同人'] },
-        { name: '轻小说短篇', categories: ['轻小说', '短篇'] },
+        { name: '玄幻奇幻', categories: ['西方奇幻', '传统玄幻', '玄幻脑洞'] },
+        { name: '仙侠修真', categories: ['东方仙侠', '都市修真'] },
+        { name: '都市生活', categories: ['都市日常', '都市高武', '都市种田', '都市脑洞', '战神赘婿'] },
+        { name: '历史军事', categories: ['历史古代', '历史脑洞', '抗战谍战'] },
+        { name: '科幻末世', categories: ['科幻末世'] },
+        { name: '悬疑灵异', categories: ['悬疑脑洞', '悬疑灵异'] },
+        { name: '游戏动漫', categories: ['游戏体育', '动漫衍生'] },
+        { name: '男频衍生', categories: ['男频衍生'] },
     ];
 
     const els = {
