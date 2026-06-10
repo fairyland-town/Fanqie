@@ -1,7 +1,7 @@
 {
   "type": "男频衍生",
-  "date": "2026-06-09",
-  "prev_date": "",
+  "date": "2026-06-10",
+  "prev_date": "2026-06-09",
   "category": {
     "name": "男频衍生",
     "trend": {
@@ -11,16 +11,29 @@
       "dropped_books": [],
       "top_risers": [],
       "top_fallers": [],
-      "reads_growth": [],
-      "summary": "首日数据，暂无趋势对比。"
+      "reads_growth": [
+        {
+          "title": "名义：京都直调，由我打破棋局",
+          "growth": "+4.0万"
+        },
+        {
+          "title": "名义：工作的时候称职务",
+          "growth": "+1.3万"
+        },
+        {
+          "title": "大日金乌纵横诸天",
+          "growth": "+9000"
+        }
+      ],
+      "summary": "《名义：京都直调，由我打破棋局》阅读量+4.0万。"
     },
     "books": [
       {
         "title": "一人之下：震碎乾坤的海上皇帝",
         "author": "永远喜欢两仪式",
-        "reads": "53.1万",
+        "reads": "53.6万",
         "intro": "江震穿越一人之下，觉醒震震果实，自魔都十六铺码头横空出世。 那一年，张之维还未成绝顶，无根生正游戏人间。 江震却已在魔都海畔一拳碎空，立下规矩：“我站的地方，便是公理；我划的海域，即是禁区！” 金光咒？雷法？神明灵？ 在足以崩裂空间的震动面前，皆为虚妄。 他曾于抗战硝烟中一拳镇杀比贺忍众，也曾在甲申乱局中强行禁魔魔都。 当他远渡重洋，在纳森岛加冕为皇，全世界的航母编队都要在他拳头的余波下颤抖。 从漕帮小卒到威震世界的海上皇帝，江震告诉世人：这个时代姓江。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa286a6da292c995d6b90658ddbb9e1b1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781626106&x-signature=2RMbV0%2BJgVxhxcTcyY2cZ36wWpM%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa286a6da292c995d6b90658ddbb9e1b1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781661746&x-signature=pFPxaLK6dLKZRRV66V38xClA2Jk%3D",
         "url": "https://fanqienovel.com/page/7612581633496976446"
       },
       {
@@ -28,7 +41,7 @@
         "author": "用户28451444",
         "reads": "36万",
         "intro": "穿越《士兵突击》成了新兵连体能垫底的那个。 跑四百米喘成狗，引体向上挂不住，全连公认的“软蛋”。 更绝的是，和许三多并称“卧龙凤雏”，一个呆得没边，一个弱得离谱。 不出意外，双双发配草原五班。 班长的坟墓，孬兵的天堂。刘青想好了，混两年退伍，靠着前世的眼光当个富家翁也不错。 结果系统来了。迟到半年，在他彻底躺平的那一刻，叮。 第一个任务：严格执行军人内务条例一周。 于是刘青不得不每天早起叠被子、擦地、踢正步。 许三多跟着他，两个人成了五班最大的“不团结因素”。 散漫了多年的老兵们像被鲶鱼搅了的死水，从看笑话到看不惯，空气里的火药味一天比一天浓。刘青硬着头皮扛了七天，好不容易把自己摘出去，跟老马交底：“我就是想练练体能，没别的意思。” 叮。第二个任务：修建一条标准的400米障碍训练跑道。奖励：全属性加五。 刘青盯着面板沉默了。 许三多修路，我修跑道。各卷各的。 于是带着许三多从五班卷到钢七连，又从钢七连卷到了老A........ 带众人斩获功绩，挽留下了老马、史今与伍六一，不让遗憾再度上演。 昔日受人轻视的弱者，终成顶尖兵王，看刘青如何与战友书写不一样的军旅篇章。 本作品为《士兵突击》同人创作，原著作版权归原作者所有！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9ffbc5ba25fa4a821bf88525b22ec026~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781626106&x-signature=dgIvDebWg%2BUatJ3dRzrPK%2BuKm1k%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9ffbc5ba25fa4a821bf88525b22ec026~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781661746&x-signature=c3PGWF%2FtuS68yFemnBvJHHjgVEc%3D",
         "url": "https://fanqienovel.com/page/7628873452421663806"
       },
       {
@@ -36,31 +49,31 @@
         "author": "马夹",
         "reads": "33.7万",
         "intro": "我，杨清玄，杨戬之子，灌江少主。自从穿越过来，就有无数人关注我，捧着我。 玉帝外孙，杨戬之子，四海龙族是我娘家人。 我爹教我法术，龙宫给我法宝，天庭金丹蟠桃吃了无数。 仿佛我就是那个三界中最尊贵的神二代。 但我知道，这个家里很乱。 亲爹心里想改天条，亲娘就是小傲娇，亲姑姑是个恋爱脑…… 本想改善一下家庭环境，但又怕沉香出现。 怕老爹杨戬主导，都在跟着捧沉香，都在喊推翻旧天条。 一个个觉得改出新天条就是正义。 只有我心里门儿清： 新天条都是什么玩意？ 真让那玩意儿出来， 这帮神仙一个个全是恋爱脑， 为了自己那点情爱，毁灭三界都干得出来。 这种事，我绝不能忍！ 我爹为了姑姑忍辱负重演戏， 姑姑为了私情执迷不悟， 表弟沉香拿个宝莲灯就飘得没边。 那我只能让你们看看，我三届第一公子的实力。 在本世界干掉刘彦昌后，又来到了剧版宝莲灯世界。 那我也绝不陪沉香演戏！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o684536657272939200e5814c482a1c94~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781626106&x-signature=q7kmp4fniZO0vpOQRzqWaZhBN8E%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o684536657272939200e5814c482a1c94~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781661746&x-signature=AkzGQnw%2B2G4VS1QjLPknvYWn9LE%3D",
         "url": "https://fanqienovel.com/page/7619185420156275737"
       },
       {
         "title": "大日金乌纵横诸天",
         "author": "哎呀这个老六",
-        "reads": "27.6万",
+        "reads": "28.5万",
         "intro": "（评分怎么出这么早，刚出会升，放心食用） 融合大日金乌血 自此焚天真火燃遍周身，神禽血脉觉醒，踏破界壁，纵横诸天万界。 斩仙佛，灭神魔，镇万界，压万道。 以金乌之姿，横推诸天，无人可阻，铸就太阳至尊。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o5f94ebd5cf547a37c7bedcf1eccd45e2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781626106&x-signature=vklt%2BUiJUwQuK2YT9RmBPBFiM9M%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o5f94ebd5cf547a37c7bedcf1eccd45e2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781661746&x-signature=QNCo7Lh17uMXPkorEfUOur3XjUY%3D",
         "url": "https://fanqienovel.com/page/7623782466523761726"
       },
       {
         "title": "四合院：垂钓诸天万物",
         "author": "他日我若为青帝",
-        "reads": "24.3万",
+        "reads": "24.2万",
         "intro": "林绍文在同学聚会上喝醉了，睡一觉醒来，莫名其妙的来到了情满四合院的世界，成为了北京中医学院的优异毕业生林绍文。 他现在刚刚大学毕业，现在面临着选择，是去协和医院当一名前途无量的正式医生，还是去轧钢厂当一名默默无闻的厂医。 林绍文二话不说，就选择了厂医。 没有办法，让一个社畜去医院当医生，那不等于是杀人？更何况，协和医院可都是大佬级别的，人家一眼就能看出他的医学水平。 可在他做出了选择后，脑海中“叮”了一声。 “诸天垂钓”系统开启，诸天万物，皆可垂钓。 林绍文差点没吐血，这该死的垂钓系统早来一分钟，他的人生就不一样了。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oecd60d1f5a3b5689fb231f8329b638b1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781626106&x-signature=ZNo0d0JDRWLQWK5ojnvSD9szOck%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oecd60d1f5a3b5689fb231f8329b638b1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781661746&x-signature=M7SOgMwabPRY3d75HB6AHc82DYs%3D",
         "url": "https://fanqienovel.com/page/7278791977582201890"
       },
       {
         "title": "名义：京都直调，由我打破棋局",
         "author": "汗血宝码",
-        "reads": "23.7万",
+        "reads": "27.7万",
         "intro": "一纸调令，空降汉东任职。 我来汉东，目的只有一个，经济！经济！还tm的是经济！ 前世苏超火爆全国，直接复刻，汉超启动！台上，台下打成一片。 丁义珍要跑？我提前让警察在机场等着。 陈岩石倚老卖老？我直接以危害国家安全罪抓人。 陈海侯、亮平违反规定？直接发配去博物馆当馆长！ 陈海要出事？我提前让人盯死丁义珍。 大风厂要着火？我连夜调走汽油。 沙瑞金找我谈话：“林川，你到底想干什么？” 我说：“书记，我只搞经济。但谁挡我搞经济，我就让谁不好过。” 汉东这潭水，我要清，也要活。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o086a7d73eca060f6a5bb489a6122348b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781626106&x-signature=JD3xR2OC1D1R4tBvTR0%2BvYcyDUo%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o086a7d73eca060f6a5bb489a6122348b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781661746&x-signature=GDD76vOsp7COWpND8Oa9D%2B9cWX8%3D",
         "url": "https://fanqienovel.com/page/7616343124184419353"
       },
       {
@@ -68,7 +81,7 @@
         "author": "云端云朵",
         "reads": "22.9万",
         "intro": "既然魂穿二大爷刘海中，院里又没什么好人，那么我畜生一点也没事吧。 莉莉，水水，茹茹，蛾子，还有谁，靠，忘记了。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od1a3eeb3d77ae0370e48e9806d0c5687~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781626106&x-signature=mKp4YyNiXuLR1G7Ha2W9bU3TcXg%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od1a3eeb3d77ae0370e48e9806d0c5687~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781661746&x-signature=6Oo%2FOeV7OJg32rNYEUYx9Su9XuQ%3D",
         "url": "https://fanqienovel.com/page/7504557996911889433"
       },
       {
@@ -76,7 +89,7 @@
         "author": "尚洛杉",
         "reads": "20.8万",
         "intro": "主角：赵雷； 角色：无工作的街溜子、赵家边缘人物、爹不亲娘不爱 金手指：盲盒系统 目标：每天躺平，有吃有喝，不用上班 简介：前世身为留守儿童长大的赵雷，在酒店宾馆意外重生在了1959年，此时正是自然灾害的第一年，作为一个现代社会吃喝不愁的‘油脂’青年，来到这里他是绝对不愿意的，不过当‘挂’苏醒的那一刻，他笑了。 “灾害年咋了？咱也能让老婆孩子吃饱穿暖” “没工作咋了，明儿我就能上班” “啥？你想道德绑架我？让你试试未来键盘侠的威力”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2c1d0c5b65dea6d33ab0d11535b26944~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781626106&x-signature=1Js7jg8rSwVAsoaiyrCBy0qWlW4%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2c1d0c5b65dea6d33ab0d11535b26944~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781661746&x-signature=G9Pmf9esCMVbBJaXJOWhrnBom2Y%3D",
         "url": "https://fanqienovel.com/page/7614867921348611097"
       },
       {
@@ -84,7 +97,7 @@
         "author": "天九白鸦",
         "reads": "20.6万",
         "intro": "【杀手】+【雇佣兵】+【黑道】 创【地府】，猎群煞。 麾下百大王座征战四方，只为成就世间巅峰。 杀手，雇佣兵，黑道，天下之大， 我名周渡，只杀....不渡！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o1acb3213bc6a2fe2edb96655ed9c8d38~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781626106&x-signature=YwO4qSIdBmsX642FA3ujsAHnsk4%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o1acb3213bc6a2fe2edb96655ed9c8d38~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781661746&x-signature=WnQi%2BWPRpa7%2BetqPpgH4fCHGlLU%3D",
         "url": "https://fanqienovel.com/page/7498044578683948094"
       },
       {
@@ -92,23 +105,23 @@
         "author": "川崎重机车",
         "reads": "20.2万",
         "intro": "穿越到港综世界，成为红兴官塘区一个四九仔，并且还是警方的卧底。 看着自己身份，李华泽皱眉道：卧底？狗都不.. 【恭喜觉醒罪恶值系统，只要铲除罪恶，宿主可无限强化】 看着忽然觉醒的系统，以及周围身上充满罪恶的矮骡子，李华泽精神一振。 当，我当的就是卧底！！ 多年后。 李华泽：刚出来混的时候，你叫我矮骡子我不挑你的理。 后来，你叫我拳王泽，我也只是笑笑不说话。 再后来，所有人都叫我李先生。 现在，我整个港岛都匍匐在我脚下，你要叫我什么？ 警队高层：靠，让你们快点收网，你们就是不听，现在好了吧，卧底都踏马成港岛话事人了！！！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2136f7843a94fc03ca11293f510667c0~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781626106&x-signature=CLH9lLRQDOZwWgDWbd%2FAKsinaYs%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2136f7843a94fc03ca11293f510667c0~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781661746&x-signature=56tY7tB4vH8IWjIGl%2FptZpHkDdw%3D",
         "url": "https://fanqienovel.com/page/7538016486955158553"
       },
       {
         "title": "名义：工作的时候称职务",
         "author": "林一苏",
-        "reads": "19.6万",
+        "reads": "20.9万",
         "intro": "【纯手工，无ai】 林怀来到汉东，搞经济，办汉超联赛。 你说我是汉大帮？反手就给你一本汉大知名校友名册，这些都是成员，你看着办吧。 尊重个人命运，绝不当保姆。 与钟小艾交谈 提醒祁同伟谁在打压你 要求侯亮平遵守组织原则 ……",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/e5ac0a23a8ac1e64e99b80a482a4eed6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781626110&x-signature=oiuptzUaOvXDNfT5UqKJURpVUy0%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/e5ac0a23a8ac1e64e99b80a482a4eed6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781661750&x-signature=4c9CXjSiAWVukav3337q3saB%2FZ4%3D",
         "url": "https://fanqienovel.com/page/7618159108587260952"
       },
       {
         "title": "影视：系统从欢乐颂消费返还开始",
         "author": "无文东西",
-        "reads": "19.6万",
+        "reads": "19.9万",
         "intro": "【爽文】【多女主】【不墨迹】 林越意外穿越《欢乐颂》世界，绑定【超级消费返还系统】 任何女性为他消费，都可以按一定倍数获得返还。 邱莹莹、关雎尔请他吃饭，系统返还一万！ 曲筱绡送盒巧克力，到账十万！ 收到百达翡丽，返还收入三千万！ 什么？安迪，你要送我辆车…… 靠着消费返还，林越不但实现财务自由，还周旋与各位美女之中，曲径通幽、左右逢缘！ 摸着樊胜美光滑的大腿，林越分辨道：我真不是海王，我只是一直在研究系统的正确打开方式。 等到几个大肚子的孕妇一起找上门来，林越只能找个借口仓惶逃跑，直到这时，他才发现这个世界没那么简单。 “什么？你说你叫蒋南孙……”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o947bac3e669d21c637c07cf6a56e57f0~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781626110&x-signature=7zs7mSlt%2BN6t3cc%2FhYWOg%2BrRKIo%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o947bac3e669d21c637c07cf6a56e57f0~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781661750&x-signature=QdrfVpUZsiMq3xC%2FdbIHL4cDeVY%3D",
         "url": "https://fanqienovel.com/page/7573947308513954841"
       },
       {
@@ -116,15 +129,15 @@
         "author": "南城小陌",
         "reads": "19.5万",
         "intro": "【多女主不喜勿进】【多影视各路主角光环对撞，四合院、正阳门、人是铁、光荣时代，奔腾年代、金婚、胡同、乔家的儿女……名义、平凡岁月、两个女人的战争】【截胡系统，利己、圣母绕路】【女主无原创乱入】【多影视偏群像】【轻戾气偏日常】【家长里短】【杀鬼子】 林辰母胎穿越到了战乱年代，从记事起就跟着一个赤脚郎中爷爷长大。 带着前世记忆的他直到有一天遇到一个熟人他才知道自己穿越到了多影视的平行世界。 娄家老爷子为了感谢爷爷救命之恩，给他们爷孙二人安排进了南锣鼓巷九十五号院。林辰也被娄振华安排进了轧钢厂医务室…… 在林辰的呼唤中系统姗姗来迟，系统是觉醒了但是需要截胡一个女主才能激活使用。 林辰没有犹豫，这个时间段也没得选了。先激活系统再说……谁知道从此一发不可收拾。 系统都激活了还不享受人生，那还等什么？ ……",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ofe8c632f287e150a1cb368175db8a433~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781626110&x-signature=k8jOwD0CzXLVEH3U3o8Hs%2B%2BwNdw%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ofe8c632f287e150a1cb368175db8a433~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781661750&x-signature=vuoD7DyeatfpMO8I2GGa5Hsw9aU%3D",
         "url": "https://fanqienovel.com/page/7303369706805660683"
       },
       {
         "title": "重生尹志平，从神雕开始的长生",
         "author": "泡泡追泡泡",
-        "reads": "19万",
+        "reads": "19.1万",
         "intro": "（单女主李莫愁，神雕已经完结，倚天也结束了，明初结束，现在是大明风华。） 好消息，重生了，还带着一个熟练度模板，任何功法只要刷熟练度，就能无瓶颈修炼下去，突破极限还能衍生新的功法。 万剑归宗攻伐无敌 大椿神功长生不死 御剑飞行日行万里 战神图录、小李飞刀、寒冰神掌、天龙八音、惊龙变、龙神功...... 坏消息，我叫尹志平，师父叫丘处机，还有个师弟叫甄志丙。 尹志平：天上白玉京，十二楼五城。仙人抚我顶，结发受长生。我是李....串台了。我是尹志平。 问世间情为何物，直教生死相许。 天南地北双飞客，老翅几回寒暑。 尹志平表示，自己不想恋上小龙女。 却没料到，恋上了她师姐，李莫愁。 南宋之后又元朝，元朝之后即大明。 扶持洪武大帝，收徒懿文太子，调教永乐皇帝，誓要改变华夏历史。 让大明成为世界上最强大的国家。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o15dd5e8095816f09db77117eadf4cc86~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781626110&x-signature=4YRO6jcwamzHmsnVPv8kG3ir%2FCQ%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o15dd5e8095816f09db77117eadf4cc86~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781661750&x-signature=Ifvretqn3SYpGbaMWkAK7XF8Oe0%3D",
         "url": "https://fanqienovel.com/page/7442158625126108222"
       },
       {
@@ -132,23 +145,23 @@
         "author": "允歌唱罢",
         "reads": "18.9万",
         "intro": "【龙族+衰仔改造计划】 “凡王之血，必以剑终？” “不，陛下，凡王之血，必将为您铺路。” 高二的路明非最近很愁，所谓什么龙王养成计划莫名其妙绑定他 非说他是什么幼年龙祖，并开启了地狱级改造。 完不成任务？奥丁的雷枪、海王的溺杀、山王的崩塌，试炼惩罚轮着来。 心生退意？君主从不懦弱，试炼惩罚加倍。 于是在龙王计划的鞭策下， 路明非逐步蜕变， 他开始疯狂内卷，凌晨练体能，深夜背龙文 眼神越冷下手越狠 衰仔与废材的性子一去不复返，什么叫血之哀根本听不懂， . 起初，路明非是为了逃避惩罚而变强。 后来，当他看清了命运原本的轨迹 喜欢小黄鸭的女孩沉入深海； 此间只有他是朋友的老唐死在刀下； 面瘫师兄在无尽的尼伯龙根里迷失。 他不想这样。 于是某一天， 当末日降临，诸王苏醒， 他们惊恐地发现，那个人类少年提刀而来，身后是尸山血海铺就的王座。 曾几何时，少年为了断绝那些可悲的命运， 不得不握紧手中的刀，在暴雨和烈火中重塑骨血 而当所谓的命运接踵而至， 这一次，手握暴权与力量的路明非，不再退缩。 如果不当龙皇就会失去在意的人和一切， “那就让这个世界，听听为君者的咆哮。” 废柴已死，暴君当立。 这一世，凡王之血，必将为他铺路。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o4945772ebb455d864fdabc69379b973f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781626110&x-signature=VEL58mKWNJnWMyitf%2Fsk%2FmnNzUg%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o4945772ebb455d864fdabc69379b973f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781661750&x-signature=gNa%2BkiloHWfMfZLBQWUI4Cpg3JE%3D",
         "url": "https://fanqienovel.com/page/7567059699384716313"
       },
       {
         "title": "四合院之重来的人生",
         "author": "临江仙z",
-        "reads": "18.7万",
+        "reads": "18.9万",
         "intro": "半世迷茫半生苦，一朝重走来时路！ 1958年，四九城南锣鼓巷，一个五岁的孩子，扛着一块比他自己还大的牌匾，开始了属于他的人生！ 本文都是家长里短，没有屎尿，轻戾气，没有断手断脚，只有腹黑！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/8ea95597c580c4cd5c45cafca0b4adbb~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781626110&x-signature=hG5hj1imiUSIjiCv2PYRtb45814%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/8ea95597c580c4cd5c45cafca0b4adbb~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781661750&x-signature=tDXfjsicGunInzElgbKBIO7Hl4E%3D",
         "url": "https://fanqienovel.com/page/7557990263084305433"
       },
       {
         "title": "名义：开局考上北大经济学博士",
         "author": "老贼看刀",
-        "reads": "18.3万",
+        "reads": "18.1万",
         "intro": "汉东省风云骤变。 省一沙瑞金持尚方宝剑空降、挥剑反腐；坐地虎高育良明哲保身、做看风云；孤臣李达康拒绝站队，身陷危机。 权与力的博弈在官场深处激烈上演，且看重生归来的祁同伟，如何辗转腾挪、从容布局！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9c69d7e6649c6ef682a340c364d26cf7~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781626110&x-signature=zQpzHlZzb8nnM2eIjLk1yMGwHrc%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9c69d7e6649c6ef682a340c364d26cf7~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781661750&x-signature=b9u2vbq9PxB7eyT4ItUtmK9jqkU%3D",
         "url": "https://fanqienovel.com/page/7572922323175492670"
       },
       {
@@ -156,23 +169,23 @@
         "author": "执笔画界",
         "reads": "17.6万",
         "intro": "【纯手打无AI】+【不舔秦淮茹和傻柱】+【剧情密集】 苏文刚穿越而来就得到一个不好消息，娄振华为了保全自己决定向政策看齐，把他们这些在娄家的工人全都遣散。 拜托，这可是1957年底了！ 再有一年可就大饥荒来了！ 苏文一个没有家人的孤儿该怎么生存下去？ 这是一个问题！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o494db0f0e664df876cc2c161cf84623d~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781626110&x-signature=Zx07s0QuhqDmSkhHbApeBcKOGL4%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o494db0f0e664df876cc2c161cf84623d~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781661750&x-signature=LRw2ByNR0LN3h7aBhN7RHYHgFHM%3D",
         "url": "https://fanqienovel.com/page/7626657617951067160"
       },
       {
         "title": "行尸走肉：僵毁系统，全职业封神",
         "author": "骑士妖娆",
-        "reads": "17.3万",
+        "reads": "16.7万",
         "intro": "穿越行尸走肉世界，末日爆发倒计时三天。 陆辰激活了僵尸毁灭工程系统——全职业精通、蓝图制造、属性面板，统统拉满。 但最逆天的，是他能看到每个人头顶的buff。 那个说自己没被咬的男人？头上写着【被感染-中期】。 那个笑着递水的陌生人？头上赫然是【欺骗】和【敌意】。 而那个总想背刺瑞克的肖恩？他头上的【杀意】正在一点点变深…… \"在我眼皮底下，没人能隐瞒任何事。\" 索菲亚，我会找到你。赫舍尔，你不会被斩首。格伦，尼根的棒子碰不到你。 至于贝丝—— \"这一世，你不会死在那家该死的医院里。\" 后宫文，多女主（玛吉，贝丝，罗西塔，艾达王） （加了消光、生化、行尸之惧、僵尸国度、求2……不喜者慎入）",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8811722242835f2fe027ad05a1d1e24f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781626110&x-signature=qgZWBryJR4LlwgqivwugqjtR0yQ%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8811722242835f2fe027ad05a1d1e24f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781661750&x-signature=YgoPja7Fgor1lwg8ZUclDgDiClg%3D",
         "url": "https://fanqienovel.com/page/7628461639766903832"
       },
       {
         "title": "四合院：秦淮茹赖上我",
         "author": "半场开香槟",
-        "reads": "17.2万",
+        "reads": "17.1万",
         "intro": "赵羲彦原本是一个小镇做题家，虽然没什么出息，可靠着殷实的家境过得还不错。 可就在一辆呼啸而来的泥头车快要撞到他学生的时候，他下意识的冲了出去，虽然救了学生，却也和泥头车进行了一次亲密且不太友好的接触。 等他再次醒来，已经在一辆驴车上。 而对面，一个明眸皓齿，扎着两个大辫子的姑娘正好奇的看着他。 “你好，我叫秦淮茹……” “我叫赵羲彦……唔，等等，你说你叫什么？” 　　……",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ocfed8b542c82275d794478e57f425044~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781626110&x-signature=Dl%2BSiMmJKz1570sL9YZMO7mFXdg%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ocfed8b542c82275d794478e57f425044~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781661750&x-signature=hdrjrx1e80781MUN8Bjhm8ihn1o%3D",
         "url": "https://fanqienovel.com/page/7391869924202794008"
       }
     ]
@@ -187,16 +200,29 @@
         "dropped_books": [],
         "top_risers": [],
         "top_fallers": [],
-        "reads_growth": [],
-        "summary": "首日数据，暂无趋势对比。"
+        "reads_growth": [
+          {
+            "title": "名义：京都直调，由我打破棋局",
+            "growth": "+4.0万"
+          },
+          {
+            "title": "名义：工作的时候称职务",
+            "growth": "+1.3万"
+          },
+          {
+            "title": "大日金乌纵横诸天",
+            "growth": "+9000"
+          }
+        ],
+        "summary": "《名义：京都直调，由我打破棋局》阅读量+4.0万。"
       },
       "books": [
         {
           "title": "一人之下：震碎乾坤的海上皇帝",
           "author": "永远喜欢两仪式",
-          "reads": "53.1万",
+          "reads": "53.6万",
           "intro": "江震穿越一人之下，觉醒震震果实，自魔都十六铺码头横空出世。 那一年，张之维还未成绝顶，无根生正游戏人间。 江震却已在魔都海畔一拳碎空，立下规矩：“我站的地方，便是公理；我划的海域，即是禁区！” 金光咒？雷法？神明灵？ 在足以崩裂空间的震动面前，皆为虚妄。 他曾于抗战硝烟中一拳镇杀比贺忍众，也曾在甲申乱局中强行禁魔魔都。 当他远渡重洋，在纳森岛加冕为皇，全世界的航母编队都要在他拳头的余波下颤抖。 从漕帮小卒到威震世界的海上皇帝，江震告诉世人：这个时代姓江。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa286a6da292c995d6b90658ddbb9e1b1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781626106&x-signature=2RMbV0%2BJgVxhxcTcyY2cZ36wWpM%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa286a6da292c995d6b90658ddbb9e1b1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781661746&x-signature=pFPxaLK6dLKZRRV66V38xClA2Jk%3D",
           "url": "https://fanqienovel.com/page/7612581633496976446"
         },
         {
@@ -204,7 +230,7 @@
           "author": "用户28451444",
           "reads": "36万",
           "intro": "穿越《士兵突击》成了新兵连体能垫底的那个。 跑四百米喘成狗，引体向上挂不住，全连公认的“软蛋”。 更绝的是，和许三多并称“卧龙凤雏”，一个呆得没边，一个弱得离谱。 不出意外，双双发配草原五班。 班长的坟墓，孬兵的天堂。刘青想好了，混两年退伍，靠着前世的眼光当个富家翁也不错。 结果系统来了。迟到半年，在他彻底躺平的那一刻，叮。 第一个任务：严格执行军人内务条例一周。 于是刘青不得不每天早起叠被子、擦地、踢正步。 许三多跟着他，两个人成了五班最大的“不团结因素”。 散漫了多年的老兵们像被鲶鱼搅了的死水，从看笑话到看不惯，空气里的火药味一天比一天浓。刘青硬着头皮扛了七天，好不容易把自己摘出去，跟老马交底：“我就是想练练体能，没别的意思。” 叮。第二个任务：修建一条标准的400米障碍训练跑道。奖励：全属性加五。 刘青盯着面板沉默了。 许三多修路，我修跑道。各卷各的。 于是带着许三多从五班卷到钢七连，又从钢七连卷到了老A........ 带众人斩获功绩，挽留下了老马、史今与伍六一，不让遗憾再度上演。 昔日受人轻视的弱者，终成顶尖兵王，看刘青如何与战友书写不一样的军旅篇章。 本作品为《士兵突击》同人创作，原著作版权归原作者所有！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9ffbc5ba25fa4a821bf88525b22ec026~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781626106&x-signature=dgIvDebWg%2BUatJ3dRzrPK%2BuKm1k%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9ffbc5ba25fa4a821bf88525b22ec026~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781661746&x-signature=c3PGWF%2FtuS68yFemnBvJHHjgVEc%3D",
           "url": "https://fanqienovel.com/page/7628873452421663806"
         },
         {
@@ -212,31 +238,31 @@
           "author": "马夹",
           "reads": "33.7万",
           "intro": "我，杨清玄，杨戬之子，灌江少主。自从穿越过来，就有无数人关注我，捧着我。 玉帝外孙，杨戬之子，四海龙族是我娘家人。 我爹教我法术，龙宫给我法宝，天庭金丹蟠桃吃了无数。 仿佛我就是那个三界中最尊贵的神二代。 但我知道，这个家里很乱。 亲爹心里想改天条，亲娘就是小傲娇，亲姑姑是个恋爱脑…… 本想改善一下家庭环境，但又怕沉香出现。 怕老爹杨戬主导，都在跟着捧沉香，都在喊推翻旧天条。 一个个觉得改出新天条就是正义。 只有我心里门儿清： 新天条都是什么玩意？ 真让那玩意儿出来， 这帮神仙一个个全是恋爱脑， 为了自己那点情爱，毁灭三界都干得出来。 这种事，我绝不能忍！ 我爹为了姑姑忍辱负重演戏， 姑姑为了私情执迷不悟， 表弟沉香拿个宝莲灯就飘得没边。 那我只能让你们看看，我三届第一公子的实力。 在本世界干掉刘彦昌后，又来到了剧版宝莲灯世界。 那我也绝不陪沉香演戏！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o684536657272939200e5814c482a1c94~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781626106&x-signature=q7kmp4fniZO0vpOQRzqWaZhBN8E%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o684536657272939200e5814c482a1c94~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781661746&x-signature=AkzGQnw%2B2G4VS1QjLPknvYWn9LE%3D",
           "url": "https://fanqienovel.com/page/7619185420156275737"
         },
         {
           "title": "大日金乌纵横诸天",
           "author": "哎呀这个老六",
-          "reads": "27.6万",
+          "reads": "28.5万",
           "intro": "（评分怎么出这么早，刚出会升，放心食用） 融合大日金乌血 自此焚天真火燃遍周身，神禽血脉觉醒，踏破界壁，纵横诸天万界。 斩仙佛，灭神魔，镇万界，压万道。 以金乌之姿，横推诸天，无人可阻，铸就太阳至尊。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o5f94ebd5cf547a37c7bedcf1eccd45e2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781626106&x-signature=vklt%2BUiJUwQuK2YT9RmBPBFiM9M%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o5f94ebd5cf547a37c7bedcf1eccd45e2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781661746&x-signature=QNCo7Lh17uMXPkorEfUOur3XjUY%3D",
           "url": "https://fanqienovel.com/page/7623782466523761726"
         },
         {
           "title": "四合院：垂钓诸天万物",
           "author": "他日我若为青帝",
-          "reads": "24.3万",
+          "reads": "24.2万",
           "intro": "林绍文在同学聚会上喝醉了，睡一觉醒来，莫名其妙的来到了情满四合院的世界，成为了北京中医学院的优异毕业生林绍文。 他现在刚刚大学毕业，现在面临着选择，是去协和医院当一名前途无量的正式医生，还是去轧钢厂当一名默默无闻的厂医。 林绍文二话不说，就选择了厂医。 没有办法，让一个社畜去医院当医生，那不等于是杀人？更何况，协和医院可都是大佬级别的，人家一眼就能看出他的医学水平。 可在他做出了选择后，脑海中“叮”了一声。 “诸天垂钓”系统开启，诸天万物，皆可垂钓。 林绍文差点没吐血，这该死的垂钓系统早来一分钟，他的人生就不一样了。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oecd60d1f5a3b5689fb231f8329b638b1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781626106&x-signature=ZNo0d0JDRWLQWK5ojnvSD9szOck%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oecd60d1f5a3b5689fb231f8329b638b1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781661746&x-signature=M7SOgMwabPRY3d75HB6AHc82DYs%3D",
           "url": "https://fanqienovel.com/page/7278791977582201890"
         },
         {
           "title": "名义：京都直调，由我打破棋局",
           "author": "汗血宝码",
-          "reads": "23.7万",
+          "reads": "27.7万",
           "intro": "一纸调令，空降汉东任职。 我来汉东，目的只有一个，经济！经济！还tm的是经济！ 前世苏超火爆全国，直接复刻，汉超启动！台上，台下打成一片。 丁义珍要跑？我提前让警察在机场等着。 陈岩石倚老卖老？我直接以危害国家安全罪抓人。 陈海侯、亮平违反规定？直接发配去博物馆当馆长！ 陈海要出事？我提前让人盯死丁义珍。 大风厂要着火？我连夜调走汽油。 沙瑞金找我谈话：“林川，你到底想干什么？” 我说：“书记，我只搞经济。但谁挡我搞经济，我就让谁不好过。” 汉东这潭水，我要清，也要活。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o086a7d73eca060f6a5bb489a6122348b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781626106&x-signature=JD3xR2OC1D1R4tBvTR0%2BvYcyDUo%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o086a7d73eca060f6a5bb489a6122348b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781661746&x-signature=GDD76vOsp7COWpND8Oa9D%2B9cWX8%3D",
           "url": "https://fanqienovel.com/page/7616343124184419353"
         },
         {
@@ -244,7 +270,7 @@
           "author": "云端云朵",
           "reads": "22.9万",
           "intro": "既然魂穿二大爷刘海中，院里又没什么好人，那么我畜生一点也没事吧。 莉莉，水水，茹茹，蛾子，还有谁，靠，忘记了。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od1a3eeb3d77ae0370e48e9806d0c5687~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781626106&x-signature=mKp4YyNiXuLR1G7Ha2W9bU3TcXg%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od1a3eeb3d77ae0370e48e9806d0c5687~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781661746&x-signature=6Oo%2FOeV7OJg32rNYEUYx9Su9XuQ%3D",
           "url": "https://fanqienovel.com/page/7504557996911889433"
         },
         {
@@ -252,7 +278,7 @@
           "author": "尚洛杉",
           "reads": "20.8万",
           "intro": "主角：赵雷； 角色：无工作的街溜子、赵家边缘人物、爹不亲娘不爱 金手指：盲盒系统 目标：每天躺平，有吃有喝，不用上班 简介：前世身为留守儿童长大的赵雷，在酒店宾馆意外重生在了1959年，此时正是自然灾害的第一年，作为一个现代社会吃喝不愁的‘油脂’青年，来到这里他是绝对不愿意的，不过当‘挂’苏醒的那一刻，他笑了。 “灾害年咋了？咱也能让老婆孩子吃饱穿暖” “没工作咋了，明儿我就能上班” “啥？你想道德绑架我？让你试试未来键盘侠的威力”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2c1d0c5b65dea6d33ab0d11535b26944~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781626106&x-signature=1Js7jg8rSwVAsoaiyrCBy0qWlW4%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2c1d0c5b65dea6d33ab0d11535b26944~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781661746&x-signature=G9Pmf9esCMVbBJaXJOWhrnBom2Y%3D",
           "url": "https://fanqienovel.com/page/7614867921348611097"
         },
         {
@@ -260,7 +286,7 @@
           "author": "天九白鸦",
           "reads": "20.6万",
           "intro": "【杀手】+【雇佣兵】+【黑道】 创【地府】，猎群煞。 麾下百大王座征战四方，只为成就世间巅峰。 杀手，雇佣兵，黑道，天下之大， 我名周渡，只杀....不渡！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o1acb3213bc6a2fe2edb96655ed9c8d38~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781626106&x-signature=YwO4qSIdBmsX642FA3ujsAHnsk4%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o1acb3213bc6a2fe2edb96655ed9c8d38~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781661746&x-signature=WnQi%2BWPRpa7%2BetqPpgH4fCHGlLU%3D",
           "url": "https://fanqienovel.com/page/7498044578683948094"
         },
         {
@@ -268,23 +294,23 @@
           "author": "川崎重机车",
           "reads": "20.2万",
           "intro": "穿越到港综世界，成为红兴官塘区一个四九仔，并且还是警方的卧底。 看着自己身份，李华泽皱眉道：卧底？狗都不.. 【恭喜觉醒罪恶值系统，只要铲除罪恶，宿主可无限强化】 看着忽然觉醒的系统，以及周围身上充满罪恶的矮骡子，李华泽精神一振。 当，我当的就是卧底！！ 多年后。 李华泽：刚出来混的时候，你叫我矮骡子我不挑你的理。 后来，你叫我拳王泽，我也只是笑笑不说话。 再后来，所有人都叫我李先生。 现在，我整个港岛都匍匐在我脚下，你要叫我什么？ 警队高层：靠，让你们快点收网，你们就是不听，现在好了吧，卧底都踏马成港岛话事人了！！！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2136f7843a94fc03ca11293f510667c0~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781626106&x-signature=CLH9lLRQDOZwWgDWbd%2FAKsinaYs%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2136f7843a94fc03ca11293f510667c0~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781661746&x-signature=56tY7tB4vH8IWjIGl%2FptZpHkDdw%3D",
           "url": "https://fanqienovel.com/page/7538016486955158553"
         },
         {
           "title": "名义：工作的时候称职务",
           "author": "林一苏",
-          "reads": "19.6万",
+          "reads": "20.9万",
           "intro": "【纯手工，无ai】 林怀来到汉东，搞经济，办汉超联赛。 你说我是汉大帮？反手就给你一本汉大知名校友名册，这些都是成员，你看着办吧。 尊重个人命运，绝不当保姆。 与钟小艾交谈 提醒祁同伟谁在打压你 要求侯亮平遵守组织原则 ……",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/e5ac0a23a8ac1e64e99b80a482a4eed6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781626110&x-signature=oiuptzUaOvXDNfT5UqKJURpVUy0%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/e5ac0a23a8ac1e64e99b80a482a4eed6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781661750&x-signature=4c9CXjSiAWVukav3337q3saB%2FZ4%3D",
           "url": "https://fanqienovel.com/page/7618159108587260952"
         },
         {
           "title": "影视：系统从欢乐颂消费返还开始",
           "author": "无文东西",
-          "reads": "19.6万",
+          "reads": "19.9万",
           "intro": "【爽文】【多女主】【不墨迹】 林越意外穿越《欢乐颂》世界，绑定【超级消费返还系统】 任何女性为他消费，都可以按一定倍数获得返还。 邱莹莹、关雎尔请他吃饭，系统返还一万！ 曲筱绡送盒巧克力，到账十万！ 收到百达翡丽，返还收入三千万！ 什么？安迪，你要送我辆车…… 靠着消费返还，林越不但实现财务自由，还周旋与各位美女之中，曲径通幽、左右逢缘！ 摸着樊胜美光滑的大腿，林越分辨道：我真不是海王，我只是一直在研究系统的正确打开方式。 等到几个大肚子的孕妇一起找上门来，林越只能找个借口仓惶逃跑，直到这时，他才发现这个世界没那么简单。 “什么？你说你叫蒋南孙……”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o947bac3e669d21c637c07cf6a56e57f0~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781626110&x-signature=7zs7mSlt%2BN6t3cc%2FhYWOg%2BrRKIo%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o947bac3e669d21c637c07cf6a56e57f0~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781661750&x-signature=QdrfVpUZsiMq3xC%2FdbIHL4cDeVY%3D",
           "url": "https://fanqienovel.com/page/7573947308513954841"
         },
         {
@@ -292,15 +318,15 @@
           "author": "南城小陌",
           "reads": "19.5万",
           "intro": "【多女主不喜勿进】【多影视各路主角光环对撞，四合院、正阳门、人是铁、光荣时代，奔腾年代、金婚、胡同、乔家的儿女……名义、平凡岁月、两个女人的战争】【截胡系统，利己、圣母绕路】【女主无原创乱入】【多影视偏群像】【轻戾气偏日常】【家长里短】【杀鬼子】 林辰母胎穿越到了战乱年代，从记事起就跟着一个赤脚郎中爷爷长大。 带着前世记忆的他直到有一天遇到一个熟人他才知道自己穿越到了多影视的平行世界。 娄家老爷子为了感谢爷爷救命之恩，给他们爷孙二人安排进了南锣鼓巷九十五号院。林辰也被娄振华安排进了轧钢厂医务室…… 在林辰的呼唤中系统姗姗来迟，系统是觉醒了但是需要截胡一个女主才能激活使用。 林辰没有犹豫，这个时间段也没得选了。先激活系统再说……谁知道从此一发不可收拾。 系统都激活了还不享受人生，那还等什么？ ……",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ofe8c632f287e150a1cb368175db8a433~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781626110&x-signature=k8jOwD0CzXLVEH3U3o8Hs%2B%2BwNdw%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ofe8c632f287e150a1cb368175db8a433~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781661750&x-signature=vuoD7DyeatfpMO8I2GGa5Hsw9aU%3D",
           "url": "https://fanqienovel.com/page/7303369706805660683"
         },
         {
           "title": "重生尹志平，从神雕开始的长生",
           "author": "泡泡追泡泡",
-          "reads": "19万",
+          "reads": "19.1万",
           "intro": "（单女主李莫愁，神雕已经完结，倚天也结束了，明初结束，现在是大明风华。） 好消息，重生了，还带着一个熟练度模板，任何功法只要刷熟练度，就能无瓶颈修炼下去，突破极限还能衍生新的功法。 万剑归宗攻伐无敌 大椿神功长生不死 御剑飞行日行万里 战神图录、小李飞刀、寒冰神掌、天龙八音、惊龙变、龙神功...... 坏消息，我叫尹志平，师父叫丘处机，还有个师弟叫甄志丙。 尹志平：天上白玉京，十二楼五城。仙人抚我顶，结发受长生。我是李....串台了。我是尹志平。 问世间情为何物，直教生死相许。 天南地北双飞客，老翅几回寒暑。 尹志平表示，自己不想恋上小龙女。 却没料到，恋上了她师姐，李莫愁。 南宋之后又元朝，元朝之后即大明。 扶持洪武大帝，收徒懿文太子，调教永乐皇帝，誓要改变华夏历史。 让大明成为世界上最强大的国家。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o15dd5e8095816f09db77117eadf4cc86~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781626110&x-signature=4YRO6jcwamzHmsnVPv8kG3ir%2FCQ%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o15dd5e8095816f09db77117eadf4cc86~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781661750&x-signature=Ifvretqn3SYpGbaMWkAK7XF8Oe0%3D",
           "url": "https://fanqienovel.com/page/7442158625126108222"
         },
         {
@@ -308,23 +334,23 @@
           "author": "允歌唱罢",
           "reads": "18.9万",
           "intro": "【龙族+衰仔改造计划】 “凡王之血，必以剑终？” “不，陛下，凡王之血，必将为您铺路。” 高二的路明非最近很愁，所谓什么龙王养成计划莫名其妙绑定他 非说他是什么幼年龙祖，并开启了地狱级改造。 完不成任务？奥丁的雷枪、海王的溺杀、山王的崩塌，试炼惩罚轮着来。 心生退意？君主从不懦弱，试炼惩罚加倍。 于是在龙王计划的鞭策下， 路明非逐步蜕变， 他开始疯狂内卷，凌晨练体能，深夜背龙文 眼神越冷下手越狠 衰仔与废材的性子一去不复返，什么叫血之哀根本听不懂， . 起初，路明非是为了逃避惩罚而变强。 后来，当他看清了命运原本的轨迹 喜欢小黄鸭的女孩沉入深海； 此间只有他是朋友的老唐死在刀下； 面瘫师兄在无尽的尼伯龙根里迷失。 他不想这样。 于是某一天， 当末日降临，诸王苏醒， 他们惊恐地发现，那个人类少年提刀而来，身后是尸山血海铺就的王座。 曾几何时，少年为了断绝那些可悲的命运， 不得不握紧手中的刀，在暴雨和烈火中重塑骨血 而当所谓的命运接踵而至， 这一次，手握暴权与力量的路明非，不再退缩。 如果不当龙皇就会失去在意的人和一切， “那就让这个世界，听听为君者的咆哮。” 废柴已死，暴君当立。 这一世，凡王之血，必将为他铺路。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o4945772ebb455d864fdabc69379b973f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781626110&x-signature=VEL58mKWNJnWMyitf%2Fsk%2FmnNzUg%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o4945772ebb455d864fdabc69379b973f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781661750&x-signature=gNa%2BkiloHWfMfZLBQWUI4Cpg3JE%3D",
           "url": "https://fanqienovel.com/page/7567059699384716313"
         },
         {
           "title": "四合院之重来的人生",
           "author": "临江仙z",
-          "reads": "18.7万",
+          "reads": "18.9万",
           "intro": "半世迷茫半生苦，一朝重走来时路！ 1958年，四九城南锣鼓巷，一个五岁的孩子，扛着一块比他自己还大的牌匾，开始了属于他的人生！ 本文都是家长里短，没有屎尿，轻戾气，没有断手断脚，只有腹黑！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/8ea95597c580c4cd5c45cafca0b4adbb~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781626110&x-signature=hG5hj1imiUSIjiCv2PYRtb45814%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/8ea95597c580c4cd5c45cafca0b4adbb~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781661750&x-signature=tDXfjsicGunInzElgbKBIO7Hl4E%3D",
           "url": "https://fanqienovel.com/page/7557990263084305433"
         },
         {
           "title": "名义：开局考上北大经济学博士",
           "author": "老贼看刀",
-          "reads": "18.3万",
+          "reads": "18.1万",
           "intro": "汉东省风云骤变。 省一沙瑞金持尚方宝剑空降、挥剑反腐；坐地虎高育良明哲保身、做看风云；孤臣李达康拒绝站队，身陷危机。 权与力的博弈在官场深处激烈上演，且看重生归来的祁同伟，如何辗转腾挪、从容布局！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9c69d7e6649c6ef682a340c364d26cf7~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781626110&x-signature=zQpzHlZzb8nnM2eIjLk1yMGwHrc%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9c69d7e6649c6ef682a340c364d26cf7~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781661750&x-signature=b9u2vbq9PxB7eyT4ItUtmK9jqkU%3D",
           "url": "https://fanqienovel.com/page/7572922323175492670"
         },
         {
@@ -332,23 +358,23 @@
           "author": "执笔画界",
           "reads": "17.6万",
           "intro": "【纯手打无AI】+【不舔秦淮茹和傻柱】+【剧情密集】 苏文刚穿越而来就得到一个不好消息，娄振华为了保全自己决定向政策看齐，把他们这些在娄家的工人全都遣散。 拜托，这可是1957年底了！ 再有一年可就大饥荒来了！ 苏文一个没有家人的孤儿该怎么生存下去？ 这是一个问题！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o494db0f0e664df876cc2c161cf84623d~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781626110&x-signature=Zx07s0QuhqDmSkhHbApeBcKOGL4%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o494db0f0e664df876cc2c161cf84623d~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781661750&x-signature=LRw2ByNR0LN3h7aBhN7RHYHgFHM%3D",
           "url": "https://fanqienovel.com/page/7626657617951067160"
         },
         {
           "title": "行尸走肉：僵毁系统，全职业封神",
           "author": "骑士妖娆",
-          "reads": "17.3万",
+          "reads": "16.7万",
           "intro": "穿越行尸走肉世界，末日爆发倒计时三天。 陆辰激活了僵尸毁灭工程系统——全职业精通、蓝图制造、属性面板，统统拉满。 但最逆天的，是他能看到每个人头顶的buff。 那个说自己没被咬的男人？头上写着【被感染-中期】。 那个笑着递水的陌生人？头上赫然是【欺骗】和【敌意】。 而那个总想背刺瑞克的肖恩？他头上的【杀意】正在一点点变深…… \"在我眼皮底下，没人能隐瞒任何事。\" 索菲亚，我会找到你。赫舍尔，你不会被斩首。格伦，尼根的棒子碰不到你。 至于贝丝—— \"这一世，你不会死在那家该死的医院里。\" 后宫文，多女主（玛吉，贝丝，罗西塔，艾达王） （加了消光、生化、行尸之惧、僵尸国度、求2……不喜者慎入）",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8811722242835f2fe027ad05a1d1e24f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781626110&x-signature=qgZWBryJR4LlwgqivwugqjtR0yQ%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8811722242835f2fe027ad05a1d1e24f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781661750&x-signature=YgoPja7Fgor1lwg8ZUclDgDiClg%3D",
           "url": "https://fanqienovel.com/page/7628461639766903832"
         },
         {
           "title": "四合院：秦淮茹赖上我",
           "author": "半场开香槟",
-          "reads": "17.2万",
+          "reads": "17.1万",
           "intro": "赵羲彦原本是一个小镇做题家，虽然没什么出息，可靠着殷实的家境过得还不错。 可就在一辆呼啸而来的泥头车快要撞到他学生的时候，他下意识的冲了出去，虽然救了学生，却也和泥头车进行了一次亲密且不太友好的接触。 等他再次醒来，已经在一辆驴车上。 而对面，一个明眸皓齿，扎着两个大辫子的姑娘正好奇的看着他。 “你好，我叫秦淮茹……” “我叫赵羲彦……唔，等等，你说你叫什么？” 　　……",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ocfed8b542c82275d794478e57f425044~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781626110&x-signature=Dl%2BSiMmJKz1570sL9YZMO7mFXdg%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ocfed8b542c82275d794478e57f425044~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781661750&x-signature=hdrjrx1e80781MUN8Bjhm8ihn1o%3D",
           "url": "https://fanqienovel.com/page/7391869924202794008"
         }
       ]
