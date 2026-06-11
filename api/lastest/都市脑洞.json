@@ -1,222 +1,231 @@
 {
   "type": "都市脑洞",
-  "date": "2026-06-10",
-  "prev_date": "2026-06-09",
+  "date": "2026-06-11",
+  "prev_date": "2026-06-10",
   "category": {
     "name": "都市脑洞",
     "trend": {
-      "new_count": 2,
-      "dropped_count": 2,
+      "new_count": 3,
+      "dropped_count": 3,
       "new_books": [
-        "黄牛中介，没想到你请得动真神啊",
-        "全网被黑两年半，转身登顶格莱美"
+        "顶级妇医：开局查出名媛怀外教种",
+        "什么？！我的草稿纸成国家机密了",
+        "我就一写网文的，怎么成文豪了"
       ],
       "dropped_books": [
         {
-          "title": "顶级妇医：开局查出名媛怀外教种",
-          "intro": "《极致反差》 + 《渣女鉴定》 + 《拯救大佬爆金币》 + 《权贵人脉》 　　林枫本是外科天才，却被恶意调剂到妇产科。虽是副主任医师，但因为被打压，在加上是个男的，门诊门可罗雀，手术逐渐无人问津，只能"
+          "title": "刀哥爆红娱乐圈，粉丝求我别杀了",
+          "intro": "【轻松+无cp+沙雕+娱乐圈】 萧贺拥有了一个犯罪金手指，可以学习各种犯罪技能。 ——但只有不断刀人才可以活下去。 萧贺：……好好的大学生不当，谁想去当罪犯啊！ 诶？还真有办法！ 一次意外，萧贺成功卡"
         },
         {
-          "title": "什么？！我的草稿纸成国家机密了",
-          "intro": "穿越十八年，林墨身患怪病，一发作就疯狂涂鸦，被当成精神病。 高考考场，他再次犯病，在草稿纸上写满了天书。他绝望离场，以为人生灰暗。 殊不知，物理学教授当场石化，国安部连夜封锁考场，中科院所有泰斗级院士"
+          "title": "全网被黑两年半，转身登顶格莱美",
+          "intro": "开局被黑两年半，鬼畜区顶流，全网狂欢。 一睁眼，林季穿成了2014年的内娱第一小丑。 解约、网暴、身败名裂。 然而他的脑中，装着另一个世界领先十年的璀璨乐章。 既然国内的号练废了，那就删号重练！ 一张"
+        },
+        {
+          "title": "让你荒野求生，你跑这享受来了？",
+          "intro": "大学生王昊为了赚钱冲游戏币，选择参加荒野求生比赛，当场觉醒【情绪收集系统】，只要引发情绪波动，就能无限加点升级技能 ！ 从此，有他的比赛，画风就变得越来越离谱起来！ 在山上。 别的选手终于吃上了生鱼片"
         }
       ],
       "top_risers": [
         {
-          "title": "让我开早餐店？我下午才营业",
-          "change": "+2"
+          "title": "华娱：从绑定天仙开始全能",
+          "change": "+1"
         },
         {
-          "title": "带着一亿现金，重生回高中时代",
-          "change": "+2"
-        },
-        {
-          "title": "急诊科：这个实习医生强得离谱",
-          "change": "+2"
+          "title": "我，圈钱主播！但大哥是真刷啊！",
+          "change": "+1"
         }
       ],
       "top_fallers": [
         {
-          "title": "穿越的乾坤袋",
-          "change": "-2"
+          "title": "我只想学习，怎么就电竞封神了",
+          "change": "-4"
+        },
+        {
+          "title": "直播冒险：开局探寻尼斯湖水怪",
+          "change": "-3"
+        },
+        {
+          "title": "误吞了秦皇陵仙丹",
+          "change": "-3"
         }
       ],
       "reads_growth": [
         {
+          "title": "每天六千万，只能在县城花？",
+          "growth": "+5.2万"
+        },
+        {
           "title": "华娱：从绑定天仙开始全能",
-          "growth": "+3.3万"
+          "growth": "+2.8万"
         },
         {
-          "title": "自律就能变帅？高冷校花人设崩了",
-          "growth": "+1.4万"
-        },
-        {
-          "title": "我，圈钱主播！但大哥是真刷啊！",
-          "growth": "+1.0万"
+          "title": "归国留洋水货？叫我芯片之父！",
+          "growth": "+2.0万"
         }
       ],
-      "summary": "新增2本上榜；2本掉出（《顶级妇医：开局查出名媛怀外教种》、《什么？！我的草稿纸成国家机密了》）；《让我开早餐店？我下午才营业》排名上升+2位；《华娱：从绑定天仙开始全能》阅读量+3.3万。"
+      "summary": "新增3本上榜；3本掉出（《刀哥爆红娱乐圈，粉丝求我别杀了》、《全网被黑两年半，转身登顶格莱美》、《让你荒野求生，你跑这享受来了？》）；《华娱：从绑定天仙开始全能》排名上升+1位；《每天六千万，只能在县城花？》阅读量+5.2万。"
     },
     "books": [
       {
         "title": "每天六千万，只能在县城花？",
         "author": "凤失凰",
-        "reads": "148.4万",
+        "reads": "153.6万",
         "intro": "【非社达】+【人民史观】＋【无性别对立】+【基建】＋【事业】＋【慢热】＋【扮猪吃虎】 上海打工，内卷到高血压，还存不到钱。 陆明一怒辞职回乡，却意外绑定“县城消费金系统”，全县每人给我一百块，一天六千万！ 但这钱有个规矩：只能在鸟不拉屎的小县城里花！ 县城首富？ 格局小了！当别人还在炒房时，陆明反手买下一栋烂尾楼当公司总部；当亲戚劝他去修车厂拧螺丝时，他提了一台迈巴赫S680代步。 从改造全县娱乐业开始，建厂、修路、盖学校、造医院…… 面对所有人的质疑，陆明只是笑了笑：“我不是要当县城首富，我是要把这破县城，变成全世界都向往的乌托邦！” 多年以后，福布斯专栏记者采访陆明：“你是怎么想到把一个五线小县城建成2000万人口的国际化大都市的？” 陆明微微一笑：“只是一时心血来潮~”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc126ca48e7bbdce1a8962ada31918ef8~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781661676&x-signature=G724v1goua2y5tILi2OrAlIS3l0%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc126ca48e7bbdce1a8962ada31918ef8~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781748704&x-signature=XIGj%2F2uIyIYmjcQtbmrUaOqVXcQ%3D",
         "url": "https://fanqienovel.com/page/7623460631303179288"
       },
       {
         "title": "救命！我这是农场，不是动物园！",
         "author": "白日阳光",
-        "reads": "55.5万",
+        "reads": "56.6万",
         "intro": "评分刚出，后面会涨。 本书又名：《白虎钻被窝，你管这叫惊喜？》、《让你回乡种田，你驯服百兽为王？》 【无直播+无系统+无女主+萌宠+日常+温馨休闲】 厌倦了大城市的996，林风辞职回村置办了个农场。 本以为接下来的日子，就是每天种种田，悠悠闲闲。 结果意外发现，自己居然能听懂动物的心声？ 本着帮助邻居的想法，林风给两只小刺猬重新做了个窝。 这可给倆家伙感动到不行，非要送他个惊喜。 你送惊喜就送吧！可问题是，我被窝里的白虎幼崽是几个意思？ 看我睡觉硌得慌，给我当垫子的？？？ 好不容易把白虎幼崽给送回了山，其他动物却是在得知情况后，一个个跑了下来。 有蹭吃蹭喝的花豹姐妹，有把他家当月子中心的金渐层。 甚至还有为了口蜂蜜，死活赖着不走的国宝大熊猫。 看着院子里越来越多，越来越多的保护动物，林风只觉得自己是真刑！ 可问题是…… 他开的是农场，不是什么动物园啊！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2obedca4a5133f932d9bda6bb941b134c8~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781661676&x-signature=8dWx%2BVYbN9LsXFN1jeEh85%2BHwc8%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2obedca4a5133f932d9bda6bb941b134c8~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781748704&x-signature=OQlG1IU2nSWlQwejtthHzlFADac%3D",
         "url": "https://fanqienovel.com/page/7626378258417732632"
+      },
+      {
+        "title": "顶级妇医：开局查出名媛怀外教种",
+        "author": "咸包谷",
+        "reads": "54.8万",
+        "intro": "《极致反差》 + 《渣女鉴定》 + 《拯救大佬爆金币》 + 《权贵人脉》 　　林枫本是外科天才，却被恶意调剂到妇产科。虽是副主任医师，但因为被打压，在加上是个男的，门诊门可罗雀，手术逐渐无人问津，只能苦逼的常年值夜班。 　　直到他觉醒【因果清算系统】，中西医大成，并开启【真实之眼】！ 　　深夜值班，南江首富带着全网三百万粉丝的“国风纯洁未婚妻”来做婚检。 　　名媛私下狂砸五十万，半褪香肩求林枫伪造B超单。 　　林枫反手将屏幕转给推门而入的首富：“王总，恭喜。不过根据骨盆影像和超高浓度黑色素基因推算，这双胞胎大概率是哪位‘外籍私教’的杰作。” 　　首富当场暴走！名媛瞬间跌入地狱！ 　　而后，大佬的夫人突发“产科死神”羊水栓塞，全院专家下达死亡通知！林枫手持太乙神针，中西合璧逆天改命！大佬狂喜，大手一挥：全科室医护，每人赏三百万！ 　　全院震怖！ 　　从此，高冷女总裁、清纯校花为了挂他的门诊号大打出手，各路顶级权贵更是捧着金山银山，只求对他们的未婚妻进行结婚前的婚检。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0bc3fd419ce1686fa5170e9793b9e4f4~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781748704&x-signature=5X1y2%2FmM7NOUzbkWO0wYMoCKEcE%3D",
+        "url": "https://fanqienovel.com/page/7624202089656241177"
       },
       {
         "title": "自律就能变帅？高冷校花人设崩了",
         "author": "我是橘子汽水",
-        "reads": "53.5万",
+        "reads": "54.4万",
         "intro": "刚上高二，我被【男神养成系统】绑定了。 可这系统有点怪，不给钱不给超能力，只给我布置“科学养生”任务？ 【叮！检测到宿主颜值仅为52分（路人水准），评语：淹没在人海中的一粒尘埃。】 【每日任务：完成五公里慢跑，奖励：毛孔杂质-1%，皮肤清透度+0.5%。】 我：？？？就这？ 【长期任务：坚持每晚十点前入睡，奖励：生长激素分泌微调，身高潜力+3cm！】 为了变帅，我忍了！ 跑步、戒糖、早睡早起……一个学期后。 【叮！恭喜宿主颜值突破60分大关！解锁被动技能：清爽少年感！】 【叮！恭喜宿主颜值突破70分大关！解锁被动技能：侧颜杀！】 直到那天，我只是在窗边喝了口水，全班女生突然安静。 高冷校花同桌夏晚柠更是红着脸，把头埋进了书里，日记本上写满了我的名字！ 不是，我就跑个步，怎么就成国民初恋了？！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/29a78595062d4ccf17ea2f07880243e3~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781661676&x-signature=WKz0oOASnU8YRmggPbDsmUmPZxw%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/29a78595062d4ccf17ea2f07880243e3~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781748704&x-signature=vCmYwoFvKnUIqA3uoSFy%2BuukDdU%3D",
         "url": "https://fanqienovel.com/page/7599631943377882136"
-      },
-      {
-        "title": "我只想学习，怎么就电竞封神了",
-        "author": "1西瓜大王1",
-        "reads": "46.4万",
-        "intro": "【学霸+电竞+系统+爽文+轻松搞笑+无女主】　　 　　陆铭，昌华六中公认卷王。 　　每天学习16小时，年级排名卡在七八十名，纹丝不动。 　　直到绑定了劳逸结合系统。 　　本以为是学习系统，系统却告诉他： 　　“想提高学习效率？先去玩王者荣耀吧。” 　　于是全校最卷的学生被迫打起了王者荣耀。 　　同学震惊，老师沉默。 　　一小时后，两套卷子秒杀，王者水平迅猛提升。 为了学习，他努力上分。 　　为了上分，他努力考试。 　　从此，他打开了新世界的大门。 　　在打到王者荣耀巅峰前三后，反手在物理竞赛拿到史无前例的满分成绩。 　　在KPL年度总决赛拿到冠军+FMVP后，又在全国中学生数学竞赛里碾压一切天才。 　　CS斯德哥尔摩Major总决赛开赛前，他还在国际数学奥赛颁奖典礼上领取满分金牌。 　　最后，清华北大校长亲自打电话抢人，发现竞争对手是电竞俱乐部？ 　　而电竞国家队教练组在会议室拍桌子：“这个人究竟归谁管？为什么和我抢人的是中科院的？” 　　在一次采访中，记者把话筒怼到他脸上：“请问您成功的秘诀是什么？” 　　陆铭的表情真诚到令人心碎： 　　“我发誓，我只是想好好学习。”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa5ec21790abd1c9c37b2a520fcec285c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781661676&x-signature=%2FukwaYR7acH95Hyv%2BRLdc%2BchBgM%3D",
-        "url": "https://fanqienovel.com/page/7619672944414821438"
-      },
-      {
-        "title": "让我开早餐店？我下午才营业",
-        "author": "我是幕后煮屎人",
-        "reads": "47.2万",
-        "intro": "（系统）+（美食）+（日常）+（轻松搞笑） 评分刚出！会慢慢涨的，大家放心食用！ 原本做直播运营的范理压力大失眠迟到被公司开除，意外获得神级早餐系统。 但是原本的作息与卖早餐的作息毫不相干。 顾客1：什么！这鸟不拉屎的地方他一笼灌汤小笼包竟然敢卖八十八块？ 顾客2：这老板到底什么时候开门？我受不了了！ 渐渐地，范理的小店门口出现奇怪的现象。 下午太阳正热，一帮食客却在排队吃早餐。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o7572bec24766eb62f22dcc77675a3958~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781661676&x-signature=RR2IqfIS8xh15lQWD32rX3OcgFQ%3D",
-        "url": "https://fanqienovel.com/page/7628547216021408830"
       },
       {
         "title": "华娱：从绑定天仙开始全能",
         "author": "青葱咸鱼",
-        "reads": "50.5万",
+        "reads": "53.3万",
         "intro": "【非重生+系统逆袭+多女主】 2004年，艺考失败，不服输的苏言来到横店成为一名群演，妄想从群演慢慢成长为巨星。 理想很丰满，现实很骨感。 日复一日的扮演尸体、炮灰，让他感觉整个人生都在沉沦。 直到进入《神雕侠侣》剧组那天，眼前突然弹出一个画面： 【绑定女神：天仙】 【付出必有回报系统启动】 从此，他的娱乐圈生存法则彻底改变： 送一瓶水，现金到账，体能增强； 解一次围，技能到手，属性暴涨。 救于危难，获得未来爆款歌曲、剧本。 ……多年后，已经成为娱乐圈巨头·全能才子·多位女明星意难平的苏言回首往事，面对采访只能无奈一笑： “我说一开始真的只想进步，你们信吗？”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9a2ed63048fba92557304cd4a54a4b2c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781661676&x-signature=45CnJPpT65VdHaWqkEaEDvBVSp0%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9a2ed63048fba92557304cd4a54a4b2c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781748704&x-signature=qqYz%2BvNg6hOw9D9G3U9qJ8MP1HE%3D",
         "url": "https://fanqienovel.com/page/7590182452971179032"
       },
       {
         "title": "我，圈钱主播！但大哥是真刷啊！",
         "author": "蓝色粉笔",
-        "reads": "47.5万",
+        "reads": "48.1万",
         "intro": "江枫穿越平行世界，觉醒直播圈钱系统！ 只要获得礼物打赏，完成圈钱指标，就能获得系统随机奖励！ 于是，全网最会圈钱的主播诞生了！ “大哥！唱歌，跳舞，整活，Rap，倒立，别人能整的咱也能整，别人整不了的咱更能整！” “大哥你就说让咱干啥！只要钱到位，今晚陪你睡！” “无人扶我青云志，我自踏雪至山巅！” “夺命十三圈，圈圈要你命！” “良心？那是什么玩意？面子？主播还要面子吗？那面子不都是大哥大姐给的吗？听到这话爽不爽大哥？……拿钱！” …… 多年以后。 一场普通的直播PK，江枫小手一挥，淡淡道：“钱来！” 瞬间无数神豪礼物漫天！ 对面漂亮小姐姐绷不住了：“我不服！为啥他可以直接要钱啊？！！！”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oca6c89eb8a8901be222919ff3cbd741c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781661676&x-signature=4NlLcjH%2FL0RxbM71uMxkUM6kRTQ%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oca6c89eb8a8901be222919ff3cbd741c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781748704&x-signature=dvmfnqM3h6GP3NHQsRi39QxRqWM%3D",
         "url": "https://fanqienovel.com/page/7461096444141767705"
+      },
+      {
+        "title": "让我开早餐店？我下午才营业",
+        "author": "我是幕后煮屎人",
+        "reads": "46.7万",
+        "intro": "（系统）+（美食）+（日常）+（轻松搞笑） 评分刚出！会慢慢涨的，大家放心食用！ 原本做直播运营的范理压力大失眠迟到被公司开除，意外获得神级早餐系统。 但是原本的作息与卖早餐的作息毫不相干。 顾客1：什么！这鸟不拉屎的地方他一笼灌汤小笼包竟然敢卖八十八块？ 顾客2：这老板到底什么时候开门？我受不了了！ 渐渐地，范理的小店门口出现奇怪的现象。 下午太阳正热，一帮食客却在排队吃早餐。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o7572bec24766eb62f22dcc77675a3958~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781748704&x-signature=FiS5%2BMa2sPber84AUUxBrpj0Mps%3D",
+        "url": "https://fanqienovel.com/page/7628547216021408830"
+      },
+      {
+        "title": "我只想学习，怎么就电竞封神了",
+        "author": "1西瓜大王1",
+        "reads": "44.6万",
+        "intro": "【学霸+电竞+系统+爽文+轻松搞笑+无女主】　　 　　陆铭，昌华六中公认卷王。 　　每天学习16小时，年级排名卡在七八十名，纹丝不动。 　　直到绑定了劳逸结合系统。 　　本以为是学习系统，系统却告诉他： 　　“想提高学习效率？先去玩王者荣耀吧。” 　　于是全校最卷的学生被迫打起了王者荣耀。 　　同学震惊，老师沉默。 　　一小时后，两套卷子秒杀，王者水平迅猛提升。 为了学习，他努力上分。 　　为了上分，他努力考试。 　　从此，他打开了新世界的大门。 　　在打到王者荣耀巅峰前三后，反手在物理竞赛拿到史无前例的满分成绩。 　　在KPL年度总决赛拿到冠军+FMVP后，又在全国中学生数学竞赛里碾压一切天才。 　　CS斯德哥尔摩Major总决赛开赛前，他还在国际数学奥赛颁奖典礼上领取满分金牌。 　　最后，清华北大校长亲自打电话抢人，发现竞争对手是电竞俱乐部？ 　　而电竞国家队教练组在会议室拍桌子：“这个人究竟归谁管？为什么和我抢人的是中科院的？” 　　在一次采访中，记者把话筒怼到他脸上：“请问您成功的秘诀是什么？” 　　陆铭的表情真诚到令人心碎： 　　“我发誓，我只是想好好学习。”",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa5ec21790abd1c9c37b2a520fcec285c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781748704&x-signature=5DI4pg%2Ft5atGwq0FIubfrzKu4GQ%3D",
+        "url": "https://fanqienovel.com/page/7619672944414821438"
       },
       {
         "title": "带着一亿现金，重生回高中时代",
         "author": "番茄二月初二",
-        "reads": "45.1万",
+        "reads": "44.7万",
         "intro": "【无系统都市文】 何欢从宿醉中惊醒，竟发现自己重生回到2007年的高三教室。曾经的百亿老总，此刻却是全班成绩倒数第一的网瘾少年，面对班主任的怒吼和同学的哄笑，他猛然清醒——这不是梦，是上天给的弥补遗憾的机会。 更幸运的是，他身上还多了一张上辈子的银行卡，里面有着一亿现金。 这一世，他要打脸，要装逼，要扮猪吃老虎。 短剧和漫剧都已上线，希望大家多多支持",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/32b6717ee797a342b6230ed7b90c1f02~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781661676&x-signature=uEMypknk%2FhLEEuCgs4gdmAkcdEM%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/32b6717ee797a342b6230ed7b90c1f02~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781748704&x-signature=yRahClaWW3bppIc60suHGxfT9lY%3D",
         "url": "https://fanqienovel.com/page/7564779844639149118"
-      },
-      {
-        "title": "急诊科：这个实习医生强得离谱",
-        "author": "雪梨炖奶",
-        "reads": "44万",
-        "intro": "医院夜班，送来一名大出血濒死患者。 全科室束手无策，主治医师满头大汗宣布准备后事。 就在家属崩溃、死神降临之际，身为底层实习生的陆晨脑海中却响起一道声音。 “叮！【全能大医系统】已绑定！” “新手礼包发放：获得【大师级徒手止血法】、【完美级缝合术】！” 在护士惊骇、主任错愕的目光中，陆晨一把推开主刀医生：“让开，我来！” 手起刀落，死神退避！ 从急诊科的阑尾切除，到震惊全球的无心肺移植。 从一个小小的实习生，到全球医学泰斗排队求教的“陆神”。 顶尖专家：“他的手术录像，是我们医院的最高机密！” 绝美院花：“陆医生拿手术刀的样子，太帅了……” 陆晨：“我只是个实习生，懂点亿点点医术很合理吧？”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o93f2bc5b06ac1ac2b958fb0db33d38ab~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781661676&x-signature=fZRKb7EXGNIJnan9%2BWWCQY5tRKc%3D",
-        "url": "https://fanqienovel.com/page/7630373502737992728"
       },
       {
         "title": "改运奇书",
         "author": "写小说的斯巴达",
-        "reads": "43.9万",
+        "reads": "44.2万",
         "intro": "这不过是一本普通的网络小说，没有书友说得那么神！ 你之所以能点击阅读，无非是你已经开始走运了。 当你从第一个章节开始，认真阅读，你的命运齿轮，或许已然开始转动。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od77270396e84be50085def55e53ad9b0~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781661676&x-signature=BCZ8HLRfGxMNDqP7ui7oONr39kA%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od77270396e84be50085def55e53ad9b0~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781748704&x-signature=H3xhKpXnZv4p6P6j4vzbF3AMW%2Bs%3D",
         "url": "https://fanqienovel.com/page/7573616392256097305"
+      },
+      {
+        "title": "急诊科：这个实习医生强得离谱",
+        "author": "雪梨炖奶",
+        "reads": "43.8万",
+        "intro": "医院夜班，送来一名大出血濒死患者。 全科室束手无策，主治医师满头大汗宣布准备后事。 就在家属崩溃、死神降临之际，身为底层实习生的陆晨脑海中却响起一道声音。 “叮！【全能大医系统】已绑定！” “新手礼包发放：获得【大师级徒手止血法】、【完美级缝合术】！” 在护士惊骇、主任错愕的目光中，陆晨一把推开主刀医生：“让开，我来！” 手起刀落，死神退避！ 从急诊科的阑尾切除，到震惊全球的无心肺移植。 从一个小小的实习生，到全球医学泰斗排队求教的“陆神”。 顶尖专家：“他的手术录像，是我们医院的最高机密！” 绝美院花：“陆医生拿手术刀的样子，太帅了……” 陆晨：“我只是个实习生，懂点亿点点医术很合理吧？”",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o93f2bc5b06ac1ac2b958fb0db33d38ab~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781748708&x-signature=1YI2fvArEHC%2BBNaSCyLW1zWT6bU%3D",
+        "url": "https://fanqienovel.com/page/7630373502737992728"
       },
       {
         "title": "穿越的乾坤袋",
         "author": "河北一书生",
-        "reads": "43.6万",
+        "reads": "41.7万",
         "intro": "新作品出炉，欢迎大家前往番茄小说阅读我的新作，知青江锦舟无意发现了一个会穿越的布袋，认识了现代的陆晴，两人把这个布袋称为乾坤袋，通过乾坤袋他们开启了不一样的人生",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o17956ef7b1869feb7efd46e78c79da38~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781661680&x-signature=rihVRNaywQwJLft0obqmpM81FiI%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o17956ef7b1869feb7efd46e78c79da38~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781748708&x-signature=PdC4NOo%2BJv6P%2FtDF95jV2JRw1fM%3D",
         "url": "https://fanqienovel.com/page/7493801418462088217"
       },
       {
         "title": "归国留洋水货？叫我芯片之父！",
         "author": "这肉有毒",
-        "reads": "39.3万",
+        "reads": "41.3万",
         "intro": "【五十年代+科技强国+学霸】 新世纪青年穿越至1955年的归国留洋学生，成了与钱老同一批邮轮归国者。 原本24人的名单，竟莫名多了他一人。 然而前身这位斯坦福大学的毕业生，实际却是依靠家里捐赠毕业，肚中并无半点学识，已然被米国斩杀线将要斩杀之人，这才积极投身回国，只为混口饭吃。 为了不暴露自己是水货学生，起初在同船轮渡都不敢交流，工作分配也主动要求去工厂。 好在最艰难之际，开启了装备栏系统，真正补足学识！ 从留洋的本专业出发，晶体管，集成电路，芯片，乃至延伸至各个学科。 逐步成为那个时代的院士，未来的的芯片之父，科学奠基人！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob13aaa1957ceaddad00657ba07a18a66~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781661680&x-signature=AVjedZ%2F1SuSFUOFjbYCmDPkI7Ko%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob13aaa1957ceaddad00657ba07a18a66~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781748708&x-signature=QdMy1R1KhVXcrJtmT%2Bz4ZjouVRY%3D",
         "url": "https://fanqienovel.com/page/7623581376586976281"
-      },
-      {
-        "title": "直播冒险：开局探寻尼斯湖水怪",
-        "author": "笔下书豪",
-        "reads": "36.9万",
-        "intro": "失业主播陈远在意外当中绑定了神话考古直播系统，从此，他的直播间成了连接现代与神话的窗口。 在直播当中他潜入尼斯湖幽暗的洞窟，见证蛇颈龙真实存在的证据。 深入江西锁龙古井，在符文锁链下探查龙的悲鸣与秘密。 跋涉神农架原始秘境，与守护上古遗族的智慧“野人”相遇。 雪人、海怪、千年人参、天山雪莲…… 一个个传说当中才会出现的东西一一的浮现开来，让他的直播间火遍全世界！ 他的直播内容也彻底的颠覆了人类认知，揭露了不为人知的神秘。 原来传说不仅是传说，亦是真想，那些生物也确确实实的存在，只是少有人发觉他们的踪迹而已！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o4340d4743a6167bb597ca59636ff143e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781661680&x-signature=CpepBpzAYtxyfHWibjzbSotECm8%3D",
-        "url": "https://fanqienovel.com/page/7560085746355293246"
       },
       {
         "title": "说好休闲游戏，长征副本全网泪崩",
         "author": "洛洛的洛洛",
-        "reads": "37.2万",
+        "reads": "38.6万",
         "intro": "“兄弟们，千万别信那个叫洛安的设计师！他是个骗子！！” 千万粉丝的大主播狂哥，在直播间哭得像个三百斤的孩子，手里还死死抓着VR头盔不肯撒手。 “他说这是休闲旅游游戏，结果开局把我扔进零下四十度的雪山！” “他说无氪金无内购，结果一个冷硬的黑馒头，要拿命去换！” “他说NPC只是数据，可那个班长为了救我，把最后一口干粮塞进我嘴里，自己活活冻死在风雪里……”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o97d0428cd23063814ee595145f0ecbfb~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781661680&x-signature=6rv5e%2BaA%2BXnvsT%2FyGkBhsFnYpUg%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o97d0428cd23063814ee595145f0ecbfb~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781748708&x-signature=Q5u7VAzprcbn2IK8QuJu145U6RA%3D",
         "url": "https://fanqienovel.com/page/7587014945980566590"
+      },
+      {
+        "title": "什么？！我的草稿纸成国家机密了",
+        "author": "咸菜肉卷",
+        "reads": "37.8万",
+        "intro": "穿越十八年，林墨身患怪病，一发作就疯狂涂鸦，被当成精神病。 高考考场，他再次犯病，在草稿纸上写满了天书。他绝望离场，以为人生灰暗。 殊不知，物理学教授当场石化，国安部连夜封锁考场，中科院所有泰斗级院士被紧急召集！ “这是可控核聚变！是人类未来千年的钥匙！” 当他被列为国家最高机密“天启一号”时，他本人却毫不知情，正因高考失利在家沉迷网游。 他不知道，他每一次“犯病”，都让龙国的科技树产生一次大爆炸！ 欧国：“开什么玩笑？！龙国的人工智能怎么这么猛？！” 米国：“什么？龙国造出了反重力引擎？” 所有国家：“等等！他们怎么连戴森球都搞出来了？！”",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o3510617aba923ee6896f0e21276289fc~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781748708&x-signature=RV3CDLn6MAvgnGCLbn2o%2BaBUJ1E%3D",
+        "url": "https://fanqienovel.com/page/7611001261671844889"
+      },
+      {
+        "title": "直播冒险：开局探寻尼斯湖水怪",
+        "author": "笔下书豪",
+        "reads": "34.3万",
+        "intro": "失业主播陈远在意外当中绑定了神话考古直播系统，从此，他的直播间成了连接现代与神话的窗口。 在直播当中他潜入尼斯湖幽暗的洞窟，见证蛇颈龙真实存在的证据。 深入江西锁龙古井，在符文锁链下探查龙的悲鸣与秘密。 跋涉神农架原始秘境，与守护上古遗族的智慧“野人”相遇。 雪人、海怪、千年人参、天山雪莲…… 一个个传说当中才会出现的东西一一的浮现开来，让他的直播间火遍全世界！ 他的直播内容也彻底的颠覆了人类认知，揭露了不为人知的神秘。 原来传说不仅是传说，亦是真想，那些生物也确确实实的存在，只是少有人发觉他们的踪迹而已！",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o4340d4743a6167bb597ca59636ff143e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781748708&x-signature=%2FG%2Ft21EmeGrV3yph%2BiaJ3u68JkY%3D",
+        "url": "https://fanqienovel.com/page/7560085746355293246"
       },
       {
         "title": "狼人杀：十更起手，湮灭众神！",
         "author": "折戟成珊",
-        "reads": "31万",
+        "reads": "31.1万",
         "intro": "【爽文】【无女主】【无感情线】【逻辑】【验证后日更2w+】 苏陌穿越到了一个狼人杀决定一切的世界。 顶级选手年薪过亿，全球总决赛收视率碾压世界杯。 而他，坐在《诸神黄昏》总决赛的8号位上，手心全是汗。 同桌的十一人，是世界第七的幽灵狼、川渝女杀神、抗压王、运气之子、八阶吴彦祖…… 而苏陌，上辈子只玩过手机版狼人杀，段位黄金三。 顾北辰：“你是谁？怎么混进来的？” 陈大生：“外卡选手吧，第一轮必出局的炮灰。” 叶蓝芯：“运气不好噻，抽到这种局。” 嘲笑声从四面八方涌来。 直到…… 【叮！SSS级天赋“天眼”已觉醒】 【你可以看到所有人的真实身份！】 苏陌抬起头。 预言家，女巫，猎人…… 所有的伪装，在他眼中荡然无存。 他忽然不抖了。 开局，好人全乱了套。 女巫：我闻到了猎人的味道！ 骑士：预言家，你藏不住的！ 猎人：面对好人，我从不手抖。 守卫：保护狼人，是我的天职！ 预言家：我验了8号，查杀！等等……怎么你也验了8号？？ 苏陌：别吵了，等我看看答案！ 那一天，全球三亿观众亲眼见证…… 一个被所有人当成笑话的外卡选手，杀疯了！ 从此，狼人杀圈多了一个禁忌。 他们叫他——行走的人形天眼？！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o58ba521e0e9e27b265ead132600c20ec~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781661680&x-signature=SrWEKh1c5ZPIzhA%2F%2BblwxcKWGjs%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o58ba521e0e9e27b265ead132600c20ec~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781748708&x-signature=aC0KtHmXOT3NVQ6l0orqXWNaazM%3D",
         "url": "https://fanqienovel.com/page/7628972993481296958"
       },
       {
         "title": "黄牛中介，没想到你请得动真神啊",
         "author": "刀舞终结技",
-        "reads": "28.8万",
+        "reads": "26.7万",
         "intro": "【灵气复苏+诸天代购+万能中介】 张瑀在平行世界开了家“万事通中介”，代排队、代挂号、代抢票，生意半死不活。 直到觉醒【人脉系统】——只要加价，就没有他请不动的人、办不成的事。 “老板，我家祠堂最近半夜老有怪动静，您给中介个道长做个法事呗？” “有！茅山正经道士，持证上岗，一场八千八，附赠镇宅符三张，无效退款。” “老板，帮我雇个能镇宅的神像，最好开过光，要灵验的！” “有！昆仑山采的泰山石敢当，顺丰包邮，附带土地公公亲笔加持证书。” 张瑀的业务越来越离谱，直到某天，几个身穿特殊部门制服的人推门而入： “张先生，我们代表国家第九局，想委托您中介一些……特殊业务。” “您说。” “聘请哪吒三太子担任夏季防汛抢险特别顾问。” “借调地府谛听协助边境线反间防谍工作。” “租用灌江口二郎神君庙三天，用于新型武器实地测试。” 张瑀翻了翻系统面板，露出职业微笑： “都有，就是价格嘛……得用香火功德点结算。”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa958e754c2fb00b13f03dc85c041f511~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781661680&x-signature=tkCaii9CuDQp2ukqqimFRbCULBY%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa958e754c2fb00b13f03dc85c041f511~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781748708&x-signature=FmbDEtawlFt3AN9Z%2FgKdPphvC1o%3D",
         "url": "https://fanqienovel.com/page/7637836458551675929"
+      },
+      {
+        "title": "我就一写网文的，怎么成文豪了",
+        "author": "千里零零一",
+        "reads": "27.7万",
+        "intro": "【平行世界+单女主+成长】 “近日，华国唯二荣获世界科幻最高奖的罗辑先生，公开了他与文豪顾远的回忆录，他坦言这是他人生中最具传奇性也是最具争议的一段友谊…………” “因为顾远将他写作一本书的主角，使得世人对他的印象是那位开创威慑纪元的执剑人，而不是一位世界级科幻泰斗。” 【我与顾远相识，是在16岁的深冬，那年他写出了《乡村教师》。】 【他的创作风格横跨多个领域，几近无所不能。】 【你能想象写出《龙族》、《你的名字》、《查理九世》的和写出《活着》、《堂吉诃德》、《百年孤独》是同一个人吗？】 【哦，他还顺便写了《斗破》、《遮天》、《诡秘》等网文。】 【一直以来，他明面是文坛未来领袖顾远，暗地却是商业畅销之王故渊、网文至尊作家池鱼。】 …… “那些年，华国文坛迎来了真正的黄金一代，群星璀璨，在全球奖项上屡摘桂冠。” “但他们所争夺的，只能是文坛第二人的称呼。” “——人民日报” “不得不承认，与他生在同一个时代，既是我们的不幸，也是我们的荣幸。” “——诺贝尔文学奖获得者，程思远” …… 【论男频小说的前后跨度能有多大？】 【开头：在出租屋内用二手机写网文。】 【结尾：他的名字，就是时代本身。】 “楼上，你这说的不是顾圣吗？”",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oaa012020509a042a692af5580373e586~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781748708&x-signature=2Np%2Br8ff64ujPbMt7eXdrHoTd88%3D",
+        "url": "https://fanqienovel.com/page/7543142298591169561"
       },
       {
         "title": "误吞了秦皇陵仙丹",
         "author": "二两消愁",
-        "reads": "27万",
+        "reads": "25.1万",
         "intro": "秦始皇陵失窃，刚大学毕业正在出租屋待业的王浩，误打误撞获得失窃秦皇陵文物。秦始皇千辛万苦寻找的长生仙丹，竟成就了两千多年后的一个穷小子……",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe895bb10ea47d07dd56b2004377b1390~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781661680&x-signature=64GVWApwjk8vclOqtG%2BeVGL8ZiM%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe895bb10ea47d07dd56b2004377b1390~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781748708&x-signature=EQzMtkselNZ0yeRkMCPFzZ2ObkQ%3D",
         "url": "https://fanqienovel.com/page/7626557425499261977"
-      },
-      {
-        "title": "刀哥爆红娱乐圈，粉丝求我别杀了",
-        "author": "孤风一醉",
-        "reads": "26.8万",
-        "intro": "【轻松+无cp+沙雕+娱乐圈】 萧贺拥有了一个犯罪金手指，可以学习各种犯罪技能。 ——但只有不断刀人才可以活下去。 萧贺：……好好的大学生不当，谁想去当罪犯啊！ 诶？还真有办法！ 一次意外，萧贺成功卡到金手指BUG，利用演绎代替真正的犯罪，步入娱乐圈成为反派专业户！ 他可以是斯文败类的杀人魔，拎着电锯成为所有人的噩梦。 也可以是毫无人性的人渣逃犯，让罪犯恶名远扬，成为人人喊打的渣宰。 他是感情诈骗师，是连环杀人犯，是冷血杀手，是……演员萧贺！ - 一开始萧贺只是为了保命，不断接下反派戏份，可没有想到竟然靠着不存在的“演技”一路爆红，成为了炙手可热的影帝！ 圈内人都知道，剧本角色杀的人越多，萧贺接本子的速度越快。 而路人们却说：这人真不像演的，建议严查！ 粉丝们也说：哥，别杀了，我真害怕你进去了啊！ 可是眼见着圈内的“毒瘤”们纷纷落网，看上去最像坏人的萧贺仍旧红火，甚至拿奖拿到手软。 后来的大家：算了，哥就爱刀人给我们看，让让他吧。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8b6f823049471aebec8ac7fe129a9eb2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781661680&x-signature=vYHSVataoGKoCdy5oJTu49Ibe0Q%3D",
-        "url": "https://fanqienovel.com/page/7491203514484395032"
-      },
-      {
-        "title": "全网被黑两年半，转身登顶格莱美",
-        "author": "旧衣柜里深呼吸",
-        "reads": "26万",
-        "intro": "开局被黑两年半，鬼畜区顶流，全网狂欢。 一睁眼，林季穿成了2014年的内娱第一小丑。 解约、网暴、身败名裂。 然而他的脑中，装着另一个世界领先十年的璀璨乐章。 既然国内的号练废了，那就删号重练！ 一张飞往洛杉矶的单程机票，他在世界流行音乐的心脏，从零开始。 街头一首《Deadman》，神级Live唱到黑粉连夜寻找假唱证据； 录音棚一曲《Uptown Funk》，空降公告牌冠军，全球疯狂抖腿！ 昔日黑粉集体破防：“鸡哥，我们错了，求你快出新歌！” 从全网嘲讽到全球追捧，从内娱小丑到全球流行天王！ 【娱乐圈】【欧美】【好莱坞】【歌手】【美利坚】",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oce8e76dec06e7676e9810defe76830aa~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781661680&x-signature=LGGh%2ByRW1j2rhBPecoQ39GLZHZY%3D",
-        "url": "https://fanqienovel.com/page/7621200330637724696"
-      },
-      {
-        "title": "让你荒野求生，你跑这享受来了？",
-        "author": "新鲜的火龙果",
-        "reads": "25.7万",
-        "intro": "大学生王昊为了赚钱冲游戏币，选择参加荒野求生比赛，当场觉醒【情绪收集系统】，只要引发情绪波动，就能无限加点升级技能 ！ 从此，有他的比赛，画风就变得越来越离谱起来！ 在山上。 别的选手终于吃上了生鱼片和野草根，喜极而泣，王昊正在直播叫花鸡、铁板烤肉和石锅鱼汤。 别的选手躲在山洞里苟延残喘，王昊的湖边双层小木屋拔地而起，自带熏肉房和观景阳台。 在岛上。 别的选手只能依靠节目组给的生锈工具，王昊直接造高炉、烧白碳、炼精铁，强行推动工业文明诞生。 别的选手为了几只臭鱼烂虾打得头破血流，王昊却手搓十五米大帆船，轻松猎捕金枪鱼。 在冰原...... 在原始森林...... 观众/专家/选手（全体崩溃）： “我们这是荒野求生！不是你的私家庄园！” “大哥，求你了，退赛吧！给我们留条活路！” “让你荒野求生，你特么跑这享受来了？！”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/1e750dcc585a3000c97a59ba1fc72313~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781661680&x-signature=QTJQ2S1xogAR0%2B4d%2FwJ9EyP59sI%3D",
-        "url": "https://fanqienovel.com/page/7567807980649860120"
       }
     ]
   },
@@ -224,218 +233,227 @@
     {
       "name": "都市脑洞",
       "trend": {
-        "new_count": 2,
-        "dropped_count": 2,
+        "new_count": 3,
+        "dropped_count": 3,
         "new_books": [
-          "黄牛中介，没想到你请得动真神啊",
-          "全网被黑两年半，转身登顶格莱美"
+          "顶级妇医：开局查出名媛怀外教种",
+          "什么？！我的草稿纸成国家机密了",
+          "我就一写网文的，怎么成文豪了"
         ],
         "dropped_books": [
           {
-            "title": "顶级妇医：开局查出名媛怀外教种",
-            "intro": "《极致反差》 + 《渣女鉴定》 + 《拯救大佬爆金币》 + 《权贵人脉》 　　林枫本是外科天才，却被恶意调剂到妇产科。虽是副主任医师，但因为被打压，在加上是个男的，门诊门可罗雀，手术逐渐无人问津，只能"
+            "title": "刀哥爆红娱乐圈，粉丝求我别杀了",
+            "intro": "【轻松+无cp+沙雕+娱乐圈】 萧贺拥有了一个犯罪金手指，可以学习各种犯罪技能。 ——但只有不断刀人才可以活下去。 萧贺：……好好的大学生不当，谁想去当罪犯啊！ 诶？还真有办法！ 一次意外，萧贺成功卡"
           },
           {
-            "title": "什么？！我的草稿纸成国家机密了",
-            "intro": "穿越十八年，林墨身患怪病，一发作就疯狂涂鸦，被当成精神病。 高考考场，他再次犯病，在草稿纸上写满了天书。他绝望离场，以为人生灰暗。 殊不知，物理学教授当场石化，国安部连夜封锁考场，中科院所有泰斗级院士"
+            "title": "全网被黑两年半，转身登顶格莱美",
+            "intro": "开局被黑两年半，鬼畜区顶流，全网狂欢。 一睁眼，林季穿成了2014年的内娱第一小丑。 解约、网暴、身败名裂。 然而他的脑中，装着另一个世界领先十年的璀璨乐章。 既然国内的号练废了，那就删号重练！ 一张"
+          },
+          {
+            "title": "让你荒野求生，你跑这享受来了？",
+            "intro": "大学生王昊为了赚钱冲游戏币，选择参加荒野求生比赛，当场觉醒【情绪收集系统】，只要引发情绪波动，就能无限加点升级技能 ！ 从此，有他的比赛，画风就变得越来越离谱起来！ 在山上。 别的选手终于吃上了生鱼片"
           }
         ],
         "top_risers": [
           {
-            "title": "让我开早餐店？我下午才营业",
-            "change": "+2"
+            "title": "华娱：从绑定天仙开始全能",
+            "change": "+1"
           },
           {
-            "title": "带着一亿现金，重生回高中时代",
-            "change": "+2"
-          },
-          {
-            "title": "急诊科：这个实习医生强得离谱",
-            "change": "+2"
+            "title": "我，圈钱主播！但大哥是真刷啊！",
+            "change": "+1"
           }
         ],
         "top_fallers": [
           {
-            "title": "穿越的乾坤袋",
-            "change": "-2"
+            "title": "我只想学习，怎么就电竞封神了",
+            "change": "-4"
+          },
+          {
+            "title": "直播冒险：开局探寻尼斯湖水怪",
+            "change": "-3"
+          },
+          {
+            "title": "误吞了秦皇陵仙丹",
+            "change": "-3"
           }
         ],
         "reads_growth": [
           {
+            "title": "每天六千万，只能在县城花？",
+            "growth": "+5.2万"
+          },
+          {
             "title": "华娱：从绑定天仙开始全能",
-            "growth": "+3.3万"
+            "growth": "+2.8万"
           },
           {
-            "title": "自律就能变帅？高冷校花人设崩了",
-            "growth": "+1.4万"
-          },
-          {
-            "title": "我，圈钱主播！但大哥是真刷啊！",
-            "growth": "+1.0万"
+            "title": "归国留洋水货？叫我芯片之父！",
+            "growth": "+2.0万"
           }
         ],
-        "summary": "新增2本上榜；2本掉出（《顶级妇医：开局查出名媛怀外教种》、《什么？！我的草稿纸成国家机密了》）；《让我开早餐店？我下午才营业》排名上升+2位；《华娱：从绑定天仙开始全能》阅读量+3.3万。"
+        "summary": "新增3本上榜；3本掉出（《刀哥爆红娱乐圈，粉丝求我别杀了》、《全网被黑两年半，转身登顶格莱美》、《让你荒野求生，你跑这享受来了？》）；《华娱：从绑定天仙开始全能》排名上升+1位；《每天六千万，只能在县城花？》阅读量+5.2万。"
       },
       "books": [
         {
           "title": "每天六千万，只能在县城花？",
           "author": "凤失凰",
-          "reads": "148.4万",
+          "reads": "153.6万",
           "intro": "【非社达】+【人民史观】＋【无性别对立】+【基建】＋【事业】＋【慢热】＋【扮猪吃虎】 上海打工，内卷到高血压，还存不到钱。 陆明一怒辞职回乡，却意外绑定“县城消费金系统”，全县每人给我一百块，一天六千万！ 但这钱有个规矩：只能在鸟不拉屎的小县城里花！ 县城首富？ 格局小了！当别人还在炒房时，陆明反手买下一栋烂尾楼当公司总部；当亲戚劝他去修车厂拧螺丝时，他提了一台迈巴赫S680代步。 从改造全县娱乐业开始，建厂、修路、盖学校、造医院…… 面对所有人的质疑，陆明只是笑了笑：“我不是要当县城首富，我是要把这破县城，变成全世界都向往的乌托邦！” 多年以后，福布斯专栏记者采访陆明：“你是怎么想到把一个五线小县城建成2000万人口的国际化大都市的？” 陆明微微一笑：“只是一时心血来潮~”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc126ca48e7bbdce1a8962ada31918ef8~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781661676&x-signature=G724v1goua2y5tILi2OrAlIS3l0%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc126ca48e7bbdce1a8962ada31918ef8~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781748704&x-signature=XIGj%2F2uIyIYmjcQtbmrUaOqVXcQ%3D",
           "url": "https://fanqienovel.com/page/7623460631303179288"
         },
         {
           "title": "救命！我这是农场，不是动物园！",
           "author": "白日阳光",
-          "reads": "55.5万",
+          "reads": "56.6万",
           "intro": "评分刚出，后面会涨。 本书又名：《白虎钻被窝，你管这叫惊喜？》、《让你回乡种田，你驯服百兽为王？》 【无直播+无系统+无女主+萌宠+日常+温馨休闲】 厌倦了大城市的996，林风辞职回村置办了个农场。 本以为接下来的日子，就是每天种种田，悠悠闲闲。 结果意外发现，自己居然能听懂动物的心声？ 本着帮助邻居的想法，林风给两只小刺猬重新做了个窝。 这可给倆家伙感动到不行，非要送他个惊喜。 你送惊喜就送吧！可问题是，我被窝里的白虎幼崽是几个意思？ 看我睡觉硌得慌，给我当垫子的？？？ 好不容易把白虎幼崽给送回了山，其他动物却是在得知情况后，一个个跑了下来。 有蹭吃蹭喝的花豹姐妹，有把他家当月子中心的金渐层。 甚至还有为了口蜂蜜，死活赖着不走的国宝大熊猫。 看着院子里越来越多，越来越多的保护动物，林风只觉得自己是真刑！ 可问题是…… 他开的是农场，不是什么动物园啊！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2obedca4a5133f932d9bda6bb941b134c8~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781661676&x-signature=8dWx%2BVYbN9LsXFN1jeEh85%2BHwc8%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2obedca4a5133f932d9bda6bb941b134c8~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781748704&x-signature=OQlG1IU2nSWlQwejtthHzlFADac%3D",
           "url": "https://fanqienovel.com/page/7626378258417732632"
+        },
+        {
+          "title": "顶级妇医：开局查出名媛怀外教种",
+          "author": "咸包谷",
+          "reads": "54.8万",
+          "intro": "《极致反差》 + 《渣女鉴定》 + 《拯救大佬爆金币》 + 《权贵人脉》 　　林枫本是外科天才，却被恶意调剂到妇产科。虽是副主任医师，但因为被打压，在加上是个男的，门诊门可罗雀，手术逐渐无人问津，只能苦逼的常年值夜班。 　　直到他觉醒【因果清算系统】，中西医大成，并开启【真实之眼】！ 　　深夜值班，南江首富带着全网三百万粉丝的“国风纯洁未婚妻”来做婚检。 　　名媛私下狂砸五十万，半褪香肩求林枫伪造B超单。 　　林枫反手将屏幕转给推门而入的首富：“王总，恭喜。不过根据骨盆影像和超高浓度黑色素基因推算，这双胞胎大概率是哪位‘外籍私教’的杰作。” 　　首富当场暴走！名媛瞬间跌入地狱！ 　　而后，大佬的夫人突发“产科死神”羊水栓塞，全院专家下达死亡通知！林枫手持太乙神针，中西合璧逆天改命！大佬狂喜，大手一挥：全科室医护，每人赏三百万！ 　　全院震怖！ 　　从此，高冷女总裁、清纯校花为了挂他的门诊号大打出手，各路顶级权贵更是捧着金山银山，只求对他们的未婚妻进行结婚前的婚检。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0bc3fd419ce1686fa5170e9793b9e4f4~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781748704&x-signature=5X1y2%2FmM7NOUzbkWO0wYMoCKEcE%3D",
+          "url": "https://fanqienovel.com/page/7624202089656241177"
         },
         {
           "title": "自律就能变帅？高冷校花人设崩了",
           "author": "我是橘子汽水",
-          "reads": "53.5万",
+          "reads": "54.4万",
           "intro": "刚上高二，我被【男神养成系统】绑定了。 可这系统有点怪，不给钱不给超能力，只给我布置“科学养生”任务？ 【叮！检测到宿主颜值仅为52分（路人水准），评语：淹没在人海中的一粒尘埃。】 【每日任务：完成五公里慢跑，奖励：毛孔杂质-1%，皮肤清透度+0.5%。】 我：？？？就这？ 【长期任务：坚持每晚十点前入睡，奖励：生长激素分泌微调，身高潜力+3cm！】 为了变帅，我忍了！ 跑步、戒糖、早睡早起……一个学期后。 【叮！恭喜宿主颜值突破60分大关！解锁被动技能：清爽少年感！】 【叮！恭喜宿主颜值突破70分大关！解锁被动技能：侧颜杀！】 直到那天，我只是在窗边喝了口水，全班女生突然安静。 高冷校花同桌夏晚柠更是红着脸，把头埋进了书里，日记本上写满了我的名字！ 不是，我就跑个步，怎么就成国民初恋了？！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/29a78595062d4ccf17ea2f07880243e3~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781661676&x-signature=WKz0oOASnU8YRmggPbDsmUmPZxw%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/29a78595062d4ccf17ea2f07880243e3~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781748704&x-signature=vCmYwoFvKnUIqA3uoSFy%2BuukDdU%3D",
           "url": "https://fanqienovel.com/page/7599631943377882136"
-        },
-        {
-          "title": "我只想学习，怎么就电竞封神了",
-          "author": "1西瓜大王1",
-          "reads": "46.4万",
-          "intro": "【学霸+电竞+系统+爽文+轻松搞笑+无女主】　　 　　陆铭，昌华六中公认卷王。 　　每天学习16小时，年级排名卡在七八十名，纹丝不动。 　　直到绑定了劳逸结合系统。 　　本以为是学习系统，系统却告诉他： 　　“想提高学习效率？先去玩王者荣耀吧。” 　　于是全校最卷的学生被迫打起了王者荣耀。 　　同学震惊，老师沉默。 　　一小时后，两套卷子秒杀，王者水平迅猛提升。 为了学习，他努力上分。 　　为了上分，他努力考试。 　　从此，他打开了新世界的大门。 　　在打到王者荣耀巅峰前三后，反手在物理竞赛拿到史无前例的满分成绩。 　　在KPL年度总决赛拿到冠军+FMVP后，又在全国中学生数学竞赛里碾压一切天才。 　　CS斯德哥尔摩Major总决赛开赛前，他还在国际数学奥赛颁奖典礼上领取满分金牌。 　　最后，清华北大校长亲自打电话抢人，发现竞争对手是电竞俱乐部？ 　　而电竞国家队教练组在会议室拍桌子：“这个人究竟归谁管？为什么和我抢人的是中科院的？” 　　在一次采访中，记者把话筒怼到他脸上：“请问您成功的秘诀是什么？” 　　陆铭的表情真诚到令人心碎： 　　“我发誓，我只是想好好学习。”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa5ec21790abd1c9c37b2a520fcec285c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781661676&x-signature=%2FukwaYR7acH95Hyv%2BRLdc%2BchBgM%3D",
-          "url": "https://fanqienovel.com/page/7619672944414821438"
-        },
-        {
-          "title": "让我开早餐店？我下午才营业",
-          "author": "我是幕后煮屎人",
-          "reads": "47.2万",
-          "intro": "（系统）+（美食）+（日常）+（轻松搞笑） 评分刚出！会慢慢涨的，大家放心食用！ 原本做直播运营的范理压力大失眠迟到被公司开除，意外获得神级早餐系统。 但是原本的作息与卖早餐的作息毫不相干。 顾客1：什么！这鸟不拉屎的地方他一笼灌汤小笼包竟然敢卖八十八块？ 顾客2：这老板到底什么时候开门？我受不了了！ 渐渐地，范理的小店门口出现奇怪的现象。 下午太阳正热，一帮食客却在排队吃早餐。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o7572bec24766eb62f22dcc77675a3958~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781661676&x-signature=RR2IqfIS8xh15lQWD32rX3OcgFQ%3D",
-          "url": "https://fanqienovel.com/page/7628547216021408830"
         },
         {
           "title": "华娱：从绑定天仙开始全能",
           "author": "青葱咸鱼",
-          "reads": "50.5万",
+          "reads": "53.3万",
           "intro": "【非重生+系统逆袭+多女主】 2004年，艺考失败，不服输的苏言来到横店成为一名群演，妄想从群演慢慢成长为巨星。 理想很丰满，现实很骨感。 日复一日的扮演尸体、炮灰，让他感觉整个人生都在沉沦。 直到进入《神雕侠侣》剧组那天，眼前突然弹出一个画面： 【绑定女神：天仙】 【付出必有回报系统启动】 从此，他的娱乐圈生存法则彻底改变： 送一瓶水，现金到账，体能增强； 解一次围，技能到手，属性暴涨。 救于危难，获得未来爆款歌曲、剧本。 ……多年后，已经成为娱乐圈巨头·全能才子·多位女明星意难平的苏言回首往事，面对采访只能无奈一笑： “我说一开始真的只想进步，你们信吗？”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9a2ed63048fba92557304cd4a54a4b2c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781661676&x-signature=45CnJPpT65VdHaWqkEaEDvBVSp0%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9a2ed63048fba92557304cd4a54a4b2c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781748704&x-signature=qqYz%2BvNg6hOw9D9G3U9qJ8MP1HE%3D",
           "url": "https://fanqienovel.com/page/7590182452971179032"
         },
         {
           "title": "我，圈钱主播！但大哥是真刷啊！",
           "author": "蓝色粉笔",
-          "reads": "47.5万",
+          "reads": "48.1万",
           "intro": "江枫穿越平行世界，觉醒直播圈钱系统！ 只要获得礼物打赏，完成圈钱指标，就能获得系统随机奖励！ 于是，全网最会圈钱的主播诞生了！ “大哥！唱歌，跳舞，整活，Rap，倒立，别人能整的咱也能整，别人整不了的咱更能整！” “大哥你就说让咱干啥！只要钱到位，今晚陪你睡！” “无人扶我青云志，我自踏雪至山巅！” “夺命十三圈，圈圈要你命！” “良心？那是什么玩意？面子？主播还要面子吗？那面子不都是大哥大姐给的吗？听到这话爽不爽大哥？……拿钱！” …… 多年以后。 一场普通的直播PK，江枫小手一挥，淡淡道：“钱来！” 瞬间无数神豪礼物漫天！ 对面漂亮小姐姐绷不住了：“我不服！为啥他可以直接要钱啊？！！！”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oca6c89eb8a8901be222919ff3cbd741c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781661676&x-signature=4NlLcjH%2FL0RxbM71uMxkUM6kRTQ%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oca6c89eb8a8901be222919ff3cbd741c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781748704&x-signature=dvmfnqM3h6GP3NHQsRi39QxRqWM%3D",
           "url": "https://fanqienovel.com/page/7461096444141767705"
+        },
+        {
+          "title": "让我开早餐店？我下午才营业",
+          "author": "我是幕后煮屎人",
+          "reads": "46.7万",
+          "intro": "（系统）+（美食）+（日常）+（轻松搞笑） 评分刚出！会慢慢涨的，大家放心食用！ 原本做直播运营的范理压力大失眠迟到被公司开除，意外获得神级早餐系统。 但是原本的作息与卖早餐的作息毫不相干。 顾客1：什么！这鸟不拉屎的地方他一笼灌汤小笼包竟然敢卖八十八块？ 顾客2：这老板到底什么时候开门？我受不了了！ 渐渐地，范理的小店门口出现奇怪的现象。 下午太阳正热，一帮食客却在排队吃早餐。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o7572bec24766eb62f22dcc77675a3958~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781748704&x-signature=FiS5%2BMa2sPber84AUUxBrpj0Mps%3D",
+          "url": "https://fanqienovel.com/page/7628547216021408830"
+        },
+        {
+          "title": "我只想学习，怎么就电竞封神了",
+          "author": "1西瓜大王1",
+          "reads": "44.6万",
+          "intro": "【学霸+电竞+系统+爽文+轻松搞笑+无女主】　　 　　陆铭，昌华六中公认卷王。 　　每天学习16小时，年级排名卡在七八十名，纹丝不动。 　　直到绑定了劳逸结合系统。 　　本以为是学习系统，系统却告诉他： 　　“想提高学习效率？先去玩王者荣耀吧。” 　　于是全校最卷的学生被迫打起了王者荣耀。 　　同学震惊，老师沉默。 　　一小时后，两套卷子秒杀，王者水平迅猛提升。 为了学习，他努力上分。 　　为了上分，他努力考试。 　　从此，他打开了新世界的大门。 　　在打到王者荣耀巅峰前三后，反手在物理竞赛拿到史无前例的满分成绩。 　　在KPL年度总决赛拿到冠军+FMVP后，又在全国中学生数学竞赛里碾压一切天才。 　　CS斯德哥尔摩Major总决赛开赛前，他还在国际数学奥赛颁奖典礼上领取满分金牌。 　　最后，清华北大校长亲自打电话抢人，发现竞争对手是电竞俱乐部？ 　　而电竞国家队教练组在会议室拍桌子：“这个人究竟归谁管？为什么和我抢人的是中科院的？” 　　在一次采访中，记者把话筒怼到他脸上：“请问您成功的秘诀是什么？” 　　陆铭的表情真诚到令人心碎： 　　“我发誓，我只是想好好学习。”",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa5ec21790abd1c9c37b2a520fcec285c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781748704&x-signature=5DI4pg%2Ft5atGwq0FIubfrzKu4GQ%3D",
+          "url": "https://fanqienovel.com/page/7619672944414821438"
         },
         {
           "title": "带着一亿现金，重生回高中时代",
           "author": "番茄二月初二",
-          "reads": "45.1万",
+          "reads": "44.7万",
           "intro": "【无系统都市文】 何欢从宿醉中惊醒，竟发现自己重生回到2007年的高三教室。曾经的百亿老总，此刻却是全班成绩倒数第一的网瘾少年，面对班主任的怒吼和同学的哄笑，他猛然清醒——这不是梦，是上天给的弥补遗憾的机会。 更幸运的是，他身上还多了一张上辈子的银行卡，里面有着一亿现金。 这一世，他要打脸，要装逼，要扮猪吃老虎。 短剧和漫剧都已上线，希望大家多多支持",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/32b6717ee797a342b6230ed7b90c1f02~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781661676&x-signature=uEMypknk%2FhLEEuCgs4gdmAkcdEM%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/32b6717ee797a342b6230ed7b90c1f02~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781748704&x-signature=yRahClaWW3bppIc60suHGxfT9lY%3D",
           "url": "https://fanqienovel.com/page/7564779844639149118"
-        },
-        {
-          "title": "急诊科：这个实习医生强得离谱",
-          "author": "雪梨炖奶",
-          "reads": "44万",
-          "intro": "医院夜班，送来一名大出血濒死患者。 全科室束手无策，主治医师满头大汗宣布准备后事。 就在家属崩溃、死神降临之际，身为底层实习生的陆晨脑海中却响起一道声音。 “叮！【全能大医系统】已绑定！” “新手礼包发放：获得【大师级徒手止血法】、【完美级缝合术】！” 在护士惊骇、主任错愕的目光中，陆晨一把推开主刀医生：“让开，我来！” 手起刀落，死神退避！ 从急诊科的阑尾切除，到震惊全球的无心肺移植。 从一个小小的实习生，到全球医学泰斗排队求教的“陆神”。 顶尖专家：“他的手术录像，是我们医院的最高机密！” 绝美院花：“陆医生拿手术刀的样子，太帅了……” 陆晨：“我只是个实习生，懂点亿点点医术很合理吧？”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o93f2bc5b06ac1ac2b958fb0db33d38ab~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781661676&x-signature=fZRKb7EXGNIJnan9%2BWWCQY5tRKc%3D",
-          "url": "https://fanqienovel.com/page/7630373502737992728"
         },
         {
           "title": "改运奇书",
           "author": "写小说的斯巴达",
-          "reads": "43.9万",
+          "reads": "44.2万",
           "intro": "这不过是一本普通的网络小说，没有书友说得那么神！ 你之所以能点击阅读，无非是你已经开始走运了。 当你从第一个章节开始，认真阅读，你的命运齿轮，或许已然开始转动。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od77270396e84be50085def55e53ad9b0~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781661676&x-signature=BCZ8HLRfGxMNDqP7ui7oONr39kA%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od77270396e84be50085def55e53ad9b0~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781748704&x-signature=H3xhKpXnZv4p6P6j4vzbF3AMW%2Bs%3D",
           "url": "https://fanqienovel.com/page/7573616392256097305"
+        },
+        {
+          "title": "急诊科：这个实习医生强得离谱",
+          "author": "雪梨炖奶",
+          "reads": "43.8万",
+          "intro": "医院夜班，送来一名大出血濒死患者。 全科室束手无策，主治医师满头大汗宣布准备后事。 就在家属崩溃、死神降临之际，身为底层实习生的陆晨脑海中却响起一道声音。 “叮！【全能大医系统】已绑定！” “新手礼包发放：获得【大师级徒手止血法】、【完美级缝合术】！” 在护士惊骇、主任错愕的目光中，陆晨一把推开主刀医生：“让开，我来！” 手起刀落，死神退避！ 从急诊科的阑尾切除，到震惊全球的无心肺移植。 从一个小小的实习生，到全球医学泰斗排队求教的“陆神”。 顶尖专家：“他的手术录像，是我们医院的最高机密！” 绝美院花：“陆医生拿手术刀的样子，太帅了……” 陆晨：“我只是个实习生，懂点亿点点医术很合理吧？”",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o93f2bc5b06ac1ac2b958fb0db33d38ab~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781748708&x-signature=1YI2fvArEHC%2BBNaSCyLW1zWT6bU%3D",
+          "url": "https://fanqienovel.com/page/7630373502737992728"
         },
         {
           "title": "穿越的乾坤袋",
           "author": "河北一书生",
-          "reads": "43.6万",
+          "reads": "41.7万",
           "intro": "新作品出炉，欢迎大家前往番茄小说阅读我的新作，知青江锦舟无意发现了一个会穿越的布袋，认识了现代的陆晴，两人把这个布袋称为乾坤袋，通过乾坤袋他们开启了不一样的人生",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o17956ef7b1869feb7efd46e78c79da38~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781661680&x-signature=rihVRNaywQwJLft0obqmpM81FiI%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o17956ef7b1869feb7efd46e78c79da38~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781748708&x-signature=PdC4NOo%2BJv6P%2FtDF95jV2JRw1fM%3D",
           "url": "https://fanqienovel.com/page/7493801418462088217"
         },
         {
           "title": "归国留洋水货？叫我芯片之父！",
           "author": "这肉有毒",
-          "reads": "39.3万",
+          "reads": "41.3万",
           "intro": "【五十年代+科技强国+学霸】 新世纪青年穿越至1955年的归国留洋学生，成了与钱老同一批邮轮归国者。 原本24人的名单，竟莫名多了他一人。 然而前身这位斯坦福大学的毕业生，实际却是依靠家里捐赠毕业，肚中并无半点学识，已然被米国斩杀线将要斩杀之人，这才积极投身回国，只为混口饭吃。 为了不暴露自己是水货学生，起初在同船轮渡都不敢交流，工作分配也主动要求去工厂。 好在最艰难之际，开启了装备栏系统，真正补足学识！ 从留洋的本专业出发，晶体管，集成电路，芯片，乃至延伸至各个学科。 逐步成为那个时代的院士，未来的的芯片之父，科学奠基人！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob13aaa1957ceaddad00657ba07a18a66~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781661680&x-signature=AVjedZ%2F1SuSFUOFjbYCmDPkI7Ko%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob13aaa1957ceaddad00657ba07a18a66~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781748708&x-signature=QdMy1R1KhVXcrJtmT%2Bz4ZjouVRY%3D",
           "url": "https://fanqienovel.com/page/7623581376586976281"
-        },
-        {
-          "title": "直播冒险：开局探寻尼斯湖水怪",
-          "author": "笔下书豪",
-          "reads": "36.9万",
-          "intro": "失业主播陈远在意外当中绑定了神话考古直播系统，从此，他的直播间成了连接现代与神话的窗口。 在直播当中他潜入尼斯湖幽暗的洞窟，见证蛇颈龙真实存在的证据。 深入江西锁龙古井，在符文锁链下探查龙的悲鸣与秘密。 跋涉神农架原始秘境，与守护上古遗族的智慧“野人”相遇。 雪人、海怪、千年人参、天山雪莲…… 一个个传说当中才会出现的东西一一的浮现开来，让他的直播间火遍全世界！ 他的直播内容也彻底的颠覆了人类认知，揭露了不为人知的神秘。 原来传说不仅是传说，亦是真想，那些生物也确确实实的存在，只是少有人发觉他们的踪迹而已！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o4340d4743a6167bb597ca59636ff143e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781661680&x-signature=CpepBpzAYtxyfHWibjzbSotECm8%3D",
-          "url": "https://fanqienovel.com/page/7560085746355293246"
         },
         {
           "title": "说好休闲游戏，长征副本全网泪崩",
           "author": "洛洛的洛洛",
-          "reads": "37.2万",
+          "reads": "38.6万",
           "intro": "“兄弟们，千万别信那个叫洛安的设计师！他是个骗子！！” 千万粉丝的大主播狂哥，在直播间哭得像个三百斤的孩子，手里还死死抓着VR头盔不肯撒手。 “他说这是休闲旅游游戏，结果开局把我扔进零下四十度的雪山！” “他说无氪金无内购，结果一个冷硬的黑馒头，要拿命去换！” “他说NPC只是数据，可那个班长为了救我，把最后一口干粮塞进我嘴里，自己活活冻死在风雪里……”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o97d0428cd23063814ee595145f0ecbfb~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781661680&x-signature=6rv5e%2BaA%2BXnvsT%2FyGkBhsFnYpUg%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o97d0428cd23063814ee595145f0ecbfb~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781748708&x-signature=Q5u7VAzprcbn2IK8QuJu145U6RA%3D",
           "url": "https://fanqienovel.com/page/7587014945980566590"
+        },
+        {
+          "title": "什么？！我的草稿纸成国家机密了",
+          "author": "咸菜肉卷",
+          "reads": "37.8万",
+          "intro": "穿越十八年，林墨身患怪病，一发作就疯狂涂鸦，被当成精神病。 高考考场，他再次犯病，在草稿纸上写满了天书。他绝望离场，以为人生灰暗。 殊不知，物理学教授当场石化，国安部连夜封锁考场，中科院所有泰斗级院士被紧急召集！ “这是可控核聚变！是人类未来千年的钥匙！” 当他被列为国家最高机密“天启一号”时，他本人却毫不知情，正因高考失利在家沉迷网游。 他不知道，他每一次“犯病”，都让龙国的科技树产生一次大爆炸！ 欧国：“开什么玩笑？！龙国的人工智能怎么这么猛？！” 米国：“什么？龙国造出了反重力引擎？” 所有国家：“等等！他们怎么连戴森球都搞出来了？！”",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o3510617aba923ee6896f0e21276289fc~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781748708&x-signature=RV3CDLn6MAvgnGCLbn2o%2BaBUJ1E%3D",
+          "url": "https://fanqienovel.com/page/7611001261671844889"
+        },
+        {
+          "title": "直播冒险：开局探寻尼斯湖水怪",
+          "author": "笔下书豪",
+          "reads": "34.3万",
+          "intro": "失业主播陈远在意外当中绑定了神话考古直播系统，从此，他的直播间成了连接现代与神话的窗口。 在直播当中他潜入尼斯湖幽暗的洞窟，见证蛇颈龙真实存在的证据。 深入江西锁龙古井，在符文锁链下探查龙的悲鸣与秘密。 跋涉神农架原始秘境，与守护上古遗族的智慧“野人”相遇。 雪人、海怪、千年人参、天山雪莲…… 一个个传说当中才会出现的东西一一的浮现开来，让他的直播间火遍全世界！ 他的直播内容也彻底的颠覆了人类认知，揭露了不为人知的神秘。 原来传说不仅是传说，亦是真想，那些生物也确确实实的存在，只是少有人发觉他们的踪迹而已！",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o4340d4743a6167bb597ca59636ff143e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781748708&x-signature=%2FG%2Ft21EmeGrV3yph%2BiaJ3u68JkY%3D",
+          "url": "https://fanqienovel.com/page/7560085746355293246"
         },
         {
           "title": "狼人杀：十更起手，湮灭众神！",
           "author": "折戟成珊",
-          "reads": "31万",
+          "reads": "31.1万",
           "intro": "【爽文】【无女主】【无感情线】【逻辑】【验证后日更2w+】 苏陌穿越到了一个狼人杀决定一切的世界。 顶级选手年薪过亿，全球总决赛收视率碾压世界杯。 而他，坐在《诸神黄昏》总决赛的8号位上，手心全是汗。 同桌的十一人，是世界第七的幽灵狼、川渝女杀神、抗压王、运气之子、八阶吴彦祖…… 而苏陌，上辈子只玩过手机版狼人杀，段位黄金三。 顾北辰：“你是谁？怎么混进来的？” 陈大生：“外卡选手吧，第一轮必出局的炮灰。” 叶蓝芯：“运气不好噻，抽到这种局。” 嘲笑声从四面八方涌来。 直到…… 【叮！SSS级天赋“天眼”已觉醒】 【你可以看到所有人的真实身份！】 苏陌抬起头。 预言家，女巫，猎人…… 所有的伪装，在他眼中荡然无存。 他忽然不抖了。 开局，好人全乱了套。 女巫：我闻到了猎人的味道！ 骑士：预言家，你藏不住的！ 猎人：面对好人，我从不手抖。 守卫：保护狼人，是我的天职！ 预言家：我验了8号，查杀！等等……怎么你也验了8号？？ 苏陌：别吵了，等我看看答案！ 那一天，全球三亿观众亲眼见证…… 一个被所有人当成笑话的外卡选手，杀疯了！ 从此，狼人杀圈多了一个禁忌。 他们叫他——行走的人形天眼？！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o58ba521e0e9e27b265ead132600c20ec~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781661680&x-signature=SrWEKh1c5ZPIzhA%2F%2BblwxcKWGjs%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o58ba521e0e9e27b265ead132600c20ec~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781748708&x-signature=aC0KtHmXOT3NVQ6l0orqXWNaazM%3D",
           "url": "https://fanqienovel.com/page/7628972993481296958"
         },
         {
           "title": "黄牛中介，没想到你请得动真神啊",
           "author": "刀舞终结技",
-          "reads": "28.8万",
+          "reads": "26.7万",
           "intro": "【灵气复苏+诸天代购+万能中介】 张瑀在平行世界开了家“万事通中介”，代排队、代挂号、代抢票，生意半死不活。 直到觉醒【人脉系统】——只要加价，就没有他请不动的人、办不成的事。 “老板，我家祠堂最近半夜老有怪动静，您给中介个道长做个法事呗？” “有！茅山正经道士，持证上岗，一场八千八，附赠镇宅符三张，无效退款。” “老板，帮我雇个能镇宅的神像，最好开过光，要灵验的！” “有！昆仑山采的泰山石敢当，顺丰包邮，附带土地公公亲笔加持证书。” 张瑀的业务越来越离谱，直到某天，几个身穿特殊部门制服的人推门而入： “张先生，我们代表国家第九局，想委托您中介一些……特殊业务。” “您说。” “聘请哪吒三太子担任夏季防汛抢险特别顾问。” “借调地府谛听协助边境线反间防谍工作。” “租用灌江口二郎神君庙三天，用于新型武器实地测试。” 张瑀翻了翻系统面板，露出职业微笑： “都有，就是价格嘛……得用香火功德点结算。”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa958e754c2fb00b13f03dc85c041f511~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781661680&x-signature=tkCaii9CuDQp2ukqqimFRbCULBY%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa958e754c2fb00b13f03dc85c041f511~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781748708&x-signature=FmbDEtawlFt3AN9Z%2FgKdPphvC1o%3D",
           "url": "https://fanqienovel.com/page/7637836458551675929"
+        },
+        {
+          "title": "我就一写网文的，怎么成文豪了",
+          "author": "千里零零一",
+          "reads": "27.7万",
+          "intro": "【平行世界+单女主+成长】 “近日，华国唯二荣获世界科幻最高奖的罗辑先生，公开了他与文豪顾远的回忆录，他坦言这是他人生中最具传奇性也是最具争议的一段友谊…………” “因为顾远将他写作一本书的主角，使得世人对他的印象是那位开创威慑纪元的执剑人，而不是一位世界级科幻泰斗。” 【我与顾远相识，是在16岁的深冬，那年他写出了《乡村教师》。】 【他的创作风格横跨多个领域，几近无所不能。】 【你能想象写出《龙族》、《你的名字》、《查理九世》的和写出《活着》、《堂吉诃德》、《百年孤独》是同一个人吗？】 【哦，他还顺便写了《斗破》、《遮天》、《诡秘》等网文。】 【一直以来，他明面是文坛未来领袖顾远，暗地却是商业畅销之王故渊、网文至尊作家池鱼。】 …… “那些年，华国文坛迎来了真正的黄金一代，群星璀璨，在全球奖项上屡摘桂冠。” “但他们所争夺的，只能是文坛第二人的称呼。” “——人民日报” “不得不承认，与他生在同一个时代，既是我们的不幸，也是我们的荣幸。” “——诺贝尔文学奖获得者，程思远” …… 【论男频小说的前后跨度能有多大？】 【开头：在出租屋内用二手机写网文。】 【结尾：他的名字，就是时代本身。】 “楼上，你这说的不是顾圣吗？”",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oaa012020509a042a692af5580373e586~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781748708&x-signature=2Np%2Br8ff64ujPbMt7eXdrHoTd88%3D",
+          "url": "https://fanqienovel.com/page/7543142298591169561"
         },
         {
           "title": "误吞了秦皇陵仙丹",
           "author": "二两消愁",
-          "reads": "27万",
+          "reads": "25.1万",
           "intro": "秦始皇陵失窃，刚大学毕业正在出租屋待业的王浩，误打误撞获得失窃秦皇陵文物。秦始皇千辛万苦寻找的长生仙丹，竟成就了两千多年后的一个穷小子……",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe895bb10ea47d07dd56b2004377b1390~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781661680&x-signature=64GVWApwjk8vclOqtG%2BeVGL8ZiM%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe895bb10ea47d07dd56b2004377b1390~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781748708&x-signature=EQzMtkselNZ0yeRkMCPFzZ2ObkQ%3D",
           "url": "https://fanqienovel.com/page/7626557425499261977"
-        },
-        {
-          "title": "刀哥爆红娱乐圈，粉丝求我别杀了",
-          "author": "孤风一醉",
-          "reads": "26.8万",
-          "intro": "【轻松+无cp+沙雕+娱乐圈】 萧贺拥有了一个犯罪金手指，可以学习各种犯罪技能。 ——但只有不断刀人才可以活下去。 萧贺：……好好的大学生不当，谁想去当罪犯啊！ 诶？还真有办法！ 一次意外，萧贺成功卡到金手指BUG，利用演绎代替真正的犯罪，步入娱乐圈成为反派专业户！ 他可以是斯文败类的杀人魔，拎着电锯成为所有人的噩梦。 也可以是毫无人性的人渣逃犯，让罪犯恶名远扬，成为人人喊打的渣宰。 他是感情诈骗师，是连环杀人犯，是冷血杀手，是……演员萧贺！ - 一开始萧贺只是为了保命，不断接下反派戏份，可没有想到竟然靠着不存在的“演技”一路爆红，成为了炙手可热的影帝！ 圈内人都知道，剧本角色杀的人越多，萧贺接本子的速度越快。 而路人们却说：这人真不像演的，建议严查！ 粉丝们也说：哥，别杀了，我真害怕你进去了啊！ 可是眼见着圈内的“毒瘤”们纷纷落网，看上去最像坏人的萧贺仍旧红火，甚至拿奖拿到手软。 后来的大家：算了，哥就爱刀人给我们看，让让他吧。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8b6f823049471aebec8ac7fe129a9eb2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781661680&x-signature=vYHSVataoGKoCdy5oJTu49Ibe0Q%3D",
-          "url": "https://fanqienovel.com/page/7491203514484395032"
-        },
-        {
-          "title": "全网被黑两年半，转身登顶格莱美",
-          "author": "旧衣柜里深呼吸",
-          "reads": "26万",
-          "intro": "开局被黑两年半，鬼畜区顶流，全网狂欢。 一睁眼，林季穿成了2014年的内娱第一小丑。 解约、网暴、身败名裂。 然而他的脑中，装着另一个世界领先十年的璀璨乐章。 既然国内的号练废了，那就删号重练！ 一张飞往洛杉矶的单程机票，他在世界流行音乐的心脏，从零开始。 街头一首《Deadman》，神级Live唱到黑粉连夜寻找假唱证据； 录音棚一曲《Uptown Funk》，空降公告牌冠军，全球疯狂抖腿！ 昔日黑粉集体破防：“鸡哥，我们错了，求你快出新歌！” 从全网嘲讽到全球追捧，从内娱小丑到全球流行天王！ 【娱乐圈】【欧美】【好莱坞】【歌手】【美利坚】",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oce8e76dec06e7676e9810defe76830aa~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781661680&x-signature=LGGh%2ByRW1j2rhBPecoQ39GLZHZY%3D",
-          "url": "https://fanqienovel.com/page/7621200330637724696"
-        },
-        {
-          "title": "让你荒野求生，你跑这享受来了？",
-          "author": "新鲜的火龙果",
-          "reads": "25.7万",
-          "intro": "大学生王昊为了赚钱冲游戏币，选择参加荒野求生比赛，当场觉醒【情绪收集系统】，只要引发情绪波动，就能无限加点升级技能 ！ 从此，有他的比赛，画风就变得越来越离谱起来！ 在山上。 别的选手终于吃上了生鱼片和野草根，喜极而泣，王昊正在直播叫花鸡、铁板烤肉和石锅鱼汤。 别的选手躲在山洞里苟延残喘，王昊的湖边双层小木屋拔地而起，自带熏肉房和观景阳台。 在岛上。 别的选手只能依靠节目组给的生锈工具，王昊直接造高炉、烧白碳、炼精铁，强行推动工业文明诞生。 别的选手为了几只臭鱼烂虾打得头破血流，王昊却手搓十五米大帆船，轻松猎捕金枪鱼。 在冰原...... 在原始森林...... 观众/专家/选手（全体崩溃）： “我们这是荒野求生！不是你的私家庄园！” “大哥，求你了，退赛吧！给我们留条活路！” “让你荒野求生，你特么跑这享受来了？！”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/1e750dcc585a3000c97a59ba1fc72313~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781661680&x-signature=QTJQ2S1xogAR0%2B4d%2FwJ9EyP59sI%3D",
-          "url": "https://fanqienovel.com/page/7567807980649860120"
         }
       ]
     }
