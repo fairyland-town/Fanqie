@@ -1,185 +1,184 @@
 {
   "type": "悬疑灵异",
-  "date": "2026-06-13",
-  "prev_date": "2026-06-12",
+  "date": "2026-06-14",
+  "prev_date": "2026-06-13",
   "category": {
     "name": "悬疑灵异",
     "trend": {
-      "new_count": 0,
-      "dropped_count": 0,
-      "new_books": [],
-      "dropped_books": [],
-      "top_risers": [
+      "new_count": 1,
+      "dropped_count": 1,
+      "new_books": [
+        "你一个交警，抢刑侦的案子合适吗"
+      ],
+      "dropped_books": [
         {
-          "title": "校花尸变咋办？不怕！我专业对口",
-          "change": "+3"
-        },
+          "title": "神探重生：谁破案用金手指啊",
+          "intro": "【神探穿越+系统辅助+刑侦破案+甜宠+情感拉扯+不定时发刀】 国际顶级侦探苏御霖，一朝穿越成林城刑侦队里公认的“小透明”，本想安稳“混编制”，摸鱼度日。 可偏偏，一桩桩离奇悬案接踵而至，也让他这个“透"
+        }
+      ],
+      "top_risers": [
         {
           "title": "天师在此，奇门风水震天下",
           "change": "+1"
         },
         {
-          "title": "尸生子，鬼抬棺",
+          "title": "东北出马笔记",
+          "change": "+1"
+        },
+        {
+          "title": "请叫我鬼差大人",
           "change": "+1"
         }
       ],
       "top_fallers": [
         {
-          "title": "半夜和镜子猜拳，我赢一把就睡",
-          "change": "-3"
-        },
-        {
-          "title": "神探重生：谁破案用金手指啊",
+          "title": "九叔：从被石坚救下开始",
           "change": "-2"
         },
         {
-          "title": "邪物典当铺：只收凶物",
+          "title": "校花尸变咋办？不怕！我专业对口",
+          "change": "-1"
+        },
+        {
+          "title": "毕业后不做牛马，去当赏金猎人",
           "change": "-1"
         }
       ],
       "reads_growth": [
         {
           "title": "百鬼末世：我成了最强御鬼师",
-          "growth": "+2.8万"
+          "growth": "+4.7万"
+        },
+        {
+          "title": "模拟犯罪十万次，我竟成王牌神探",
+          "growth": "+1.3万"
         },
         {
           "title": "校花尸变咋办？不怕！我专业对口",
-          "growth": "+1.4万"
-        },
-        {
-          "title": "分手后，我把前女友炼成僵尸！",
-          "growth": "+4000"
+          "growth": "+1.2万"
         }
       ],
-      "summary": "《校花尸变咋办？不怕！我专业对口》排名上升+3位；《百鬼末世：我成了最强御鬼师》阅读量+2.8万。"
+      "summary": "新增1本上榜；1本掉出（《神探重生：谁破案用金手指啊》）；《天师在此，奇门风水震天下》排名上升+1位；《百鬼末世：我成了最强御鬼师》阅读量+4.7万。"
     },
     "books": [
       {
         "title": "我以狐仙镇百鬼",
         "author": "紫梦游龙",
-        "reads": "92.7万",
+        "reads": "92.4万",
         "intro": "我出生那天，在我家院子周围落下了十九道雷，有个算命先生说，我是天生妖胎，一生命犯十八劫，不是别人死就是我死，结果那算命先生在我出生第一天就应了我的劫，抱着我刚出了村口就突然暴毙！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/05cb5f60d9bea6c19a94f9a27a763ce7~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781920884&x-signature=Y6cH79GDyndnw2uIx7WDJO9eeHM%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/05cb5f60d9bea6c19a94f9a27a763ce7~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782007861&x-signature=F2s%2FsjXcl0Mm9GHctUPNClssRRY%3D",
         "url": "https://fanqienovel.com/page/7087872099557051400"
       },
       {
         "title": "镇龙棺，阎王命",
         "author": "匪夷",
-        "reads": "80.5万",
+        "reads": "80.8万",
         "intro": "我被挑断筋脉，封棺活埋，可他们不知道，我是阎王命！ 【民俗恐怖，风水符咒，香火供奉】 风水相术，画皮招魂，走阴赶尸，痋术降头，纹阴刺符，悬丝傀儡，蜡封红门， 坟头岭上狗刨坑，河神庙里鬼吃席，五雷正法可破秽，胡黄白柳请道兵， 纸扎客不点活人，二皮匠炼缝皮针，苗疆养蛊，南洋养小鬼…",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o46897b9759abdb93d98b54fd9c1230bd~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781920884&x-signature=Q1GSkAQs8bE6SprvkYZ6YHtVseU%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o46897b9759abdb93d98b54fd9c1230bd~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782007861&x-signature=5cIglepbj3gg1WEFSU20xUIgSow%3D",
         "url": "https://fanqienovel.com/page/7287726057069743138"
       },
       {
         "title": "百鬼末世：我成了最强御鬼师",
         "author": "彝人烟火",
-        "reads": "67.4万",
+        "reads": "72.1万",
         "intro": "【足量1000种鬼】 神秘如金不换、白骨菩萨、地支兵主、滴血梅花等等， 高强度的如阿修罗、罗刹、屠夫、武状元、皇帝等， 诡异的如画皮、大红袍、胖娃娃、仵作、花腰新娘，入殓师、长明灯等等。 每一种都有自己的进化路线： 溺死鬼→水猴子→河童→？（后面还有，暂不剧透） 冤鬼→不眠人→大红袍→（后面还有，暂不剧透） …… 鬼的晋级，需要“灵引”。 灵引，可以是某样东西：比如白骨精晋阶龙骨骷髅，需要一根龙骨。当然，还能晋阶佛骨骷髅、神骸骷髅等等。 灵引，也可能是某种条件：溺死鬼溺死九人就能晋阶水猴子。绣花姑娘用人皮缝制好嫁衣，穿上就能晋阶花腰新娘…… 不水剧情，不会无脑骑脸，战斗不会超过一章，如果这是观众想看到的，请放心加个书架~",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od1b84f40d9b74eba76ffab72b9b53511~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781920884&x-signature=OWKLNJfYJ16SducgkavjNHJ77OI%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od1b84f40d9b74eba76ffab72b9b53511~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782007861&x-signature=6EK1EF7hcUDrsn9ZK79aypK%2Faao%3D",
         "url": "https://fanqienovel.com/page/7261923126689139766"
-      },
-      {
-        "title": "校花尸变咋办？不怕！我专业对口",
-        "author": "后端工程师",
-        "reads": "45.1万",
-        "intro": "【灵异+恐怖+都市传说+鬼故事+无敌+单女主】 校花同桌上课尸变怎么办？ 多半是装的，亲一顿就好了。 嗯？不是装的？？？ ...... 陆九阳很懵。 上一秒他还是鏖战亿万鬼潮、以身封魔的茅山末代天师， 下一秒竟重生成了一个普通高一学生。 这个世界科技发达，岁月静好，鬼怪只存在于传说之中。 就连茅山，都成了网红打卡的风景区。 累了，乏了，卷不动了。 上一世战斗了几十年想要创造的世界就摆在眼前。 这一世，他只想摆烂，算算命，过上平凡且枯燥的生活。 直到绝美校花泪眼婆娑地拉住他： “陆同学，我好像…被我太爷爷抓伤…” “太爷爷？” “嗯，死了一百年的太爷爷。” 陆九阳：“？？？” 望着眼前尸毒攻心的校花，陆九阳叹了口气。 单手结印！虚空画符！ “业务生疏了，不过…问题不大。” “专业对口，我超强的！” 可谁能想到，校花尸变只是开始。 山城红衣女孩夜夜敲门。 空难录音中传来非人低语。 消失十年的一路公交车再度启程。 百年高校凌晨歌唱的白衣老师。 无数都市传闻变为现实！ “不对啊？这世界不是没鬼吗？！” “就我一个道士怎么扛？？？” “既然如此......” “开坛做法，符咒拉满，物理超度，全都扬了！”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o78b8e501fb081e2ca3fab3e8104be205~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781920884&x-signature=prxHalSvuZwBe6CzeMPpfkNkTcA%3D",
-        "url": "https://fanqienovel.com/page/7543933469701721112"
       },
       {
         "title": "天师在此，奇门风水震天下",
         "author": "大茄子",
-        "reads": "44.6万",
+        "reads": "45.2万",
         "intro": "【奇门风水，民间秘术，咒术，邪术，巫术，奇门遁甲，九宫命格，牵羊憋宝，祝由术！】 俗话说，一名二运三风水，风水对人的影响非常大，如财运，身体，姻缘，家庭，都有着很大的影响。 如果一个人很勤劳，不怕吃苦，兜里却依然没有钱，不是他命运不好，就是家里风水有问题。 想不想改变命运，想不想暴富，想的话，就翻开第一页继续往下看……",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/769786ef7bf06064411cd2cb3fe921e7~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781920884&x-signature=JATm6V8b07%2Bcz5%2FVbafly28uKf8%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/769786ef7bf06064411cd2cb3fe921e7~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782007861&x-signature=qI0vUP7wNp%2BWWhZysYOfH2Ilq1E%3D",
         "url": "https://fanqienovel.com/page/7166580408522378292"
+      },
+      {
+        "title": "校花尸变咋办？不怕！我专业对口",
+        "author": "后端工程师",
+        "reads": "46.3万",
+        "intro": "【灵异+恐怖+都市传说+鬼故事+无敌+单女主】 校花同桌上课尸变怎么办？ 多半是装的，亲一顿就好了。 嗯？不是装的？？？ ...... 陆九阳很懵。 上一秒他还是鏖战亿万鬼潮、以身封魔的茅山末代天师， 下一秒竟重生成了一个普通高一学生。 这个世界科技发达，岁月静好，鬼怪只存在于传说之中。 就连茅山，都成了网红打卡的风景区。 累了，乏了，卷不动了。 上一世战斗了几十年想要创造的世界就摆在眼前。 这一世，他只想摆烂，算算命，过上平凡且枯燥的生活。 直到绝美校花泪眼婆娑地拉住他： “陆同学，我好像…被我太爷爷抓伤…” “太爷爷？” “嗯，死了一百年的太爷爷。” 陆九阳：“？？？” 望着眼前尸毒攻心的校花，陆九阳叹了口气。 单手结印！虚空画符！ “业务生疏了，不过…问题不大。” “专业对口，我超强的！” 可谁能想到，校花尸变只是开始。 山城红衣女孩夜夜敲门。 空难录音中传来非人低语。 消失十年的一路公交车再度启程。 百年高校凌晨歌唱的白衣老师。 无数都市传闻变为现实！ “不对啊？这世界不是没鬼吗？！” “就我一个道士怎么扛？？？” “既然如此......” “开坛做法，符咒拉满，物理超度，全都扬了！”",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o78b8e501fb081e2ca3fab3e8104be205~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782007861&x-signature=kMe8f%2B1M2h7yP%2FwmPfgOOFDj%2B9g%3D",
+        "url": "https://fanqienovel.com/page/7543933469701721112"
       },
       {
         "title": "邪物典当铺：只收凶物",
         "author": "虫下月半",
         "reads": "41.8万",
         "intro": "【传统灵异+中式民俗+偏门买卖+邪物怪谈】无CP 这是一家古怪的当铺，专收具有特殊价值的阴邪之物！ 死人嘴里的压口钱，刽子手的刀、坟头菇、肉灵芝、昆仑胎......邪物可害人亦可助人！ 经当铺的手一当一卖，便能变邪为宝！ 升官发财、消灾解难、甚至逆天改命！ 事物没有好坏之分，永不满足的只有人心...... 某些深夜，这家当铺还许多诡异的客人光顾......",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa2c14a9e3f17c79aa07a255784a11b65~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781920884&x-signature=g6sPmREFv0HjfhRw32j5WXYwh%2F0%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa2c14a9e3f17c79aa07a255784a11b65~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782007861&x-signature=7Nli726cC6IMOaV1hEno1qwUCbQ%3D",
         "url": "https://fanqienovel.com/page/7379164201303952409"
       },
       {
         "title": "半夜和镜子猜拳，我赢一把就睡",
         "author": "蟹老板爱吃饭",
-        "reads": "41.7万",
+        "reads": "40.6万",
         "intro": "谢逸之整个家族都有些阴间。 　　高祖是走山客、高祖母是缝尸匠，曾爷是茅山道士、曾奶是奉天出马仙，爷爷扎纸奶奶入殓，爹赶尸妈养蛊，还有祖辈喜欢自己出土…… 因此，谢逸之稀里糊涂就从小被练成了个满级号。 本以为毕业后会承接祖业，没想到却被赶到城里找起了工作，边直播兼职。 这天午夜，谢逸之意外发现，有不开眼的鬼东西溜进了自己家。 恰好有水友问起：“主播，有没有什么办法知道家里有没有鬼的？” 于是，谢逸之就做起来演示，来到镜子前跟镜子猜拳，输了就说明家里就肯定有鬼。 结果谢逸之竟然连输十几把，瞬间红温！ “不行，我得贏一把再睡!” 随之一阵凄厉的惨叫声过后，镜中的‘谢逸之’脑袋冒烟，鼻青脸肿的输了下一轮猜拳。 谢逸之这才满意的拍拍手：“看吧，我赢了，所以说明我家没有鬼。” 网友们：“谁信你啊！” “太阴了，阎王路过他家都得打仨喷嚏！” 【欢乐向乐子文！】【真无敌不是假无敌】【主角零败绩】【民俗中恐】【主角团不会死人】【微量直播】【越看越上头】【50章后起飞！】",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o5121c62c58dbd182efc1f522c1ecb5cb~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781920884&x-signature=FWzyunhogD2P0a9qN6DVC1lkiQQ%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o5121c62c58dbd182efc1f522c1ecb5cb~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782007861&x-signature=t7w%2F40yCvBhB65wmlMDfxcD8AvI%3D",
         "url": "https://fanqienovel.com/page/7432601840895659070"
       },
       {
         "title": "尸生子，鬼抬棺",
         "author": "界玉",
-        "reads": "35万",
+        "reads": "34.4万",
         "intro": "古老偏僻的地方，总会发生许多诡异、恐怖的事情。 　　而这些事情，就发生在华九难身边。 　　甚至华九难就是这些事情的一部分。 　　比如，他是尸生子！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/a20fff6c8549be7167981d0c3595ba81~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781920884&x-signature=TcJirJ%2FC5KA8Z6lDA6SpSfVJVS8%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/a20fff6c8549be7167981d0c3595ba81~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782007861&x-signature=%2BS364Ga5cmNA8N1Q4CTk8TEGIy4%3D",
         "url": "https://fanqienovel.com/page/7024903102301998111"
       },
       {
         "title": "重回八零，我破了命案九千宗",
         "author": "钓月耕云",
-        "reads": "34.6万",
+        "reads": "33.8万",
         "intro": "重回八零年代，陈青峰带着上一辈子的遗憾重新经历了之前尚未侦破的九千宗命案。这一次不同的是，他有机会重新弥补上一世作为警察的遗憾…… 休息了一阵子，又缺钱了，所以开了本新书小。这本不是爽文，无系统，无金手指。只是希望能够写出八十年代的感觉，还有就是写一下很久没有写过的破案题材，顺便说一下，我是八七年的，有些事情我可能都不记得了，欢迎大家指出不足，就这样！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oad16a6ab97050bb1048382a1af7b9b4c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781920884&x-signature=DHY1wHcX3BAQYFtoW7OyAhBAy2A%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oad16a6ab97050bb1048382a1af7b9b4c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782007861&x-signature=o4K2O90dom8Hf9oyne1ifc3BD0o%3D",
         "url": "https://fanqienovel.com/page/7311510229965868051"
       },
       {
         "title": "分手后，我把前女友炼成僵尸！",
         "author": "因帅被罚破产",
-        "reads": "23.3万",
+        "reads": "24.1万",
         "intro": "《破案》、《鬼故事》、《民间传统》 苏云，先秦一脉阴阳家传人。 熟人介绍相亲，认识了女友。 分手后，苏云准备将其炼成僵尸。 就在第七天快炼制成功时，警花却破门而入，将苏云当杀人犯抓进警局。 苏云：“冤枉啊！我前女友可是空姐，肤白貌美大长腿，我哪里会杀她？” “是她自己自杀前，要求我将她炼成僵尸的！” 无论怎么解释，警花只相信科学。 苏云无奈：“要不我将证人请来解释？” “你的证人？” “没错，我前女友…” 苏云挥手作法，阴风吹过，前女友尸体睁开眼自己动了。 苏云：“现在信了吧？我真没有杀人！” 警花与一众警员麻了，看着墙上《科学办案》四个字陷入沉思。 苏云无罪释放！ 数天后，警花亲自找上门。 “苏先生，这里有个大案，还请您出手！” 苏云：我有的选吗？ 随后，医院太平间尸体蹦迪，吓尿一众医生。 在苏云出手下，一件又一件悬疑大案破解，警局领导大为震惊！ “碰上苏先生真是我们局子福气啊！” 苏云：“碰上你们，是老子晦气！” 数年后，一众外国邪教为非作歹，玄门无力支撑时。 苏云振臂一挥，带着被养成旱魃的前女友，横扫所有邪教… 噢！上帝，你看看他干了什么事！ 天！他竟把吸血鬼写上了食谱！ …",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o321a65b59a37140c4549e1a977acaca3~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781920884&x-signature=wcYfG4k6rJuX3zYoNGnowdrMh6Y%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o321a65b59a37140c4549e1a977acaca3~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782007861&x-signature=wRCR6R0QC%2B4WKjMDMpOQ2ZS8MIc%3D",
         "url": "https://fanqienovel.com/page/7428990775863561241"
       },
       {
         "title": "法医：与死者同行",
         "author": "我不是曹魏",
-        "reads": "23万",
+        "reads": "22.8万",
         "intro": "刚毕业加入刑警队的法医沈明发现，他的眼睛总能看到一些别人难以注意到的细节。 在案发现场中的重要线索，在沈明的眼中总是闪着奇怪的红色边框。 那么问题来了，有框的情况下你打不打？ 我叫沈明，一个与死者同行的开挂法医。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/8d2fa64c7c6698d650b2b26f41f642f3~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781920888&x-signature=bYXgc3ukBgKDaVnhy%2BLj8%2FclayY%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/8d2fa64c7c6698d650b2b26f41f642f3~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782007865&x-signature=PolW9BRFH5CXFVY0B0EHXqPm3zs%3D",
         "url": "https://fanqienovel.com/page/7589493688540089368"
       },
       {
         "title": "邪神墨然！",
         "author": "三风11",
-        "reads": "22.4万",
+        "reads": "22.6万",
         "intro": "午夜医院的断头鬼为何频频祈祷？ 荒芜山村的人皮鬼为何不断哀嚎？ 单身公寓的长发女鬼又为何半夜惨叫？ 这一切不是人性的扭曲，更不是道德的沦丧，而是……某人犯病了！ 身处恐怖复苏，厉鬼横行的时代，身穿病服的白渊淡然一笑，自语道： “该给厉鬼来点小小的精神病震撼了！”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/fc34b99dacb5bb83a892650fc3e47b27~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781920888&x-signature=omepbjurytCQ8NB0BPE7oBNmY2Y%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/fc34b99dacb5bb83a892650fc3e47b27~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782007865&x-signature=YOYy1e39ZQn4SGq6mxmuwv8%2BDBA%3D",
         "url": "https://fanqienovel.com/page/7287479909398613032"
       },
       {
         "title": "模拟犯罪十万次，我竟成王牌神探",
         "author": "初秋微寒",
-        "reads": "20.5万",
+        "reads": "21.8万",
         "intro": "【刑侦+犯罪+无敌+全能+硬核破案】 能制造完美案件的凶手，定也是最强的王牌侦探。 刚考上警校的苏铭，意外获得了睡梦中模拟犯罪的能力。 每当模拟完美犯罪，无人在追诉期内找出凶手，便可获得在犯罪中所使用的各种技能。 模拟完美犯罪十万次，获得无数技能。 本应成为头号罪犯的苏铭，毕业后转身加入刑侦大队。 所有案件在其眼中，如同小儿科般错漏百出，一个简单的细节漏洞都能直指罪犯！ 随着接连破获众人眼中的完美犯罪和多年悬案，全国惊呼苏铭为真正的王牌侦探。 一等功胸前都挂不上，警衔短时间内五连跳。 当罪犯？不可能的！ 不如当个刑警轻松破案，功成名就！！！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o7c1ad2733ad182d63d7428cff24fcca6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781920888&x-signature=%2B8LxeoyuA7xIVSleZNSUAOQPmL4%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o7c1ad2733ad182d63d7428cff24fcca6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782007865&x-signature=xLQIMZGECHH1ypLxHUdz1lbq54M%3D",
         "url": "https://fanqienovel.com/page/7254152548817308731"
       },
       {
         "title": "我靠死人吃饭",
         "author": "王一帆",
-        "reads": "20.4万",
+        "reads": "18.8万",
         "intro": "【丧葬民俗】+【灵异】+【风水道术】 内容根据真实事件改编，人物地点已做微调处理。 死后不闭眼，黑猫哭坟，井下哭声，寡妇半夜哭丧，老头给儿子下跪…… 这些诡异背后，藏着更毒的人心",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc7c1cb90170390ab807a86b2b8bd9e09~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781920888&x-signature=UOQZcFBd88ehNgg3dRklYusCsWA%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc7c1cb90170390ab807a86b2b8bd9e09~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782007865&x-signature=rnMA7qLFAa2uUH0d7fX%2F%2Bwd5Ers%3D",
         "url": "https://fanqienovel.com/page/7570547600533752894"
-      },
-      {
-        "title": "九叔：从被石坚救下开始",
-        "author": "Mo疯",
-        "reads": "17.2万",
-        "intro": "（本书慢节奏，九叔戏份多，主角不单飞，也不算超人，中途会有挫折，但是有福同享，喝水不忘打井人） 方启这辈子就俩愿望：收租、躺平、混吃等死到一百岁。 直到一个从天而降的行李箱，把他砸进了九叔的僵尸世界。 好消息：被茅山大师兄石坚亲手救下，他把方启交给了九叔抚养。 坏消息：方启欠他一条命。 从此，方启的人生目标被迫更新：一边在九叔的严厉的教导下成长，一边琢磨着怎么把自家那位随时可能黑化的大师伯从鬼门关前拉回来。 行吧。 这个家，没他得散。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o50820eb635c9b34cf495032e819214d8~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781920888&x-signature=mmPENVkvNpvDP5HW8SjTn5fCkyE%3D",
-        "url": "https://fanqienovel.com/page/7609607882551610392"
       },
       {
         "title": "东北出马笔记",
         "author": "吴半仙",
-        "reads": "17.4万",
+        "reads": "17.7万",
         "intro": "一块红布三尺三，老堂人马老堂仙，有朝一日出深山，名扬四海万家传！ 八十年代，我出生在东北农村，七岁那年大仙说我命犯三灾八难，将来会出马顶香，我不信，却屡遭磨难。为了谋生，我当过服务员，跑过业务，开过出租……但命运就像施加了诅咒，我身边不断发生各种邪乎事，无奈之下，我成了一个出马仙。 （本文取材真实故事改编，相关人物、剧情皆为虚构，请勿盲目照进现实，谨防上当。）",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/3036e6c6c56335ce9ba395170e197d08~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781920888&x-signature=3kl%2BPg91F0QnQdNDkqpN7qLm7XA%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/3036e6c6c56335ce9ba395170e197d08~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782007865&x-signature=v0f9jDoCeVpy6wBxXS%2BKVg3i0XI%3D",
         "url": "https://fanqienovel.com/page/7101613458101111812"
       },
       {
@@ -187,32 +186,40 @@
         "author": "徐二家的猫",
         "reads": "17.3万",
         "intro": "永夜过后，恐怖复苏。 十里荒坟，诡异的歌声。 寻找双臂的老人，无头的婴儿... 他们不停的拼接着自己的身体，爆发出更恐怖的气息。 荒土中，一只断手，都可以毁天灭地。 在这种黑暗，绝望的环境下，一座若隐若现的邮局... 一名神秘的年轻人，一辆行驶于虚空的邮车... 一封又一封血红色的信件，成为了人们口中的禁忌... ————鬼差。 PS：无女主或者单女主（不要乱猜，至少不是周涵）",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o334dad984c08b620210723e1dc165054~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781920888&x-signature=EUJLO7FY1ysNZ1AnLTG3E9FyCsw%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o334dad984c08b620210723e1dc165054~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782007865&x-signature=j7XASPYepL8%2BczZ5c%2Bq5GZiwfjg%3D",
         "url": "https://fanqienovel.com/page/6942441629332540423"
+      },
+      {
+        "title": "九叔：从被石坚救下开始",
+        "author": "Mo疯",
+        "reads": "16.3万",
+        "intro": "（本书慢节奏，九叔戏份多，主角不单飞，也不算超人，中途会有挫折，但是有福同享，喝水不忘打井人） 方启这辈子就俩愿望：收租、躺平、混吃等死到一百岁。 直到一个从天而降的行李箱，把他砸进了九叔的僵尸世界。 好消息：被茅山大师兄石坚亲手救下，他把方启交给了九叔抚养。 坏消息：方启欠他一条命。 从此，方启的人生目标被迫更新：一边在九叔的严厉的教导下成长，一边琢磨着怎么把自家那位随时可能黑化的大师伯从鬼门关前拉回来。 行吧。 这个家，没他得散。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o50820eb635c9b34cf495032e819214d8~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782007865&x-signature=Xx29dtnFE7Y%2FjYnbhFjQqqdSTaw%3D",
+        "url": "https://fanqienovel.com/page/7609607882551610392"
+      },
+      {
+        "title": "你一个交警，抢刑侦的案子合适吗",
+        "author": "似水留年",
+        "reads": "16.4万",
+        "intro": "穿越平行世界，变成了一个警校毕业生。 徐麟接到分配单位的时候，一脸茫然。 他一个从刑侦专业全优满分毕业的准刑警，被分配到了交警队，这是几个意思？ 不让我干刑侦是吧？ 那好办，我交警也是可以抢刑侦的活儿的。 上班第一天，连抓7个惯偷，1个绑架杀人犯。 第二天，抓捕一个B通。 第三天，挖出了隐藏10年的惊天大案主犯。 第四天…… 交警大队队长：“祖宗，咱是交警，你咋天天往刑侦那边送人？” 局长：“谁？谁让徐麟去交警队的，给老子站出来。彻查，一撸到底！” 罪犯之中流传着一个传说，“哪里都能去，江云市除外。去了，必被抓！”",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o5a390dacd29035884bf84277d81afc30~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782007865&x-signature=AG%2BqawaeINwCeFjvg4qa5wXcjl8%3D",
+        "url": "https://fanqienovel.com/page/7254059928380247078"
       },
       {
         "title": "毕业后不做牛马，去当赏金猎人",
         "author": "写的什么垃圾",
-        "reads": "16.2万",
+        "reads": "16.4万",
         "intro": "【搞笑+架空+微悬疑+冒险+都市+无女主】 调查十几年前的凶案，与变态杀人狂斗智斗勇。 穿越无人敢进的原始丛林，在天坑之中寻找落难者的尸体。 进入10万大山之中的神秘村庄，寻找一位小女孩…… 是什么让一位刚毕业的大学生踏上了这样的不归之路？ 这一切还得从一间凶宅，一个女鬼钻被窝开始说起。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o7c504bf7c78b7f6ee09275ca039b006c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781920888&x-signature=asqKfdPcU9S6F3tgbUyGr92IjkY%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o7c504bf7c78b7f6ee09275ca039b006c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782007865&x-signature=9yUQBsruoDdVuzGwyBViivB6lLc%3D",
         "url": "https://fanqienovel.com/page/7427437091522350142"
       },
       {
         "title": "我在娱乐圈当风水顾问的那些年",
         "author": "苦瓜炒花蟹",
-        "reads": "15.7万",
+        "reads": "15.8万",
         "intro": "尸油口红，养小鬼，请狐仙，刺符，为了红，为了火，一些明星无所不用其极。 我叫陈天，是一名混迹在娱乐圈的风水顾问，专门替这些以特殊手段火起来的明星处理善后事宜。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2odd82072ff4550dba68fac90a34e0273f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781920888&x-signature=lEoNv4RLB2PMGINm6tVrmL%2BBUbk%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2odd82072ff4550dba68fac90a34e0273f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782007865&x-signature=kkh44KwdjtqXIro52kI%2F%2BK5TlHk%3D",
         "url": "https://fanqienovel.com/page/7236273166312541221"
-      },
-      {
-        "title": "神探重生：谁破案用金手指啊",
-        "author": "墨燃乔",
-        "reads": "15.5万",
-        "intro": "【神探穿越+系统辅助+刑侦破案+甜宠+情感拉扯+不定时发刀】 国际顶级侦探苏御霖，一朝穿越成林城刑侦队里公认的“小透明”，本想安稳“混编制”，摸鱼度日。 可偏偏，一桩桩离奇悬案接踵而至，也让他这个“透明人”再也藏不住了。 支队长：这小子平时闷声不响，能行吗？ 一战成名后，他屡破奇案！ 当所有人都为他的神级操作震惊时，队里的警花，美女法医俏脸微红问他： “苏御霖，经过缜密分析，所有证据都表明……我喜欢你。你，认罪吗？”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob2f2be9bf5f43a3c4c899e41b4796544~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781920888&x-signature=sjnpXXtGf30Ng0IwhwbLr615Yh4%3D",
-        "url": "https://fanqienovel.com/page/7495953376614566974"
       }
     ]
   },
@@ -220,181 +227,180 @@
     {
       "name": "悬疑灵异",
       "trend": {
-        "new_count": 0,
-        "dropped_count": 0,
-        "new_books": [],
-        "dropped_books": [],
-        "top_risers": [
+        "new_count": 1,
+        "dropped_count": 1,
+        "new_books": [
+          "你一个交警，抢刑侦的案子合适吗"
+        ],
+        "dropped_books": [
           {
-            "title": "校花尸变咋办？不怕！我专业对口",
-            "change": "+3"
-          },
+            "title": "神探重生：谁破案用金手指啊",
+            "intro": "【神探穿越+系统辅助+刑侦破案+甜宠+情感拉扯+不定时发刀】 国际顶级侦探苏御霖，一朝穿越成林城刑侦队里公认的“小透明”，本想安稳“混编制”，摸鱼度日。 可偏偏，一桩桩离奇悬案接踵而至，也让他这个“透"
+          }
+        ],
+        "top_risers": [
           {
             "title": "天师在此，奇门风水震天下",
             "change": "+1"
           },
           {
-            "title": "尸生子，鬼抬棺",
+            "title": "东北出马笔记",
+            "change": "+1"
+          },
+          {
+            "title": "请叫我鬼差大人",
             "change": "+1"
           }
         ],
         "top_fallers": [
           {
-            "title": "半夜和镜子猜拳，我赢一把就睡",
-            "change": "-3"
-          },
-          {
-            "title": "神探重生：谁破案用金手指啊",
+            "title": "九叔：从被石坚救下开始",
             "change": "-2"
           },
           {
-            "title": "邪物典当铺：只收凶物",
+            "title": "校花尸变咋办？不怕！我专业对口",
+            "change": "-1"
+          },
+          {
+            "title": "毕业后不做牛马，去当赏金猎人",
             "change": "-1"
           }
         ],
         "reads_growth": [
           {
             "title": "百鬼末世：我成了最强御鬼师",
-            "growth": "+2.8万"
+            "growth": "+4.7万"
+          },
+          {
+            "title": "模拟犯罪十万次，我竟成王牌神探",
+            "growth": "+1.3万"
           },
           {
             "title": "校花尸变咋办？不怕！我专业对口",
-            "growth": "+1.4万"
-          },
-          {
-            "title": "分手后，我把前女友炼成僵尸！",
-            "growth": "+4000"
+            "growth": "+1.2万"
           }
         ],
-        "summary": "《校花尸变咋办？不怕！我专业对口》排名上升+3位；《百鬼末世：我成了最强御鬼师》阅读量+2.8万。"
+        "summary": "新增1本上榜；1本掉出（《神探重生：谁破案用金手指啊》）；《天师在此，奇门风水震天下》排名上升+1位；《百鬼末世：我成了最强御鬼师》阅读量+4.7万。"
       },
       "books": [
         {
           "title": "我以狐仙镇百鬼",
           "author": "紫梦游龙",
-          "reads": "92.7万",
+          "reads": "92.4万",
           "intro": "我出生那天，在我家院子周围落下了十九道雷，有个算命先生说，我是天生妖胎，一生命犯十八劫，不是别人死就是我死，结果那算命先生在我出生第一天就应了我的劫，抱着我刚出了村口就突然暴毙！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/05cb5f60d9bea6c19a94f9a27a763ce7~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781920884&x-signature=Y6cH79GDyndnw2uIx7WDJO9eeHM%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/05cb5f60d9bea6c19a94f9a27a763ce7~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782007861&x-signature=F2s%2FsjXcl0Mm9GHctUPNClssRRY%3D",
           "url": "https://fanqienovel.com/page/7087872099557051400"
         },
         {
           "title": "镇龙棺，阎王命",
           "author": "匪夷",
-          "reads": "80.5万",
+          "reads": "80.8万",
           "intro": "我被挑断筋脉，封棺活埋，可他们不知道，我是阎王命！ 【民俗恐怖，风水符咒，香火供奉】 风水相术，画皮招魂，走阴赶尸，痋术降头，纹阴刺符，悬丝傀儡，蜡封红门， 坟头岭上狗刨坑，河神庙里鬼吃席，五雷正法可破秽，胡黄白柳请道兵， 纸扎客不点活人，二皮匠炼缝皮针，苗疆养蛊，南洋养小鬼…",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o46897b9759abdb93d98b54fd9c1230bd~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781920884&x-signature=Q1GSkAQs8bE6SprvkYZ6YHtVseU%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o46897b9759abdb93d98b54fd9c1230bd~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782007861&x-signature=5cIglepbj3gg1WEFSU20xUIgSow%3D",
           "url": "https://fanqienovel.com/page/7287726057069743138"
         },
         {
           "title": "百鬼末世：我成了最强御鬼师",
           "author": "彝人烟火",
-          "reads": "67.4万",
+          "reads": "72.1万",
           "intro": "【足量1000种鬼】 神秘如金不换、白骨菩萨、地支兵主、滴血梅花等等， 高强度的如阿修罗、罗刹、屠夫、武状元、皇帝等， 诡异的如画皮、大红袍、胖娃娃、仵作、花腰新娘，入殓师、长明灯等等。 每一种都有自己的进化路线： 溺死鬼→水猴子→河童→？（后面还有，暂不剧透） 冤鬼→不眠人→大红袍→（后面还有，暂不剧透） …… 鬼的晋级，需要“灵引”。 灵引，可以是某样东西：比如白骨精晋阶龙骨骷髅，需要一根龙骨。当然，还能晋阶佛骨骷髅、神骸骷髅等等。 灵引，也可能是某种条件：溺死鬼溺死九人就能晋阶水猴子。绣花姑娘用人皮缝制好嫁衣，穿上就能晋阶花腰新娘…… 不水剧情，不会无脑骑脸，战斗不会超过一章，如果这是观众想看到的，请放心加个书架~",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od1b84f40d9b74eba76ffab72b9b53511~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781920884&x-signature=OWKLNJfYJ16SducgkavjNHJ77OI%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od1b84f40d9b74eba76ffab72b9b53511~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782007861&x-signature=6EK1EF7hcUDrsn9ZK79aypK%2Faao%3D",
           "url": "https://fanqienovel.com/page/7261923126689139766"
-        },
-        {
-          "title": "校花尸变咋办？不怕！我专业对口",
-          "author": "后端工程师",
-          "reads": "45.1万",
-          "intro": "【灵异+恐怖+都市传说+鬼故事+无敌+单女主】 校花同桌上课尸变怎么办？ 多半是装的，亲一顿就好了。 嗯？不是装的？？？ ...... 陆九阳很懵。 上一秒他还是鏖战亿万鬼潮、以身封魔的茅山末代天师， 下一秒竟重生成了一个普通高一学生。 这个世界科技发达，岁月静好，鬼怪只存在于传说之中。 就连茅山，都成了网红打卡的风景区。 累了，乏了，卷不动了。 上一世战斗了几十年想要创造的世界就摆在眼前。 这一世，他只想摆烂，算算命，过上平凡且枯燥的生活。 直到绝美校花泪眼婆娑地拉住他： “陆同学，我好像…被我太爷爷抓伤…” “太爷爷？” “嗯，死了一百年的太爷爷。” 陆九阳：“？？？” 望着眼前尸毒攻心的校花，陆九阳叹了口气。 单手结印！虚空画符！ “业务生疏了，不过…问题不大。” “专业对口，我超强的！” 可谁能想到，校花尸变只是开始。 山城红衣女孩夜夜敲门。 空难录音中传来非人低语。 消失十年的一路公交车再度启程。 百年高校凌晨歌唱的白衣老师。 无数都市传闻变为现实！ “不对啊？这世界不是没鬼吗？！” “就我一个道士怎么扛？？？” “既然如此......” “开坛做法，符咒拉满，物理超度，全都扬了！”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o78b8e501fb081e2ca3fab3e8104be205~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781920884&x-signature=prxHalSvuZwBe6CzeMPpfkNkTcA%3D",
-          "url": "https://fanqienovel.com/page/7543933469701721112"
         },
         {
           "title": "天师在此，奇门风水震天下",
           "author": "大茄子",
-          "reads": "44.6万",
+          "reads": "45.2万",
           "intro": "【奇门风水，民间秘术，咒术，邪术，巫术，奇门遁甲，九宫命格，牵羊憋宝，祝由术！】 俗话说，一名二运三风水，风水对人的影响非常大，如财运，身体，姻缘，家庭，都有着很大的影响。 如果一个人很勤劳，不怕吃苦，兜里却依然没有钱，不是他命运不好，就是家里风水有问题。 想不想改变命运，想不想暴富，想的话，就翻开第一页继续往下看……",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/769786ef7bf06064411cd2cb3fe921e7~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781920884&x-signature=JATm6V8b07%2Bcz5%2FVbafly28uKf8%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/769786ef7bf06064411cd2cb3fe921e7~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782007861&x-signature=qI0vUP7wNp%2BWWhZysYOfH2Ilq1E%3D",
           "url": "https://fanqienovel.com/page/7166580408522378292"
+        },
+        {
+          "title": "校花尸变咋办？不怕！我专业对口",
+          "author": "后端工程师",
+          "reads": "46.3万",
+          "intro": "【灵异+恐怖+都市传说+鬼故事+无敌+单女主】 校花同桌上课尸变怎么办？ 多半是装的，亲一顿就好了。 嗯？不是装的？？？ ...... 陆九阳很懵。 上一秒他还是鏖战亿万鬼潮、以身封魔的茅山末代天师， 下一秒竟重生成了一个普通高一学生。 这个世界科技发达，岁月静好，鬼怪只存在于传说之中。 就连茅山，都成了网红打卡的风景区。 累了，乏了，卷不动了。 上一世战斗了几十年想要创造的世界就摆在眼前。 这一世，他只想摆烂，算算命，过上平凡且枯燥的生活。 直到绝美校花泪眼婆娑地拉住他： “陆同学，我好像…被我太爷爷抓伤…” “太爷爷？” “嗯，死了一百年的太爷爷。” 陆九阳：“？？？” 望着眼前尸毒攻心的校花，陆九阳叹了口气。 单手结印！虚空画符！ “业务生疏了，不过…问题不大。” “专业对口，我超强的！” 可谁能想到，校花尸变只是开始。 山城红衣女孩夜夜敲门。 空难录音中传来非人低语。 消失十年的一路公交车再度启程。 百年高校凌晨歌唱的白衣老师。 无数都市传闻变为现实！ “不对啊？这世界不是没鬼吗？！” “就我一个道士怎么扛？？？” “既然如此......” “开坛做法，符咒拉满，物理超度，全都扬了！”",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o78b8e501fb081e2ca3fab3e8104be205~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782007861&x-signature=kMe8f%2B1M2h7yP%2FwmPfgOOFDj%2B9g%3D",
+          "url": "https://fanqienovel.com/page/7543933469701721112"
         },
         {
           "title": "邪物典当铺：只收凶物",
           "author": "虫下月半",
           "reads": "41.8万",
           "intro": "【传统灵异+中式民俗+偏门买卖+邪物怪谈】无CP 这是一家古怪的当铺，专收具有特殊价值的阴邪之物！ 死人嘴里的压口钱，刽子手的刀、坟头菇、肉灵芝、昆仑胎......邪物可害人亦可助人！ 经当铺的手一当一卖，便能变邪为宝！ 升官发财、消灾解难、甚至逆天改命！ 事物没有好坏之分，永不满足的只有人心...... 某些深夜，这家当铺还许多诡异的客人光顾......",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa2c14a9e3f17c79aa07a255784a11b65~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781920884&x-signature=g6sPmREFv0HjfhRw32j5WXYwh%2F0%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa2c14a9e3f17c79aa07a255784a11b65~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782007861&x-signature=7Nli726cC6IMOaV1hEno1qwUCbQ%3D",
           "url": "https://fanqienovel.com/page/7379164201303952409"
         },
         {
           "title": "半夜和镜子猜拳，我赢一把就睡",
           "author": "蟹老板爱吃饭",
-          "reads": "41.7万",
+          "reads": "40.6万",
           "intro": "谢逸之整个家族都有些阴间。 　　高祖是走山客、高祖母是缝尸匠，曾爷是茅山道士、曾奶是奉天出马仙，爷爷扎纸奶奶入殓，爹赶尸妈养蛊，还有祖辈喜欢自己出土…… 因此，谢逸之稀里糊涂就从小被练成了个满级号。 本以为毕业后会承接祖业，没想到却被赶到城里找起了工作，边直播兼职。 这天午夜，谢逸之意外发现，有不开眼的鬼东西溜进了自己家。 恰好有水友问起：“主播，有没有什么办法知道家里有没有鬼的？” 于是，谢逸之就做起来演示，来到镜子前跟镜子猜拳，输了就说明家里就肯定有鬼。 结果谢逸之竟然连输十几把，瞬间红温！ “不行，我得贏一把再睡!” 随之一阵凄厉的惨叫声过后，镜中的‘谢逸之’脑袋冒烟，鼻青脸肿的输了下一轮猜拳。 谢逸之这才满意的拍拍手：“看吧，我赢了，所以说明我家没有鬼。” 网友们：“谁信你啊！” “太阴了，阎王路过他家都得打仨喷嚏！” 【欢乐向乐子文！】【真无敌不是假无敌】【主角零败绩】【民俗中恐】【主角团不会死人】【微量直播】【越看越上头】【50章后起飞！】",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o5121c62c58dbd182efc1f522c1ecb5cb~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781920884&x-signature=FWzyunhogD2P0a9qN6DVC1lkiQQ%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o5121c62c58dbd182efc1f522c1ecb5cb~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782007861&x-signature=t7w%2F40yCvBhB65wmlMDfxcD8AvI%3D",
           "url": "https://fanqienovel.com/page/7432601840895659070"
         },
         {
           "title": "尸生子，鬼抬棺",
           "author": "界玉",
-          "reads": "35万",
+          "reads": "34.4万",
           "intro": "古老偏僻的地方，总会发生许多诡异、恐怖的事情。 　　而这些事情，就发生在华九难身边。 　　甚至华九难就是这些事情的一部分。 　　比如，他是尸生子！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/a20fff6c8549be7167981d0c3595ba81~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781920884&x-signature=TcJirJ%2FC5KA8Z6lDA6SpSfVJVS8%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/a20fff6c8549be7167981d0c3595ba81~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782007861&x-signature=%2BS364Ga5cmNA8N1Q4CTk8TEGIy4%3D",
           "url": "https://fanqienovel.com/page/7024903102301998111"
         },
         {
           "title": "重回八零，我破了命案九千宗",
           "author": "钓月耕云",
-          "reads": "34.6万",
+          "reads": "33.8万",
           "intro": "重回八零年代，陈青峰带着上一辈子的遗憾重新经历了之前尚未侦破的九千宗命案。这一次不同的是，他有机会重新弥补上一世作为警察的遗憾…… 休息了一阵子，又缺钱了，所以开了本新书小。这本不是爽文，无系统，无金手指。只是希望能够写出八十年代的感觉，还有就是写一下很久没有写过的破案题材，顺便说一下，我是八七年的，有些事情我可能都不记得了，欢迎大家指出不足，就这样！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oad16a6ab97050bb1048382a1af7b9b4c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781920884&x-signature=DHY1wHcX3BAQYFtoW7OyAhBAy2A%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oad16a6ab97050bb1048382a1af7b9b4c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782007861&x-signature=o4K2O90dom8Hf9oyne1ifc3BD0o%3D",
           "url": "https://fanqienovel.com/page/7311510229965868051"
         },
         {
           "title": "分手后，我把前女友炼成僵尸！",
           "author": "因帅被罚破产",
-          "reads": "23.3万",
+          "reads": "24.1万",
           "intro": "《破案》、《鬼故事》、《民间传统》 苏云，先秦一脉阴阳家传人。 熟人介绍相亲，认识了女友。 分手后，苏云准备将其炼成僵尸。 就在第七天快炼制成功时，警花却破门而入，将苏云当杀人犯抓进警局。 苏云：“冤枉啊！我前女友可是空姐，肤白貌美大长腿，我哪里会杀她？” “是她自己自杀前，要求我将她炼成僵尸的！” 无论怎么解释，警花只相信科学。 苏云无奈：“要不我将证人请来解释？” “你的证人？” “没错，我前女友…” 苏云挥手作法，阴风吹过，前女友尸体睁开眼自己动了。 苏云：“现在信了吧？我真没有杀人！” 警花与一众警员麻了，看着墙上《科学办案》四个字陷入沉思。 苏云无罪释放！ 数天后，警花亲自找上门。 “苏先生，这里有个大案，还请您出手！” 苏云：我有的选吗？ 随后，医院太平间尸体蹦迪，吓尿一众医生。 在苏云出手下，一件又一件悬疑大案破解，警局领导大为震惊！ “碰上苏先生真是我们局子福气啊！” 苏云：“碰上你们，是老子晦气！” 数年后，一众外国邪教为非作歹，玄门无力支撑时。 苏云振臂一挥，带着被养成旱魃的前女友，横扫所有邪教… 噢！上帝，你看看他干了什么事！ 天！他竟把吸血鬼写上了食谱！ …",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o321a65b59a37140c4549e1a977acaca3~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781920884&x-signature=wcYfG4k6rJuX3zYoNGnowdrMh6Y%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o321a65b59a37140c4549e1a977acaca3~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782007861&x-signature=wRCR6R0QC%2B4WKjMDMpOQ2ZS8MIc%3D",
           "url": "https://fanqienovel.com/page/7428990775863561241"
         },
         {
           "title": "法医：与死者同行",
           "author": "我不是曹魏",
-          "reads": "23万",
+          "reads": "22.8万",
           "intro": "刚毕业加入刑警队的法医沈明发现，他的眼睛总能看到一些别人难以注意到的细节。 在案发现场中的重要线索，在沈明的眼中总是闪着奇怪的红色边框。 那么问题来了，有框的情况下你打不打？ 我叫沈明，一个与死者同行的开挂法医。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/8d2fa64c7c6698d650b2b26f41f642f3~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781920888&x-signature=bYXgc3ukBgKDaVnhy%2BLj8%2FclayY%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/8d2fa64c7c6698d650b2b26f41f642f3~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782007865&x-signature=PolW9BRFH5CXFVY0B0EHXqPm3zs%3D",
           "url": "https://fanqienovel.com/page/7589493688540089368"
         },
         {
           "title": "邪神墨然！",
           "author": "三风11",
-          "reads": "22.4万",
+          "reads": "22.6万",
           "intro": "午夜医院的断头鬼为何频频祈祷？ 荒芜山村的人皮鬼为何不断哀嚎？ 单身公寓的长发女鬼又为何半夜惨叫？ 这一切不是人性的扭曲，更不是道德的沦丧，而是……某人犯病了！ 身处恐怖复苏，厉鬼横行的时代，身穿病服的白渊淡然一笑，自语道： “该给厉鬼来点小小的精神病震撼了！”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/fc34b99dacb5bb83a892650fc3e47b27~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781920888&x-signature=omepbjurytCQ8NB0BPE7oBNmY2Y%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/fc34b99dacb5bb83a892650fc3e47b27~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782007865&x-signature=YOYy1e39ZQn4SGq6mxmuwv8%2BDBA%3D",
           "url": "https://fanqienovel.com/page/7287479909398613032"
         },
         {
           "title": "模拟犯罪十万次，我竟成王牌神探",
           "author": "初秋微寒",
-          "reads": "20.5万",
+          "reads": "21.8万",
           "intro": "【刑侦+犯罪+无敌+全能+硬核破案】 能制造完美案件的凶手，定也是最强的王牌侦探。 刚考上警校的苏铭，意外获得了睡梦中模拟犯罪的能力。 每当模拟完美犯罪，无人在追诉期内找出凶手，便可获得在犯罪中所使用的各种技能。 模拟完美犯罪十万次，获得无数技能。 本应成为头号罪犯的苏铭，毕业后转身加入刑侦大队。 所有案件在其眼中，如同小儿科般错漏百出，一个简单的细节漏洞都能直指罪犯！ 随着接连破获众人眼中的完美犯罪和多年悬案，全国惊呼苏铭为真正的王牌侦探。 一等功胸前都挂不上，警衔短时间内五连跳。 当罪犯？不可能的！ 不如当个刑警轻松破案，功成名就！！！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o7c1ad2733ad182d63d7428cff24fcca6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781920888&x-signature=%2B8LxeoyuA7xIVSleZNSUAOQPmL4%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o7c1ad2733ad182d63d7428cff24fcca6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782007865&x-signature=xLQIMZGECHH1ypLxHUdz1lbq54M%3D",
           "url": "https://fanqienovel.com/page/7254152548817308731"
         },
         {
           "title": "我靠死人吃饭",
           "author": "王一帆",
-          "reads": "20.4万",
+          "reads": "18.8万",
           "intro": "【丧葬民俗】+【灵异】+【风水道术】 内容根据真实事件改编，人物地点已做微调处理。 死后不闭眼，黑猫哭坟，井下哭声，寡妇半夜哭丧，老头给儿子下跪…… 这些诡异背后，藏着更毒的人心",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc7c1cb90170390ab807a86b2b8bd9e09~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781920888&x-signature=UOQZcFBd88ehNgg3dRklYusCsWA%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc7c1cb90170390ab807a86b2b8bd9e09~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782007865&x-signature=rnMA7qLFAa2uUH0d7fX%2F%2Bwd5Ers%3D",
           "url": "https://fanqienovel.com/page/7570547600533752894"
-        },
-        {
-          "title": "九叔：从被石坚救下开始",
-          "author": "Mo疯",
-          "reads": "17.2万",
-          "intro": "（本书慢节奏，九叔戏份多，主角不单飞，也不算超人，中途会有挫折，但是有福同享，喝水不忘打井人） 方启这辈子就俩愿望：收租、躺平、混吃等死到一百岁。 直到一个从天而降的行李箱，把他砸进了九叔的僵尸世界。 好消息：被茅山大师兄石坚亲手救下，他把方启交给了九叔抚养。 坏消息：方启欠他一条命。 从此，方启的人生目标被迫更新：一边在九叔的严厉的教导下成长，一边琢磨着怎么把自家那位随时可能黑化的大师伯从鬼门关前拉回来。 行吧。 这个家，没他得散。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o50820eb635c9b34cf495032e819214d8~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781920888&x-signature=mmPENVkvNpvDP5HW8SjTn5fCkyE%3D",
-          "url": "https://fanqienovel.com/page/7609607882551610392"
         },
         {
           "title": "东北出马笔记",
           "author": "吴半仙",
-          "reads": "17.4万",
+          "reads": "17.7万",
           "intro": "一块红布三尺三，老堂人马老堂仙，有朝一日出深山，名扬四海万家传！ 八十年代，我出生在东北农村，七岁那年大仙说我命犯三灾八难，将来会出马顶香，我不信，却屡遭磨难。为了谋生，我当过服务员，跑过业务，开过出租……但命运就像施加了诅咒，我身边不断发生各种邪乎事，无奈之下，我成了一个出马仙。 （本文取材真实故事改编，相关人物、剧情皆为虚构，请勿盲目照进现实，谨防上当。）",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/3036e6c6c56335ce9ba395170e197d08~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781920888&x-signature=3kl%2BPg91F0QnQdNDkqpN7qLm7XA%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/3036e6c6c56335ce9ba395170e197d08~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782007865&x-signature=v0f9jDoCeVpy6wBxXS%2BKVg3i0XI%3D",
           "url": "https://fanqienovel.com/page/7101613458101111812"
         },
         {
@@ -402,32 +408,40 @@
           "author": "徐二家的猫",
           "reads": "17.3万",
           "intro": "永夜过后，恐怖复苏。 十里荒坟，诡异的歌声。 寻找双臂的老人，无头的婴儿... 他们不停的拼接着自己的身体，爆发出更恐怖的气息。 荒土中，一只断手，都可以毁天灭地。 在这种黑暗，绝望的环境下，一座若隐若现的邮局... 一名神秘的年轻人，一辆行驶于虚空的邮车... 一封又一封血红色的信件，成为了人们口中的禁忌... ————鬼差。 PS：无女主或者单女主（不要乱猜，至少不是周涵）",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o334dad984c08b620210723e1dc165054~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781920888&x-signature=EUJLO7FY1ysNZ1AnLTG3E9FyCsw%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o334dad984c08b620210723e1dc165054~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782007865&x-signature=j7XASPYepL8%2BczZ5c%2Bq5GZiwfjg%3D",
           "url": "https://fanqienovel.com/page/6942441629332540423"
+        },
+        {
+          "title": "九叔：从被石坚救下开始",
+          "author": "Mo疯",
+          "reads": "16.3万",
+          "intro": "（本书慢节奏，九叔戏份多，主角不单飞，也不算超人，中途会有挫折，但是有福同享，喝水不忘打井人） 方启这辈子就俩愿望：收租、躺平、混吃等死到一百岁。 直到一个从天而降的行李箱，把他砸进了九叔的僵尸世界。 好消息：被茅山大师兄石坚亲手救下，他把方启交给了九叔抚养。 坏消息：方启欠他一条命。 从此，方启的人生目标被迫更新：一边在九叔的严厉的教导下成长，一边琢磨着怎么把自家那位随时可能黑化的大师伯从鬼门关前拉回来。 行吧。 这个家，没他得散。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o50820eb635c9b34cf495032e819214d8~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782007865&x-signature=Xx29dtnFE7Y%2FjYnbhFjQqqdSTaw%3D",
+          "url": "https://fanqienovel.com/page/7609607882551610392"
+        },
+        {
+          "title": "你一个交警，抢刑侦的案子合适吗",
+          "author": "似水留年",
+          "reads": "16.4万",
+          "intro": "穿越平行世界，变成了一个警校毕业生。 徐麟接到分配单位的时候，一脸茫然。 他一个从刑侦专业全优满分毕业的准刑警，被分配到了交警队，这是几个意思？ 不让我干刑侦是吧？ 那好办，我交警也是可以抢刑侦的活儿的。 上班第一天，连抓7个惯偷，1个绑架杀人犯。 第二天，抓捕一个B通。 第三天，挖出了隐藏10年的惊天大案主犯。 第四天…… 交警大队队长：“祖宗，咱是交警，你咋天天往刑侦那边送人？” 局长：“谁？谁让徐麟去交警队的，给老子站出来。彻查，一撸到底！” 罪犯之中流传着一个传说，“哪里都能去，江云市除外。去了，必被抓！”",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o5a390dacd29035884bf84277d81afc30~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782007865&x-signature=AG%2BqawaeINwCeFjvg4qa5wXcjl8%3D",
+          "url": "https://fanqienovel.com/page/7254059928380247078"
         },
         {
           "title": "毕业后不做牛马，去当赏金猎人",
           "author": "写的什么垃圾",
-          "reads": "16.2万",
+          "reads": "16.4万",
           "intro": "【搞笑+架空+微悬疑+冒险+都市+无女主】 调查十几年前的凶案，与变态杀人狂斗智斗勇。 穿越无人敢进的原始丛林，在天坑之中寻找落难者的尸体。 进入10万大山之中的神秘村庄，寻找一位小女孩…… 是什么让一位刚毕业的大学生踏上了这样的不归之路？ 这一切还得从一间凶宅，一个女鬼钻被窝开始说起。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o7c504bf7c78b7f6ee09275ca039b006c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781920888&x-signature=asqKfdPcU9S6F3tgbUyGr92IjkY%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o7c504bf7c78b7f6ee09275ca039b006c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782007865&x-signature=9yUQBsruoDdVuzGwyBViivB6lLc%3D",
           "url": "https://fanqienovel.com/page/7427437091522350142"
         },
         {
           "title": "我在娱乐圈当风水顾问的那些年",
           "author": "苦瓜炒花蟹",
-          "reads": "15.7万",
+          "reads": "15.8万",
           "intro": "尸油口红，养小鬼，请狐仙，刺符，为了红，为了火，一些明星无所不用其极。 我叫陈天，是一名混迹在娱乐圈的风水顾问，专门替这些以特殊手段火起来的明星处理善后事宜。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2odd82072ff4550dba68fac90a34e0273f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781920888&x-signature=lEoNv4RLB2PMGINm6tVrmL%2BBUbk%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2odd82072ff4550dba68fac90a34e0273f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782007865&x-signature=kkh44KwdjtqXIro52kI%2F%2BK5TlHk%3D",
           "url": "https://fanqienovel.com/page/7236273166312541221"
-        },
-        {
-          "title": "神探重生：谁破案用金手指啊",
-          "author": "墨燃乔",
-          "reads": "15.5万",
-          "intro": "【神探穿越+系统辅助+刑侦破案+甜宠+情感拉扯+不定时发刀】 国际顶级侦探苏御霖，一朝穿越成林城刑侦队里公认的“小透明”，本想安稳“混编制”，摸鱼度日。 可偏偏，一桩桩离奇悬案接踵而至，也让他这个“透明人”再也藏不住了。 支队长：这小子平时闷声不响，能行吗？ 一战成名后，他屡破奇案！ 当所有人都为他的神级操作震惊时，队里的警花，美女法医俏脸微红问他： “苏御霖，经过缜密分析，所有证据都表明……我喜欢你。你，认罪吗？”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob2f2be9bf5f43a3c4c899e41b4796544~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1781920888&x-signature=sjnpXXtGf30Ng0IwhwbLr615Yh4%3D",
-          "url": "https://fanqienovel.com/page/7495953376614566974"
         }
       ]
     }
