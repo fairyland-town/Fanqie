@@ -1,80 +1,72 @@
 {
   "type": "动漫衍生",
-  "date": "2026-06-22",
-  "prev_date": "2026-06-20",
+  "date": "2026-06-23",
+  "prev_date": "2026-06-22",
   "category": {
     "name": "动漫衍生",
     "trend": {
       "new_count": 1,
       "dropped_count": 1,
       "new_books": [
-        "宝可梦：颜狗的大师之路"
+        "聊天群：智识令使想要开拓万界"
       ],
       "dropped_books": [
         {
-          "title": "聊天群：智识令使想要开拓万界",
-          "intro": "穿越癫佬横行的星穹铁道，昔年，因向往星空，所以登上了星穹列车，阅览无尽寰宇的风光…… 那是一段令赫尔墨斯至今都还在怀念的岁月，他曾一度认为，他会在开拓的道路上越走越远，但就在他走到令使的门槛的时候，阿"
+          "title": "树屋求生：班级全员恶人",
+          "intro": "【轻松搞笑、种田安稳发育、节奏稍缓、全新题材、不喜也可来偷图】 （评分刚出来，初始评分会慢慢涨上来的） 天道以死，哈基道当立。 全班穿越灰烬世界，就他一个男生，就连导员都是自带篮球的美少女。 开局一颗"
         }
       ],
       "top_risers": [
         {
-          "title": "树屋求生：班级全员恶人",
+          "title": "宝可梦：颜狗的大师之路",
+          "change": "+4"
+        },
+        {
+          "title": "战锤40k搜打撤，塔暗州",
           "change": "+2"
         },
         {
-          "title": "崩铁：黑塔女士这么看我怎么办？",
-          "change": "+2"
-        },
-        {
-          "title": "宝可梦：凭什么你的梦妖叫振翼发",
+          "title": "忍界：我的短视频震惊众人",
           "change": "+2"
         }
       ],
       "top_fallers": [
         {
-          "title": "火影：九尾之夜，雷光万劫",
-          "change": "-2"
-        },
-        {
-          "title": "火影：为躲灭族，我润进了晓组织",
-          "change": "-2"
-        },
-        {
-          "title": "宝可梦：卖咖啡后成了传奇培育家",
-          "change": "-2"
+          "title": "混在综漫的悠闲生活",
+          "change": "-3"
         }
       ],
       "reads_growth": [
         {
           "title": "规则怪谈：狗熊岭扮演光头强开始",
-          "growth": "+5.6万"
+          "growth": "+2.1万"
+        },
+        {
+          "title": "宝可梦：颜狗的大师之路",
+          "growth": "+1.0万"
         },
         {
           "title": "莫慌退至老祖身后",
-          "growth": "+1.6万"
-        },
-        {
-          "title": "宝可梦：凭什么你的梦妖叫振翼发",
-          "growth": "+1.0万"
+          "growth": "+9000"
         }
       ],
-      "summary": "新增1本上榜；1本掉出（《聊天群：智识令使想要开拓万界》）；《树屋求生：班级全员恶人》排名上升+2位；《规则怪谈：狗熊岭扮演光头强开始》阅读量+5.6万。"
+      "summary": "新增1本上榜；1本掉出（《树屋求生：班级全员恶人》）；《宝可梦：颜狗的大师之路》排名上升+4位；《规则怪谈：狗熊岭扮演光头强开始》阅读量+2.1万。"
     },
     "books": [
       {
         "title": "我在战锤抽词条，帝皇站起来了？",
         "author": "忠不可言呐",
-        "reads": "56.5万",
+        "reads": "56.6万",
         "intro": "【男主无cp😁➕哆啦A梦童年漫主角😁➕人类无敌😁，男女老少通通能看😁】 “我穿越了。战锤40k。不知道哪个星球，应该是一个沦陷区废弃巢都底层洞穴，混沌邪物不断闪烁，周围还有混沌信徒在巡逻。系统给我第一个词条，【手电筒】。对，不是激光枪，是特么的手电筒。帝皇啊，你在吗？” 一开始其实我挺慌的，直到我摇出了这五个能力。 1，三十日【与任何敌人交战都能撑过30天】。 2，免疫灵能但自身可使用灵能。 3，超级灵能【将灵能提升至极限】。 4，短暂屏蔽虫巢意识【可根据灵能强度控制一定数量泰伦生物】。 5，让帝皇以巅峰状态离开王座且不会成神。 ……不是，什么？等下？你说什么？？你说我能干嘛？？？？ 原来我是人类的外挂。【确信】 * 亚空间那四个你们给我等着，挨个儿点名，不留活口。还有你们，外边那一群，太空死灵，灵族，兽人，钛，你们都给我等着。还有你，泰伦虫族，没说你是不？ “不知道啊，什么人类低谷？什么黑暗世界？我只是个什么都不懂的外挂，有什么话你们和站起来的帝皇说去吧。” * ：集合，打架了。 ：你还指挥上了。 ：刚刚帝皇站起来了。 ：打谁，打哪里？！ ：打！都打！上！都上！ * 没看过战锤也能看",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oeeda5d880223918659fc57942c929ce1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782699464&x-signature=mXn9Ep86PlFrHowT%2B7O1EEGOvkg%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oeeda5d880223918659fc57942c929ce1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782784624&x-signature=TKpfvVls%2FAaq8FXVwdtUwfydhvM%3D",
         "url": "https://fanqienovel.com/page/7631418979428355097"
       },
       {
         "title": "咒回：特级的我去死灭打宿傩了！",
         "author": "皮卡堂布拉特",
-        "reads": "54.1万",
+        "reads": "52.9万",
         "intro": "【咒术回战+死灭回游+斗傩大陆+伪模拟+无敌文】 如果让你在与白月光修成正果，或者拥有特级实力并参加死灭回游里选一个的话，你会选哪一个？ 芥剑也没想到自己只是帖子下手贱发了一个评论，说想要看看宿傩是不是真的这么难打。 然而让他没想到的是，自己竟然真的穿越到了咒术回战的世界里，并成为了死灭回游的玩家！ 看着自己面前的死灭回游结界，芥剑一开始是拒绝的。 网上说说得了，现实里谁还真想急头白脸的去给宿傩挠挠痒啊！ 然而，当芥剑得知自己可以死后回档时，瞬间就不一样了！ 送他来这个世界的力量给了他一个系统，在他正式击败宿傩之前，他的每次死亡不光能复活回到最开始，而且还都能根据他的表现获得不同的奖励。 得知自己不会死的芥剑彻底不怕了，不就是宿傩吗？办他！ 他已经来不及为五条悟的死亡而哀悼了！ 接下来要上场的是仅仅因为发了个评论就获得了特级咒术师实力的芥剑！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o5e1d3a20b94cedaf22c5df3beb4138a5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782699464&x-signature=oXASjENQLVRfl%2B%2Bs3NNXlWa1EDc%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o5e1d3a20b94cedaf22c5df3beb4138a5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782784624&x-signature=PGWjb28beyySnOBVvBQCSTTY1TE%3D",
         "url": "https://fanqienovel.com/page/7628071472921054233"
       },
       {
@@ -82,63 +74,55 @@
         "author": "帝俊有话说",
         "reads": "40.4万",
         "intro": "（评分刚出，后面会涨！）穿越超神学院，刘昊人都麻了，就在他思考如何在这诸神混战，虚空降临的世界上存活下来时，他的系统觉醒了，而就在他因为系统觉醒而高兴的时候，聊天群来了......",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o58d8238746f7d2bf26d3480325b38220~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782699464&x-signature=gZR%2BPfrJ5jhNrubUyLi3ItjGwgM%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o58d8238746f7d2bf26d3480325b38220~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782784624&x-signature=XnXnlUUUNUkEOeufVAoDyZICTvE%3D",
         "url": "https://fanqienovel.com/page/7630752636244872254"
       },
       {
         "title": "规则怪谈：狗熊岭扮演光头强开始",
         "author": "故梦的青春",
-        "reads": "33.1万",
+        "reads": "35.2万",
         "intro": "【动漫规则怪谈（第一个熊出没）＋微恐＋悲壮＋主角有脑＋国运＋无cp】 “别人的童年越来越模糊，我的童年咋越来越邪乎？” “不是！熊大熊二你咋入编了？喜羊羊你咋也有编制？连海绵宝宝都有了？” 蓝星诡异降临！怪谈席卷全球！ 每个国家都会抽取天选者，参加怪谈！ 龙国连败七场，一度处在灭国的边缘！ 最后一场，怪谈居然还是传说中的S级怪谈副本！ 穿越到蓝星的陈庆，得知这个世界怪谈林立，困难重重，本来很慌。 一看怪谈！ 狗熊岭怪谈？羊村怪谈？成龙历险记怪谈？比奇堡怪谈…… 好家伙！ 没想到怪谈全都是自己曾经的童年啊！ 那还说啥？都是哥们！ 陈庆一点也不慌了。 在怪谈中，陈庆扮演光头强，对着诡异熊大熊二就是干。 “我强天帝，狂一点怎么了？” 在羊村扮演懒大王。 “我懒羊羊大王懒一点怎么了？” 在比奇堡扮演海绵宝宝。 “我准备好啦！我准备好啦！” 在成龙历险记扮演成龙。 “小玉，这个太危险了。” 世界各国：“不是，陈庆为啥每个怪谈，他都能精准扮演角色？呜呜呜，求带！” …… 当陈庆彻底攻克怪谈那一天，怪谈的诡异这才恍然大悟，回想起那普通的一天。 那一天，怪谈世界来了个大爹！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/c8ca2594e45141b0eff22ac4ed6cba2f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782699464&x-signature=LN0gKwnEZtmGST1EggA%2F%2FGH5S20%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/c8ca2594e45141b0eff22ac4ed6cba2f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782784624&x-signature=u14cAKWVBVrLVRJxUjuWZlS2V%2Bg%3D",
         "url": "https://fanqienovel.com/page/7581902917842521150"
       },
       {
         "title": "莫慌退至老祖身后",
         "author": "颓废的火把",
-        "reads": "27.4万",
+        "reads": "28.3万",
         "intro": "【评分刚出之后会涨】 【超神宇宙，自主进化，前期和其他势力交互较少，可以当历史灵气复苏来看，群像，玄幻历史】 咸阳一念破鸿蒙，武道源开赤县中。 秦汉薪火传千载，唐宋锋棱贯九穹。 江山兴废如流水，道统沉浮未改容。 不借诸神天外法，诸夏群星耀九州。 穿越大秦，不负你们所望，秦始皇养成了，灭六国提早了，火药发明了，我自己也天下无敌了。 天上来敌了。 三滴精血让咸阳宫血流成河，一伙流民让大秦分崩离析。 暗能就在这，尔等能用，我诸夏自然也能用！ 布武天下，由我开始！至此，从两千年前开始，诸夏在暗能的道路上一路狂奔。 那时，德诺文明还在漂流，烈阳文明还在舔舐伤口，天使文明与恶魔文明的战争席卷星空，武道种子开始发芽。 两千年后，武道昌盛，高手如云，三王同临，遮天蔽日。 莫慌，我诸夏自有底蕴。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oba9cf120761b45e795757a917d5631fb~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782699464&x-signature=VslrFbF0LD%2BVfeCdmtjVsmzYgXo%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oba9cf120761b45e795757a917d5631fb~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782784624&x-signature=vqSQx0x5kQJZ4%2FrHGWqiS8Tw%2Fnk%3D",
         "url": "https://fanqienovel.com/page/7626395496524827710"
       },
       {
         "title": "崩铁：我要验牌，牌没问题",
         "author": "明镜本无尘",
-        "reads": "22.6万",
+        "reads": "22万",
         "intro": "【已有200多万字的9.1分完结作品。】【本书初始评分已出——6.7分，正在缓慢上涨中。】【无if线cp】 【会变身男、女角色，建议这种剧情的请划开。】 秦随安穿越到崩铁的世界，发现每个人的头顶上都有无数张流光奕奕的卡牌——那昭示着各种if线或同位体的角色命运。 他愿称其为：天阶斗技·鬼上身。 毕竟想要获得卡牌的力量简简单单，可想要他们降临还要满足他们的愿望。 秦随安：谁TMD能够告诉我，为什么我可以从大黑塔脑袋上抽出【纯美令使·大黑塔】这么离谱的玩意。 【千冶·应星】：“求死不得，根本不是在赎罪，我的剑未尝不利！我要亲手宰了他！！！” 【无明剑首·彦卿】：请代我用这双眼睛看看以前的罗浮，告诉将军一声“我……我做到了”。 【持明龙尊·白珩】：我成功了！成功了！！化龙妙法，镜流、应星、丹枫、景元我成功了！！！你们不要、不要抛下我…… 【自灭者·花火】：人心的卑劣，远比灾难更可怕，这样的世界从一开始就不存在真正的救赎。 【秩序圣女·知更鸟】：我总是学习他，模仿他，尽可能的复制他，把自己变成他，却不想有天……真的离开他。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9fcebf52e00b52b26293b4eacecfd735~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782699464&x-signature=vg7osWH0%2FabxEruy28q0niBTh6I%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9fcebf52e00b52b26293b4eacecfd735~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782784624&x-signature=OdKnQpG7VXJiFaVub4O2GApn%2F%2Fo%3D",
         "url": "https://fanqienovel.com/page/7621934618249284670"
-      },
-      {
-        "title": "树屋求生：班级全员恶人",
-        "author": "我是人間惆怅客",
-        "reads": "22.4万",
-        "intro": "【轻松搞笑、种田安稳发育、节奏稍缓、全新题材、不喜也可来偷图】 （评分刚出来，初始评分会慢慢涨上来的） 天道以死，哈基道当立。 全班穿越灰烬世界，就他一个男生，就连导员都是自带篮球的美少女。 开局一颗移动树屋，游走于危机四伏的灰烬世界，资源与危机互相交织。 残酷末世，恶人当道，如何生存？ 呃……不好意思，剧本拿错了。 他们全班恶人，连路过他们的蚂蚁都得少条腿。 末世求生？nonono！ 该求生的，是这个末世！ 温馨提示：满18年人，请在被窝里独自观看。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o33a877a8059dc94192324673739c2cc0~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782699464&x-signature=liN2sMgUw6gciyuMiy866tqqpo8%3D",
-        "url": "https://fanqienovel.com/page/7591551358407298110"
       },
       {
         "title": "火影：九尾之夜，雷光万劫",
         "author": "风尘雨画家",
-        "reads": "21.9万",
+        "reads": "21.3万",
         "intro": "【宇智波】【无敌流】【老一辈打法】【自私自我】【梦想一心】【纯手搓】 （评分刚出，会涨） 一朝穿越，变成宇智波的炮灰中忍。 面对即将到来的九尾之乱以及宇智波灭族，宇智波玄夜想了不少办法，但最后都因为实力不足，人微言轻不被采纳。 关键时刻，等候多年的金手指终于成功到来。 有了足够的实力后，给木叶f4上的第一课，就是木叶警备部的权力可以是无限的。 木叶刁民的污蔑？一棍打腿防止逃跑，一棍打嘴防止求饶。 团藏搞事情？当众斩杀，并立罪人铜像让他受万事唾骂。 当九尾的身影在木叶上空咆哮，宇智波玄夜当着所有人的面，一刀斩出一道无想刃狭间！ “诸位，这个时代，是属于我宇智波玄夜的！” “谁赞成，谁反对？”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9335286ad0747e6f2fe61be7bd49f618~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782699464&x-signature=6Zo6BaDrcopAKBINrj0l4rJ3hhk%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9335286ad0747e6f2fe61be7bd49f618~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782784624&x-signature=tuvCwqcQ83pg1oUiHbPch1kJKBc%3D",
         "url": "https://fanqienovel.com/page/7637177044412943385"
       },
       {
         "title": "副本时代，开局伪装未来恩佐！",
         "author": "胖胖的白泽",
-        "reads": "21.7万",
+        "reads": "21.3万",
         "intro": "副本降临蓝星，穿越而来的楚智发现这些副本都是自己前世大火的游戏。 原神、崩铁、洛克…… 楚智觉醒继承天赋，可以继承前世自己的存档。 第一个副本，洛克王国。 “恩佐，你要明白，雪莉老师是因为你太弱小才会牺牲！” “在我眼里，什么都没有她重要！” “恩佐，你根本不明白雪莉老师对我的意义！” 恩佐：你说的都是我的词啊！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o69711aee9a0dbd29524e16867438c640~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782699464&x-signature=Y8Lw8dKmqD%2BQURacJl6HXsaed6E%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o69711aee9a0dbd29524e16867438c640~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782784624&x-signature=sQPve%2FSDdgYraLUekWQ%2Bi3%2BcKuI%3D",
         "url": "https://fanqienovel.com/page/7633660267087268926"
       },
       {
         "title": "崩铁：我死后，成就她们的疯魔",
         "author": "三十度幻",
-        "reads": "20.4万",
+        "reads": "20.2万",
         "intro": "【多女主，不喜勿入】【崩铁】【不玩原作也能看】 第一世，祁知慕是阮·梅的学生。 “你出师了，离开吧，研究结束前，我不会再见你。” “是…老师……” 祁知慕孤身离去，却并未走远，隐居故地。 从此只每年寄去梅花酿，从不打扰。 直至老死，都没能等到阮·梅结束禁忌研究。 很久后，当阮·梅走出研究室，得知祁知慕死去的一瞬，她恍然惊觉—— 她的世界里，早已处处都是他的影子…… 揭开过往真相才发现，是自己亲手缔造，却又葬送了一切。 第二世，祁知慕是镜流的师父。 “师父，你为何从来不肯多看我一眼？” “师父，你心里最柔软的地方，为何没有容纳我的位置？” 她日渐靠近，也日渐绝望，逐渐黑化。 直至见证祁知慕的死亡，她才明白—— 原来师父心里最柔软的地方，一直都是自己。 “呵呵呵…师父，你骗得徒儿好苦……” 第三世…… 祁知慕尊重生命轮回法则，坦然面对每一次死亡。 生来坦荡，死亦从容，不携执念，不染尘哀。 只是，悔恨灼心与抱憾终身的她们，并不这么想。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob25289d6e13c4bb58936e5a597d51f7a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782699464&x-signature=PWJWr8IklRQmeSM68ngUxXdKR%2B0%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob25289d6e13c4bb58936e5a597d51f7a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782784624&x-signature=ZYwT3c9xHGsKuiYcddjrf1ssorg%3D",
         "url": "https://fanqienovel.com/page/7579769326991854654"
       },
       {
@@ -146,79 +130,87 @@
         "author": "悠险",
         "reads": "19.6万",
         "intro": "【日常】【单女主黑塔女士】【主角会成智识令使】【会有原创星球】 “黑塔女士，您怎么看您的助理白栾总是对外声称不是天才这件事？” “我不看，我看见他只会让他滚回来干活。”——该对话出自一次对黑塔女士匆忙采访。 白栾被系统重生在崩坏星穹铁道世界的大黑塔面前，这时候，黑塔空间站还未升空，模拟宇宙还没开发…… 系统对着白栾发问：『为何要敬畏生命？』 然后塞给了白栾两个金手指：无限练习时长的小黑屋和把自己制作的物品变成奇物的能力。 于是白栾为了帮助系统搞明白这点，他要活得尽量精彩一些，于是他…… 忽悠大黑塔说自己能看得见命运，让欢愉星神背黑锅，见证黑塔空间站升空，成为大黑塔的助理和空间站站长，尝试用手接星核，把真理义父五十二门课全修了，在天才俱乐部成员面前装天才，帮助构建模拟宇宙…… 随着自己陪伴大黑塔的时间变长，大黑塔看向自己的眼神开始有了些许的不对劲……她好像真觉得我是个天才…等等，怎么博识尊也看我了？！你怎么也被我骗到了！？事到如今，我说我不是天才，你们还信吗？",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe2e8639d35eabdfd36eaa5b87ec8d237~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782699468&x-signature=n57ggwRvuJ3Zg9EucBYmh4BDTwk%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe2e8639d35eabdfd36eaa5b87ec8d237~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782784624&x-signature=TnhmircmcZd%2BCj4wKp1%2F5KRTPlE%3D",
         "url": "https://fanqienovel.com/page/7514800975710800921"
       },
       {
         "title": "一人：开局击杀夏禾，我正的发邪",
         "author": "孟良柒",
-        "reads": "19.4万",
+        "reads": "19.2万",
         "intro": "【一人同人，系统，搞笑轻松，无敌，无女主，杀伐果断，正的发邪，没有洗白夏禾...】 张玄霄穿越到了一人世界，幼时父母惨死在全性手上，侥幸没死的他被老天师带到龙虎山，成为了张灵玉的师哥... 身为天师亲传弟子，又有丧亲仇恨，这一世张玄霄发誓见一个全性便杀一个全性... 全性:“张道长，我错了，饶我一条活路吧。” 张玄霄:“你不是知道错了，你只是知道你要死了！” 夏禾:“难道就因为我是全性，就该死么？” 张玄霄:“你不死难道我死？妖女速速受死！” 哪都通:“他已经投降了，玄霄真人收手吧！” 张玄霄:“一天是全性，一辈子都是全性！” ... 就在张玄霄除魔卫道之时，他又觉醒了正义系统，只要行心中正义之事就能获得奖励... 自此一位正的发邪的天师府弟子出现了。 全性:“这哪里是正道啊，他比我们全性还全性！”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o47494db849a38d8f071967ab46f472e4~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782699468&x-signature=y6FMLZraIJPGYeS%2BHe61ZjiHoTM%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o47494db849a38d8f071967ab46f472e4~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782784627&x-signature=z1U%2FJooWvt1cAlFpK7UUkQblBrQ%3D",
         "url": "https://fanqienovel.com/page/7471211401080491033"
       },
       {
         "title": "宝可梦：凭什么你的梦妖叫振翼发",
         "author": "麻辣巴子",
-        "reads": "18.9万",
+        "reads": "19.2万",
         "intro": "【神奇宝贝+宝可梦+精灵+羁绊+“热血”+慢热】 有些慢热的文，不是开场既无敌的爽文。 穿越者罗伊一觉醒来发现自己穿越到了丰源地区的送神火山，觉醒了热度值系统。 只要让幽灵系宝可梦的热度值提高就可以用获得的热度值兑换系统商店中的商品。 为此他不得不踏上获得热度值的道路，不过怎么走着走着他就到了八大师的决斗场了？ 下面，让我们有请八大师的第一位，合众联盟新任冠军……罗伊！！！！！ 让我们来看看身边人对他的评价吧？ 芙蓉：“罗伊，为什么你的梦妖这么大，这么强！” 罗伊：你礼貌吗？叫发姐！ 大吾：罗伊是我见过最恶…有战术的训练家。 米可利：畜牲，纯畜牲啊！ 竹兰（害羞没有说话）",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/a9fbb37040e78aead973d48faab9f018~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782699468&x-signature=OW%2BAGZjaiHVY2HTwbIddJZG3oMI%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/a9fbb37040e78aead973d48faab9f018~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782784627&x-signature=hIhOovbpDmi85HQ6TC2%2Bcp%2BmNqk%3D",
         "url": "https://fanqienovel.com/page/7603666406235704345"
       },
       {
         "title": "火影：为躲灭族，我润进了晓组织",
         "author": "coke牢大cp",
-        "reads": "18.1万",
+        "reads": "17.6万",
         "intro": "无金手指＋有脑慢热＋单女主，比较现实流忍界世界观 本书又名：我在忍界考古变强 会讲关于战国时期，千年来其他因陀罗阿修罗转世者的故事。 我叫宇智波叩，是个穿越者，与其他穿越者不同，没有什么系统与金手指，天赋也只是中上游，原本想要靠着穿越者先知先觉的优势走上人生巅峰，却因为实力不足而处处碰壁，既没能改变从小一起长大的宇智波带土的黑化，也没能成功阻止九尾之乱的发生。 看着逐渐长大的宇智波鼬，为了逃离那即将到来的宇智波消消乐，我十分从心的选择了开润。 然而，就在我叛逃不久后，恰好偶遇了那以变成神经病的宇智波带土。 为保全性命，我开盒了他的身份，并靠着昔日好友的身份加入了晓组织，某种意义上躲过了灭族之夜的灾难。 然而正当我准备在暗地里猥琐发育，凭借着对未来知晓的情报给自己找寻后路时，却发现事情的发展好像和自己预想中的有些不太对？ 带土：“我要创造一个叩可以真心笑着的世界！” 阿斯玛:“叩那么好的人怎么可能叛逃？！怎么想都是老爹你的错！! 叩他，他可是能够成为我父亲的男人！！ 有着灵魂状态下的父母陪伴的鸣人： “木叶刁民就是欠揍，不打不行！！” 叩：不是？这究竟是怎么回事啊！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2806307a025ad6d800123fe0d6e75611~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782699468&x-signature=ATgGUE%2FWB3NpDcd33bAK%2BiF3Dc0%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2806307a025ad6d800123fe0d6e75611~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782784627&x-signature=yn8FbGPkplm%2FbgH1ipHZLeRKWAQ%3D",
         "url": "https://fanqienovel.com/page/7622918004170312729"
-      },
-      {
-        "title": "混在综漫的悠闲生活",
-        "author": "梦溪州O",
-        "reads": "17.2万",
-        "intro": "【蜡笔小新+哆啦A梦+柯南为主世界观的东京泡沫年代文，恋爱+日常文，节奏缓慢，】 落榜画家小山龙马搬到了春日部。 这里有爱闹腾的野原一家，有总在烦恼的大雄和神奇的哆啦A梦，还有宛如死神一般的柯南。 而龙马只想画画漫画，谈个恋爱，过自己的悠闲生活。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o52a7421f3818339e0a17e7cef09e2cea~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782699468&x-signature=ioOOoSOtrTKz0I8nDkpT3nXF8tY%3D",
-        "url": "https://fanqienovel.com/page/7592465471425760280"
       },
       {
         "title": "战锤40k搜打撤，塔暗州",
         "author": "啊，生活",
-        "reads": "17.6万",
+        "reads": "18.3万",
         "intro": "（战锤40k，搜打撤，摸大金，跑刀鼠鼠，狙击鼠鼠，屯屯鼠。） 帝国行星防卫部队和叛军战斗过后，战场散落大量报备，拥有搜打撤系统的李秦武开始自己的刮地皮事业。 战死士兵的激光枪？拿了，打的3级弹呢。 甲壳甲？拿了！4级甲呢。 战死政委的爆弹手枪，哇！打的五级弹！ 被击毁的黎曼鲁斯坦克，里面居然掏出大金坦克电池！ 全部带回底朝藏身所！卖给各大帮派联络人，兑换建筑材料，升级藏身所。 藏身所制造精工机关枪，大功率电池，穿上6套动力甲，上战场猛攻异端，加帝皇好感度，飞升黄金马桶！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/762a24e420518509d7286e80d3652640~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782699468&x-signature=rzZvOI1YDe9%2FhRFxQhieGCWzoPA%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/762a24e420518509d7286e80d3652640~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782784627&x-signature=eTu1zQ2T2TEmOOt5dDzGBslku0k%3D",
         "url": "https://fanqienovel.com/page/7559879286786624574"
-      },
-      {
-        "title": "柯南：被琴酒抓进酒厂当苦力",
-        "author": "成为新时代的废物",
-        "reads": "17.1万",
-        "intro": "【同人＋红黑交织＋撞脸宫野志保＋本地人】 时源悠这辈子最大的愿望就是当一辈子的废柴，该吃吃该喝喝，没想到出门一趟因跟宫野志保长得像就被琴酒抓进了酒厂，碰巧有着出于常人的制药天赋接替了宫野志保的工作研发A药。 时源悠后来发现自己天赋这么强，枪械射击样样精通，只是原来自己太懒了不知道，于是全能大师的时源悠被迫在酒厂当起了苦力。 酒厂boss：“时源悠一个人可以干几个人活，我是不是可以把琴酒开除了？” 琴酒：“啊！雪莉，欧不对，啊，希尔维娅！” 贝姐：“香香软软的悠酱这么好玩，快到姐姐怀里来。” 柯南：“悠，求求你把解药给我吧！” 灰原哀：“这个又懒又废柴的人才不是长大后的我。” 时源悠：我太难了。 （主角为柯南世界原著民。）",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o15c2b910bab491b2f1bfe3ff4f15e900~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782699468&x-signature=PQL45gSjB1pVLz9pDOhQwrE%2BRFs%3D",
-        "url": "https://fanqienovel.com/page/7618107002429918233"
-      },
-      {
-        "title": "忍界：我的短视频震惊众人",
-        "author": "太子殿的永恩",
-        "reads": "16.8万",
-        "intro": "【火影天幕+主角工具人系列。】 秦晓不过是睡前刷刷火影剪辑，却不知所有片段正同步忍界各时空。 猿飞日斩不敢看自己的一生回放，宇智波一族发现了灭族的未来。 宇智波斑看着“无限月读真相”陷入沉默，波风水门读着“鸣人的一生”颤抖落泪。 漩涡鸣人提前搓出了螺旋丸，大蛇丸则对着“永生实验失败合集”陷入沉思。 当秦晓终于剪出自己幻想的完美火影结局时，整个忍界历史，彻底走向了未知的分歧点——",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8796c6c237c9991bfec430df96b90df0~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782699468&x-signature=kCI1FVCzFRRZEg0aYTkybyaFh0M%3D",
-        "url": "https://fanqienovel.com/page/7602563957806615577"
       },
       {
         "title": "宝可梦：颜狗的大师之路",
         "author": "最喜欢美纳斯",
-        "reads": "16.5万",
+        "reads": "17.5万",
         "intro": "【都市】+【慢热】+【日常】+【平行世界】+【颜狗】+【搞笑热血】+【轻系统】+【单女主戏份不多】 颜值即正义。二十一世纪的天选打工人苏晨，因为加班过度直接猝死在公司，然后胎穿到了宝可梦世界。 好消息：身怀波导之力+常磐之力。 坏消息：两股能量互相打架，导致身体直接过载。还好系统及时出手，平衡了这两股力量——但拥有后遗症——嗜睡，一天恨不得睡二十个小时。 更关键的是，这一世的爸妈好像也不是普通人。 既然回不去了，苏晨决定摆烂……啊不，是随遇而安。 目标很简单：收复一堆好看的、帅气的宝可梦，陪自己吃吃喝喝、到处旅行。 至于什么联盟冠军、传说精灵？不急，等我收复一只好看的宝可梦再说。 PS:作者是动漫党，对战不是很熟悉。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa098baae5b0ac189f0cb898e7ebee09a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782699468&x-signature=9Garc7m5zkmCw4UqaNleqaYX1XA%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa098baae5b0ac189f0cb898e7ebee09a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782784627&x-signature=chLRu%2FZdYQ%2Ba1n%2B7Z2MbtiPkRwE%3D",
         "url": "https://fanqienovel.com/page/7557903573825113113"
+      },
+      {
+        "title": "忍界：我的短视频震惊众人",
+        "author": "太子殿的永恩",
+        "reads": "17万",
+        "intro": "【火影天幕+主角工具人系列。】 秦晓不过是睡前刷刷火影剪辑，却不知所有片段正同步忍界各时空。 猿飞日斩不敢看自己的一生回放，宇智波一族发现了灭族的未来。 宇智波斑看着“无限月读真相”陷入沉默，波风水门读着“鸣人的一生”颤抖落泪。 漩涡鸣人提前搓出了螺旋丸，大蛇丸则对着“永生实验失败合集”陷入沉思。 当秦晓终于剪出自己幻想的完美火影结局时，整个忍界历史，彻底走向了未知的分歧点——",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8796c6c237c9991bfec430df96b90df0~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782784627&x-signature=TfIOSbL%2FXg0a4T5ZHXOVntGz5mM%3D",
+        "url": "https://fanqienovel.com/page/7602563957806615577"
+      },
+      {
+        "title": "柯南：被琴酒抓进酒厂当苦力",
+        "author": "成为新时代的废物",
+        "reads": "16.9万",
+        "intro": "【同人＋红黑交织＋撞脸宫野志保＋本地人】 时源悠这辈子最大的愿望就是当一辈子的废柴，该吃吃该喝喝，没想到出门一趟因跟宫野志保长得像就被琴酒抓进了酒厂，碰巧有着出于常人的制药天赋接替了宫野志保的工作研发A药。 时源悠后来发现自己天赋这么强，枪械射击样样精通，只是原来自己太懒了不知道，于是全能大师的时源悠被迫在酒厂当起了苦力。 酒厂boss：“时源悠一个人可以干几个人活，我是不是可以把琴酒开除了？” 琴酒：“啊！雪莉，欧不对，啊，希尔维娅！” 贝姐：“香香软软的悠酱这么好玩，快到姐姐怀里来。” 柯南：“悠，求求你把解药给我吧！” 灰原哀：“这个又懒又废柴的人才不是长大后的我。” 时源悠：我太难了。 （主角为柯南世界原著民。）",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o15c2b910bab491b2f1bfe3ff4f15e900~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782784627&x-signature=kR8A9W%2Bn2n42GaUrrQ%2BpSpFeNOI%3D",
+        "url": "https://fanqienovel.com/page/7618107002429918233"
+      },
+      {
+        "title": "混在综漫的悠闲生活",
+        "author": "梦溪州O",
+        "reads": "16.8万",
+        "intro": "【蜡笔小新+哆啦A梦+柯南为主世界观的东京泡沫年代文，恋爱+日常文，节奏缓慢，】 落榜画家小山龙马搬到了春日部。 这里有爱闹腾的野原一家，有总在烦恼的大雄和神奇的哆啦A梦，还有宛如死神一般的柯南。 而龙马只想画画漫画，谈个恋爱，过自己的悠闲生活。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o52a7421f3818339e0a17e7cef09e2cea~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782784627&x-signature=5fzkFtY%2FQ1iWgJ6M4HlpehTm0wA%3D",
+        "url": "https://fanqienovel.com/page/7592465471425760280"
+      },
+      {
+        "title": "聊天群：智识令使想要开拓万界",
+        "author": "一路游荡",
+        "reads": "14.5万",
+        "intro": "穿越癫佬横行的星穹铁道，昔年，因向往星空，所以登上了星穹列车，阅览无尽寰宇的风光…… 那是一段令赫尔墨斯至今都还在怀念的岁月，他曾一度认为，他会在开拓的道路上越走越远，但就在他走到令使的门槛的时候，阿基维利的陨落，是令他如此的措不及防。 开拓的命途就此沉寂，恰逢故乡出现事故，他便回到了故乡，耗费了些许时光，专门为故乡研究出了一套适宜的行星修复技术，真正踏足了智识命途！ 直到后来，赫尔墨斯在星空旅途中，恰巧遇到一颗被虚无吞噬的文明星球，心有所感，开始进行潜心研究。 最终，在今日自然而然的就研究出虚数与量子的一丝本质，加冠了独属于赫尔墨斯自身的令使大权。 恰恰在此时，他的耳边骤然响起一声熟悉而有陌生的声音—— 【叮！开拓的智慧加入聊天群】 就此，智识的令使，开始踏足诸天万界！",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o4d047d078ab8c4740ea713cbfa667f05~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782784627&x-signature=jRlNHogP7Xl5piYrxKNq0UTosXU%3D",
+        "url": "https://fanqienovel.com/page/7557379887166671934"
       },
       {
         "title": "宝可梦：卖咖啡后成了传奇培育家",
         "author": "落熙有语",
-        "reads": "16.5万",
+        "reads": "15.4万",
         "intro": "【评分刚出，会慢慢涨上来的，感谢观看】 【无cp+宝可梦+咖啡店+魔都大学+非对战党+慢节奏+无等级+半开挂+温馨日常+风妖精+美食】 穿越到有着宝可梦的东煌地区，齐望在奶奶去世后继承了一家老旧咖啡店，结果意外觉醒金手指。 培育家能力能融入咖啡调制产生各种奇妙作用，后院更是连接独立异空间生长珍稀作物。 本想平淡度日，小小咖啡店却不知不觉间名动天下。 街坊口口相传，训练家万里奔赴，联盟高层亲临，世界冠军成为常客，连传说宝可梦也悄然现身。 齐望看着挤满传说宝可梦和冠军的店面，扶额长叹：“重申一遍，这里只卖咖啡，不接培育委托！” 当丰缘冠军大吾带着他的银色巨金怪低调光顾时，齐望终于绷不住了：“门口那位！谁家路人随身携带银色闪光巨金怪喝咖啡啊？” 大吾：“…一杯就好。” 希罗娜：“那我也来一杯...嗯...有能让烈咬陆鲨学会龙之舞的咖啡吗？” #宝可梦#神奇宝贝#精灵#口袋妖怪",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of06929f4d559a34dfc9db0e08d1a7aa2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782699468&x-signature=NwqCi13DiQoldCS5JRKFkmFUudM%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of06929f4d559a34dfc9db0e08d1a7aa2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782784627&x-signature=gXYF5ju5gB%2BY3hBoOzIVLovc9OA%3D",
         "url": "https://fanqienovel.com/page/7617853964624595993"
       }
     ]
@@ -230,73 +222,65 @@
         "new_count": 1,
         "dropped_count": 1,
         "new_books": [
-          "宝可梦：颜狗的大师之路"
+          "聊天群：智识令使想要开拓万界"
         ],
         "dropped_books": [
           {
-            "title": "聊天群：智识令使想要开拓万界",
-            "intro": "穿越癫佬横行的星穹铁道，昔年，因向往星空，所以登上了星穹列车，阅览无尽寰宇的风光…… 那是一段令赫尔墨斯至今都还在怀念的岁月，他曾一度认为，他会在开拓的道路上越走越远，但就在他走到令使的门槛的时候，阿"
+            "title": "树屋求生：班级全员恶人",
+            "intro": "【轻松搞笑、种田安稳发育、节奏稍缓、全新题材、不喜也可来偷图】 （评分刚出来，初始评分会慢慢涨上来的） 天道以死，哈基道当立。 全班穿越灰烬世界，就他一个男生，就连导员都是自带篮球的美少女。 开局一颗"
           }
         ],
         "top_risers": [
           {
-            "title": "树屋求生：班级全员恶人",
+            "title": "宝可梦：颜狗的大师之路",
+            "change": "+4"
+          },
+          {
+            "title": "战锤40k搜打撤，塔暗州",
             "change": "+2"
           },
           {
-            "title": "崩铁：黑塔女士这么看我怎么办？",
-            "change": "+2"
-          },
-          {
-            "title": "宝可梦：凭什么你的梦妖叫振翼发",
+            "title": "忍界：我的短视频震惊众人",
             "change": "+2"
           }
         ],
         "top_fallers": [
           {
-            "title": "火影：九尾之夜，雷光万劫",
-            "change": "-2"
-          },
-          {
-            "title": "火影：为躲灭族，我润进了晓组织",
-            "change": "-2"
-          },
-          {
-            "title": "宝可梦：卖咖啡后成了传奇培育家",
-            "change": "-2"
+            "title": "混在综漫的悠闲生活",
+            "change": "-3"
           }
         ],
         "reads_growth": [
           {
             "title": "规则怪谈：狗熊岭扮演光头强开始",
-            "growth": "+5.6万"
+            "growth": "+2.1万"
+          },
+          {
+            "title": "宝可梦：颜狗的大师之路",
+            "growth": "+1.0万"
           },
           {
             "title": "莫慌退至老祖身后",
-            "growth": "+1.6万"
-          },
-          {
-            "title": "宝可梦：凭什么你的梦妖叫振翼发",
-            "growth": "+1.0万"
+            "growth": "+9000"
           }
         ],
-        "summary": "新增1本上榜；1本掉出（《聊天群：智识令使想要开拓万界》）；《树屋求生：班级全员恶人》排名上升+2位；《规则怪谈：狗熊岭扮演光头强开始》阅读量+5.6万。"
+        "summary": "新增1本上榜；1本掉出（《树屋求生：班级全员恶人》）；《宝可梦：颜狗的大师之路》排名上升+4位；《规则怪谈：狗熊岭扮演光头强开始》阅读量+2.1万。"
       },
       "books": [
         {
           "title": "我在战锤抽词条，帝皇站起来了？",
           "author": "忠不可言呐",
-          "reads": "56.5万",
+          "reads": "56.6万",
           "intro": "【男主无cp😁➕哆啦A梦童年漫主角😁➕人类无敌😁，男女老少通通能看😁】 “我穿越了。战锤40k。不知道哪个星球，应该是一个沦陷区废弃巢都底层洞穴，混沌邪物不断闪烁，周围还有混沌信徒在巡逻。系统给我第一个词条，【手电筒】。对，不是激光枪，是特么的手电筒。帝皇啊，你在吗？” 一开始其实我挺慌的，直到我摇出了这五个能力。 1，三十日【与任何敌人交战都能撑过30天】。 2，免疫灵能但自身可使用灵能。 3，超级灵能【将灵能提升至极限】。 4，短暂屏蔽虫巢意识【可根据灵能强度控制一定数量泰伦生物】。 5，让帝皇以巅峰状态离开王座且不会成神。 ……不是，什么？等下？你说什么？？你说我能干嘛？？？？ 原来我是人类的外挂。【确信】 * 亚空间那四个你们给我等着，挨个儿点名，不留活口。还有你们，外边那一群，太空死灵，灵族，兽人，钛，你们都给我等着。还有你，泰伦虫族，没说你是不？ “不知道啊，什么人类低谷？什么黑暗世界？我只是个什么都不懂的外挂，有什么话你们和站起来的帝皇说去吧。” * ：集合，打架了。 ：你还指挥上了。 ：刚刚帝皇站起来了。 ：打谁，打哪里？！ ：打！都打！上！都上！ * 没看过战锤也能看",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oeeda5d880223918659fc57942c929ce1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782699464&x-signature=mXn9Ep86PlFrHowT%2B7O1EEGOvkg%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oeeda5d880223918659fc57942c929ce1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782784624&x-signature=TKpfvVls%2FAaq8FXVwdtUwfydhvM%3D",
           "url": "https://fanqienovel.com/page/7631418979428355097"
         },
         {
           "title": "咒回：特级的我去死灭打宿傩了！",
           "author": "皮卡堂布拉特",
-          "reads": "54.1万",
+          "reads": "52.9万",
           "intro": "【咒术回战+死灭回游+斗傩大陆+伪模拟+无敌文】 如果让你在与白月光修成正果，或者拥有特级实力并参加死灭回游里选一个的话，你会选哪一个？ 芥剑也没想到自己只是帖子下手贱发了一个评论，说想要看看宿傩是不是真的这么难打。 然而让他没想到的是，自己竟然真的穿越到了咒术回战的世界里，并成为了死灭回游的玩家！ 看着自己面前的死灭回游结界，芥剑一开始是拒绝的。 网上说说得了，现实里谁还真想急头白脸的去给宿傩挠挠痒啊！ 然而，当芥剑得知自己可以死后回档时，瞬间就不一样了！ 送他来这个世界的力量给了他一个系统，在他正式击败宿傩之前，他的每次死亡不光能复活回到最开始，而且还都能根据他的表现获得不同的奖励。 得知自己不会死的芥剑彻底不怕了，不就是宿傩吗？办他！ 他已经来不及为五条悟的死亡而哀悼了！ 接下来要上场的是仅仅因为发了个评论就获得了特级咒术师实力的芥剑！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o5e1d3a20b94cedaf22c5df3beb4138a5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782699464&x-signature=oXASjENQLVRfl%2B%2Bs3NNXlWa1EDc%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o5e1d3a20b94cedaf22c5df3beb4138a5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782784624&x-signature=PGWjb28beyySnOBVvBQCSTTY1TE%3D",
           "url": "https://fanqienovel.com/page/7628071472921054233"
         },
         {
@@ -304,63 +288,55 @@
           "author": "帝俊有话说",
           "reads": "40.4万",
           "intro": "（评分刚出，后面会涨！）穿越超神学院，刘昊人都麻了，就在他思考如何在这诸神混战，虚空降临的世界上存活下来时，他的系统觉醒了，而就在他因为系统觉醒而高兴的时候，聊天群来了......",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o58d8238746f7d2bf26d3480325b38220~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782699464&x-signature=gZR%2BPfrJ5jhNrubUyLi3ItjGwgM%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o58d8238746f7d2bf26d3480325b38220~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782784624&x-signature=XnXnlUUUNUkEOeufVAoDyZICTvE%3D",
           "url": "https://fanqienovel.com/page/7630752636244872254"
         },
         {
           "title": "规则怪谈：狗熊岭扮演光头强开始",
           "author": "故梦的青春",
-          "reads": "33.1万",
+          "reads": "35.2万",
           "intro": "【动漫规则怪谈（第一个熊出没）＋微恐＋悲壮＋主角有脑＋国运＋无cp】 “别人的童年越来越模糊，我的童年咋越来越邪乎？” “不是！熊大熊二你咋入编了？喜羊羊你咋也有编制？连海绵宝宝都有了？” 蓝星诡异降临！怪谈席卷全球！ 每个国家都会抽取天选者，参加怪谈！ 龙国连败七场，一度处在灭国的边缘！ 最后一场，怪谈居然还是传说中的S级怪谈副本！ 穿越到蓝星的陈庆，得知这个世界怪谈林立，困难重重，本来很慌。 一看怪谈！ 狗熊岭怪谈？羊村怪谈？成龙历险记怪谈？比奇堡怪谈…… 好家伙！ 没想到怪谈全都是自己曾经的童年啊！ 那还说啥？都是哥们！ 陈庆一点也不慌了。 在怪谈中，陈庆扮演光头强，对着诡异熊大熊二就是干。 “我强天帝，狂一点怎么了？” 在羊村扮演懒大王。 “我懒羊羊大王懒一点怎么了？” 在比奇堡扮演海绵宝宝。 “我准备好啦！我准备好啦！” 在成龙历险记扮演成龙。 “小玉，这个太危险了。” 世界各国：“不是，陈庆为啥每个怪谈，他都能精准扮演角色？呜呜呜，求带！” …… 当陈庆彻底攻克怪谈那一天，怪谈的诡异这才恍然大悟，回想起那普通的一天。 那一天，怪谈世界来了个大爹！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/c8ca2594e45141b0eff22ac4ed6cba2f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782699464&x-signature=LN0gKwnEZtmGST1EggA%2F%2FGH5S20%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/c8ca2594e45141b0eff22ac4ed6cba2f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782784624&x-signature=u14cAKWVBVrLVRJxUjuWZlS2V%2Bg%3D",
           "url": "https://fanqienovel.com/page/7581902917842521150"
         },
         {
           "title": "莫慌退至老祖身后",
           "author": "颓废的火把",
-          "reads": "27.4万",
+          "reads": "28.3万",
           "intro": "【评分刚出之后会涨】 【超神宇宙，自主进化，前期和其他势力交互较少，可以当历史灵气复苏来看，群像，玄幻历史】 咸阳一念破鸿蒙，武道源开赤县中。 秦汉薪火传千载，唐宋锋棱贯九穹。 江山兴废如流水，道统沉浮未改容。 不借诸神天外法，诸夏群星耀九州。 穿越大秦，不负你们所望，秦始皇养成了，灭六国提早了，火药发明了，我自己也天下无敌了。 天上来敌了。 三滴精血让咸阳宫血流成河，一伙流民让大秦分崩离析。 暗能就在这，尔等能用，我诸夏自然也能用！ 布武天下，由我开始！至此，从两千年前开始，诸夏在暗能的道路上一路狂奔。 那时，德诺文明还在漂流，烈阳文明还在舔舐伤口，天使文明与恶魔文明的战争席卷星空，武道种子开始发芽。 两千年后，武道昌盛，高手如云，三王同临，遮天蔽日。 莫慌，我诸夏自有底蕴。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oba9cf120761b45e795757a917d5631fb~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782699464&x-signature=VslrFbF0LD%2BVfeCdmtjVsmzYgXo%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oba9cf120761b45e795757a917d5631fb~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782784624&x-signature=vqSQx0x5kQJZ4%2FrHGWqiS8Tw%2Fnk%3D",
           "url": "https://fanqienovel.com/page/7626395496524827710"
         },
         {
           "title": "崩铁：我要验牌，牌没问题",
           "author": "明镜本无尘",
-          "reads": "22.6万",
+          "reads": "22万",
           "intro": "【已有200多万字的9.1分完结作品。】【本书初始评分已出——6.7分，正在缓慢上涨中。】【无if线cp】 【会变身男、女角色，建议这种剧情的请划开。】 秦随安穿越到崩铁的世界，发现每个人的头顶上都有无数张流光奕奕的卡牌——那昭示着各种if线或同位体的角色命运。 他愿称其为：天阶斗技·鬼上身。 毕竟想要获得卡牌的力量简简单单，可想要他们降临还要满足他们的愿望。 秦随安：谁TMD能够告诉我，为什么我可以从大黑塔脑袋上抽出【纯美令使·大黑塔】这么离谱的玩意。 【千冶·应星】：“求死不得，根本不是在赎罪，我的剑未尝不利！我要亲手宰了他！！！” 【无明剑首·彦卿】：请代我用这双眼睛看看以前的罗浮，告诉将军一声“我……我做到了”。 【持明龙尊·白珩】：我成功了！成功了！！化龙妙法，镜流、应星、丹枫、景元我成功了！！！你们不要、不要抛下我…… 【自灭者·花火】：人心的卑劣，远比灾难更可怕，这样的世界从一开始就不存在真正的救赎。 【秩序圣女·知更鸟】：我总是学习他，模仿他，尽可能的复制他，把自己变成他，却不想有天……真的离开他。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9fcebf52e00b52b26293b4eacecfd735~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782699464&x-signature=vg7osWH0%2FabxEruy28q0niBTh6I%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9fcebf52e00b52b26293b4eacecfd735~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782784624&x-signature=OdKnQpG7VXJiFaVub4O2GApn%2F%2Fo%3D",
           "url": "https://fanqienovel.com/page/7621934618249284670"
-        },
-        {
-          "title": "树屋求生：班级全员恶人",
-          "author": "我是人間惆怅客",
-          "reads": "22.4万",
-          "intro": "【轻松搞笑、种田安稳发育、节奏稍缓、全新题材、不喜也可来偷图】 （评分刚出来，初始评分会慢慢涨上来的） 天道以死，哈基道当立。 全班穿越灰烬世界，就他一个男生，就连导员都是自带篮球的美少女。 开局一颗移动树屋，游走于危机四伏的灰烬世界，资源与危机互相交织。 残酷末世，恶人当道，如何生存？ 呃……不好意思，剧本拿错了。 他们全班恶人，连路过他们的蚂蚁都得少条腿。 末世求生？nonono！ 该求生的，是这个末世！ 温馨提示：满18年人，请在被窝里独自观看。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o33a877a8059dc94192324673739c2cc0~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782699464&x-signature=liN2sMgUw6gciyuMiy866tqqpo8%3D",
-          "url": "https://fanqienovel.com/page/7591551358407298110"
         },
         {
           "title": "火影：九尾之夜，雷光万劫",
           "author": "风尘雨画家",
-          "reads": "21.9万",
+          "reads": "21.3万",
           "intro": "【宇智波】【无敌流】【老一辈打法】【自私自我】【梦想一心】【纯手搓】 （评分刚出，会涨） 一朝穿越，变成宇智波的炮灰中忍。 面对即将到来的九尾之乱以及宇智波灭族，宇智波玄夜想了不少办法，但最后都因为实力不足，人微言轻不被采纳。 关键时刻，等候多年的金手指终于成功到来。 有了足够的实力后，给木叶f4上的第一课，就是木叶警备部的权力可以是无限的。 木叶刁民的污蔑？一棍打腿防止逃跑，一棍打嘴防止求饶。 团藏搞事情？当众斩杀，并立罪人铜像让他受万事唾骂。 当九尾的身影在木叶上空咆哮，宇智波玄夜当着所有人的面，一刀斩出一道无想刃狭间！ “诸位，这个时代，是属于我宇智波玄夜的！” “谁赞成，谁反对？”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9335286ad0747e6f2fe61be7bd49f618~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782699464&x-signature=6Zo6BaDrcopAKBINrj0l4rJ3hhk%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9335286ad0747e6f2fe61be7bd49f618~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782784624&x-signature=tuvCwqcQ83pg1oUiHbPch1kJKBc%3D",
           "url": "https://fanqienovel.com/page/7637177044412943385"
         },
         {
           "title": "副本时代，开局伪装未来恩佐！",
           "author": "胖胖的白泽",
-          "reads": "21.7万",
+          "reads": "21.3万",
           "intro": "副本降临蓝星，穿越而来的楚智发现这些副本都是自己前世大火的游戏。 原神、崩铁、洛克…… 楚智觉醒继承天赋，可以继承前世自己的存档。 第一个副本，洛克王国。 “恩佐，你要明白，雪莉老师是因为你太弱小才会牺牲！” “在我眼里，什么都没有她重要！” “恩佐，你根本不明白雪莉老师对我的意义！” 恩佐：你说的都是我的词啊！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o69711aee9a0dbd29524e16867438c640~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782699464&x-signature=Y8Lw8dKmqD%2BQURacJl6HXsaed6E%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o69711aee9a0dbd29524e16867438c640~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782784624&x-signature=sQPve%2FSDdgYraLUekWQ%2Bi3%2BcKuI%3D",
           "url": "https://fanqienovel.com/page/7633660267087268926"
         },
         {
           "title": "崩铁：我死后，成就她们的疯魔",
           "author": "三十度幻",
-          "reads": "20.4万",
+          "reads": "20.2万",
           "intro": "【多女主，不喜勿入】【崩铁】【不玩原作也能看】 第一世，祁知慕是阮·梅的学生。 “你出师了，离开吧，研究结束前，我不会再见你。” “是…老师……” 祁知慕孤身离去，却并未走远，隐居故地。 从此只每年寄去梅花酿，从不打扰。 直至老死，都没能等到阮·梅结束禁忌研究。 很久后，当阮·梅走出研究室，得知祁知慕死去的一瞬，她恍然惊觉—— 她的世界里，早已处处都是他的影子…… 揭开过往真相才发现，是自己亲手缔造，却又葬送了一切。 第二世，祁知慕是镜流的师父。 “师父，你为何从来不肯多看我一眼？” “师父，你心里最柔软的地方，为何没有容纳我的位置？” 她日渐靠近，也日渐绝望，逐渐黑化。 直至见证祁知慕的死亡，她才明白—— 原来师父心里最柔软的地方，一直都是自己。 “呵呵呵…师父，你骗得徒儿好苦……” 第三世…… 祁知慕尊重生命轮回法则，坦然面对每一次死亡。 生来坦荡，死亦从容，不携执念，不染尘哀。 只是，悔恨灼心与抱憾终身的她们，并不这么想。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob25289d6e13c4bb58936e5a597d51f7a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782699464&x-signature=PWJWr8IklRQmeSM68ngUxXdKR%2B0%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob25289d6e13c4bb58936e5a597d51f7a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782784624&x-signature=ZYwT3c9xHGsKuiYcddjrf1ssorg%3D",
           "url": "https://fanqienovel.com/page/7579769326991854654"
         },
         {
@@ -368,79 +344,87 @@
           "author": "悠险",
           "reads": "19.6万",
           "intro": "【日常】【单女主黑塔女士】【主角会成智识令使】【会有原创星球】 “黑塔女士，您怎么看您的助理白栾总是对外声称不是天才这件事？” “我不看，我看见他只会让他滚回来干活。”——该对话出自一次对黑塔女士匆忙采访。 白栾被系统重生在崩坏星穹铁道世界的大黑塔面前，这时候，黑塔空间站还未升空，模拟宇宙还没开发…… 系统对着白栾发问：『为何要敬畏生命？』 然后塞给了白栾两个金手指：无限练习时长的小黑屋和把自己制作的物品变成奇物的能力。 于是白栾为了帮助系统搞明白这点，他要活得尽量精彩一些，于是他…… 忽悠大黑塔说自己能看得见命运，让欢愉星神背黑锅，见证黑塔空间站升空，成为大黑塔的助理和空间站站长，尝试用手接星核，把真理义父五十二门课全修了，在天才俱乐部成员面前装天才，帮助构建模拟宇宙…… 随着自己陪伴大黑塔的时间变长，大黑塔看向自己的眼神开始有了些许的不对劲……她好像真觉得我是个天才…等等，怎么博识尊也看我了？！你怎么也被我骗到了！？事到如今，我说我不是天才，你们还信吗？",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe2e8639d35eabdfd36eaa5b87ec8d237~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782699468&x-signature=n57ggwRvuJ3Zg9EucBYmh4BDTwk%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe2e8639d35eabdfd36eaa5b87ec8d237~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782784624&x-signature=TnhmircmcZd%2BCj4wKp1%2F5KRTPlE%3D",
           "url": "https://fanqienovel.com/page/7514800975710800921"
         },
         {
           "title": "一人：开局击杀夏禾，我正的发邪",
           "author": "孟良柒",
-          "reads": "19.4万",
+          "reads": "19.2万",
           "intro": "【一人同人，系统，搞笑轻松，无敌，无女主，杀伐果断，正的发邪，没有洗白夏禾...】 张玄霄穿越到了一人世界，幼时父母惨死在全性手上，侥幸没死的他被老天师带到龙虎山，成为了张灵玉的师哥... 身为天师亲传弟子，又有丧亲仇恨，这一世张玄霄发誓见一个全性便杀一个全性... 全性:“张道长，我错了，饶我一条活路吧。” 张玄霄:“你不是知道错了，你只是知道你要死了！” 夏禾:“难道就因为我是全性，就该死么？” 张玄霄:“你不死难道我死？妖女速速受死！” 哪都通:“他已经投降了，玄霄真人收手吧！” 张玄霄:“一天是全性，一辈子都是全性！” ... 就在张玄霄除魔卫道之时，他又觉醒了正义系统，只要行心中正义之事就能获得奖励... 自此一位正的发邪的天师府弟子出现了。 全性:“这哪里是正道啊，他比我们全性还全性！”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o47494db849a38d8f071967ab46f472e4~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782699468&x-signature=y6FMLZraIJPGYeS%2BHe61ZjiHoTM%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o47494db849a38d8f071967ab46f472e4~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782784627&x-signature=z1U%2FJooWvt1cAlFpK7UUkQblBrQ%3D",
           "url": "https://fanqienovel.com/page/7471211401080491033"
         },
         {
           "title": "宝可梦：凭什么你的梦妖叫振翼发",
           "author": "麻辣巴子",
-          "reads": "18.9万",
+          "reads": "19.2万",
           "intro": "【神奇宝贝+宝可梦+精灵+羁绊+“热血”+慢热】 有些慢热的文，不是开场既无敌的爽文。 穿越者罗伊一觉醒来发现自己穿越到了丰源地区的送神火山，觉醒了热度值系统。 只要让幽灵系宝可梦的热度值提高就可以用获得的热度值兑换系统商店中的商品。 为此他不得不踏上获得热度值的道路，不过怎么走着走着他就到了八大师的决斗场了？ 下面，让我们有请八大师的第一位，合众联盟新任冠军……罗伊！！！！！ 让我们来看看身边人对他的评价吧？ 芙蓉：“罗伊，为什么你的梦妖这么大，这么强！” 罗伊：你礼貌吗？叫发姐！ 大吾：罗伊是我见过最恶…有战术的训练家。 米可利：畜牲，纯畜牲啊！ 竹兰（害羞没有说话）",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/a9fbb37040e78aead973d48faab9f018~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782699468&x-signature=OW%2BAGZjaiHVY2HTwbIddJZG3oMI%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/a9fbb37040e78aead973d48faab9f018~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782784627&x-signature=hIhOovbpDmi85HQ6TC2%2Bcp%2BmNqk%3D",
           "url": "https://fanqienovel.com/page/7603666406235704345"
         },
         {
           "title": "火影：为躲灭族，我润进了晓组织",
           "author": "coke牢大cp",
-          "reads": "18.1万",
+          "reads": "17.6万",
           "intro": "无金手指＋有脑慢热＋单女主，比较现实流忍界世界观 本书又名：我在忍界考古变强 会讲关于战国时期，千年来其他因陀罗阿修罗转世者的故事。 我叫宇智波叩，是个穿越者，与其他穿越者不同，没有什么系统与金手指，天赋也只是中上游，原本想要靠着穿越者先知先觉的优势走上人生巅峰，却因为实力不足而处处碰壁，既没能改变从小一起长大的宇智波带土的黑化，也没能成功阻止九尾之乱的发生。 看着逐渐长大的宇智波鼬，为了逃离那即将到来的宇智波消消乐，我十分从心的选择了开润。 然而，就在我叛逃不久后，恰好偶遇了那以变成神经病的宇智波带土。 为保全性命，我开盒了他的身份，并靠着昔日好友的身份加入了晓组织，某种意义上躲过了灭族之夜的灾难。 然而正当我准备在暗地里猥琐发育，凭借着对未来知晓的情报给自己找寻后路时，却发现事情的发展好像和自己预想中的有些不太对？ 带土：“我要创造一个叩可以真心笑着的世界！” 阿斯玛:“叩那么好的人怎么可能叛逃？！怎么想都是老爹你的错！! 叩他，他可是能够成为我父亲的男人！！ 有着灵魂状态下的父母陪伴的鸣人： “木叶刁民就是欠揍，不打不行！！” 叩：不是？这究竟是怎么回事啊！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2806307a025ad6d800123fe0d6e75611~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782699468&x-signature=ATgGUE%2FWB3NpDcd33bAK%2BiF3Dc0%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2806307a025ad6d800123fe0d6e75611~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782784627&x-signature=yn8FbGPkplm%2FbgH1ipHZLeRKWAQ%3D",
           "url": "https://fanqienovel.com/page/7622918004170312729"
-        },
-        {
-          "title": "混在综漫的悠闲生活",
-          "author": "梦溪州O",
-          "reads": "17.2万",
-          "intro": "【蜡笔小新+哆啦A梦+柯南为主世界观的东京泡沫年代文，恋爱+日常文，节奏缓慢，】 落榜画家小山龙马搬到了春日部。 这里有爱闹腾的野原一家，有总在烦恼的大雄和神奇的哆啦A梦，还有宛如死神一般的柯南。 而龙马只想画画漫画，谈个恋爱，过自己的悠闲生活。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o52a7421f3818339e0a17e7cef09e2cea~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782699468&x-signature=ioOOoSOtrTKz0I8nDkpT3nXF8tY%3D",
-          "url": "https://fanqienovel.com/page/7592465471425760280"
         },
         {
           "title": "战锤40k搜打撤，塔暗州",
           "author": "啊，生活",
-          "reads": "17.6万",
+          "reads": "18.3万",
           "intro": "（战锤40k，搜打撤，摸大金，跑刀鼠鼠，狙击鼠鼠，屯屯鼠。） 帝国行星防卫部队和叛军战斗过后，战场散落大量报备，拥有搜打撤系统的李秦武开始自己的刮地皮事业。 战死士兵的激光枪？拿了，打的3级弹呢。 甲壳甲？拿了！4级甲呢。 战死政委的爆弹手枪，哇！打的五级弹！ 被击毁的黎曼鲁斯坦克，里面居然掏出大金坦克电池！ 全部带回底朝藏身所！卖给各大帮派联络人，兑换建筑材料，升级藏身所。 藏身所制造精工机关枪，大功率电池，穿上6套动力甲，上战场猛攻异端，加帝皇好感度，飞升黄金马桶！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/762a24e420518509d7286e80d3652640~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782699468&x-signature=rzZvOI1YDe9%2FhRFxQhieGCWzoPA%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/762a24e420518509d7286e80d3652640~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782784627&x-signature=eTu1zQ2T2TEmOOt5dDzGBslku0k%3D",
           "url": "https://fanqienovel.com/page/7559879286786624574"
-        },
-        {
-          "title": "柯南：被琴酒抓进酒厂当苦力",
-          "author": "成为新时代的废物",
-          "reads": "17.1万",
-          "intro": "【同人＋红黑交织＋撞脸宫野志保＋本地人】 时源悠这辈子最大的愿望就是当一辈子的废柴，该吃吃该喝喝，没想到出门一趟因跟宫野志保长得像就被琴酒抓进了酒厂，碰巧有着出于常人的制药天赋接替了宫野志保的工作研发A药。 时源悠后来发现自己天赋这么强，枪械射击样样精通，只是原来自己太懒了不知道，于是全能大师的时源悠被迫在酒厂当起了苦力。 酒厂boss：“时源悠一个人可以干几个人活，我是不是可以把琴酒开除了？” 琴酒：“啊！雪莉，欧不对，啊，希尔维娅！” 贝姐：“香香软软的悠酱这么好玩，快到姐姐怀里来。” 柯南：“悠，求求你把解药给我吧！” 灰原哀：“这个又懒又废柴的人才不是长大后的我。” 时源悠：我太难了。 （主角为柯南世界原著民。）",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o15c2b910bab491b2f1bfe3ff4f15e900~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782699468&x-signature=PQL45gSjB1pVLz9pDOhQwrE%2BRFs%3D",
-          "url": "https://fanqienovel.com/page/7618107002429918233"
-        },
-        {
-          "title": "忍界：我的短视频震惊众人",
-          "author": "太子殿的永恩",
-          "reads": "16.8万",
-          "intro": "【火影天幕+主角工具人系列。】 秦晓不过是睡前刷刷火影剪辑，却不知所有片段正同步忍界各时空。 猿飞日斩不敢看自己的一生回放，宇智波一族发现了灭族的未来。 宇智波斑看着“无限月读真相”陷入沉默，波风水门读着“鸣人的一生”颤抖落泪。 漩涡鸣人提前搓出了螺旋丸，大蛇丸则对着“永生实验失败合集”陷入沉思。 当秦晓终于剪出自己幻想的完美火影结局时，整个忍界历史，彻底走向了未知的分歧点——",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8796c6c237c9991bfec430df96b90df0~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782699468&x-signature=kCI1FVCzFRRZEg0aYTkybyaFh0M%3D",
-          "url": "https://fanqienovel.com/page/7602563957806615577"
         },
         {
           "title": "宝可梦：颜狗的大师之路",
           "author": "最喜欢美纳斯",
-          "reads": "16.5万",
+          "reads": "17.5万",
           "intro": "【都市】+【慢热】+【日常】+【平行世界】+【颜狗】+【搞笑热血】+【轻系统】+【单女主戏份不多】 颜值即正义。二十一世纪的天选打工人苏晨，因为加班过度直接猝死在公司，然后胎穿到了宝可梦世界。 好消息：身怀波导之力+常磐之力。 坏消息：两股能量互相打架，导致身体直接过载。还好系统及时出手，平衡了这两股力量——但拥有后遗症——嗜睡，一天恨不得睡二十个小时。 更关键的是，这一世的爸妈好像也不是普通人。 既然回不去了，苏晨决定摆烂……啊不，是随遇而安。 目标很简单：收复一堆好看的、帅气的宝可梦，陪自己吃吃喝喝、到处旅行。 至于什么联盟冠军、传说精灵？不急，等我收复一只好看的宝可梦再说。 PS:作者是动漫党，对战不是很熟悉。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa098baae5b0ac189f0cb898e7ebee09a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782699468&x-signature=9Garc7m5zkmCw4UqaNleqaYX1XA%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa098baae5b0ac189f0cb898e7ebee09a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782784627&x-signature=chLRu%2FZdYQ%2Ba1n%2B7Z2MbtiPkRwE%3D",
           "url": "https://fanqienovel.com/page/7557903573825113113"
+        },
+        {
+          "title": "忍界：我的短视频震惊众人",
+          "author": "太子殿的永恩",
+          "reads": "17万",
+          "intro": "【火影天幕+主角工具人系列。】 秦晓不过是睡前刷刷火影剪辑，却不知所有片段正同步忍界各时空。 猿飞日斩不敢看自己的一生回放，宇智波一族发现了灭族的未来。 宇智波斑看着“无限月读真相”陷入沉默，波风水门读着“鸣人的一生”颤抖落泪。 漩涡鸣人提前搓出了螺旋丸，大蛇丸则对着“永生实验失败合集”陷入沉思。 当秦晓终于剪出自己幻想的完美火影结局时，整个忍界历史，彻底走向了未知的分歧点——",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8796c6c237c9991bfec430df96b90df0~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782784627&x-signature=TfIOSbL%2FXg0a4T5ZHXOVntGz5mM%3D",
+          "url": "https://fanqienovel.com/page/7602563957806615577"
+        },
+        {
+          "title": "柯南：被琴酒抓进酒厂当苦力",
+          "author": "成为新时代的废物",
+          "reads": "16.9万",
+          "intro": "【同人＋红黑交织＋撞脸宫野志保＋本地人】 时源悠这辈子最大的愿望就是当一辈子的废柴，该吃吃该喝喝，没想到出门一趟因跟宫野志保长得像就被琴酒抓进了酒厂，碰巧有着出于常人的制药天赋接替了宫野志保的工作研发A药。 时源悠后来发现自己天赋这么强，枪械射击样样精通，只是原来自己太懒了不知道，于是全能大师的时源悠被迫在酒厂当起了苦力。 酒厂boss：“时源悠一个人可以干几个人活，我是不是可以把琴酒开除了？” 琴酒：“啊！雪莉，欧不对，啊，希尔维娅！” 贝姐：“香香软软的悠酱这么好玩，快到姐姐怀里来。” 柯南：“悠，求求你把解药给我吧！” 灰原哀：“这个又懒又废柴的人才不是长大后的我。” 时源悠：我太难了。 （主角为柯南世界原著民。）",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o15c2b910bab491b2f1bfe3ff4f15e900~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782784627&x-signature=kR8A9W%2Bn2n42GaUrrQ%2BpSpFeNOI%3D",
+          "url": "https://fanqienovel.com/page/7618107002429918233"
+        },
+        {
+          "title": "混在综漫的悠闲生活",
+          "author": "梦溪州O",
+          "reads": "16.8万",
+          "intro": "【蜡笔小新+哆啦A梦+柯南为主世界观的东京泡沫年代文，恋爱+日常文，节奏缓慢，】 落榜画家小山龙马搬到了春日部。 这里有爱闹腾的野原一家，有总在烦恼的大雄和神奇的哆啦A梦，还有宛如死神一般的柯南。 而龙马只想画画漫画，谈个恋爱，过自己的悠闲生活。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o52a7421f3818339e0a17e7cef09e2cea~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782784627&x-signature=5fzkFtY%2FQ1iWgJ6M4HlpehTm0wA%3D",
+          "url": "https://fanqienovel.com/page/7592465471425760280"
+        },
+        {
+          "title": "聊天群：智识令使想要开拓万界",
+          "author": "一路游荡",
+          "reads": "14.5万",
+          "intro": "穿越癫佬横行的星穹铁道，昔年，因向往星空，所以登上了星穹列车，阅览无尽寰宇的风光…… 那是一段令赫尔墨斯至今都还在怀念的岁月，他曾一度认为，他会在开拓的道路上越走越远，但就在他走到令使的门槛的时候，阿基维利的陨落，是令他如此的措不及防。 开拓的命途就此沉寂，恰逢故乡出现事故，他便回到了故乡，耗费了些许时光，专门为故乡研究出了一套适宜的行星修复技术，真正踏足了智识命途！ 直到后来，赫尔墨斯在星空旅途中，恰巧遇到一颗被虚无吞噬的文明星球，心有所感，开始进行潜心研究。 最终，在今日自然而然的就研究出虚数与量子的一丝本质，加冠了独属于赫尔墨斯自身的令使大权。 恰恰在此时，他的耳边骤然响起一声熟悉而有陌生的声音—— 【叮！开拓的智慧加入聊天群】 就此，智识的令使，开始踏足诸天万界！",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o4d047d078ab8c4740ea713cbfa667f05~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782784627&x-signature=jRlNHogP7Xl5piYrxKNq0UTosXU%3D",
+          "url": "https://fanqienovel.com/page/7557379887166671934"
         },
         {
           "title": "宝可梦：卖咖啡后成了传奇培育家",
           "author": "落熙有语",
-          "reads": "16.5万",
+          "reads": "15.4万",
           "intro": "【评分刚出，会慢慢涨上来的，感谢观看】 【无cp+宝可梦+咖啡店+魔都大学+非对战党+慢节奏+无等级+半开挂+温馨日常+风妖精+美食】 穿越到有着宝可梦的东煌地区，齐望在奶奶去世后继承了一家老旧咖啡店，结果意外觉醒金手指。 培育家能力能融入咖啡调制产生各种奇妙作用，后院更是连接独立异空间生长珍稀作物。 本想平淡度日，小小咖啡店却不知不觉间名动天下。 街坊口口相传，训练家万里奔赴，联盟高层亲临，世界冠军成为常客，连传说宝可梦也悄然现身。 齐望看着挤满传说宝可梦和冠军的店面，扶额长叹：“重申一遍，这里只卖咖啡，不接培育委托！” 当丰缘冠军大吾带着他的银色巨金怪低调光顾时，齐望终于绷不住了：“门口那位！谁家路人随身携带银色闪光巨金怪喝咖啡啊？” 大吾：“…一杯就好。” 希罗娜：“那我也来一杯...嗯...有能让烈咬陆鲨学会龙之舞的咖啡吗？” #宝可梦#神奇宝贝#精灵#口袋妖怪",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of06929f4d559a34dfc9db0e08d1a7aa2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782699468&x-signature=NwqCi13DiQoldCS5JRKFkmFUudM%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of06929f4d559a34dfc9db0e08d1a7aa2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1782784627&x-signature=gXYF5ju5gB%2BY3hBoOzIVLovc9OA%3D",
           "url": "https://fanqienovel.com/page/7617853964624595993"
         }
       ]
