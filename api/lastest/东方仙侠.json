@@ -1,208 +1,201 @@
 {
   "type": "东方仙侠",
-  "date": "2026-07-27",
-  "prev_date": "2026-07-26",
+  "date": "2026-07-28",
+  "prev_date": "2026-07-27",
   "category": {
     "name": "东方仙侠",
     "trend": {
-      "new_count": 1,
-      "dropped_count": 1,
-      "new_books": [
-        "那些年，我们一起砍过的修仙者"
-      ],
-      "dropped_books": [
-        {
-          "title": "野狗真人",
-          "intro": "【凡人流】【无系统】 少年杨凡家境贫寒，只能卖身地主，艰难求生。 后得仙鼎相助，本以为自从可以平安一生。 不想被邪修下蛊，逼他拜入仙门，成了丹堂杂役。 仙门内弱肉强食，视杂役如草芥。 好在仙鼎能变废为"
-        }
-      ],
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
       "top_risers": [
         {
-          "title": "百岁修仙：从觉醒天灵根开始",
-          "change": "+3"
-        },
-        {
-          "title": "雷灵根修仙，我有十倍复制空间",
-          "change": "+3"
-        },
-        {
           "title": "帝域",
-          "change": "+2"
+          "change": "+1"
+        },
+        {
+          "title": "百岁修仙：从觉醒天灵根开始",
+          "change": "+1"
+        },
+        {
+          "title": "长生：仙庭关系户下界摸鱼",
+          "change": "+1"
         }
       ],
       "top_fallers": [
         {
-          "title": "看门的都是陆地神仙，你来退婚？",
-          "change": "-2"
-        },
-        {
-          "title": "我真不想修仙啊！",
+          "title": "别人修仙我闲逛，游历三界终长生",
           "change": "-2"
         },
         {
           "title": "天不应",
-          "change": "-2"
+          "change": "-1"
+        },
+        {
+          "title": "雷灵根修仙，我有十倍复制空间",
+          "change": "-1"
         }
       ],
       "reads_growth": [
         {
-          "title": "说好同学聚会，群穿仙侠什么鬼",
-          "growth": "+2.0万"
+          "title": "邪皇降世，从废物皇子开始",
+          "growth": "+1.5万"
         },
         {
-          "title": "百岁修仙：从觉醒天灵根开始",
-          "growth": "+1.3万"
+          "title": "说好同学聚会，群穿仙侠什么鬼",
+          "growth": "+1.2万"
         },
         {
           "title": "凡骨",
-          "growth": "+1.1万"
+          "growth": "+8000"
         }
       ],
-      "summary": "新增1本上榜；1本掉出（《野狗真人》）；《百岁修仙：从觉醒天灵根开始》排名上升+3位；《说好同学聚会，群穿仙侠什么鬼》阅读量+2.0万。"
+      "summary": "《帝域》排名上升+1位；《邪皇降世，从废物皇子开始》阅读量+1.5万。"
     },
     "books": [
       {
         "title": "凡骨",
         "author": "壹更大师",
-        "reads": "67.5万",
+        "reads": "68.3万",
         "intro": "世间灵骨，共分四品。 一品，天灵骨。二品，金灵骨。三品，玄灵骨。四品，白灵骨。 余者，皆为凡骨，无缘修行。 一介凡骨许太平，誓要向这修行界证明，凡骨亦能斩妖，凡骨亦能除魔，凡骨亦能登仙！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oab63dc9453b797dc4e499ad254f803fc~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785720349&x-signature=jN7Fs9NFf%2BQeZ9Rd3pxkOYXM5I0%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oab63dc9453b797dc4e499ad254f803fc~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806025&x-signature=lxhJViEjF4v5taD%2BI80qKkcff7k%3D",
         "url": "https://fanqienovel.com/page/7077516958534470656"
       },
       {
         "title": "这！这是谁把杨婵放我府上的？",
         "author": "暴打柠檬绿茶",
-        "reads": "52.5万",
+        "reads": "50万",
         "intro": "【三界大舞台】+【人情世故】+【宝莲灯】+【各种民俗神话】+【西游后传】 陈微：“不是，真君您听我解释，这是谁呀？谁把杨婵放我府上的？” 杨戬：“你承认这是你府上了？” 这是一个小仙吏如何在一群神佛博弈中，棋子变成执棋者的故事。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe6ee671879908d9f9cc9051d8d0abaa6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785720349&x-signature=2CrMawi6XWUQIB1cLFrVhQKCBpw%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe6ee671879908d9f9cc9051d8d0abaa6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806025&x-signature=%2B4%2FAbyW2%2BvhYMXYi9a%2Ffj9%2Bscqs%3D",
         "url": "https://fanqienovel.com/page/7648559665382444094"
       },
       {
         "title": "穿越庶长兄：嫡弟竟是仙帝转世！",
         "author": "今晚晒月亮",
-        "reads": "44.4万",
+        "reads": "43.2万",
         "intro": "【已签实体出版｜兄弟联手，无女主，热血搞笑微群像，爽文不卑微，后期双强天花板】 云擎胎穿成修仙界顶级世家庶长子。 好消息，身负混沌道胎和上古重瞳，此生握日摘星、道途有望。 坏消息，他有一个极度厌恶庶子的嫡出弟弟，主打一个嫡嫡道道。 坏坏消息，他弟弟是仙帝转世，未来将登临绝巅，威断万古。 云·未来的万界大家长·擎：……啥也别说了弟，抱大腿哈。 于是， 初见时，云煌冷眼睥睨：“庶子面君，需跪地应答。” 再后来，他于万众之前宣告：“见兄长，如见吾。” 云擎：……弟你有疾否？ 说好的冷酷无情、厌恶庶出呢？你剧本是不拿错了？！ 本文又名： #《论我那厌庶、灭世、TOP癌的仙帝老弟》 ＃擎皇和他的煌后娘娘（不是） #说好的苟命怎么我弟变兄控了 #你怎么知道我和煌弟天下第一好嘻嘻 云擎：柔范韬仪，前“吐槽大师”后万界大家长穿越庶长兄 云煌：前威断万古，后“宠兄无度”重生仙帝嫡弟 —— 未料有朝一日，乾坤逆转。 云擎登临帝位，坐镇万古仙途。 诸天神魔欲伐其弟，他执枪而立，重瞳寂灭万法。 “动他，问过我这当兄长的了吗？” 【双生同契道，坦途共登霄。】",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/c8db88661b6ac6e267018dacb12a2a4c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785720349&x-signature=WECLAXJ%2BcGrbERxnevzFprtEg5c%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/c8db88661b6ac6e267018dacb12a2a4c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806025&x-signature=YG0h%2BlPjl4kNJAK%2Fmrj4ubvdG%2BE%3D",
         "url": "https://fanqienovel.com/page/7569244441353931800"
       },
       {
         "title": "聚宝仙盆",
         "author": "香果味奶茶",
-        "reads": "43.7万",
+        "reads": "42.7万",
         "intro": "【凡人流】【无系统】，太虚门杂役弟子【贺平生】机缘巧合之下获得了一个【聚宝盆】，从此走上了修仙道路。 下品【聚气丹】放进盆里，一日之后，聚气丹变成两个，而且都是极品。 普通功法放进去，变成天阶功法。 法宝、草药、灵石等等，都可以放入其中强化。 贺平生从此走上了强者巅峰……",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa52cb4e26960b709f39d799713678b82~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785720349&x-signature=WOo96LnCxssH%2Bn8xMNH%2FoNMrdZo%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa52cb4e26960b709f39d799713678b82~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806025&x-signature=OIAJdJTEcsDXN6wBOADuWO84fIc%3D",
         "url": "https://fanqienovel.com/page/7445188900496083992"
       },
       {
         "title": "同学们选武侠仙侠，我选洪荒世界",
         "author": "皮蛋瘦肉周",
-        "reads": "40.4万",
+        "reads": "40.2万",
         "intro": "地球青年穿越蓝星，恰逢武侠、仙侠、洪荒三大世界选择日，别人选武侠、仙侠保命，他选死亡率100%的洪荒！ 全校炸了，他妈晕了，新闻播了，说他疯了。 所有人都不知道——洪荒，对蓝星人来说完全陌生。可他这个地球人脑子里装着的，是完整的《九转玄功》和《洪荒百科全书》。 一年之后，要么成仙做祖荣耀归来，要么尸骨无存永葬洪荒！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob449d3f0edd7fcdec3c04976845d1f69~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785720349&x-signature=RB%2FfY5nhBMeioGwsaDBufW6ArHA%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob449d3f0edd7fcdec3c04976845d1f69~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806025&x-signature=3ohjsareStYN%2FqKt25fOSnSITiY%3D",
         "url": "https://fanqienovel.com/page/7641501763022883865"
       },
       {
         "title": "邪皇降世，从废物皇子开始",
         "author": "老衲哥",
-        "reads": "32.5万",
+        "reads": "34万",
         "intro": "【多女主+快节奏+穿越重生+杀伐果断+绝世女帝+诸天万界+热血修仙】 林北辰开局穿越到一个丹田被废的太子身上，被诬陷非礼皇兄未婚妻，且看他如何一步步逆袭，走上逆天之路，全文杀伐果断，主角亦正亦邪。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob37a2f28642c2344995f60eac6108d70~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785720349&x-signature=WMEdlXWnSFNtI1YvSo3YhxScD88%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob37a2f28642c2344995f60eac6108d70~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806025&x-signature=Iohj9tFckAtGxkc6TjpL6xdav3U%3D",
         "url": "https://fanqienovel.com/page/7605594508390042686"
-      },
-      {
-        "title": "别人修仙我闲逛，游历三界终长生",
-        "author": "我不是长颈鹿",
-        "reads": "27.5万",
-        "intro": "【游历修仙】【非传统升级流】【烂柯流开局】【无女主】【无刀】【非无脑】 主角穿越到三界，本想抱大腿求长生，结果发现自己脑海深处有一本【山海万灵录】。 这书有个毛病——打坐修炼不加进度，闭关注定空手而归。 唯有游历名山大川，记录山河湖海，见识妖精鬼怪仙神，就能获得神通法术，天地灵宝。 于是，别人闭关苦修，他在山野闲逛；别人渡劫遭雷劈，他在人间看戏。 一路逛，一路记。 见天地，见众生，见自己，终得长生。 “所以，公子，我们下一站去哪儿逛？” 纪风笑道：“听说天庭举办仙游大会，而且......算算王母的蟠桃快熟了，我们去凑个热闹。” 道童惊恐：“那是偷吧？！” 纪风：“顺手的事，怎么能叫偷呢？” ......",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o3183ec71ee71ea49013bc771897ebe05~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785720349&x-signature=Pk3K6%2BQ3TbZQa0KeF2mp4AlEsmU%3D",
-        "url": "https://fanqienovel.com/page/7621098033110846488"
       },
       {
         "title": "帝域",
         "author": "六界三道",
-        "reads": "28.9万",
+        "reads": "29.6万",
         "intro": "继《仙武帝尊》《永恒之门》后六界三道强力新书！ 莽荒末期，玄武帝陨落，他是世间最后一尊神灵。 乱古时代，大化真龙暴毙，他是世间最后一尊仙王。 八万年前，蹩老道死时又哭又笑，他是世间最后一尊圣人。 大道命理许有缺，神病了，魔疯了，始仙崩道，祖佛溃法，修行之绝巅，似坍入幽渊的巨岳，悄然沉沦。 直至那年，北斗丛星多了一百零八道光火，三六天罡，七二地煞，那条明灭万古的路，才渐渐拉开浴血重铸的序幕。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o01ef37b9f2c96fed6d30c0ab29bfa417~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785720349&x-signature=FmNCZEhvgm8x2BjaHrIJjCQ4osA%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o01ef37b9f2c96fed6d30c0ab29bfa417~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806025&x-signature=KPqmyw1mSttQUKQIBbiZ8KfZA50%3D",
         "url": "https://fanqienovel.com/page/7332840880971189272"
       },
       {
         "title": "百岁修仙：从觉醒天灵根开始",
         "author": "爱吃平头哥",
-        "reads": "28.8万",
+        "reads": "29.3万",
         "intro": "穿越修真界，李青山表示很难绷，十八岁那年灵根检测，只是一个没有灵根的凡人，无奈龟缩小山村，结婚生子，悠悠百年。 百年后，有仙人途经小山村，竟然检测出了我是天灵根？ 老天你是不是在玩我？ 百岁天灵根，狗都不要…… 要，狗不要我要！ 百岁修仙，正是当打之年！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od730259c92f9a189f5d8eee8ac7ecea4~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785720349&x-signature=oaZ9DY%2FFH4PFSQqHX43ukdP2N10%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od730259c92f9a189f5d8eee8ac7ecea4~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806025&x-signature=LsEu3QlZC6FXmWTAvV8ValfZJb4%3D",
         "url": "https://fanqienovel.com/page/7540122908304100414"
+      },
+      {
+        "title": "别人修仙我闲逛，游历三界终长生",
+        "author": "我不是长颈鹿",
+        "reads": "27万",
+        "intro": "【游历修仙】【非传统升级流】【烂柯流开局】【无女主】【无刀】【非无脑】 主角穿越到三界，本想抱大腿求长生，结果发现自己脑海深处有一本【山海万灵录】。 这书有个毛病——打坐修炼不加进度，闭关注定空手而归。 唯有游历名山大川，记录山河湖海，见识妖精鬼怪仙神，就能获得神通法术，天地灵宝。 于是，别人闭关苦修，他在山野闲逛；别人渡劫遭雷劈，他在人间看戏。 一路逛，一路记。 见天地，见众生，见自己，终得长生。 “所以，公子，我们下一站去哪儿逛？” 纪风笑道：“听说天庭举办仙游大会，而且......算算王母的蟠桃快熟了，我们去凑个热闹。” 道童惊恐：“那是偷吧？！” 纪风：“顺手的事，怎么能叫偷呢？” ......",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o3183ec71ee71ea49013bc771897ebe05~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806025&x-signature=bZZLCE00P3BFjq3SrWmhtuP8GM0%3D",
+        "url": "https://fanqienovel.com/page/7621098033110846488"
       },
       {
         "title": "看门的都是陆地神仙，你来退婚？",
         "author": "赚钱养坨宝",
-        "reads": "26.1万",
+        "reads": "26万",
         "intro": "（漫剧原著：《潜龙出渊：从废材边王到问鼎天下》） 【江湖】+【庙堂】+【无敌】+【杀伐果断】+【极致爽文】 苏清南被贬北凉，天下笑他永世难翻身。 未婚妻柳丝雨为此亲赴北凉，只为斩断这份玷污她道心的孽缘。 直到她走进那座看似破落的王府…… 看门的大爷，醉酒高鼾，竟能引动天象！ 扫地的奴仆，一帚扬起千堆雪，竟是隐居三十年的雪中剑圣！ 就连后院劈柴的火夫，一斧落下，都带着劈山断岳的道韵！ 她猛然惊醒，骇然环视：这里每一个人，都散发着令她师门老祖战栗的气息！ 而那个斜倚在庭院摇椅上，被所有人无声守护着的青年，缓缓睁开了眼。 他的目光平静如水，却仿佛倒映着整片星空的深邃。 “退婚？” ……",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc850ff546a27ab1958fc85f18aed710b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785720349&x-signature=MhujQuBfzpXVT6fK95iSlpJ%2Fx3Y%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc850ff546a27ab1958fc85f18aed710b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806025&x-signature=iETK%2FwxZBKjObkTwqDZf%2FtG7E0I%3D",
         "url": "https://fanqienovel.com/page/7578805934051298366"
       },
       {
         "title": "我真不想修仙啊！",
         "author": "吾欲证道",
-        "reads": "27.9万",
+        "reads": "28.4万",
         "intro": "[简介得来终觉浅，欲知好坏，请阅正文] “你刚问我什么？” “修仙很苦，你怕吗？” “上一句？” “你想修仙吗？” 许闲略一沉吟，“修仙可以，吃苦不行！”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o3ae528b4094800cb6c4e2a4eb57a3a6c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785720353&x-signature=wfx%2FyjQmTl5GBmB3Gyl%2Fe9PjNqM%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o3ae528b4094800cb6c4e2a4eb57a3a6c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806029&x-signature=AGyKCgkmCzugrb%2BmaDGOBpurnrQ%3D",
         "url": "https://fanqienovel.com/page/7506458079534271550"
       },
       {
         "title": "说好同学聚会，群穿仙侠什么鬼",
         "author": "浮夸十年",
-        "reads": "27.1万",
+        "reads": "28.3万",
         "intro": "少年齐凡身负奇特饿症，无奈从高中辍学转行当吃播，意外发现气力日渐增加，他本打算混个职业拳击手，过上扬名立万的富贵生活，但没想到接到高中班主任宋成民的毕业聚会邀请，从此改变一生。 神秘的班主任手持两界穿梭的乘风楼，带领20个学生共穿修仙世界； 于是乎，20位同学跟神秘的班主任，开始了一场浩浩荡荡的修仙之旅……",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/77396ab76f3167c7061ccc5f34c61bd2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785720353&x-signature=xkNVHbe%2BPxLTYxwDSGDb5BNQda0%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/77396ab76f3167c7061ccc5f34c61bd2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806029&x-signature=y%2FjL45fxM6SHXrF20jjc756v2DY%3D",
         "url": "https://fanqienovel.com/page/7572414859212508184"
+      },
+      {
+        "title": "长生：仙庭关系户下界摸鱼",
+        "author": "混沌核心",
+        "reads": "24.2万",
+        "intro": "【长生流+无系统+非爽文+慢节奏+无女主+伪群像，不喜慎入】 煌煌天威如镜，照尽仙凡因果。 渺渺众生似砂，碾作山河劫灰。 一面玄镜悬于九霄，映照三界众生相—— 有人见镜中玉宇琼楼，痴求长生逍遥； 有人窥镜外血海尸山，誓要逆天改命； 而镜外更有镜，命里复藏命。 荆雨坐拥【长生久视】命格，寿元无尽，且看他以玄镜观世间天骄命途，修命数证尊。 【本书境界体系：练气，筑基，金丹，元婴，化神，洞天，大乘，天仙，真仙，金仙，道君，道尊】",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe2a6cf90884f3aba9adc0798e7d22f89~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806029&x-signature=vqKi2hyAIZ1ZBTO3ivG7sDvuj5M%3D",
+        "url": "https://fanqienovel.com/page/7377931562463005720"
       },
       {
         "title": "天不应",
         "author": "夜来风雨声丶",
         "reads": "23.3万",
         "intro": "黄土白骨三万抔，剑光如影月如酒。 春风斩尽人间事，且问桃花肯白头？ 永安历五四七年，齐国南部边陲县城苦海县下了一场伸手不见五指的夜雪，闻潮生在县外的破庙中，捡到了一个重伤垂死的瘸腿女人，本以为对方只是个落难的流民，却不曾想女人身上竟然牵扯出了一桩天大的秘密…… 数年后，参天殿前，一青年持剑，迎月而立，身后遍地尸骸，血流如河。 “我叫闻潮生，此次拔剑，来跟「天」…讨个公道！”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o91af6d9772dd729fb6f4b26879de06fa~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785720353&x-signature=vYycE1mu5qq9VRkJkcsK7qeQJfY%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o91af6d9772dd729fb6f4b26879de06fa~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806029&x-signature=ng8KevOIyt7gXQ%2BLd5B9GLd3%2B5M%3D",
         "url": "https://fanqienovel.com/page/7419924358912543769"
-      },
-      {
-        "title": "长生：仙庭关系户下界摸鱼",
-        "author": "混沌核心",
-        "reads": "23.9万",
-        "intro": "【长生流+无系统+非爽文+慢节奏+无女主+伪群像，不喜慎入】 煌煌天威如镜，照尽仙凡因果。 渺渺众生似砂，碾作山河劫灰。 一面玄镜悬于九霄，映照三界众生相—— 有人见镜中玉宇琼楼，痴求长生逍遥； 有人窥镜外血海尸山，誓要逆天改命； 而镜外更有镜，命里复藏命。 荆雨坐拥【长生久视】命格，寿元无尽，且看他以玄镜观世间天骄命途，修命数证尊。 【本书境界体系：练气，筑基，金丹，元婴，化神，洞天，大乘，天仙，真仙，金仙，道君，道尊】",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe2a6cf90884f3aba9adc0798e7d22f89~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785720353&x-signature=Bjcvtw51avMYaBxCJb8rVKq11Dc%3D",
-        "url": "https://fanqienovel.com/page/7377931562463005720"
-      },
-      {
-        "title": "雷灵根修仙，我有十倍复制空间",
-        "author": "月半丁",
-        "reads": "22万",
-        "intro": "世界观：人界篇（已完成），灵界篇（已到后期），仙界篇（敬请期待） 修为境界：炼气，筑基，结丹，元婴，化神，还原最经典的仙侠风味。 简介： 　　雷凌本是江湖门派海青帮护法，只因帮主得罪修仙者，导致海青帮分崩离析。 　　与她青梅竹马定有婚约的帮主之女玉冰瑶为了复仇，决定踏上修仙之路。 　　雷凌护着她，跋山涉水，闯过了一路艰辛，最终玉冰瑶因身具天灵根而被紫虹门太上长老看中，收做亲传弟子。 　　而雷凌，则成了她踏入紫虹门后第一时间要斩断的因果。 　　然而，一场意外，却让雷凌觉醒了雷属性变异灵根。 　　不仅如此，他还得到了能够十倍复制修行资源的神秘空间。 　　丹药，符箓，法宝，傀儡，十倍复制！ 　　从此之后，比他努力的，资质没有他高。 　　资质比他高的，资源又没他多。 　　资源比他多的，又不如他能打。 　　“天灵根，很厉害吗？”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o998b34450399513e6895d1830a8f87d0~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785720353&x-signature=Yg9e%2B73zc9E%2Fm3P4KZIO2qN3TaA%3D",
-        "url": "https://fanqienovel.com/page/7533042411262463001"
       },
       {
         "title": "人在合欢宗，开局成为圣女道侣！",
         "author": "安月雅",
-        "reads": "23.1万",
+        "reads": "23.4万",
         "intro": "【无系统+多女主+海王日常+修罗场！】 穿越修仙界，陆尘成为圣女道侣！十灵根的他人都麻了！ 前世情场海王，今生注定不平凡！ 好在，身具纯阳圣体！交流修炼心得就变强！ 当圣女虞曦月为龙傲天将他抛弃，他反手就绑定圣女的死对头。 圣女悔恨交织，绝世仙女们苦苦相追！ 龙傲天们，对他暗藏杀机…… 陆尘：别急，我的修仙大业，才刚刚开始。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o016b824a306fb479f0492e26b877af10~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785720353&x-signature=Lsfo1U9lXsNU7WBhlyB3dkGDOnQ%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o016b824a306fb479f0492e26b877af10~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806029&x-signature=jTp1B3nHRZqcMd5g7ETCaX9dB0s%3D",
         "url": "https://fanqienovel.com/page/7560509095371885593"
+      },
+      {
+        "title": "雷灵根修仙，我有十倍复制空间",
+        "author": "月半丁",
+        "reads": "22.8万",
+        "intro": "世界观：人界篇（已完成），灵界篇（已到后期），仙界篇（敬请期待） 修为境界：炼气，筑基，结丹，元婴，化神，还原最经典的仙侠风味。 简介： 　　雷凌本是江湖门派海青帮护法，只因帮主得罪修仙者，导致海青帮分崩离析。 　　与她青梅竹马定有婚约的帮主之女玉冰瑶为了复仇，决定踏上修仙之路。 　　雷凌护着她，跋山涉水，闯过了一路艰辛，最终玉冰瑶因身具天灵根而被紫虹门太上长老看中，收做亲传弟子。 　　而雷凌，则成了她踏入紫虹门后第一时间要斩断的因果。 　　然而，一场意外，却让雷凌觉醒了雷属性变异灵根。 　　不仅如此，他还得到了能够十倍复制修行资源的神秘空间。 　　丹药，符箓，法宝，傀儡，十倍复制！ 　　从此之后，比他努力的，资质没有他高。 　　资质比他高的，资源又没他多。 　　资源比他多的，又不如他能打。 　　“天灵根，很厉害吗？”",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o998b34450399513e6895d1830a8f87d0~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806029&x-signature=mR4NSx64vRnxOwemDbXOqmX78c4%3D",
+        "url": "https://fanqienovel.com/page/7533042411262463001"
       },
       {
         "title": "谁让这个悍匪修仙的！",
         "author": "我顶你个飞",
-        "reads": "18.9万",
+        "reads": "18.4万",
         "intro": "【修仙、腹黑老六、搞笑】 纯小白穿越到修仙界，子承父业成了黑风寨大当家，凭借一双能看透万物财气的眼睛，混得风生水起。 这日，他照例“开张”，意外抢到了一位压寨夫人，从他身上获得神秘小塔。 不料，这竟然是一位重伤女仙人，一怒之下将他丢入了修仙界。 从此，修仙界便出现了一个令人闻风丧胆的悍匪—— 高冷圣女眼馋他，自愿成为压寨夫人。 绝世神子遇上他，只能混个六当家当当。 顶级宗门遇上他，全宗睡觉只能睁一只眼闭一只眼。 即便是高高在上的仙人，碰倒他，都会乖乖交出上一份买路钱！ 可偏偏就是这样一个悍匪，可却被无数人含泪跪拜，成为了他们行踪奉若神明的——英雄。 “若无大王横刀立马，劈开这吃人的世道，我等终将只是这天地间……无人问津的一粒尘埃！”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/1750ea6515b33a015828ecb97cbd00dd~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785720353&x-signature=u2%2BnVFosFdmlPJ4LI%2FD6oG0fnlE%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/1750ea6515b33a015828ecb97cbd00dd~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806029&x-signature=Z2p8zyCjKaJ0jS4aMmb2AnGzRzI%3D",
         "url": "https://fanqienovel.com/page/7602198693214702654"
       },
       {
         "title": "等仙之辈",
         "author": "油子吟",
-        "reads": "18.8万",
+        "reads": "17.7万",
         "intro": "「传统玄幻」、「无系统」、「非后宫」、「非爽文」、「轻松搞笑」介意者慎入。 “这位道友，我们是不是哪里见过？” “儿子，你是哪位？” “老夫似乎记得有一个很喜欢的弟子，怎么想不起来呢？” “到底是谁欠了本尊的灵石？” “昨日是谁打了本妖？” 永远不被人注意的小透明江阳，也无法被人记住。当他踏上仙道后，就开始了一段不同常人的修行之路。 想找我报仇？不好意思，先记住我再说。 欠钱？谁欠你钱了？你记得吗？ 打了你又怎么样，你明天就忘了！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o71a948e8900972d15ab95ef95a96561d~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785720353&x-signature=hS0jN60UyRMQxkk1yAI4A6ZmYH8%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o71a948e8900972d15ab95ef95a96561d~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806029&x-signature=FpVlJW6o2iFvK%2BiqIVwUM8ck7CA%3D",
         "url": "https://fanqienovel.com/page/7573945857326713918"
       },
       {
@@ -210,15 +203,15 @@
         "author": "西门卧雪",
         "reads": "18.3万",
         "intro": "二狗子是个老实本分的庄稼人，最大的梦想就是攒几亩地，当个小地主，再娶个腰粗腿壮的媳妇，人生就完美了。却因意外得到一只葫芦，又被老骗子忽悠，不小心踏入仙道，不得已卷入纷争，但他初心不改，只想种地……",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o4fccd060bb22f7cf4ea611a7b180c0b8~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785720353&x-signature=lZ7cJE7Y1Y%2F5xd9LtkPiqdVWRUk%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o4fccd060bb22f7cf4ea611a7b180c0b8~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806029&x-signature=UtfjEWPiNFUHc7r0z4oHz3oVOL8%3D",
         "url": "https://fanqienovel.com/page/7382148713285684286"
       },
       {
         "title": "那些年，我们一起砍过的修仙者",
         "author": "蘑菇屋下的松鼠",
-        "reads": "16.7万",
+        "reads": "16.8万",
         "intro": "【凡人流】【无系统】与传统仙侠写法不同，不喜勿入 那一年，七岁的男孩儿带着妹妹踏入了修仙界，然后，修仙的全疯了！ 　　出来修仙，你天赋好不好，宝贝多不多，有没有机缘，这些都不重要，但你一定要记住，有一个人你不能惹。 　　虽然这个人并不是什么修仙之人。 　　但是他的刀，比光还快，快到你根本来不及调动灵力。 　　他的拳，比天还重，重的可以一拳让这个世界停止自转。 　　他的嘴，比我还贱，贱的可以让烈阳流泪，让皎月燃烧。 　　他是谁？他是一个没有修仙天赋，却在修仙界练武的靓仔。 　　多年以后，修仙界一众大佬们问他:“林大靓仔，你一个练武的为啥非要跑到修仙界呢？” 　　少年笑嘻嘻的回答道:“我只是没有修仙的天赋而已，但我超喜欢在修仙界玩耍的，那里面个个都是人才，说话又好听，还有各种花里胡哨的特殊才华，哎哟我超喜欢里面的。” 　　修仙大佬们集体绝望:“喜欢？喜欢你提着把刀砍了半个修仙界？”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/7405b408ed86eff971ef943882077bd2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785720353&x-signature=DTza0dLsI4w2Q20DTEeWedSZTIk%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/7405b408ed86eff971ef943882077bd2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806029&x-signature=uZfi98n2gOV2LRtqKfr4VzqVtbM%3D",
         "url": "https://fanqienovel.com/page/7085357205842562078"
       }
     ]
@@ -227,204 +220,197 @@
     {
       "name": "东方仙侠",
       "trend": {
-        "new_count": 1,
-        "dropped_count": 1,
-        "new_books": [
-          "那些年，我们一起砍过的修仙者"
-        ],
-        "dropped_books": [
-          {
-            "title": "野狗真人",
-            "intro": "【凡人流】【无系统】 少年杨凡家境贫寒，只能卖身地主，艰难求生。 后得仙鼎相助，本以为自从可以平安一生。 不想被邪修下蛊，逼他拜入仙门，成了丹堂杂役。 仙门内弱肉强食，视杂役如草芥。 好在仙鼎能变废为"
-          }
-        ],
+        "new_count": 0,
+        "dropped_count": 0,
+        "new_books": [],
+        "dropped_books": [],
         "top_risers": [
           {
-            "title": "百岁修仙：从觉醒天灵根开始",
-            "change": "+3"
-          },
-          {
-            "title": "雷灵根修仙，我有十倍复制空间",
-            "change": "+3"
-          },
-          {
             "title": "帝域",
-            "change": "+2"
+            "change": "+1"
+          },
+          {
+            "title": "百岁修仙：从觉醒天灵根开始",
+            "change": "+1"
+          },
+          {
+            "title": "长生：仙庭关系户下界摸鱼",
+            "change": "+1"
           }
         ],
         "top_fallers": [
           {
-            "title": "看门的都是陆地神仙，你来退婚？",
-            "change": "-2"
-          },
-          {
-            "title": "我真不想修仙啊！",
+            "title": "别人修仙我闲逛，游历三界终长生",
             "change": "-2"
           },
           {
             "title": "天不应",
-            "change": "-2"
+            "change": "-1"
+          },
+          {
+            "title": "雷灵根修仙，我有十倍复制空间",
+            "change": "-1"
           }
         ],
         "reads_growth": [
           {
-            "title": "说好同学聚会，群穿仙侠什么鬼",
-            "growth": "+2.0万"
+            "title": "邪皇降世，从废物皇子开始",
+            "growth": "+1.5万"
           },
           {
-            "title": "百岁修仙：从觉醒天灵根开始",
-            "growth": "+1.3万"
+            "title": "说好同学聚会，群穿仙侠什么鬼",
+            "growth": "+1.2万"
           },
           {
             "title": "凡骨",
-            "growth": "+1.1万"
+            "growth": "+8000"
           }
         ],
-        "summary": "新增1本上榜；1本掉出（《野狗真人》）；《百岁修仙：从觉醒天灵根开始》排名上升+3位；《说好同学聚会，群穿仙侠什么鬼》阅读量+2.0万。"
+        "summary": "《帝域》排名上升+1位；《邪皇降世，从废物皇子开始》阅读量+1.5万。"
       },
       "books": [
         {
           "title": "凡骨",
           "author": "壹更大师",
-          "reads": "67.5万",
+          "reads": "68.3万",
           "intro": "世间灵骨，共分四品。 一品，天灵骨。二品，金灵骨。三品，玄灵骨。四品，白灵骨。 余者，皆为凡骨，无缘修行。 一介凡骨许太平，誓要向这修行界证明，凡骨亦能斩妖，凡骨亦能除魔，凡骨亦能登仙！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oab63dc9453b797dc4e499ad254f803fc~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785720349&x-signature=jN7Fs9NFf%2BQeZ9Rd3pxkOYXM5I0%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oab63dc9453b797dc4e499ad254f803fc~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806025&x-signature=lxhJViEjF4v5taD%2BI80qKkcff7k%3D",
           "url": "https://fanqienovel.com/page/7077516958534470656"
         },
         {
           "title": "这！这是谁把杨婵放我府上的？",
           "author": "暴打柠檬绿茶",
-          "reads": "52.5万",
+          "reads": "50万",
           "intro": "【三界大舞台】+【人情世故】+【宝莲灯】+【各种民俗神话】+【西游后传】 陈微：“不是，真君您听我解释，这是谁呀？谁把杨婵放我府上的？” 杨戬：“你承认这是你府上了？” 这是一个小仙吏如何在一群神佛博弈中，棋子变成执棋者的故事。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe6ee671879908d9f9cc9051d8d0abaa6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785720349&x-signature=2CrMawi6XWUQIB1cLFrVhQKCBpw%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe6ee671879908d9f9cc9051d8d0abaa6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806025&x-signature=%2B4%2FAbyW2%2BvhYMXYi9a%2Ffj9%2Bscqs%3D",
           "url": "https://fanqienovel.com/page/7648559665382444094"
         },
         {
           "title": "穿越庶长兄：嫡弟竟是仙帝转世！",
           "author": "今晚晒月亮",
-          "reads": "44.4万",
+          "reads": "43.2万",
           "intro": "【已签实体出版｜兄弟联手，无女主，热血搞笑微群像，爽文不卑微，后期双强天花板】 云擎胎穿成修仙界顶级世家庶长子。 好消息，身负混沌道胎和上古重瞳，此生握日摘星、道途有望。 坏消息，他有一个极度厌恶庶子的嫡出弟弟，主打一个嫡嫡道道。 坏坏消息，他弟弟是仙帝转世，未来将登临绝巅，威断万古。 云·未来的万界大家长·擎：……啥也别说了弟，抱大腿哈。 于是， 初见时，云煌冷眼睥睨：“庶子面君，需跪地应答。” 再后来，他于万众之前宣告：“见兄长，如见吾。” 云擎：……弟你有疾否？ 说好的冷酷无情、厌恶庶出呢？你剧本是不拿错了？！ 本文又名： #《论我那厌庶、灭世、TOP癌的仙帝老弟》 ＃擎皇和他的煌后娘娘（不是） #说好的苟命怎么我弟变兄控了 #你怎么知道我和煌弟天下第一好嘻嘻 云擎：柔范韬仪，前“吐槽大师”后万界大家长穿越庶长兄 云煌：前威断万古，后“宠兄无度”重生仙帝嫡弟 —— 未料有朝一日，乾坤逆转。 云擎登临帝位，坐镇万古仙途。 诸天神魔欲伐其弟，他执枪而立，重瞳寂灭万法。 “动他，问过我这当兄长的了吗？” 【双生同契道，坦途共登霄。】",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/c8db88661b6ac6e267018dacb12a2a4c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785720349&x-signature=WECLAXJ%2BcGrbERxnevzFprtEg5c%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/c8db88661b6ac6e267018dacb12a2a4c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806025&x-signature=YG0h%2BlPjl4kNJAK%2Fmrj4ubvdG%2BE%3D",
           "url": "https://fanqienovel.com/page/7569244441353931800"
         },
         {
           "title": "聚宝仙盆",
           "author": "香果味奶茶",
-          "reads": "43.7万",
+          "reads": "42.7万",
           "intro": "【凡人流】【无系统】，太虚门杂役弟子【贺平生】机缘巧合之下获得了一个【聚宝盆】，从此走上了修仙道路。 下品【聚气丹】放进盆里，一日之后，聚气丹变成两个，而且都是极品。 普通功法放进去，变成天阶功法。 法宝、草药、灵石等等，都可以放入其中强化。 贺平生从此走上了强者巅峰……",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa52cb4e26960b709f39d799713678b82~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785720349&x-signature=WOo96LnCxssH%2Bn8xMNH%2FoNMrdZo%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa52cb4e26960b709f39d799713678b82~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806025&x-signature=OIAJdJTEcsDXN6wBOADuWO84fIc%3D",
           "url": "https://fanqienovel.com/page/7445188900496083992"
         },
         {
           "title": "同学们选武侠仙侠，我选洪荒世界",
           "author": "皮蛋瘦肉周",
-          "reads": "40.4万",
+          "reads": "40.2万",
           "intro": "地球青年穿越蓝星，恰逢武侠、仙侠、洪荒三大世界选择日，别人选武侠、仙侠保命，他选死亡率100%的洪荒！ 全校炸了，他妈晕了，新闻播了，说他疯了。 所有人都不知道——洪荒，对蓝星人来说完全陌生。可他这个地球人脑子里装着的，是完整的《九转玄功》和《洪荒百科全书》。 一年之后，要么成仙做祖荣耀归来，要么尸骨无存永葬洪荒！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob449d3f0edd7fcdec3c04976845d1f69~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785720349&x-signature=RB%2FfY5nhBMeioGwsaDBufW6ArHA%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob449d3f0edd7fcdec3c04976845d1f69~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806025&x-signature=3ohjsareStYN%2FqKt25fOSnSITiY%3D",
           "url": "https://fanqienovel.com/page/7641501763022883865"
         },
         {
           "title": "邪皇降世，从废物皇子开始",
           "author": "老衲哥",
-          "reads": "32.5万",
+          "reads": "34万",
           "intro": "【多女主+快节奏+穿越重生+杀伐果断+绝世女帝+诸天万界+热血修仙】 林北辰开局穿越到一个丹田被废的太子身上，被诬陷非礼皇兄未婚妻，且看他如何一步步逆袭，走上逆天之路，全文杀伐果断，主角亦正亦邪。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob37a2f28642c2344995f60eac6108d70~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785720349&x-signature=WMEdlXWnSFNtI1YvSo3YhxScD88%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob37a2f28642c2344995f60eac6108d70~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806025&x-signature=Iohj9tFckAtGxkc6TjpL6xdav3U%3D",
           "url": "https://fanqienovel.com/page/7605594508390042686"
-        },
-        {
-          "title": "别人修仙我闲逛，游历三界终长生",
-          "author": "我不是长颈鹿",
-          "reads": "27.5万",
-          "intro": "【游历修仙】【非传统升级流】【烂柯流开局】【无女主】【无刀】【非无脑】 主角穿越到三界，本想抱大腿求长生，结果发现自己脑海深处有一本【山海万灵录】。 这书有个毛病——打坐修炼不加进度，闭关注定空手而归。 唯有游历名山大川，记录山河湖海，见识妖精鬼怪仙神，就能获得神通法术，天地灵宝。 于是，别人闭关苦修，他在山野闲逛；别人渡劫遭雷劈，他在人间看戏。 一路逛，一路记。 见天地，见众生，见自己，终得长生。 “所以，公子，我们下一站去哪儿逛？” 纪风笑道：“听说天庭举办仙游大会，而且......算算王母的蟠桃快熟了，我们去凑个热闹。” 道童惊恐：“那是偷吧？！” 纪风：“顺手的事，怎么能叫偷呢？” ......",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o3183ec71ee71ea49013bc771897ebe05~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785720349&x-signature=Pk3K6%2BQ3TbZQa0KeF2mp4AlEsmU%3D",
-          "url": "https://fanqienovel.com/page/7621098033110846488"
         },
         {
           "title": "帝域",
           "author": "六界三道",
-          "reads": "28.9万",
+          "reads": "29.6万",
           "intro": "继《仙武帝尊》《永恒之门》后六界三道强力新书！ 莽荒末期，玄武帝陨落，他是世间最后一尊神灵。 乱古时代，大化真龙暴毙，他是世间最后一尊仙王。 八万年前，蹩老道死时又哭又笑，他是世间最后一尊圣人。 大道命理许有缺，神病了，魔疯了，始仙崩道，祖佛溃法，修行之绝巅，似坍入幽渊的巨岳，悄然沉沦。 直至那年，北斗丛星多了一百零八道光火，三六天罡，七二地煞，那条明灭万古的路，才渐渐拉开浴血重铸的序幕。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o01ef37b9f2c96fed6d30c0ab29bfa417~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785720349&x-signature=FmNCZEhvgm8x2BjaHrIJjCQ4osA%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o01ef37b9f2c96fed6d30c0ab29bfa417~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806025&x-signature=KPqmyw1mSttQUKQIBbiZ8KfZA50%3D",
           "url": "https://fanqienovel.com/page/7332840880971189272"
         },
         {
           "title": "百岁修仙：从觉醒天灵根开始",
           "author": "爱吃平头哥",
-          "reads": "28.8万",
+          "reads": "29.3万",
           "intro": "穿越修真界，李青山表示很难绷，十八岁那年灵根检测，只是一个没有灵根的凡人，无奈龟缩小山村，结婚生子，悠悠百年。 百年后，有仙人途经小山村，竟然检测出了我是天灵根？ 老天你是不是在玩我？ 百岁天灵根，狗都不要…… 要，狗不要我要！ 百岁修仙，正是当打之年！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od730259c92f9a189f5d8eee8ac7ecea4~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785720349&x-signature=oaZ9DY%2FFH4PFSQqHX43ukdP2N10%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od730259c92f9a189f5d8eee8ac7ecea4~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806025&x-signature=LsEu3QlZC6FXmWTAvV8ValfZJb4%3D",
           "url": "https://fanqienovel.com/page/7540122908304100414"
+        },
+        {
+          "title": "别人修仙我闲逛，游历三界终长生",
+          "author": "我不是长颈鹿",
+          "reads": "27万",
+          "intro": "【游历修仙】【非传统升级流】【烂柯流开局】【无女主】【无刀】【非无脑】 主角穿越到三界，本想抱大腿求长生，结果发现自己脑海深处有一本【山海万灵录】。 这书有个毛病——打坐修炼不加进度，闭关注定空手而归。 唯有游历名山大川，记录山河湖海，见识妖精鬼怪仙神，就能获得神通法术，天地灵宝。 于是，别人闭关苦修，他在山野闲逛；别人渡劫遭雷劈，他在人间看戏。 一路逛，一路记。 见天地，见众生，见自己，终得长生。 “所以，公子，我们下一站去哪儿逛？” 纪风笑道：“听说天庭举办仙游大会，而且......算算王母的蟠桃快熟了，我们去凑个热闹。” 道童惊恐：“那是偷吧？！” 纪风：“顺手的事，怎么能叫偷呢？” ......",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o3183ec71ee71ea49013bc771897ebe05~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806025&x-signature=bZZLCE00P3BFjq3SrWmhtuP8GM0%3D",
+          "url": "https://fanqienovel.com/page/7621098033110846488"
         },
         {
           "title": "看门的都是陆地神仙，你来退婚？",
           "author": "赚钱养坨宝",
-          "reads": "26.1万",
+          "reads": "26万",
           "intro": "（漫剧原著：《潜龙出渊：从废材边王到问鼎天下》） 【江湖】+【庙堂】+【无敌】+【杀伐果断】+【极致爽文】 苏清南被贬北凉，天下笑他永世难翻身。 未婚妻柳丝雨为此亲赴北凉，只为斩断这份玷污她道心的孽缘。 直到她走进那座看似破落的王府…… 看门的大爷，醉酒高鼾，竟能引动天象！ 扫地的奴仆，一帚扬起千堆雪，竟是隐居三十年的雪中剑圣！ 就连后院劈柴的火夫，一斧落下，都带着劈山断岳的道韵！ 她猛然惊醒，骇然环视：这里每一个人，都散发着令她师门老祖战栗的气息！ 而那个斜倚在庭院摇椅上，被所有人无声守护着的青年，缓缓睁开了眼。 他的目光平静如水，却仿佛倒映着整片星空的深邃。 “退婚？” ……",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc850ff546a27ab1958fc85f18aed710b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785720349&x-signature=MhujQuBfzpXVT6fK95iSlpJ%2Fx3Y%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc850ff546a27ab1958fc85f18aed710b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806025&x-signature=iETK%2FwxZBKjObkTwqDZf%2FtG7E0I%3D",
           "url": "https://fanqienovel.com/page/7578805934051298366"
         },
         {
           "title": "我真不想修仙啊！",
           "author": "吾欲证道",
-          "reads": "27.9万",
+          "reads": "28.4万",
           "intro": "[简介得来终觉浅，欲知好坏，请阅正文] “你刚问我什么？” “修仙很苦，你怕吗？” “上一句？” “你想修仙吗？” 许闲略一沉吟，“修仙可以，吃苦不行！”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o3ae528b4094800cb6c4e2a4eb57a3a6c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785720353&x-signature=wfx%2FyjQmTl5GBmB3Gyl%2Fe9PjNqM%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o3ae528b4094800cb6c4e2a4eb57a3a6c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806029&x-signature=AGyKCgkmCzugrb%2BmaDGOBpurnrQ%3D",
           "url": "https://fanqienovel.com/page/7506458079534271550"
         },
         {
           "title": "说好同学聚会，群穿仙侠什么鬼",
           "author": "浮夸十年",
-          "reads": "27.1万",
+          "reads": "28.3万",
           "intro": "少年齐凡身负奇特饿症，无奈从高中辍学转行当吃播，意外发现气力日渐增加，他本打算混个职业拳击手，过上扬名立万的富贵生活，但没想到接到高中班主任宋成民的毕业聚会邀请，从此改变一生。 神秘的班主任手持两界穿梭的乘风楼，带领20个学生共穿修仙世界； 于是乎，20位同学跟神秘的班主任，开始了一场浩浩荡荡的修仙之旅……",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/77396ab76f3167c7061ccc5f34c61bd2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785720353&x-signature=xkNVHbe%2BPxLTYxwDSGDb5BNQda0%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/77396ab76f3167c7061ccc5f34c61bd2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806029&x-signature=y%2FjL45fxM6SHXrF20jjc756v2DY%3D",
           "url": "https://fanqienovel.com/page/7572414859212508184"
+        },
+        {
+          "title": "长生：仙庭关系户下界摸鱼",
+          "author": "混沌核心",
+          "reads": "24.2万",
+          "intro": "【长生流+无系统+非爽文+慢节奏+无女主+伪群像，不喜慎入】 煌煌天威如镜，照尽仙凡因果。 渺渺众生似砂，碾作山河劫灰。 一面玄镜悬于九霄，映照三界众生相—— 有人见镜中玉宇琼楼，痴求长生逍遥； 有人窥镜外血海尸山，誓要逆天改命； 而镜外更有镜，命里复藏命。 荆雨坐拥【长生久视】命格，寿元无尽，且看他以玄镜观世间天骄命途，修命数证尊。 【本书境界体系：练气，筑基，金丹，元婴，化神，洞天，大乘，天仙，真仙，金仙，道君，道尊】",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe2a6cf90884f3aba9adc0798e7d22f89~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806029&x-signature=vqKi2hyAIZ1ZBTO3ivG7sDvuj5M%3D",
+          "url": "https://fanqienovel.com/page/7377931562463005720"
         },
         {
           "title": "天不应",
           "author": "夜来风雨声丶",
           "reads": "23.3万",
           "intro": "黄土白骨三万抔，剑光如影月如酒。 春风斩尽人间事，且问桃花肯白头？ 永安历五四七年，齐国南部边陲县城苦海县下了一场伸手不见五指的夜雪，闻潮生在县外的破庙中，捡到了一个重伤垂死的瘸腿女人，本以为对方只是个落难的流民，却不曾想女人身上竟然牵扯出了一桩天大的秘密…… 数年后，参天殿前，一青年持剑，迎月而立，身后遍地尸骸，血流如河。 “我叫闻潮生，此次拔剑，来跟「天」…讨个公道！”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o91af6d9772dd729fb6f4b26879de06fa~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785720353&x-signature=vYycE1mu5qq9VRkJkcsK7qeQJfY%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o91af6d9772dd729fb6f4b26879de06fa~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806029&x-signature=ng8KevOIyt7gXQ%2BLd5B9GLd3%2B5M%3D",
           "url": "https://fanqienovel.com/page/7419924358912543769"
-        },
-        {
-          "title": "长生：仙庭关系户下界摸鱼",
-          "author": "混沌核心",
-          "reads": "23.9万",
-          "intro": "【长生流+无系统+非爽文+慢节奏+无女主+伪群像，不喜慎入】 煌煌天威如镜，照尽仙凡因果。 渺渺众生似砂，碾作山河劫灰。 一面玄镜悬于九霄，映照三界众生相—— 有人见镜中玉宇琼楼，痴求长生逍遥； 有人窥镜外血海尸山，誓要逆天改命； 而镜外更有镜，命里复藏命。 荆雨坐拥【长生久视】命格，寿元无尽，且看他以玄镜观世间天骄命途，修命数证尊。 【本书境界体系：练气，筑基，金丹，元婴，化神，洞天，大乘，天仙，真仙，金仙，道君，道尊】",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe2a6cf90884f3aba9adc0798e7d22f89~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785720353&x-signature=Bjcvtw51avMYaBxCJb8rVKq11Dc%3D",
-          "url": "https://fanqienovel.com/page/7377931562463005720"
-        },
-        {
-          "title": "雷灵根修仙，我有十倍复制空间",
-          "author": "月半丁",
-          "reads": "22万",
-          "intro": "世界观：人界篇（已完成），灵界篇（已到后期），仙界篇（敬请期待） 修为境界：炼气，筑基，结丹，元婴，化神，还原最经典的仙侠风味。 简介： 　　雷凌本是江湖门派海青帮护法，只因帮主得罪修仙者，导致海青帮分崩离析。 　　与她青梅竹马定有婚约的帮主之女玉冰瑶为了复仇，决定踏上修仙之路。 　　雷凌护着她，跋山涉水，闯过了一路艰辛，最终玉冰瑶因身具天灵根而被紫虹门太上长老看中，收做亲传弟子。 　　而雷凌，则成了她踏入紫虹门后第一时间要斩断的因果。 　　然而，一场意外，却让雷凌觉醒了雷属性变异灵根。 　　不仅如此，他还得到了能够十倍复制修行资源的神秘空间。 　　丹药，符箓，法宝，傀儡，十倍复制！ 　　从此之后，比他努力的，资质没有他高。 　　资质比他高的，资源又没他多。 　　资源比他多的，又不如他能打。 　　“天灵根，很厉害吗？”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o998b34450399513e6895d1830a8f87d0~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785720353&x-signature=Yg9e%2B73zc9E%2Fm3P4KZIO2qN3TaA%3D",
-          "url": "https://fanqienovel.com/page/7533042411262463001"
         },
         {
           "title": "人在合欢宗，开局成为圣女道侣！",
           "author": "安月雅",
-          "reads": "23.1万",
+          "reads": "23.4万",
           "intro": "【无系统+多女主+海王日常+修罗场！】 穿越修仙界，陆尘成为圣女道侣！十灵根的他人都麻了！ 前世情场海王，今生注定不平凡！ 好在，身具纯阳圣体！交流修炼心得就变强！ 当圣女虞曦月为龙傲天将他抛弃，他反手就绑定圣女的死对头。 圣女悔恨交织，绝世仙女们苦苦相追！ 龙傲天们，对他暗藏杀机…… 陆尘：别急，我的修仙大业，才刚刚开始。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o016b824a306fb479f0492e26b877af10~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785720353&x-signature=Lsfo1U9lXsNU7WBhlyB3dkGDOnQ%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o016b824a306fb479f0492e26b877af10~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806029&x-signature=jTp1B3nHRZqcMd5g7ETCaX9dB0s%3D",
           "url": "https://fanqienovel.com/page/7560509095371885593"
+        },
+        {
+          "title": "雷灵根修仙，我有十倍复制空间",
+          "author": "月半丁",
+          "reads": "22.8万",
+          "intro": "世界观：人界篇（已完成），灵界篇（已到后期），仙界篇（敬请期待） 修为境界：炼气，筑基，结丹，元婴，化神，还原最经典的仙侠风味。 简介： 　　雷凌本是江湖门派海青帮护法，只因帮主得罪修仙者，导致海青帮分崩离析。 　　与她青梅竹马定有婚约的帮主之女玉冰瑶为了复仇，决定踏上修仙之路。 　　雷凌护着她，跋山涉水，闯过了一路艰辛，最终玉冰瑶因身具天灵根而被紫虹门太上长老看中，收做亲传弟子。 　　而雷凌，则成了她踏入紫虹门后第一时间要斩断的因果。 　　然而，一场意外，却让雷凌觉醒了雷属性变异灵根。 　　不仅如此，他还得到了能够十倍复制修行资源的神秘空间。 　　丹药，符箓，法宝，傀儡，十倍复制！ 　　从此之后，比他努力的，资质没有他高。 　　资质比他高的，资源又没他多。 　　资源比他多的，又不如他能打。 　　“天灵根，很厉害吗？”",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o998b34450399513e6895d1830a8f87d0~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806029&x-signature=mR4NSx64vRnxOwemDbXOqmX78c4%3D",
+          "url": "https://fanqienovel.com/page/7533042411262463001"
         },
         {
           "title": "谁让这个悍匪修仙的！",
           "author": "我顶你个飞",
-          "reads": "18.9万",
+          "reads": "18.4万",
           "intro": "【修仙、腹黑老六、搞笑】 纯小白穿越到修仙界，子承父业成了黑风寨大当家，凭借一双能看透万物财气的眼睛，混得风生水起。 这日，他照例“开张”，意外抢到了一位压寨夫人，从他身上获得神秘小塔。 不料，这竟然是一位重伤女仙人，一怒之下将他丢入了修仙界。 从此，修仙界便出现了一个令人闻风丧胆的悍匪—— 高冷圣女眼馋他，自愿成为压寨夫人。 绝世神子遇上他，只能混个六当家当当。 顶级宗门遇上他，全宗睡觉只能睁一只眼闭一只眼。 即便是高高在上的仙人，碰倒他，都会乖乖交出上一份买路钱！ 可偏偏就是这样一个悍匪，可却被无数人含泪跪拜，成为了他们行踪奉若神明的——英雄。 “若无大王横刀立马，劈开这吃人的世道，我等终将只是这天地间……无人问津的一粒尘埃！”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/1750ea6515b33a015828ecb97cbd00dd~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785720353&x-signature=u2%2BnVFosFdmlPJ4LI%2FD6oG0fnlE%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/1750ea6515b33a015828ecb97cbd00dd~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806029&x-signature=Z2p8zyCjKaJ0jS4aMmb2AnGzRzI%3D",
           "url": "https://fanqienovel.com/page/7602198693214702654"
         },
         {
           "title": "等仙之辈",
           "author": "油子吟",
-          "reads": "18.8万",
+          "reads": "17.7万",
           "intro": "「传统玄幻」、「无系统」、「非后宫」、「非爽文」、「轻松搞笑」介意者慎入。 “这位道友，我们是不是哪里见过？” “儿子，你是哪位？” “老夫似乎记得有一个很喜欢的弟子，怎么想不起来呢？” “到底是谁欠了本尊的灵石？” “昨日是谁打了本妖？” 永远不被人注意的小透明江阳，也无法被人记住。当他踏上仙道后，就开始了一段不同常人的修行之路。 想找我报仇？不好意思，先记住我再说。 欠钱？谁欠你钱了？你记得吗？ 打了你又怎么样，你明天就忘了！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o71a948e8900972d15ab95ef95a96561d~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785720353&x-signature=hS0jN60UyRMQxkk1yAI4A6ZmYH8%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o71a948e8900972d15ab95ef95a96561d~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806029&x-signature=FpVlJW6o2iFvK%2BiqIVwUM8ck7CA%3D",
           "url": "https://fanqienovel.com/page/7573945857326713918"
         },
         {
@@ -432,15 +418,15 @@
           "author": "西门卧雪",
           "reads": "18.3万",
           "intro": "二狗子是个老实本分的庄稼人，最大的梦想就是攒几亩地，当个小地主，再娶个腰粗腿壮的媳妇，人生就完美了。却因意外得到一只葫芦，又被老骗子忽悠，不小心踏入仙道，不得已卷入纷争，但他初心不改，只想种地……",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o4fccd060bb22f7cf4ea611a7b180c0b8~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785720353&x-signature=lZ7cJE7Y1Y%2F5xd9LtkPiqdVWRUk%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o4fccd060bb22f7cf4ea611a7b180c0b8~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806029&x-signature=UtfjEWPiNFUHc7r0z4oHz3oVOL8%3D",
           "url": "https://fanqienovel.com/page/7382148713285684286"
         },
         {
           "title": "那些年，我们一起砍过的修仙者",
           "author": "蘑菇屋下的松鼠",
-          "reads": "16.7万",
+          "reads": "16.8万",
           "intro": "【凡人流】【无系统】与传统仙侠写法不同，不喜勿入 那一年，七岁的男孩儿带着妹妹踏入了修仙界，然后，修仙的全疯了！ 　　出来修仙，你天赋好不好，宝贝多不多，有没有机缘，这些都不重要，但你一定要记住，有一个人你不能惹。 　　虽然这个人并不是什么修仙之人。 　　但是他的刀，比光还快，快到你根本来不及调动灵力。 　　他的拳，比天还重，重的可以一拳让这个世界停止自转。 　　他的嘴，比我还贱，贱的可以让烈阳流泪，让皎月燃烧。 　　他是谁？他是一个没有修仙天赋，却在修仙界练武的靓仔。 　　多年以后，修仙界一众大佬们问他:“林大靓仔，你一个练武的为啥非要跑到修仙界呢？” 　　少年笑嘻嘻的回答道:“我只是没有修仙的天赋而已，但我超喜欢在修仙界玩耍的，那里面个个都是人才，说话又好听，还有各种花里胡哨的特殊才华，哎哟我超喜欢里面的。” 　　修仙大佬们集体绝望:“喜欢？喜欢你提着把刀砍了半个修仙界？”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/7405b408ed86eff971ef943882077bd2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785720353&x-signature=DTza0dLsI4w2Q20DTEeWedSZTIk%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/7405b408ed86eff971ef943882077bd2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1785806029&x-signature=uZfi98n2gOV2LRtqKfr4VzqVtbM%3D",
           "url": "https://fanqienovel.com/page/7085357205842562078"
         }
       ]
