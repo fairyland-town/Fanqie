@@ -1,7 +1,7 @@
 {
   "type": "都市日常",
-  "date": "2026-07-31",
-  "prev_date": "2026-07-30",
+  "date": "2026-08-01",
+  "prev_date": "2026-07-31",
   "category": {
     "name": "都市日常",
     "trend": {
@@ -11,26 +11,26 @@
       "dropped_books": [],
       "top_risers": [
         {
-          "title": "睡了姐姐的同学，她竟然是我领导",
-          "change": "+2"
-        },
-        {
-          "title": "公考逆袭：从面试开始一路攀登",
+          "title": "穿到女频，整顿满城霸总",
           "change": "+1"
         },
         {
-          "title": "开局停职？我转投纪委调查组",
+          "title": "青梅暗恋我十年，还好我重生了",
+          "change": "+1"
+        },
+        {
+          "title": "重返大学：她们都想圈养我",
           "change": "+1"
         }
       ],
       "top_fallers": [
         {
-          "title": "线上腹黑游戏姐，线下高冷女教授",
-          "change": "-9"
+          "title": "天眼风水师",
+          "change": "-1"
         },
         {
-          "title": "只赚钱不谈情，职业舔狗我最行！",
-          "change": "-2"
+          "title": "官场从秘书开始",
+          "change": "-1"
         },
         {
           "title": "哥！这是领养证明，我不要嫂子！",
@@ -40,7 +40,7 @@
       "reads_growth": [
         {
           "title": "重返大学：她们都想圈养我",
-          "growth": "+8000"
+          "growth": "+1.1万"
         },
         {
           "title": "学姐别怕，我来保护你",
@@ -51,79 +51,79 @@
           "growth": "+6000"
         }
       ],
-      "summary": "《睡了姐姐的同学，她竟然是我领导》排名上升+2位；《重返大学：她们都想圈养我》阅读量+8000。"
+      "summary": "《穿到女频，整顿满城霸总》排名上升+1位；《重返大学：她们都想圈养我》阅读量+1.1万。"
     },
     "books": [
       {
-        "title": "天眼风水师",
-        "author": "道之光",
-        "reads": "90.6万",
-        "intro": "【风水类型的小说】【涉及风水，道医，心理学，经济学，看头像，看手机号码】【干货知识】【用科学解释玄学】 师父匆匆教了我预测术，传给我几本书，还没来得及正式上山，就让我下山渡世……这儿上哪儿说理去？ 我在红尘中，渡世修行。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0a2b996f16f47236c6f3f0af6bd9ceb4~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786065738&x-signature=EPtJdlcRDIBeQ7F1rmJKkf7Llw8%3D",
-        "url": "https://fanqienovel.com/page/7326876174989134910"
-      },
-      {
         "title": "穿到女频，整顿满城霸总",
         "author": "嘎嘣蹦",
-        "reads": "91.7万",
+        "reads": "92万",
         "intro": "【男频文】 我叫陆敬修，穿进了霸总世界里。 这里人均身价千亿，不是首富就黑白两道通吃，动不动就当法外狂徒。 而我，竟然也是其中一员。 不过，我是个讲法的人。 于是我果断报警，实名举报，扫黑除恶。 很快，局子里人满为患，霸总们用非人的体力连夜踩缝纫机，鞋帽、箱包、手提袋等物品的价格被连夜打了下来，造福于民。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe702e123737bffebb0ab9ad89c647335~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786065738&x-signature=iPX8zajL%2FeMtPgTxZ6S1yLQBCJk%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe702e123737bffebb0ab9ad89c647335~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786152226&x-signature=oMLXXi0WD%2FGKVTYMSdueo%2Fxds3w%3D",
         "url": "https://fanqienovel.com/page/7637508604198652990"
+      },
+      {
+        "title": "天眼风水师",
+        "author": "道之光",
+        "reads": "89万",
+        "intro": "【风水类型的小说】【涉及风水，道医，心理学，经济学，看头像，看手机号码】【干货知识】【用科学解释玄学】 师父匆匆教了我预测术，传给我几本书，还没来得及正式上山，就让我下山渡世……这儿上哪儿说理去？ 我在红尘中，渡世修行。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0a2b996f16f47236c6f3f0af6bd9ceb4~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786152226&x-signature=KU5flVNXb7xPP2suXnaxG7mIDlE%3D",
+        "url": "https://fanqienovel.com/page/7326876174989134910"
       },
       {
         "title": "公考逆袭：从面试开始一路攀登",
         "author": "元明小阳",
-        "reads": "65.9万",
+        "reads": "65.8万",
         "intro": "人情似纸张张薄，世事如棋局局新，李修远从基层开始做起，带着一颗想要追求进步的心，一步一个脚印，步步登高！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/18712da583cf3f95b76697cac7980c90~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786065738&x-signature=Oge0weH5icV32ApzdLylYO%2Fm8YY%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/18712da583cf3f95b76697cac7980c90~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786152226&x-signature=Jf6hj5RKXbIp2iR2vjrVOJc8eHU%3D",
         "url": "https://fanqienovel.com/page/7501902210347830334"
       },
       {
         "title": "开局停职？我转投纪委调查组",
         "author": "江门二爷",
-        "reads": "61.5万",
+        "reads": "62.1万",
         "intro": "领导被查，女友劈腿；小人排挤，被迫停职。 杨东开局迎来至暗时刻，但他丝毫不慌，只因前世早有经历。 重回2008年的他，可以更加从容的应对这一切。 只是他万万想不到，人生轨迹竟然因为一通电话而改变。 为救领导，借调纪委调查组，却又意外的引出一场惊天风暴。 对此杨东表示，不慌，我先抽颗烟冷静一下！ （不种马，无系统，单女主，正经官文，只为博诸君一笑）",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/31efd2153499a33cae8fe6039c290dd8~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786065738&x-signature=5O1TpOUhm2v4PkqSuS9YONlTq7E%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/31efd2153499a33cae8fe6039c290dd8~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786152226&x-signature=4WkhbfgOkLeFLEuHf35mk%2ByuS7c%3D",
         "url": "https://fanqienovel.com/page/7259957689197792297"
       },
       {
         "title": "宦海官途",
         "author": "风流小二",
-        "reads": "53.8万",
+        "reads": "53.6万",
         "intro": "身处俗世职场江湖，心怀赤诚坚守底线。一路历经风雨历练，沉稳处事从容前行，在岁月磨砺中沉淀自我，踏稳每一步前行之路。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe412612c83b0a75fde5de3eb51de1812~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786065738&x-signature=%2BwkVwU3f8Y5tY9m5L7my5qVP1i4%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe412612c83b0a75fde5de3eb51de1812~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786152226&x-signature=WZaCBUBEkJkmUXdk9xixPjwia5w%3D",
         "url": "https://fanqienovel.com/page/7212512693792541734"
       },
       {
         "title": "学姐别怕，我来保护你",
         "author": "隔胳呜呜",
-        "reads": "53.7万",
+        "reads": "54.4万",
         "intro": "【《心跳引擎2：纯白情书》已出版】 [日常轻松]➕[单女主]➕[无系统]➕［不重生］➕[小甜文] 洛野高中暗恋了三年的女孩，甚至考上了跟女孩一样的大学，两人约定好考上一个大学就在一起，可女孩竟然反悔了。 悲痛之下，洛野化身恋爱小说作者，没想到大学还没开学，他写的小说冲上了平台榜首，他竟然火了…… 上大学后，洛野原以为自己再也不会谈恋爱，却偶然相识了高冷学姐。 洛野决定，要偷偷跟学姐谈恋爱，然后惊艳所有人。 等他和高冷学姐手拉手出现在学校里的时候，全校都震惊了。 高冷校花苏白粥的身边竟然出现了男人？ 这时，暗恋三年的女孩却发现自己心里是有他的，于是再次展开了对洛野的追求。 “抱歉，小学弟已经是我的人了。”苏白粥强势的说道。 …… “后来呢？洛野先生，您跟知名漫画家苏白粥是怎么相爱的呢？” 听到此话，洛野摸了摸脑袋，看着那个绝美的身影，轻声笑道:“她偷偷把我的书给漫画改编了……”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/37a5df2d49a9cd490a7e9788fc738166~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786065738&x-signature=WwKSGr1%2B9X7m93NeN8syNlLXqTQ%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/37a5df2d49a9cd490a7e9788fc738166~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786152226&x-signature=cDeDSh%2BonNxz%2F%2FVrbNPAL2rICDY%3D",
         "url": "https://fanqienovel.com/page/7207072067127086118"
-      },
-      {
-        "title": "官场从秘书开始",
-        "author": "老冰棍",
-        "reads": "46万",
-        "intro": "否极则泰，小往大来，胸怀赤子之心的张俊，机缘巧合之下，从中医研究所坐冷板凳开始，巧妙运用权术、官谋、世情，左右逢源，步步高升。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe9aae487a2cf63e5d5c11fcfee7a8399~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786065738&x-signature=%2Fm%2Fz3UwJ%2BAJ4UVv4ywIPlAjAocU%3D",
-        "url": "https://fanqienovel.com/page/7341408148781026366"
       },
       {
         "title": "青梅暗恋我十年，还好我重生了",
         "author": "夜雨i",
-        "reads": "47.4万",
+        "reads": "47.3万",
         "intro": "【恋爱日常】【多女主】 “您现在已经几乎拥有了一切，请问您还有什么遗憾吗？” 记者朝陈白问道。 “感觉很对不起我妈，以前很不懂事，总让她操心。” “爱情方面呢？” “没有。” 陈白斩钉截铁地说。 直到一朝重生，再次见到那张记忆里早已模糊的清冷面庞，那个小时候总说要嫁给自己的青梅；还有曾经为了照顾自己，不惜净身出户的富家大小姐。 他发现自己错了……错得离谱。 …… “陈白，和我绝交那几年……你有在想我吗？” 重生后的陈白垂眸，实话实说道：“有。” “那就好。” 青梅抿嘴一笑，小声道： “我还以为……只有我在偷偷地想你。” …… 高考的失利，虚度的青春，错过的爱情……这是一个弥补遗憾的故事。 原名：《青梅暗恋我十年，还好我重生了》",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2605bbe958a4568339e5afc61f95a1d2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786065738&x-signature=xABFUA%2BNNvAxz1a3NWqj7J2yx08%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2605bbe958a4568339e5afc61f95a1d2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786152226&x-signature=zdT%2B7kxb11Xl%2FLSJKEMcafDMkdk%3D",
         "url": "https://fanqienovel.com/page/7490373272979115070"
+      },
+      {
+        "title": "官场从秘书开始",
+        "author": "老冰棍",
+        "reads": "45.9万",
+        "intro": "否极则泰，小往大来，胸怀赤子之心的张俊，机缘巧合之下，从中医研究所坐冷板凳开始，巧妙运用权术、官谋、世情，左右逢源，步步高升。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe9aae487a2cf63e5d5c11fcfee7a8399~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786152226&x-signature=HPIuwi%2FjUMZcV5KWjfyuiREghLI%3D",
+        "url": "https://fanqienovel.com/page/7341408148781026366"
       },
       {
         "title": "我的东莞梦：媚姐",
         "author": "曾呓",
-        "reads": "50万",
+        "reads": "47.3万",
         "intro": "媚姐对我的忠告：娱乐场子的女人，看看就好，别动真格的。 媚姐还说：对我，你也别有什么想法。 【一个关于打工的故事，或许有我有你也有他。】",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc56ba4c71665f2bf412a25555a05c775~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786065738&x-signature=IrOS6H83Vu7tvwhBumsqzBrAjkE%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc56ba4c71665f2bf412a25555a05c775~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786152226&x-signature=%2FvX%2FeKLChSrlakZqGZgyOvNi%2Fgg%3D",
         "url": "https://fanqienovel.com/page/7567228928075500569"
       },
       {
@@ -131,88 +131,88 @@
         "author": "曾经拥有1",
         "reads": "43.5万",
         "intro": "【日常+多女主+扮猪吃虎+人性】黄昏见证虔诚的信徒，巅峰产生虚伪的拥护—————————— 大龄剩男林涛无意身中亿万大奖，从一无所有到人生赢家，为了试探人心，他选择了继续低调地生活，看谁是真心对他的人…",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa4a1ec4989e5d540a99ea7707309cc19~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786065738&x-signature=ynz2fPhlzNTNklT8IC2vcScSMBw%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa4a1ec4989e5d540a99ea7707309cc19~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786152226&x-signature=SXL97jZgm61Oeagt4tGbSq17fBA%3D",
         "url": "https://fanqienovel.com/page/7552742914900642878"
       },
       {
         "title": "刚上大学，睡出了个绝美教授老婆",
         "author": "梦醉长安",
-        "reads": "40.2万",
+        "reads": "38.8万",
         "intro": "【恋爱日常+校园+单女主+教授姐姐+甜文+先婚后爱+反差+同居+男主马甲】 失恋买醉的方瑜从酒店醒过来发现他被一个绝美女子给睡了！ 本以为只是一个荒唐的经历，结果第二天睡醒后，居然被绝美女子带去领证！ 方瑜就这样在开学的前一天稀里糊涂的跟绝美女子领了证…… 直到开学上课的时候，方瑜看着这位老婆走进教室的时候，脸色瞬间一僵。 不是？你跟我说我的老婆是我们学院最出名的绝美教授！ 这是想让我当冲师逆徒？ …… 姜溺意，江大最出名的清冷教授，同时还是姜家唯一的千金。 课堂上的姜溺意神色清冷：“方瑜，迟到一次扣平时分，下课来我办公室，” 大家都很心疼方瑜。 课堂下的姜溺意却是各种撒娇：“老公抱抱我好不好，陪陪我嘛，我要亲亲……” …… 直到某天两个人的亲密接触被拍到发到学校论坛的时候，一篇名为姜溺意教授结婚出轨的帖子上了热门。 “作为结婚的老师居然跟学生有亲密接触！” 对此，姜溺意只是淡淡的回应：“是的，我结婚了。” 而方瑜则是牵起姜溺意的手，晒出结婚证，淡淡一笑：“没错，姜教授是我妻子。” 全校师生瞬间炸开了锅：“不是？你是说你不仅追到了女神教授，你还跟她结婚了？你真该死啊！”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o83ca81a24f3d83cff382d6b8f846c0d6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786065741&x-signature=KIHxs%2BWSR0qlLF8yX0ofvpcUInk%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o83ca81a24f3d83cff382d6b8f846c0d6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786152230&x-signature=r9u5vcrQIYjd5nfPrvfuGYRsu8Q%3D",
         "url": "https://fanqienovel.com/page/7644073932164697113"
       },
       {
         "title": "线上腹黑游戏姐，线下高冷女教授",
         "author": "杯酒宿醉",
-        "reads": "40.3万",
+        "reads": "33.3万",
         "intro": "【单女主+校园甜文+姐系女友+天家男主+日常轻松+细腻恋爱+双强+微爽（纯手搓全真实好评）】 大一新生林言因为熬夜和女搭子打游戏导致入学迟到，直接被发配到了数学系女教授苏璃的对门，还误闯了她的宿舍。 本以为和其再无瓜葛，但第二天早八林言看着讲台上冷着脸的教授姐姐……丸辣！ 不是，姐姐，你不交数学的吗！我学经济的啊！ 好在苏璃并没有为难林言，也很公平的按成绩选林言做了课代表。 胆战心惊的林言本以为事情到这里就结束了，但相处下来发现苏璃和自己还挺合拍的。 林言一下线出门，苏璃就出门？ 最要命的是林言渐渐喜欢上了苏璃，但同时他又放不下游戏里认识的腹黑姐。 而苏璃，也面临了同样的问题。 “兄弟，我有个朋友，同时喜欢上女网友和现实里一个女生。” “冰蓝，我有个朋友，同时喜欢上男网友和现实里一个男生。” …… “那个腹黑姐就是你啊！” “你就是那个小话痨！” …… “那……谈吗？” “不行，我是老师……会丢工作的。” 林言：“一个工作……不是问题。”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe07f2c0dc3cbec0e2d6bd0f131cbd3d6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786065741&x-signature=H7S59Owa%2F1JD%2FWCk3p%2FnnGy5GYE%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe07f2c0dc3cbec0e2d6bd0f131cbd3d6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786152230&x-signature=kxnyDtdrna5so5C98vcGG5sTndo%3D",
         "url": "https://fanqienovel.com/page/7636969790375988286"
       },
       {
         "title": "睡了姐姐的同学，她竟然是我领导",
         "author": "千雅3岁",
-        "reads": "38.1万",
+        "reads": "37.7万",
         "intro": "【双洁】【1V1】【姐弟恋】【职业修罗场】 入职前夜，大学同学为陈大鹏庆祝，他喝高了。 酒店房间一夜荒唐，醒来身边空无一人。 她是谁？叫什么名字？ 上班后，第一次见到她。 陈大鹏心中一怔：怎么有点眼熟？ ……",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o3fec3ca8dacede43fbbdafc722f51da2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786065741&x-signature=LG%2Bt7sIX0KmX7mDM%2Fcu4ANBH0E8%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o3fec3ca8dacede43fbbdafc722f51da2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786152230&x-signature=iFOcTaHIjcKtPYVl9aRZ%2FcY1YNQ%3D",
         "url": "https://fanqienovel.com/page/7628174151265553470"
+      },
+      {
+        "title": "重返大学：她们都想圈养我",
+        "author": "秋收十月",
+        "reads": "39.5万",
+        "intro": "【传统向都市文，非脑洞】 【都市日常】+【无系统】+【不修仙】+【青春校园】+【商业赚钱】 别人重生当渣男，赵今安重生，前准岳母娘PUA他....她们都想欺负他，想把他当养成系男友来养。",
+        "cover": "https://p9-reading-sign.fqnovelpic.com/novel-pic/p2o2496881b043a59be7532bdeb5d12f55f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786152230&x-signature=I05KyrUc3U4b2j%2BDix6goUVsBl0%3D",
+        "url": "https://fanqienovel.com/page/7492825933041126424"
       },
       {
         "title": "哥！这是领养证明，我不要嫂子！",
         "author": "传奇小陈",
         "reads": "37.2万",
         "intro": "[多女主+无血缘关系+傲娇嘴硬的妹妹+甜甜恋爱] 苏晓重生了，重生到了父母去世后，自己和妹妹苏晚柠被过继给不同亲戚的那天。 前世，他们两兄妹就这么被拆开，从此再没联系。 再见时，苏晚柠变成了一个小盒子。 因为抑郁，她在18岁的时候自杀了…… 重活一世，苏晓发誓绝对不能让任何人夺走自己的妹妹。 当着所有人的面，苏晓自愿成为苏晚柠的监护人，承担起照顾她的责任。 好消息：生活中多了个可爱又漂亮的妹妹。 坏消息：但妹妹高冷又傲娇，不理人。 苏晓不急，只想用余生慢慢治愈她。 直到这天，他带回家一个女生，女生笑着说：“晚柠妹妹，我是你未来嫂子。” 当晚，一向沉默的苏晚柠，第一次主动敲开了他的房门。 她把一份文件拍在他胸口，声音带着自己都没察觉到的哭腔和占有欲。 “这是我的领养证明！哥，你是不是也要丢下我……”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o00ac7a12de19646455cb44fca6fe5497~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786065741&x-signature=DmaWa2GyehOuuPNrOp62HTcoeXQ%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o00ac7a12de19646455cb44fca6fe5497~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786152230&x-signature=sQ1T3TSkQDnjhmv%2F%2Fq6%2FPqAvLG4%3D",
         "url": "https://fanqienovel.com/page/7638175530939862078"
-      },
-      {
-        "title": "重返大学：她们都想圈养我",
-        "author": "秋收十月",
-        "reads": "38.4万",
-        "intro": "【传统向都市文，非脑洞】 【都市日常】+【无系统】+【不修仙】+【青春校园】+【商业赚钱】 别人重生当渣男，赵今安重生，前准岳母娘PUA他....她们都想欺负他，想把他当养成系男友来养。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2496881b043a59be7532bdeb5d12f55f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786065741&x-signature=rAQ50FH7Fp7NU1Z6iQ6Hdfh33vk%3D",
-        "url": "https://fanqienovel.com/page/7492825933041126424"
-      },
-      {
-        "title": "睡了姐姐闺蜜，她竟是我大学教授",
-        "author": "祈诗安雪",
-        "reads": "33.8万",
-        "intro": "[都市日常+校园+教授+单女主+姐弟恋+甜文撒糖] 许望的天塌了！他遇到一个喝醉酒的女人，带去酒店照顾一夜，转头发现她竟是自家的姐姐的闺蜜，还是他的大学教授！ 温渝也懵了，她和闺蜜的弟弟睡了一夜，对方还是她的学生。 …… 温渝，冷艳御姐系教授，上课端着高冷架子装不熟，下课逮着许望偷偷瞪，被勾掌心撩拨瞬间炸毛，当众喊她姐姐能羞得耳根通红。 她越躲，许望越缠！课堂上有意撩拨，私下里各种借口贴贴，把柄握在手里，冷御教授还想跑？ 许望：姐弟恋我谈定了，这朵高岭之花，迟早是我老婆！ …… 几年后温教授挺着孕肚申请休产假，全校炸锅： “卧槽！许望把温教授娶回家了？！” “同校四年，我们单身狗，你直接抱走女神教授？！”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/38eb0ac582a4f91149fbcc77ed7a2896~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786065741&x-signature=HW7FcmXy7CXhm%2BdrMi6aT9x0pfA%3D",
-        "url": "https://fanqienovel.com/page/7605079869315107864"
       },
       {
         "title": "我的沪上野妻",
         "author": "月下冰河",
-        "reads": "36.1万",
+        "reads": "35.8万",
         "intro": "狂野美妻难驯服？ 那是没有遇上陈野！ 山村青年陈野，凭一腔热血闯上海。 在这座霓虹闪烁的都市下，他见过挥金如土的名媛、雷厉风行的女强人、深夜小巷里神秘的旗袍美人，看似清纯却暗藏心机的校花…… 这些美女个性鲜明，如带刺玫瑰，却纷纷被陈野的野性和真诚所征服。 在这座寸土寸金的大都市里，陈野用自己的狠戾杀出一条血路，将人情冷暖化为垫脚石，把各色美女变成生命中的“战利品”。 当他站在巅峰回望，才发现最初那个只想看看世界的少年，早已成了无数女人心中“最野的王”。 （不擅长写简介，但内容绝对劲爽，包好看！）",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of3cd1f87f2abacaa84d6a1a953f08b1d~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786065741&x-signature=upCP%2FeWhgs0DciIyrhpHKWKxQDM%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of3cd1f87f2abacaa84d6a1a953f08b1d~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786152230&x-signature=ub%2BFsWAurjTzJUwN6a5j7efCExY%3D",
         "url": "https://fanqienovel.com/page/7625848078783761432"
+      },
+      {
+        "title": "睡了姐姐闺蜜，她竟是我大学教授",
+        "author": "祈诗安雪",
+        "reads": "33.9万",
+        "intro": "[都市日常+校园+教授+单女主+姐弟恋+甜文撒糖] 许望的天塌了！他遇到一个喝醉酒的女人，带去酒店照顾一夜，转头发现她竟是自家的姐姐的闺蜜，还是他的大学教授！ 温渝也懵了，她和闺蜜的弟弟睡了一夜，对方还是她的学生。 …… 温渝，冷艳御姐系教授，上课端着高冷架子装不熟，下课逮着许望偷偷瞪，被勾掌心撩拨瞬间炸毛，当众喊她姐姐能羞得耳根通红。 她越躲，许望越缠！课堂上有意撩拨，私下里各种借口贴贴，把柄握在手里，冷御教授还想跑？ 许望：姐弟恋我谈定了，这朵高岭之花，迟早是我老婆！ …… 几年后温教授挺着孕肚申请休产假，全校炸锅： “卧槽！许望把温教授娶回家了？！” “同校四年，我们单身狗，你直接抱走女神教授？！”",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/38eb0ac582a4f91149fbcc77ed7a2896~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786152230&x-signature=5iBu5GWgbq2ptfrWB5cfhZ%2BjeD4%3D",
+        "url": "https://fanqienovel.com/page/7605079869315107864"
       },
       {
         "title": "只赚钱不谈情，职业舔狗我最行！",
         "author": "长叹一声",
-        "reads": "33.4万",
+        "reads": "33.5万",
         "intro": "(魅魔+追夫+轻松搞笑＋校园日常＋无系统＋不重生＋甜虐) 好赌的爸，酗酒的妈，生病的妹妹和破碎的他。 陆星为了赚钱，在提供脑力劳动和提供体力劳动之间，选择了提供情绪价值。 ...... 人尽皆知，陆星是清冷校花魏青鱼的卑微追求者，他爱魏青鱼到骨子里，对魏青鱼无微不至！ 魏青鱼本人也这么认为。 可她不知道，陆星还同时是其他好几个人的卑微追求者！ 等赚够了钱，陆星打算走人，快乐人生。 那些人却后悔了！ ...... 多年后。 看到陆星功成名就，众人纷纷请教经验。 “大家都是卑微小丑，凭什么你应有尽有呢？” 陆星微微一笑。 【我比你们高贵，我来这里是赚钱的！】",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc37af697961e5c4e6c57afc2551cf60f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786065741&x-signature=ufHgfr1a1lT%2FetKY8BjuiH90FHY%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc37af697961e5c4e6c57afc2551cf60f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786152230&x-signature=akmVKQT%2BUI0my8gl9nE1VnZrYq0%3D",
         "url": "https://fanqienovel.com/page/7366503170765245502"
-      },
-      {
-        "title": "要离婚了才发现我有二十亿比特币",
-        "author": "熊猫吴小宝",
-        "reads": "28.1万",
-        "intro": "评分刚出，无系统，后宫文，智性爽，非小白文 离婚冷静期还剩两天，陈昂在老房子里翻出一个U盘。 里面有4735枚比特币，市值二十亿。 七年前他也是富二代，父亲被人做局破产，他从天堂跌进地狱。 七年前与初恋断崖分手，双重打击下，他被一个女人处心积虑地接近，不明不白地替人养了六年儿子，即将净身出户。 于是，他把亲子鉴定报告收起来，然后对提离婚的女人说了一句话：“这婚，不离了。” 与其内耗自己，不如为难别人。 账，要一笔一笔地算。 当陈昂想生个后代继承财富，几个女人周旋在身边时， 初恋竟然带着一对双胞胎出现在他面前。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o71dd90cc76215cea870fdaa739692e38~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786065741&x-signature=%2FUrfW3uCCZ6ai2C9pdWij4LHh9E%3D",
-        "url": "https://fanqienovel.com/page/7625699857356819480"
       },
       {
         "title": "三十多没娶亲，捡个孕妻还嫌亏",
         "author": "小满即安XL",
-        "reads": "30.9万",
+        "reads": "29.9万",
         "intro": "【无套路】【非爽文】【不开挂】【传统】【现实】【年代】【乡村】前十万字慢热，相信我，越到后面越精彩！！！ 马有亮，混不吝，三十多岁没娶亲。 胡金妹，乞讨而来，与马有亮组合成一个家。 他恼怒她隐瞒已婚生女的过往，两个人分开，她成他人妇，善良的水贵娶了金妹。 马有亮迅速相亲，刘月娥什么都不要跟了他，虽然脑子不好使，却一心一意对马有亮。 然而马有亮却放不下金妹，屡屡挑衅水贵，损招一招接一招，陷害了一次又一次… 世事难料，命运捉弄，金妹又重新回到了马有亮身边。 没有娘家的月娥被水贵收留… 月娥为什么还跟有亮纠缠不清？得知真相的水贵又会怎么做？ 有亮最终选择了一条什么样的路？ 两个男人，两个女人，究竟有怎样的爱恨情仇，情感纠葛，书中自有交代！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/de4095af9913f575fb37376bdd8d9e4b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786065741&x-signature=qBRTmcSPtcRdkq0hMYuLoqAYb50%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/de4095af9913f575fb37376bdd8d9e4b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786152230&x-signature=9k19C%2F5PiOmcXXr1FzM3p1rYyhQ%3D",
         "url": "https://fanqienovel.com/page/7566053552125119512"
+      },
+      {
+        "title": "要离婚了才发现我有二十亿比特币",
+        "author": "熊猫吴小宝",
+        "reads": "27万",
+        "intro": "评分刚出，无系统，后宫文，智性爽，非小白文 离婚冷静期还剩两天，陈昂在老房子里翻出一个U盘。 里面有4735枚比特币，市值二十亿。 七年前他也是富二代，父亲被人做局破产，他从天堂跌进地狱。 七年前与初恋断崖分手，双重打击下，他被一个女人处心积虑地接近，不明不白地替人养了六年儿子，即将净身出户。 于是，他把亲子鉴定报告收起来，然后对提离婚的女人说了一句话：“这婚，不离了。” 与其内耗自己，不如为难别人。 账，要一笔一笔地算。 当陈昂想生个后代继承财富，几个女人周旋在身边时， 初恋竟然带着一对双胞胎出现在他面前。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o71dd90cc76215cea870fdaa739692e38~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786152230&x-signature=YunrLuBP1r0OYYQQLx3DO%2FqDTCw%3D",
+        "url": "https://fanqienovel.com/page/7625699857356819480"
       }
     ]
   },
@@ -226,26 +226,26 @@
         "dropped_books": [],
         "top_risers": [
           {
-            "title": "睡了姐姐的同学，她竟然是我领导",
-            "change": "+2"
-          },
-          {
-            "title": "公考逆袭：从面试开始一路攀登",
+            "title": "穿到女频，整顿满城霸总",
             "change": "+1"
           },
           {
-            "title": "开局停职？我转投纪委调查组",
+            "title": "青梅暗恋我十年，还好我重生了",
+            "change": "+1"
+          },
+          {
+            "title": "重返大学：她们都想圈养我",
             "change": "+1"
           }
         ],
         "top_fallers": [
           {
-            "title": "线上腹黑游戏姐，线下高冷女教授",
-            "change": "-9"
+            "title": "天眼风水师",
+            "change": "-1"
           },
           {
-            "title": "只赚钱不谈情，职业舔狗我最行！",
-            "change": "-2"
+            "title": "官场从秘书开始",
+            "change": "-1"
           },
           {
             "title": "哥！这是领养证明，我不要嫂子！",
@@ -255,7 +255,7 @@
         "reads_growth": [
           {
             "title": "重返大学：她们都想圈养我",
-            "growth": "+8000"
+            "growth": "+1.1万"
           },
           {
             "title": "学姐别怕，我来保护你",
@@ -266,79 +266,79 @@
             "growth": "+6000"
           }
         ],
-        "summary": "《睡了姐姐的同学，她竟然是我领导》排名上升+2位；《重返大学：她们都想圈养我》阅读量+8000。"
+        "summary": "《穿到女频，整顿满城霸总》排名上升+1位；《重返大学：她们都想圈养我》阅读量+1.1万。"
       },
       "books": [
         {
-          "title": "天眼风水师",
-          "author": "道之光",
-          "reads": "90.6万",
-          "intro": "【风水类型的小说】【涉及风水，道医，心理学，经济学，看头像，看手机号码】【干货知识】【用科学解释玄学】 师父匆匆教了我预测术，传给我几本书，还没来得及正式上山，就让我下山渡世……这儿上哪儿说理去？ 我在红尘中，渡世修行。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0a2b996f16f47236c6f3f0af6bd9ceb4~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786065738&x-signature=EPtJdlcRDIBeQ7F1rmJKkf7Llw8%3D",
-          "url": "https://fanqienovel.com/page/7326876174989134910"
-        },
-        {
           "title": "穿到女频，整顿满城霸总",
           "author": "嘎嘣蹦",
-          "reads": "91.7万",
+          "reads": "92万",
           "intro": "【男频文】 我叫陆敬修，穿进了霸总世界里。 这里人均身价千亿，不是首富就黑白两道通吃，动不动就当法外狂徒。 而我，竟然也是其中一员。 不过，我是个讲法的人。 于是我果断报警，实名举报，扫黑除恶。 很快，局子里人满为患，霸总们用非人的体力连夜踩缝纫机，鞋帽、箱包、手提袋等物品的价格被连夜打了下来，造福于民。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe702e123737bffebb0ab9ad89c647335~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786065738&x-signature=iPX8zajL%2FeMtPgTxZ6S1yLQBCJk%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe702e123737bffebb0ab9ad89c647335~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786152226&x-signature=oMLXXi0WD%2FGKVTYMSdueo%2Fxds3w%3D",
           "url": "https://fanqienovel.com/page/7637508604198652990"
+        },
+        {
+          "title": "天眼风水师",
+          "author": "道之光",
+          "reads": "89万",
+          "intro": "【风水类型的小说】【涉及风水，道医，心理学，经济学，看头像，看手机号码】【干货知识】【用科学解释玄学】 师父匆匆教了我预测术，传给我几本书，还没来得及正式上山，就让我下山渡世……这儿上哪儿说理去？ 我在红尘中，渡世修行。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0a2b996f16f47236c6f3f0af6bd9ceb4~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786152226&x-signature=KU5flVNXb7xPP2suXnaxG7mIDlE%3D",
+          "url": "https://fanqienovel.com/page/7326876174989134910"
         },
         {
           "title": "公考逆袭：从面试开始一路攀登",
           "author": "元明小阳",
-          "reads": "65.9万",
+          "reads": "65.8万",
           "intro": "人情似纸张张薄，世事如棋局局新，李修远从基层开始做起，带着一颗想要追求进步的心，一步一个脚印，步步登高！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/18712da583cf3f95b76697cac7980c90~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786065738&x-signature=Oge0weH5icV32ApzdLylYO%2Fm8YY%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/18712da583cf3f95b76697cac7980c90~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786152226&x-signature=Jf6hj5RKXbIp2iR2vjrVOJc8eHU%3D",
           "url": "https://fanqienovel.com/page/7501902210347830334"
         },
         {
           "title": "开局停职？我转投纪委调查组",
           "author": "江门二爷",
-          "reads": "61.5万",
+          "reads": "62.1万",
           "intro": "领导被查，女友劈腿；小人排挤，被迫停职。 杨东开局迎来至暗时刻，但他丝毫不慌，只因前世早有经历。 重回2008年的他，可以更加从容的应对这一切。 只是他万万想不到，人生轨迹竟然因为一通电话而改变。 为救领导，借调纪委调查组，却又意外的引出一场惊天风暴。 对此杨东表示，不慌，我先抽颗烟冷静一下！ （不种马，无系统，单女主，正经官文，只为博诸君一笑）",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/31efd2153499a33cae8fe6039c290dd8~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786065738&x-signature=5O1TpOUhm2v4PkqSuS9YONlTq7E%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/31efd2153499a33cae8fe6039c290dd8~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786152226&x-signature=4WkhbfgOkLeFLEuHf35mk%2ByuS7c%3D",
           "url": "https://fanqienovel.com/page/7259957689197792297"
         },
         {
           "title": "宦海官途",
           "author": "风流小二",
-          "reads": "53.8万",
+          "reads": "53.6万",
           "intro": "身处俗世职场江湖，心怀赤诚坚守底线。一路历经风雨历练，沉稳处事从容前行，在岁月磨砺中沉淀自我，踏稳每一步前行之路。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe412612c83b0a75fde5de3eb51de1812~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786065738&x-signature=%2BwkVwU3f8Y5tY9m5L7my5qVP1i4%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe412612c83b0a75fde5de3eb51de1812~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786152226&x-signature=WZaCBUBEkJkmUXdk9xixPjwia5w%3D",
           "url": "https://fanqienovel.com/page/7212512693792541734"
         },
         {
           "title": "学姐别怕，我来保护你",
           "author": "隔胳呜呜",
-          "reads": "53.7万",
+          "reads": "54.4万",
           "intro": "【《心跳引擎2：纯白情书》已出版】 [日常轻松]➕[单女主]➕[无系统]➕［不重生］➕[小甜文] 洛野高中暗恋了三年的女孩，甚至考上了跟女孩一样的大学，两人约定好考上一个大学就在一起，可女孩竟然反悔了。 悲痛之下，洛野化身恋爱小说作者，没想到大学还没开学，他写的小说冲上了平台榜首，他竟然火了…… 上大学后，洛野原以为自己再也不会谈恋爱，却偶然相识了高冷学姐。 洛野决定，要偷偷跟学姐谈恋爱，然后惊艳所有人。 等他和高冷学姐手拉手出现在学校里的时候，全校都震惊了。 高冷校花苏白粥的身边竟然出现了男人？ 这时，暗恋三年的女孩却发现自己心里是有他的，于是再次展开了对洛野的追求。 “抱歉，小学弟已经是我的人了。”苏白粥强势的说道。 …… “后来呢？洛野先生，您跟知名漫画家苏白粥是怎么相爱的呢？” 听到此话，洛野摸了摸脑袋，看着那个绝美的身影，轻声笑道:“她偷偷把我的书给漫画改编了……”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/37a5df2d49a9cd490a7e9788fc738166~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786065738&x-signature=WwKSGr1%2B9X7m93NeN8syNlLXqTQ%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/37a5df2d49a9cd490a7e9788fc738166~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786152226&x-signature=cDeDSh%2BonNxz%2F%2FVrbNPAL2rICDY%3D",
           "url": "https://fanqienovel.com/page/7207072067127086118"
-        },
-        {
-          "title": "官场从秘书开始",
-          "author": "老冰棍",
-          "reads": "46万",
-          "intro": "否极则泰，小往大来，胸怀赤子之心的张俊，机缘巧合之下，从中医研究所坐冷板凳开始，巧妙运用权术、官谋、世情，左右逢源，步步高升。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe9aae487a2cf63e5d5c11fcfee7a8399~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786065738&x-signature=%2Fm%2Fz3UwJ%2BAJ4UVv4ywIPlAjAocU%3D",
-          "url": "https://fanqienovel.com/page/7341408148781026366"
         },
         {
           "title": "青梅暗恋我十年，还好我重生了",
           "author": "夜雨i",
-          "reads": "47.4万",
+          "reads": "47.3万",
           "intro": "【恋爱日常】【多女主】 “您现在已经几乎拥有了一切，请问您还有什么遗憾吗？” 记者朝陈白问道。 “感觉很对不起我妈，以前很不懂事，总让她操心。” “爱情方面呢？” “没有。” 陈白斩钉截铁地说。 直到一朝重生，再次见到那张记忆里早已模糊的清冷面庞，那个小时候总说要嫁给自己的青梅；还有曾经为了照顾自己，不惜净身出户的富家大小姐。 他发现自己错了……错得离谱。 …… “陈白，和我绝交那几年……你有在想我吗？” 重生后的陈白垂眸，实话实说道：“有。” “那就好。” 青梅抿嘴一笑，小声道： “我还以为……只有我在偷偷地想你。” …… 高考的失利，虚度的青春，错过的爱情……这是一个弥补遗憾的故事。 原名：《青梅暗恋我十年，还好我重生了》",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2605bbe958a4568339e5afc61f95a1d2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786065738&x-signature=xABFUA%2BNNvAxz1a3NWqj7J2yx08%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2605bbe958a4568339e5afc61f95a1d2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786152226&x-signature=zdT%2B7kxb11Xl%2FLSJKEMcafDMkdk%3D",
           "url": "https://fanqienovel.com/page/7490373272979115070"
+        },
+        {
+          "title": "官场从秘书开始",
+          "author": "老冰棍",
+          "reads": "45.9万",
+          "intro": "否极则泰，小往大来，胸怀赤子之心的张俊，机缘巧合之下，从中医研究所坐冷板凳开始，巧妙运用权术、官谋、世情，左右逢源，步步高升。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe9aae487a2cf63e5d5c11fcfee7a8399~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786152226&x-signature=HPIuwi%2FjUMZcV5KWjfyuiREghLI%3D",
+          "url": "https://fanqienovel.com/page/7341408148781026366"
         },
         {
           "title": "我的东莞梦：媚姐",
           "author": "曾呓",
-          "reads": "50万",
+          "reads": "47.3万",
           "intro": "媚姐对我的忠告：娱乐场子的女人，看看就好，别动真格的。 媚姐还说：对我，你也别有什么想法。 【一个关于打工的故事，或许有我有你也有他。】",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc56ba4c71665f2bf412a25555a05c775~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786065738&x-signature=IrOS6H83Vu7tvwhBumsqzBrAjkE%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc56ba4c71665f2bf412a25555a05c775~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786152226&x-signature=%2FvX%2FeKLChSrlakZqGZgyOvNi%2Fgg%3D",
           "url": "https://fanqienovel.com/page/7567228928075500569"
         },
         {
@@ -346,88 +346,88 @@
           "author": "曾经拥有1",
           "reads": "43.5万",
           "intro": "【日常+多女主+扮猪吃虎+人性】黄昏见证虔诚的信徒，巅峰产生虚伪的拥护—————————— 大龄剩男林涛无意身中亿万大奖，从一无所有到人生赢家，为了试探人心，他选择了继续低调地生活，看谁是真心对他的人…",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa4a1ec4989e5d540a99ea7707309cc19~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786065738&x-signature=ynz2fPhlzNTNklT8IC2vcScSMBw%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa4a1ec4989e5d540a99ea7707309cc19~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786152226&x-signature=SXL97jZgm61Oeagt4tGbSq17fBA%3D",
           "url": "https://fanqienovel.com/page/7552742914900642878"
         },
         {
           "title": "刚上大学，睡出了个绝美教授老婆",
           "author": "梦醉长安",
-          "reads": "40.2万",
+          "reads": "38.8万",
           "intro": "【恋爱日常+校园+单女主+教授姐姐+甜文+先婚后爱+反差+同居+男主马甲】 失恋买醉的方瑜从酒店醒过来发现他被一个绝美女子给睡了！ 本以为只是一个荒唐的经历，结果第二天睡醒后，居然被绝美女子带去领证！ 方瑜就这样在开学的前一天稀里糊涂的跟绝美女子领了证…… 直到开学上课的时候，方瑜看着这位老婆走进教室的时候，脸色瞬间一僵。 不是？你跟我说我的老婆是我们学院最出名的绝美教授！ 这是想让我当冲师逆徒？ …… 姜溺意，江大最出名的清冷教授，同时还是姜家唯一的千金。 课堂上的姜溺意神色清冷：“方瑜，迟到一次扣平时分，下课来我办公室，” 大家都很心疼方瑜。 课堂下的姜溺意却是各种撒娇：“老公抱抱我好不好，陪陪我嘛，我要亲亲……” …… 直到某天两个人的亲密接触被拍到发到学校论坛的时候，一篇名为姜溺意教授结婚出轨的帖子上了热门。 “作为结婚的老师居然跟学生有亲密接触！” 对此，姜溺意只是淡淡的回应：“是的，我结婚了。” 而方瑜则是牵起姜溺意的手，晒出结婚证，淡淡一笑：“没错，姜教授是我妻子。” 全校师生瞬间炸开了锅：“不是？你是说你不仅追到了女神教授，你还跟她结婚了？你真该死啊！”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o83ca81a24f3d83cff382d6b8f846c0d6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786065741&x-signature=KIHxs%2BWSR0qlLF8yX0ofvpcUInk%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o83ca81a24f3d83cff382d6b8f846c0d6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786152230&x-signature=r9u5vcrQIYjd5nfPrvfuGYRsu8Q%3D",
           "url": "https://fanqienovel.com/page/7644073932164697113"
         },
         {
           "title": "线上腹黑游戏姐，线下高冷女教授",
           "author": "杯酒宿醉",
-          "reads": "40.3万",
+          "reads": "33.3万",
           "intro": "【单女主+校园甜文+姐系女友+天家男主+日常轻松+细腻恋爱+双强+微爽（纯手搓全真实好评）】 大一新生林言因为熬夜和女搭子打游戏导致入学迟到，直接被发配到了数学系女教授苏璃的对门，还误闯了她的宿舍。 本以为和其再无瓜葛，但第二天早八林言看着讲台上冷着脸的教授姐姐……丸辣！ 不是，姐姐，你不交数学的吗！我学经济的啊！ 好在苏璃并没有为难林言，也很公平的按成绩选林言做了课代表。 胆战心惊的林言本以为事情到这里就结束了，但相处下来发现苏璃和自己还挺合拍的。 林言一下线出门，苏璃就出门？ 最要命的是林言渐渐喜欢上了苏璃，但同时他又放不下游戏里认识的腹黑姐。 而苏璃，也面临了同样的问题。 “兄弟，我有个朋友，同时喜欢上女网友和现实里一个女生。” “冰蓝，我有个朋友，同时喜欢上男网友和现实里一个男生。” …… “那个腹黑姐就是你啊！” “你就是那个小话痨！” …… “那……谈吗？” “不行，我是老师……会丢工作的。” 林言：“一个工作……不是问题。”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe07f2c0dc3cbec0e2d6bd0f131cbd3d6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786065741&x-signature=H7S59Owa%2F1JD%2FWCk3p%2FnnGy5GYE%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe07f2c0dc3cbec0e2d6bd0f131cbd3d6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786152230&x-signature=kxnyDtdrna5so5C98vcGG5sTndo%3D",
           "url": "https://fanqienovel.com/page/7636969790375988286"
         },
         {
           "title": "睡了姐姐的同学，她竟然是我领导",
           "author": "千雅3岁",
-          "reads": "38.1万",
+          "reads": "37.7万",
           "intro": "【双洁】【1V1】【姐弟恋】【职业修罗场】 入职前夜，大学同学为陈大鹏庆祝，他喝高了。 酒店房间一夜荒唐，醒来身边空无一人。 她是谁？叫什么名字？ 上班后，第一次见到她。 陈大鹏心中一怔：怎么有点眼熟？ ……",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o3fec3ca8dacede43fbbdafc722f51da2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786065741&x-signature=LG%2Bt7sIX0KmX7mDM%2Fcu4ANBH0E8%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o3fec3ca8dacede43fbbdafc722f51da2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786152230&x-signature=iFOcTaHIjcKtPYVl9aRZ%2FcY1YNQ%3D",
           "url": "https://fanqienovel.com/page/7628174151265553470"
+        },
+        {
+          "title": "重返大学：她们都想圈养我",
+          "author": "秋收十月",
+          "reads": "39.5万",
+          "intro": "【传统向都市文，非脑洞】 【都市日常】+【无系统】+【不修仙】+【青春校园】+【商业赚钱】 别人重生当渣男，赵今安重生，前准岳母娘PUA他....她们都想欺负他，想把他当养成系男友来养。",
+          "cover": "https://p9-reading-sign.fqnovelpic.com/novel-pic/p2o2496881b043a59be7532bdeb5d12f55f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786152230&x-signature=I05KyrUc3U4b2j%2BDix6goUVsBl0%3D",
+          "url": "https://fanqienovel.com/page/7492825933041126424"
         },
         {
           "title": "哥！这是领养证明，我不要嫂子！",
           "author": "传奇小陈",
           "reads": "37.2万",
           "intro": "[多女主+无血缘关系+傲娇嘴硬的妹妹+甜甜恋爱] 苏晓重生了，重生到了父母去世后，自己和妹妹苏晚柠被过继给不同亲戚的那天。 前世，他们两兄妹就这么被拆开，从此再没联系。 再见时，苏晚柠变成了一个小盒子。 因为抑郁，她在18岁的时候自杀了…… 重活一世，苏晓发誓绝对不能让任何人夺走自己的妹妹。 当着所有人的面，苏晓自愿成为苏晚柠的监护人，承担起照顾她的责任。 好消息：生活中多了个可爱又漂亮的妹妹。 坏消息：但妹妹高冷又傲娇，不理人。 苏晓不急，只想用余生慢慢治愈她。 直到这天，他带回家一个女生，女生笑着说：“晚柠妹妹，我是你未来嫂子。” 当晚，一向沉默的苏晚柠，第一次主动敲开了他的房门。 她把一份文件拍在他胸口，声音带着自己都没察觉到的哭腔和占有欲。 “这是我的领养证明！哥，你是不是也要丢下我……”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o00ac7a12de19646455cb44fca6fe5497~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786065741&x-signature=DmaWa2GyehOuuPNrOp62HTcoeXQ%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o00ac7a12de19646455cb44fca6fe5497~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786152230&x-signature=sQ1T3TSkQDnjhmv%2F%2Fq6%2FPqAvLG4%3D",
           "url": "https://fanqienovel.com/page/7638175530939862078"
-        },
-        {
-          "title": "重返大学：她们都想圈养我",
-          "author": "秋收十月",
-          "reads": "38.4万",
-          "intro": "【传统向都市文，非脑洞】 【都市日常】+【无系统】+【不修仙】+【青春校园】+【商业赚钱】 别人重生当渣男，赵今安重生，前准岳母娘PUA他....她们都想欺负他，想把他当养成系男友来养。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2496881b043a59be7532bdeb5d12f55f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786065741&x-signature=rAQ50FH7Fp7NU1Z6iQ6Hdfh33vk%3D",
-          "url": "https://fanqienovel.com/page/7492825933041126424"
-        },
-        {
-          "title": "睡了姐姐闺蜜，她竟是我大学教授",
-          "author": "祈诗安雪",
-          "reads": "33.8万",
-          "intro": "[都市日常+校园+教授+单女主+姐弟恋+甜文撒糖] 许望的天塌了！他遇到一个喝醉酒的女人，带去酒店照顾一夜，转头发现她竟是自家的姐姐的闺蜜，还是他的大学教授！ 温渝也懵了，她和闺蜜的弟弟睡了一夜，对方还是她的学生。 …… 温渝，冷艳御姐系教授，上课端着高冷架子装不熟，下课逮着许望偷偷瞪，被勾掌心撩拨瞬间炸毛，当众喊她姐姐能羞得耳根通红。 她越躲，许望越缠！课堂上有意撩拨，私下里各种借口贴贴，把柄握在手里，冷御教授还想跑？ 许望：姐弟恋我谈定了，这朵高岭之花，迟早是我老婆！ …… 几年后温教授挺着孕肚申请休产假，全校炸锅： “卧槽！许望把温教授娶回家了？！” “同校四年，我们单身狗，你直接抱走女神教授？！”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/38eb0ac582a4f91149fbcc77ed7a2896~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786065741&x-signature=HW7FcmXy7CXhm%2BdrMi6aT9x0pfA%3D",
-          "url": "https://fanqienovel.com/page/7605079869315107864"
         },
         {
           "title": "我的沪上野妻",
           "author": "月下冰河",
-          "reads": "36.1万",
+          "reads": "35.8万",
           "intro": "狂野美妻难驯服？ 那是没有遇上陈野！ 山村青年陈野，凭一腔热血闯上海。 在这座霓虹闪烁的都市下，他见过挥金如土的名媛、雷厉风行的女强人、深夜小巷里神秘的旗袍美人，看似清纯却暗藏心机的校花…… 这些美女个性鲜明，如带刺玫瑰，却纷纷被陈野的野性和真诚所征服。 在这座寸土寸金的大都市里，陈野用自己的狠戾杀出一条血路，将人情冷暖化为垫脚石，把各色美女变成生命中的“战利品”。 当他站在巅峰回望，才发现最初那个只想看看世界的少年，早已成了无数女人心中“最野的王”。 （不擅长写简介，但内容绝对劲爽，包好看！）",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of3cd1f87f2abacaa84d6a1a953f08b1d~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786065741&x-signature=upCP%2FeWhgs0DciIyrhpHKWKxQDM%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of3cd1f87f2abacaa84d6a1a953f08b1d~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786152230&x-signature=ub%2BFsWAurjTzJUwN6a5j7efCExY%3D",
           "url": "https://fanqienovel.com/page/7625848078783761432"
+        },
+        {
+          "title": "睡了姐姐闺蜜，她竟是我大学教授",
+          "author": "祈诗安雪",
+          "reads": "33.9万",
+          "intro": "[都市日常+校园+教授+单女主+姐弟恋+甜文撒糖] 许望的天塌了！他遇到一个喝醉酒的女人，带去酒店照顾一夜，转头发现她竟是自家的姐姐的闺蜜，还是他的大学教授！ 温渝也懵了，她和闺蜜的弟弟睡了一夜，对方还是她的学生。 …… 温渝，冷艳御姐系教授，上课端着高冷架子装不熟，下课逮着许望偷偷瞪，被勾掌心撩拨瞬间炸毛，当众喊她姐姐能羞得耳根通红。 她越躲，许望越缠！课堂上有意撩拨，私下里各种借口贴贴，把柄握在手里，冷御教授还想跑？ 许望：姐弟恋我谈定了，这朵高岭之花，迟早是我老婆！ …… 几年后温教授挺着孕肚申请休产假，全校炸锅： “卧槽！许望把温教授娶回家了？！” “同校四年，我们单身狗，你直接抱走女神教授？！”",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/38eb0ac582a4f91149fbcc77ed7a2896~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786152230&x-signature=5iBu5GWgbq2ptfrWB5cfhZ%2BjeD4%3D",
+          "url": "https://fanqienovel.com/page/7605079869315107864"
         },
         {
           "title": "只赚钱不谈情，职业舔狗我最行！",
           "author": "长叹一声",
-          "reads": "33.4万",
+          "reads": "33.5万",
           "intro": "(魅魔+追夫+轻松搞笑＋校园日常＋无系统＋不重生＋甜虐) 好赌的爸，酗酒的妈，生病的妹妹和破碎的他。 陆星为了赚钱，在提供脑力劳动和提供体力劳动之间，选择了提供情绪价值。 ...... 人尽皆知，陆星是清冷校花魏青鱼的卑微追求者，他爱魏青鱼到骨子里，对魏青鱼无微不至！ 魏青鱼本人也这么认为。 可她不知道，陆星还同时是其他好几个人的卑微追求者！ 等赚够了钱，陆星打算走人，快乐人生。 那些人却后悔了！ ...... 多年后。 看到陆星功成名就，众人纷纷请教经验。 “大家都是卑微小丑，凭什么你应有尽有呢？” 陆星微微一笑。 【我比你们高贵，我来这里是赚钱的！】",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc37af697961e5c4e6c57afc2551cf60f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786065741&x-signature=ufHgfr1a1lT%2FetKY8BjuiH90FHY%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc37af697961e5c4e6c57afc2551cf60f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786152230&x-signature=akmVKQT%2BUI0my8gl9nE1VnZrYq0%3D",
           "url": "https://fanqienovel.com/page/7366503170765245502"
-        },
-        {
-          "title": "要离婚了才发现我有二十亿比特币",
-          "author": "熊猫吴小宝",
-          "reads": "28.1万",
-          "intro": "评分刚出，无系统，后宫文，智性爽，非小白文 离婚冷静期还剩两天，陈昂在老房子里翻出一个U盘。 里面有4735枚比特币，市值二十亿。 七年前他也是富二代，父亲被人做局破产，他从天堂跌进地狱。 七年前与初恋断崖分手，双重打击下，他被一个女人处心积虑地接近，不明不白地替人养了六年儿子，即将净身出户。 于是，他把亲子鉴定报告收起来，然后对提离婚的女人说了一句话：“这婚，不离了。” 与其内耗自己，不如为难别人。 账，要一笔一笔地算。 当陈昂想生个后代继承财富，几个女人周旋在身边时， 初恋竟然带着一对双胞胎出现在他面前。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o71dd90cc76215cea870fdaa739692e38~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786065741&x-signature=%2FUrfW3uCCZ6ai2C9pdWij4LHh9E%3D",
-          "url": "https://fanqienovel.com/page/7625699857356819480"
         },
         {
           "title": "三十多没娶亲，捡个孕妻还嫌亏",
           "author": "小满即安XL",
-          "reads": "30.9万",
+          "reads": "29.9万",
           "intro": "【无套路】【非爽文】【不开挂】【传统】【现实】【年代】【乡村】前十万字慢热，相信我，越到后面越精彩！！！ 马有亮，混不吝，三十多岁没娶亲。 胡金妹，乞讨而来，与马有亮组合成一个家。 他恼怒她隐瞒已婚生女的过往，两个人分开，她成他人妇，善良的水贵娶了金妹。 马有亮迅速相亲，刘月娥什么都不要跟了他，虽然脑子不好使，却一心一意对马有亮。 然而马有亮却放不下金妹，屡屡挑衅水贵，损招一招接一招，陷害了一次又一次… 世事难料，命运捉弄，金妹又重新回到了马有亮身边。 没有娘家的月娥被水贵收留… 月娥为什么还跟有亮纠缠不清？得知真相的水贵又会怎么做？ 有亮最终选择了一条什么样的路？ 两个男人，两个女人，究竟有怎样的爱恨情仇，情感纠葛，书中自有交代！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/de4095af9913f575fb37376bdd8d9e4b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786065741&x-signature=qBRTmcSPtcRdkq0hMYuLoqAYb50%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/de4095af9913f575fb37376bdd8d9e4b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786152230&x-signature=9k19C%2F5PiOmcXXr1FzM3p1rYyhQ%3D",
           "url": "https://fanqienovel.com/page/7566053552125119512"
+        },
+        {
+          "title": "要离婚了才发现我有二十亿比特币",
+          "author": "熊猫吴小宝",
+          "reads": "27万",
+          "intro": "评分刚出，无系统，后宫文，智性爽，非小白文 离婚冷静期还剩两天，陈昂在老房子里翻出一个U盘。 里面有4735枚比特币，市值二十亿。 七年前他也是富二代，父亲被人做局破产，他从天堂跌进地狱。 七年前与初恋断崖分手，双重打击下，他被一个女人处心积虑地接近，不明不白地替人养了六年儿子，即将净身出户。 于是，他把亲子鉴定报告收起来，然后对提离婚的女人说了一句话：“这婚，不离了。” 与其内耗自己，不如为难别人。 账，要一笔一笔地算。 当陈昂想生个后代继承财富，几个女人周旋在身边时， 初恋竟然带着一对双胞胎出现在他面前。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o71dd90cc76215cea870fdaa739692e38~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786152230&x-signature=YunrLuBP1r0OYYQQLx3DO%2FqDTCw%3D",
+          "url": "https://fanqienovel.com/page/7625699857356819480"
         }
       ]
     }

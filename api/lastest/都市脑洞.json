@@ -1,224 +1,229 @@
 {
   "type": "都市脑洞",
-  "date": "2026-07-31",
-  "prev_date": "2026-07-30",
+  "date": "2026-08-01",
+  "prev_date": "2026-07-31",
   "category": {
     "name": "都市脑洞",
     "trend": {
-      "new_count": 1,
-      "dropped_count": 1,
+      "new_count": 2,
+      "dropped_count": 2,
       "new_books": [
-        "华娱：从绑定天仙开始全能"
+        "什么叫高考满分，但人失踪了？",
+        "人在五哈：全网催我和前任复合！"
       ],
       "dropped_books": [
         {
-          "title": "中奖九千万，我真的只想躺平啊！",
-          "intro": "（认知差爽感 + 暴富躺平 + 烟火日常 + 被动致富 + 无装逼打脸） 陆昭阳中了9500万，辞职回县城，买了个带院子的小平房。 养花种菜，钓鱼发呆，提前过上退休生活。 谁知道，以前追着跑都追不上的"
+          "title": "卖个早点，怎么上班族全迟到了",
+          "intro": "【美食+系统+日常+升级+无女主】 宋砚被老爹诓回来继承早餐店，却意外激活厨神系统。 【宿主】：宋砚 调味（初级）：165/1000（毒不死人） ……折叠…… 刀功（初级）：0/1000（比起切菜，你"
+        },
+        {
+          "title": "荒岛求生：有了个娃后百倍提升？",
+          "intro": "美女总裁：“林帆，一千万买你一瓶矿泉水……” 顶流明星：“我也五千万买你一桶泡面。” …… 实习生林帆和首富独女总裁、女明星、公司精英、富二代们遭遇海难，被海啸卷到一个不知名破岛。 别人以为救援马上来"
         }
       ],
       "top_risers": [
         {
-          "title": "救命！我这是农场，不是动物园！",
-          "change": "+2"
-        },
-        {
-          "title": "好感度系统：女神想要的，我全有",
+          "title": "上恋综后，和清冷设计师爆火全网",
           "change": "+1"
         },
         {
-          "title": "分手后，被一群精神小妹收留了",
+          "title": "每天一个亿，开局和校花签订契约",
+          "change": "+1"
+        },
+        {
+          "title": "每天六千万，只能在县城花？",
           "change": "+1"
         }
       ],
       "top_fallers": [
         {
-          "title": "继承荒山：直接改造10A级景区",
-          "change": "-3"
+          "title": "高考分手后，带校花房车旅游暴富",
+          "change": "-5"
         },
         {
-          "title": "荒岛求生：有了个娃后百倍提升？",
-          "change": "-3"
+          "title": "看见情绪颜色后，她们都变粉色了",
+          "change": "-4"
         },
         {
-          "title": "开局上岸，从外卖员成秘密特勤",
+          "title": "华娱：从绑定天仙开始全能",
           "change": "-2"
         }
       ],
       "reads_growth": [
         {
-          "title": "归国留洋水货？叫我芯片之父！",
+          "title": "华娱：从绑定天仙开始全能",
           "growth": "+2.7万"
         },
         {
-          "title": "入伍四次！我被原部队拉进黑名单",
-          "growth": "+1.0万"
+          "title": "归国留洋水货？叫我芯片之父！",
+          "growth": "+2.0万"
         },
         {
-          "title": "继承荒山：直接改造10A级景区",
-          "growth": "-2000"
+          "title": "入伍四次！我被原部队拉进黑名单",
+          "growth": "+1.6万"
         }
       ],
-      "summary": "新增1本上榜；1本掉出（《中奖九千万，我真的只想躺平啊！》）；《救命！我这是农场，不是动物园！》排名上升+2位；《归国留洋水货？叫我芯片之父！》阅读量+2.7万。"
+      "summary": "新增2本上榜；2本掉出（《卖个早点，怎么上班族全迟到了》、《荒岛求生：有了个娃后百倍提升？》）；《上恋综后，和清冷设计师爆火全网》排名上升+1位；《华娱：从绑定天仙开始全能》阅读量+2.7万。"
     },
     "books": [
       {
         "title": "归国留洋水货？叫我芯片之父！",
         "author": "这肉有毒",
-        "reads": "93.3万",
+        "reads": "95.3万",
         "intro": "【五十年代+科技强国+学霸】 新世纪青年穿越至1955年的归国留洋学生，成了与钱老同一批邮轮归国者。 原本24人的名单，竟莫名多了他一人。 然而前身这位斯坦福大学的毕业生，实际却是依靠家里捐赠毕业，肚中并无半点学识，已然被米国斩杀线将要斩杀之人，这才积极投身回国，只为混口饭吃。 为了不暴露自己是水货学生，起初在同船轮渡都不敢交流，工作分配也主动要求去工厂。 好在最艰难之际，开启了装备栏系统，真正补足学识！ 从留洋的本专业出发，晶体管，集成电路，芯片，乃至延伸至各个学科。 逐步成为那个时代的院士，未来的的芯片之父，科学奠基人！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob13aaa1957ceaddad00657ba07a18a66~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786065842&x-signature=vBcuP1oVB2qM%2F7QqMAjJtGSXcfQ%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob13aaa1957ceaddad00657ba07a18a66~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786152330&x-signature=8K6g1nrDewnnN%2F%2F%2FGZDe4ZEwr0I%3D",
         "url": "https://fanqienovel.com/page/7623581376586976281"
       },
       {
         "title": "顶级妇医：开局查出名媛怀外教种",
         "author": "咸包谷",
-        "reads": "62.4万",
+        "reads": "59万",
         "intro": "《极致反差》 + 《渣女鉴定》 + 《拯救大佬爆金币》 + 《权贵人脉》 　　林枫本是外科天才，却被恶意调剂到妇产科。虽是副主任医师，但因为被打压，在加上是个男的，门诊门可罗雀，手术逐渐无人问津，只能苦逼的常年值夜班。 　　直到他觉醒【因果清算系统】，中西医大成，并开启【真实之眼】！ 　　深夜值班，南江首富带着全网三百万粉丝的“国风纯洁未婚妻”来做婚检。 　　名媛私下狂砸五十万，半褪香肩求林枫伪造B超单。 　　林枫反手将屏幕转给推门而入的首富：“王总，恭喜。不过根据骨盆影像和超高浓度黑色素基因推算，这双胞胎大概率是哪位‘外籍私教’的杰作。” 　　首富当场暴走！名媛瞬间跌入地狱！ 　　而后，大佬的夫人突发“产科死神”羊水栓塞，全院专家下达死亡通知！林枫手持太乙神针，中西合璧逆天改命！大佬狂喜，大手一挥：全科室医护，每人赏三百万！ 　　全院震怖！ 　　从此，高冷女总裁、清纯校花为了挂他的门诊号大打出手，各路顶级权贵更是捧着金山银山，只求对他们的未婚妻进行结婚前的婚检。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0bc3fd419ce1686fa5170e9793b9e4f4~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786065842&x-signature=yhsj%2BHVIYWmof9aIYmHGwqVNDrQ%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0bc3fd419ce1686fa5170e9793b9e4f4~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786152330&x-signature=Esjcu0cV6rLC4rZHjpymalWIars%3D",
         "url": "https://fanqienovel.com/page/7624202089656241177"
-      },
-      {
-        "title": "看见情绪颜色后，她们都变粉色了",
-        "author": "M0724",
-        "reads": "54.7万",
-        "intro": "（新书刚出评分，会涨的！） （已有9.5分百万字完结青春校园作品保障） 【真·青春校园】+【中式轻小说】+【多女主】+【搞笑轻松】+【超能力】+【不重生无系统】+【恋爱暧昧】 周日早晨，许川觉醒了能吸收别人情绪颜色的超能力。 与此同时，他还能无限控制其中一种颜色——淡青色情绪【轻松】， 通过这个能力，他靠“2元拥抱”，花一个下午与他人交换情绪颜色体验。 浅红色的是焦躁，灰色的是疲惫，橙色的是兴奋，黄色的是炫压抑…… 在把大部分情绪都摸透体验后，他迎来了今天的最后一个女嘉宾， 一个情绪颜色为纯黑色的女孩…… —————— 一个星期后，当许川熟练掌握淡青色【轻松】，把这玩意当风油精使用时…… 他发现自己又刷新了一个新的无限情绪颜色，代表【恐惧】的紫色。 原来这个颜色每周刷新啊，我再也不说你飞舞了…… —— 又不知过了多久，当许川拥有无限多的情绪能力后， 在某天晚上，他忽然发现自己进入到了别人的梦里，还能使用自己拥有的情绪颜色进行绘画 在梦里，他给她画了一场， 铺满深邃夜空的粉色流星雨…… 【书名简介无力，各位客官请移步正文（已有9.5分百万字完结青春校园作品保障）】",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8ad88d9a6ba575c63352c7fec69496d2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786065842&x-signature=aPQcQXdfj%2FXDWwvfVgNTPGWq3cU%3D",
-        "url": "https://fanqienovel.com/page/7629265111009479705"
       },
       {
         "title": "上恋综后，和清冷设计师爆火全网",
         "author": "在下张滚滚",
-        "reads": "59万",
+        "reads": "59.5万",
         "intro": "这就是一本慢节奏的日常文，没有那么多冲突打脸，不喜勿入，祝您天天开心。 【系统签到+恋综直播+全网爆火+双向奔赴+甜向日常+群像】 秦轩重活一世，绑定了个日常签到系统。 每天做做饭、下下棋、做做木工，技能越签越多，日子越过越爽。 他小姨看不下去了，一脚踹开他家门，给他报了个恋综。 四十二天，要么带个女朋友回来，要么回来继承家业。 秦轩果断选了第三条路：去节目里继续当咸鱼。 节目开播第一天，弹幕就发现了这个白T恤的男人有点不太对劲。 别人在积极社交，他在厨房研究中岛台高度。 别人在镜头前疯狂营业，他在木工房里安静凿榫卯。 【这哥们儿是来度假的吧？】 【笑死，他是真的不想谈恋爱。】 【等等，那个清冷设计师为什么坐到他旁边去了？】 【她在给他递工具，递了快一个小时了。】 没有刻意撒糖，没有狗血误会。 其实只是：一个不愿将就的人，遇到了另一个。 这辈子，刚好。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe99c6f696aeabfda1d68b891d4049b4b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786065842&x-signature=5pmDfq7l2nVl%2FB7mS0AYJ6XDHco%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe99c6f696aeabfda1d68b891d4049b4b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786152330&x-signature=SWBOQ87EiKzVWh1ZPZo0tQQ8qJY%3D",
         "url": "https://fanqienovel.com/page/7641906591557487640"
       },
       {
         "title": "每天一个亿，开局和校花签订契约",
         "author": "滴滴滴哒三号",
-        "reads": "56.1万",
+        "reads": "54.9万",
         "intro": "【短剧在做】【漫剧已出】【不一样的神豪文】 【多女主】【不用压分】 大一军训第一天，苏牧被四十度高温晒到中暑，意外觉醒系统。 系统朴实无华，每天简简单单到账一个亿。 没有强制任务，也没有规定消费对象，更没有限制花完的时间。 ...... 前面是不用当舔狗的神豪，后面是不一样的神豪文。 (简介都看到这了，兄弟们进来领个系统再说！）",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob9f3663a693f7d13ca7070eb84539a4e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786065842&x-signature=bRMAWgIZMmEK7Ml9Z3bx0RYESaM%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob9f3663a693f7d13ca7070eb84539a4e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786152330&x-signature=xYjvTRakxEfn8COLCKlp8oT%2B2PA%3D",
         "url": "https://fanqienovel.com/page/7621869177141218329"
       },
       {
         "title": "每天六千万，只能在县城花？",
         "author": "凤失凰",
-        "reads": "57.1万",
+        "reads": "56万",
         "intro": "【非社达】+【人民史观】＋【无性别对立】+【基建】＋【事业】＋【慢热】＋【扮猪吃虎】 上海打工，内卷到高血压，还存不到钱。 陆明一怒辞职回乡，却意外绑定“县城消费金系统”，全县每人给我一百块，一天六千万！ 但这钱有个规矩：只能在鸟不拉屎的小县城里花！ 县城首富？ 格局小了！当别人还在炒房时，陆明反手买下一栋烂尾楼当公司总部；当亲戚劝他去修车厂拧螺丝时，他提了一台迈巴赫S680代步。 从改造全县娱乐业开始，建厂、修路、盖学校、造医院…… 面对所有人的质疑，陆明只是笑了笑：“我不是要当县城首富，我是要把这破县城，变成全世界都向往的乌托邦！” 多年以后，福布斯专栏记者采访陆明：“你是怎么想到把一个五线小县城建成2000万人口的国际化大都市的？” 陆明微微一笑：“只是一时心血来潮~”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc126ca48e7bbdce1a8962ada31918ef8~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786065842&x-signature=WMEmbhrZ%2Fi6aiBTusJLNp6eJ7Pk%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc126ca48e7bbdce1a8962ada31918ef8~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786152330&x-signature=PxN4iKgQGKX8lSwhvg2ZY8u9dAA%3D",
         "url": "https://fanqienovel.com/page/7623460631303179288"
+      },
+      {
+        "title": "什么叫高考满分，但人失踪了？",
+        "author": "核动力打窝仙人",
+        "reads": "52.5万",
+        "intro": "穿越高考现场，身背系统的秦泽心说这把稳了。 谁承想，这老六系统竟然是收费的？ 考个满分，竟然给系统干欠费了。 无奈之下，秦泽只能在朋友圈到处借钱，随后进厂打工。 他这一走不要紧，全网都震惊了。 …… “你是说全科满分的天才交不起学费？” “离奇失踪是什么鬼？” “什么叫当地名门望最有个同名同姓的孩子？” 随着调查的深入，鞭炮声响了一夜，严打自此开始。 调查组：“活要见人！死要见尸！待会进了学校，关了执法记录仪，见人就打！”",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oec7bb817033721c7c51d338e459c87a5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786152330&x-signature=SvcRFGq2CeljBd0uxEikcL3SDnY%3D",
+        "url": "https://fanqienovel.com/page/7647411499236871230"
+      },
+      {
+        "title": "看见情绪颜色后，她们都变粉色了",
+        "author": "M0724",
+        "reads": "53万",
+        "intro": "（新书刚出评分，会涨的！） （已有9.5分百万字完结青春校园作品保障） 【真·青春校园】+【中式轻小说】+【多女主】+【搞笑轻松】+【超能力】+【不重生无系统】+【恋爱暧昧】 周日早晨，许川觉醒了能吸收别人情绪颜色的超能力。 与此同时，他还能无限控制其中一种颜色——淡青色情绪【轻松】， 通过这个能力，他靠“2元拥抱”，花一个下午与他人交换情绪颜色体验。 浅红色的是焦躁，灰色的是疲惫，橙色的是兴奋，黄色的是炫压抑…… 在把大部分情绪都摸透体验后，他迎来了今天的最后一个女嘉宾， 一个情绪颜色为纯黑色的女孩…… —————— 一个星期后，当许川熟练掌握淡青色【轻松】，把这玩意当风油精使用时…… 他发现自己又刷新了一个新的无限情绪颜色，代表【恐惧】的紫色。 原来这个颜色每周刷新啊，我再也不说你飞舞了…… —— 又不知过了多久，当许川拥有无限多的情绪能力后， 在某天晚上，他忽然发现自己进入到了别人的梦里，还能使用自己拥有的情绪颜色进行绘画 在梦里，他给她画了一场， 铺满深邃夜空的粉色流星雨…… 【书名简介无力，各位客官请移步正文（已有9.5分百万字完结青春校园作品保障）】",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8ad88d9a6ba575c63352c7fec69496d2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786152330&x-signature=q%2FVWoZxk0kURWbLg8NYP9d%2BRDsE%3D",
+        "url": "https://fanqienovel.com/page/7629265111009479705"
       },
       {
         "title": "好感度系统：女神想要的，我全有",
         "author": "欧氪",
-        "reads": "51.4万",
+        "reads": "49.2万",
         "intro": "【系统+神豪+日常爽文+多图+多女+纯手搓】 曹旭，大三开学第一天，竟然觉醒【好感度满足系统】，女神想要的择偶条件，系统全部帮忙满足。 60好感度，女神想要伴侣年入百万？系统直接打给我百万现金，每年都有！ 80好感度，女神想嫁公司老总？我直接喜提上市公司股权！ 女主播想要每天10个嘉年华？我的抖音账户每天到账30万钻石！ 不管她们的愿望多离谱，系统都能让我轻松实现。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc6d682e27bdbdf601a5535bc8457c37e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786065842&x-signature=F23CCjPFvkitBlM8lNeBHAMusJY%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc6d682e27bdbdf601a5535bc8457c37e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786152330&x-signature=%2FCOcoteIFW%2Bf%2BuJ7Rc6YCDfeT2U%3D",
         "url": "https://fanqienovel.com/page/7633329934525549630"
       },
       {
         "title": "自律就变帅！高冷校花绷不住了！",
         "author": "单身狗协会副会长",
-        "reads": "47.9万",
+        "reads": "47.7万",
         "intro": "高二开学那天，一块透明面板忽然浮在陈知远眼前。 【男神养成系统已绑定。】 【当前颜值：51（路人偏下）】 【当前体质：48（弱鸡）】 【当前精神力：47（呆逼）】 【每日任务：慢跑三公里，体质+1，颜值+0.5。】 【长期任务：每晚十点半前入睡，精神力+1。】 没有超能力，没有现金暴击，就一整套科学养生计划。 他咬着牙从被窝里爬起来，第一天差点死在操场上。 一个月后，脸上的痘痘开始消，眼神亮了，个子往上抽。 系统弹窗不断。 体质突破60，解锁体能充沛； 精神力突破60，解锁专注模式； 颜值突破60，解锁清爽少年感。 一个学期后三线齐破70，运动天赋、高效学习、侧颜杀全解锁。 变化是从同桌开始的。 高冷校花坐他旁边快三个学期，说话不超过五句，最近却偷偷递来一张纸条：“你是不是整容了？” 陈知远把纸条揉成一团。 整什么容？真不知道他每天早上天没亮就起来跑步。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0e8bf7c0f832ad9ba66a781238c06a10~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786065842&x-signature=6bfIAcjgkUh7Pi7Ko9HRpiBzeOA%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0e8bf7c0f832ad9ba66a781238c06a10~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786152330&x-signature=juMq2QFQhr7dFRW%2FR%2FBD1PYpwJY%3D",
         "url": "https://fanqienovel.com/page/7634249266935909400"
       },
       {
         "title": "下载APP，才发现青梅好感爆了",
         "author": "八音",
-        "reads": "45.9万",
+        "reads": "45.4万",
         "intro": "【轻小说+青梅修罗场+多女主+乐子文+日常喜剧+视觉小说+无商业】 　　林舟一直以为自己和青梅早就疏远了。 　　直到某天，他的手机里突然多出了一款【心动APP】。 　　随时能看见对方隐藏起来的好感与心声—— 　　【白晚晚：99+】 　　【状态：喜欢喜欢喜欢喜欢喜欢喜欢喜欢喜欢喜欢想藏起来。】 　　不是？ 　　林舟沉默了，校花青梅居然还是一个病娇？ 　　说好的冷淡疏远呢？ 　　更离谱的是，随着APP不断刷新，他逐渐发现，自己单身这么多年根本不是意外。 　　收到的情书会莫名消失，约好的女生总会临时反悔，就连准备向他告白的人，也会在见过几位青梅以后主动放弃。 　　表面上，她们一个比一个无所谓。 　　背地里，却早已将林舟身边的位置围得水泄不通，各显神通。 　　什么叫你也满好感，你也喜欢我？ 　　旮旯给木里不是这样的！ 　　无所谓，我会出手。 将大局逆转吧！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o983af13d668dbf89e8b57ba55d3112d0~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786065842&x-signature=AlV00ugpiechjswkD4RR05AIAsM%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o983af13d668dbf89e8b57ba55d3112d0~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786152330&x-signature=H%2FT%2BmQ1rfWcEZsV4plFswE8XwOo%3D",
         "url": "https://fanqienovel.com/page/7638459797838236696"
-      },
-      {
-        "title": "高考分手后，带校花房车旅游暴富",
-        "author": "远大前陈",
-        "reads": "34.1万",
-        "intro": "【神豪】+【多女主】+【爽文】+【旅游】+【轻松】+【旅游打卡】+【高考】 高考刚结束，女友在宾馆甩出分手宣言：“我以后进娱乐圈，我们不是一个世界的人。” 王野笑了，当场拉黑，转身觉醒旅游神豪系统！ 别人毕业失恋emo，他去湿地公园打卡，五十万到账；新手礼包一开，豪华轻卡房车直接到手。空调、冰箱、洗衣机、独立卫浴、太阳能供电，全套拉满，移动豪宅说走就走！ 前女友嫌他普通本科没前途？不好意思，他已经准备全国景区打卡暴富。1A十万，2A五十万，5A五百万，隐藏景点一千万！ 更离谱的是，系统发布新任务：寻找颜值95分以上美女旅游搭子。校花苏清颜上车，闺蜜许安安也符合条件，奖励当场翻倍。 一路上各种美女相继上车，开启一段美女如云的旅途…… 当王野开着房车一路奔向山海草原，前女友终于刷到他的旅行视频。她才发现，自己错过的不是穷小子，而是一个即将靠旅游封神的男人…… 可第一个隐藏景点打卡后，系统弹出的神秘提示却让王野愣住：这趟旅行，远不止赚钱这么简单。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9d011b5a397e75bddf8c76d9a7e3a289~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786065842&x-signature=PoBQr9m%2Bd3jdwH7ecHVS0BwF03E%3D",
-        "url": "https://fanqienovel.com/page/7654444625955916825"
       },
       {
         "title": "救命！我这是农场，不是动物园！",
         "author": "白日阳光",
-        "reads": "37.1万",
+        "reads": "35.8万",
         "intro": "评分刚出，后面会涨。 本书又名：《白虎钻被窝，你管这叫惊喜？》、《让你回乡种田，你驯服百兽为王？》 【无直播+无系统+无女主+萌宠+日常+温馨休闲】 厌倦了大城市的996，林风辞职回村置办了个农场。 本以为接下来的日子，就是每天种种田，悠悠闲闲。 结果意外发现，自己居然能听懂动物的心声？ 本着帮助邻居的想法，林风给两只小刺猬重新做了个窝。 这可给倆家伙感动到不行，非要送他个惊喜。 你送惊喜就送吧！可问题是，我被窝里的白虎幼崽是几个意思？ 看我睡觉硌得慌，给我当垫子的？？？ 好不容易把白虎幼崽给送回了山，其他动物却是在得知情况后，一个个跑了下来。 有蹭吃蹭喝的花豹姐妹，有把他家当月子中心的金渐层。 甚至还有为了口蜂蜜，死活赖着不走的国宝大熊猫。 看着院子里越来越多，越来越多的保护动物，林风只觉得自己是真刑！ 可问题是…… 他开的是农场，不是什么动物园啊！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2obedca4a5133f932d9bda6bb941b134c8~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786065846&x-signature=KppmrqMHSky2vUjr5EkpSvMStbA%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2obedca4a5133f932d9bda6bb941b134c8~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786152334&x-signature=wDNXV5iJy1HyGBqyh1Mo%2FEnbsLI%3D",
         "url": "https://fanqienovel.com/page/7626378258417732632"
       },
       {
         "title": "改运奇书",
         "author": "写小说的斯巴达",
-        "reads": "41万",
+        "reads": "41.6万",
         "intro": "这不过是一本普通的网络小说，没有书友说得那么神！ 你之所以能点击阅读，无非是你已经开始走运了。 当你从第一个章节开始，认真阅读，你的命运齿轮，或许已然开始转动。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od77270396e84be50085def55e53ad9b0~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786065846&x-signature=eun1LQEiFUAu43qtlFNQ9gE%2FEFE%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od77270396e84be50085def55e53ad9b0~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786152334&x-signature=0C1WzXumSm1DEEg57ZaOwv9oIXA%3D",
         "url": "https://fanqienovel.com/page/7573616392256097305"
       },
       {
         "title": "分手后，被一群精神小妹收留了",
         "author": "闭门斋",
-        "reads": "36.1万",
+        "reads": "34.3万",
         "intro": "分手后，被一群精神小妹收留了（刚分手就轮到我了） 精神小妹情绪价值拉满，二百块能玩一天？ 林野以前是不信的。 直到他被谈了三年女友甩掉的当晚，蹲在路边抽烟，一个穿洛丽塔、染黄毛的妹子凑过来。 “哥，崩根烟抽，带你去玩二百块的。” 他以为遇到了仙人跳，结果被拉进一个合租屋。 屋里四五个花臂花腿的精神小妹，最小的刚满十八。 那个腿上纹玫瑰的姑娘眨着眼说：“替我还五十二，我就跟你处。” 【新手任务已完成：请六个精神小妹崩一顿饭。】 【触发10倍返利，1865元已到账。】",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o18ae784e1e3dcb12d616d2e667859599~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786065846&x-signature=K%2BgbPjEzGpsaSqQRhMQRCfCJuxU%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o18ae784e1e3dcb12d616d2e667859599~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786152334&x-signature=4iaPs%2BDYGykvoEDZ9DOGRrnyrl8%3D",
         "url": "https://fanqienovel.com/page/7631112645524851736"
       },
       {
         "title": "开局上岸，从外卖员成秘密特勤",
         "author": "骑着青牛漫步",
-        "reads": "40.7万",
+        "reads": "41.1万",
         "intro": "(非纯谍战文+都市爽文+举报违法犯罪+抓捕间谍。) 三十多岁一事无成的顾承安，意外穿越平行世界，绑定【正义辅助系统】 他以最不起眼的身份，行走在光明与黑暗的边缘，践行正义，守护家国。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od25f2b4055f7d4f259b522190172350f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786065846&x-signature=7jBXrSUSBMKKMSTWdlYaPDNDSms%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od25f2b4055f7d4f259b522190172350f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786152334&x-signature=r844qmxzwr85QFffC7enco89N18%3D",
         "url": "https://fanqienovel.com/page/7619679529249803288"
+      },
+      {
+        "title": "高考分手后，带校花房车旅游暴富",
+        "author": "远大前陈",
+        "reads": "31.7万",
+        "intro": "【神豪】+【多女主】+【爽文】+【旅游】+【轻松】+【旅游打卡】+【高考】 高考刚结束，女友在宾馆甩出分手宣言：“我以后进娱乐圈，我们不是一个世界的人。” 王野笑了，当场拉黑，转身觉醒旅游神豪系统！ 别人毕业失恋emo，他去湿地公园打卡，五十万到账；新手礼包一开，豪华轻卡房车直接到手。空调、冰箱、洗衣机、独立卫浴、太阳能供电，全套拉满，移动豪宅说走就走！ 前女友嫌他普通本科没前途？不好意思，他已经准备全国景区打卡暴富。1A十万，2A五十万，5A五百万，隐藏景点一千万！ 更离谱的是，系统发布新任务：寻找颜值95分以上美女旅游搭子。校花苏清颜上车，闺蜜许安安也符合条件，奖励当场翻倍。 一路上各种美女相继上车，开启一段美女如云的旅途…… 当王野开着房车一路奔向山海草原，前女友终于刷到他的旅行视频。她才发现，自己错过的不是穷小子，而是一个即将靠旅游封神的男人…… 可第一个隐藏景点打卡后，系统弹出的神秘提示却让王野愣住：这趟旅行，远不止赚钱这么简单。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9d011b5a397e75bddf8c76d9a7e3a289~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786152334&x-signature=2dGdR%2FT1pYgEkbQYxXVYXGgR7fA%3D",
+        "url": "https://fanqienovel.com/page/7654444625955916825"
+      },
+      {
+        "title": "人在五哈：全网催我和前任复合！",
+        "author": "白色焰火FFF",
+        "reads": "41.1万",
+        "intro": "【系统＋单女主＋初代跑男，初代极挑＋各种综艺＋轻松搞笑＋导演＋友谊】 几年前，陈野穿越到了一个平行世界，这个世界很多爆款歌曲，电影电视剧，基本上都没有。 本以为会有系统帮助，拳打奶茶周，脚踩cd林，没事打一下陶哲。 谁知道····我tm根本没有系统！ 不过也有好处，表哥是陈贺，而且脑海的记忆很深刻。 在一次宣传新歌上了跑男的时候，遇见了让我疯狂的女人！在最巅峰的时候公布了！微薄依旧崩塌！ 就这样甜甜蜜蜜的过了一年半，最后因为两人的发展不同，好聚好散分手了，发完最后一批歌，陈野也选择了退圈。 在退圈两年后，平平无奇的一个上午，突然接到了，邓潮，鹿含，陈贺三人组的电话！ 陈野打开热搜一看，发现自己又翻红了！还是因为前女友！！ 恰巧这时候，沉寂了多年的系统，突然响起！ 刚录完新歌，就被陈贺邓潮鹿含三人坑上五哈！谁知道前女友也来了！ 之后开启了综艺生涯，后来开始跨界拍摄电影，拍出来的一个比一个爆火！ 而身边的朋友也步步高升，后来娱乐圈有一句话，没拍过陈野的电影不算火！ 多年后，陈野站在奥斯卡的颁奖台上，搂着前女友，一笑说道：我真的没想那么多，可能我是有一个好的前女友！ ps：你想看的综艺我这里都有！ 简介无力，请看正文！",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob50a3eb4889059be9e79aa09f5e2069a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786152334&x-signature=l9U2%2BtGIOaefKntILNgaM9MDQNU%3D",
+        "url": "https://fanqienovel.com/page/7644473408691899417"
       },
       {
         "title": "华娱：从绑定天仙开始全能",
         "author": "青葱咸鱼",
-        "reads": "37.8万",
+        "reads": "40.5万",
         "intro": "【非重生+系统逆袭+多女主】 2004年，艺考失败，不服输的苏言来到横店成为一名群演，妄想从群演慢慢成长为巨星。 理想很丰满，现实很骨感。 日复一日的扮演尸体、炮灰，让他感觉整个人生都在沉沦。 直到进入《神雕侠侣》剧组那天，眼前突然弹出一个画面： 【绑定女神：天仙】 【付出必有回报系统启动】 从此，他的娱乐圈生存法则彻底改变： 送一瓶水，现金到账，体能增强； 解一次围，技能到手，属性暴涨。 救于危难，获得未来爆款歌曲、剧本。 ……多年后，已经成为娱乐圈巨头·全能才子·多位女明星意难平的苏言回首往事，面对采访只能无奈一笑： “我说一开始真的只想进步，你们信吗？”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9a2ed63048fba92557304cd4a54a4b2c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786065846&x-signature=3lrOVXyWJ%2F4pRK2o2ooyzVLDblA%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9a2ed63048fba92557304cd4a54a4b2c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786152334&x-signature=Yfgrlx60sHO7Gaekuf1pBcstc9A%3D",
         "url": "https://fanqienovel.com/page/7590182452971179032"
       },
       {
         "title": "让你拍反腐片，你拍人民的名义！",
         "author": "火狐火狐",
-        "reads": "30.7万",
+        "reads": "29万",
         "intro": "林默穿越后，被单位指派拍一部法治宣传片。 他二话不说，掏出五十五集剧本——《人民的名义》。 实力派演员齐聚，央视一套播出，收视率炸了。 领导激动了：“下一部，禁毒的能拍吗？” 林默笑了笑：“《门徒》已经写好了。” “反诈的呢？” “《孤注一掷》，也准备好了。”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa780ff9d3e2171182890eaed182ef19d~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786065846&x-signature=%2FdzVOxNR53xIcAKKy6J7m69zuiE%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa780ff9d3e2171182890eaed182ef19d~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786152334&x-signature=wAMLonKMwCgNfgQd7GZpFcYnQ30%3D",
         "url": "https://fanqienovel.com/page/7640807870426008638"
-      },
-      {
-        "title": "卖个早点，怎么上班族全迟到了",
-        "author": "练腿摸鱼仔",
-        "reads": "30.1万",
-        "intro": "【美食+系统+日常+升级+无女主】 宋砚被老爹诓回来继承早餐店，却意外激活厨神系统。 【宿主】：宋砚 调味（初级）：165/1000（毒不死人） ……折叠…… 刀功（初级）：0/1000（比起切菜，你更应该注意切到手） 【综评】：一个平平无奇的白案废柴 只要肯肝就能增加技能熟练度？ 不知道我外号肝帝吗！ 完成任务还能获得白案传承？ 让我来！ 可当宋砚被传到1963年时，整个人都懵了。 你也没说这个传承是让我回到过去，跟着其他师傅学手艺啊？！ 没有短剧、没有网络、没有娱乐…… 被军训了几个月的宋砚学会了面点的制作方法，也慢慢学会了何为传承。 白案式微？传承断代？无人可用？ 下面站在你们面前的是——全国早餐店最严厉的父亲、白案最后的脊梁、红白案双绝厨神、顶级国宴手、米其林东进路上的最大敌人…… （非出场即无敌文，系统只是辅助，各项基本功需要练习成长，菜品需要学习研究）",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o1d09eee439f73280165b430957e7f9b5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786065846&x-signature=LLlqwumPXeZsnANaR%2F1ZeCP90LY%3D",
-        "url": "https://fanqienovel.com/page/7616963661713640472"
       },
       {
         "title": "继承荒山：直接改造10A级景区",
         "author": "小猪旺财",
-        "reads": "31.1万",
+        "reads": "31.8万",
         "intro": "【基建】【景点打造】【无女主】 许竞继承了一片荒山景区。 你说这烂到没人来？ 那他就给这改造成10A级的！ 生灵神山，湖底遗迹，朝圣之地…… 无数人涌入这片名不见经传的小城，看着头顶的浮空岛懵了…… 你说这就是个景区？",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o56736311e615959f5058c867f51ea554~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786065846&x-signature=laxz6PDNO%2BKb0tD7QurVtk%2FtpHk%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o56736311e615959f5058c867f51ea554~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786152334&x-signature=0q%2Fpmv8Yica5sTL3iy58u3VrFX8%3D",
         "url": "https://fanqienovel.com/page/7452345209670601790"
-      },
-      {
-        "title": "荒岛求生：有了个娃后百倍提升？",
-        "author": "风吹小草摇",
-        "reads": "29.7万",
-        "intro": "美女总裁：“林帆，一千万买你一瓶矿泉水……” 顶流明星：“我也五千万买你一桶泡面。” …… 实习生林帆和首富独女总裁、女明星、公司精英、富二代们遭遇海难，被海啸卷到一个不知名破岛。 别人以为救援马上来，都在抢夺散落的名表和奢侈品包包，林帆却在系统的提示下得知救援概率是：0.000001，他囤积了全部淡水、食物和唯一一把战术匕首。 以前高高在上的女总裁用一千万买他一瓶水，一线女星试图用美色换取庇护，主管带人想要强抢物资，林帆用唯一一把刀告诉了他们什么叫荒岛法则： 直升机永远不会来，文明的秩序已经崩塌。 这里没有总裁，没有明星，没有精英、更没有富二代，只有囤满物资的林帆，和必须靠劳动换取残羹冷炙的牛马……",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ofb496e168ad9ae7ae96c534cd9f4e6e8~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786065846&x-signature=A8OP8BkjHfMw3B%2F%2BbWigugeyRvs%3D",
-        "url": "https://fanqienovel.com/page/7610296236079320088"
       },
       {
         "title": "入伍四次！我被原部队拉进黑名单",
         "author": "朝朝和",
-        "reads": "31.9万",
-        "intro": "别人当兵是保家卫国，吴汉峰当兵是“被迫上班”。 七年时间，三次入伍，三次退伍，硬是把铁打的营盘，熬成了自家后花园。 每次退伍，老战友们都哭得撕心裂肺. 唯独他淡定啃苹果：“别慌，等我回来。” 战友崩溃：求求了，这次退伍就别再回来祸害我们了！ 不是吴汉峰不想走，实在是因为脑子里有个破系统，非逼着他在作战单位待满六年才能激活！ 为了凑够这见鬼的签到天数，他愣是卡着政策BUG. 硬生生把自己折腾成了全军罕见的“入伍钉子户”。 眼瞅着第四次入伍大计就差临门一脚，老连长却放狠话了： “你小子再敢回来，我就把你当间谍抓起来！” 终于，半年后…… 当吴汉峰第四次领着行李回到原部队时，全团都破防了！ “快！将这钉子户拉进黑名单！！” “峰哥，求求你，走吧！我们这庙小，容不下你这尊大佛啊！” 当昔日的同年兵成了自己的连长. 当自己带的兵成了自己的班长. 这个把退伍当回家的老油条。 又该如何在鸡飞狗跳中，上演第四次新兵逆袭？",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob642d28cfca7bfe899154356cf5bc9ef~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786065846&x-signature=I5JBuoSpwIscndh09cm7QZunTio%3D",
+        "reads": "33.5万",
+        "intro": "别人当兵是保家卫国，吴汉峰当兵是“被迫上班”。 七年时间，三次入伍，三次退伍，硬是把铁打的营盘，熬成了自家后花园。 每次退伍，老战友们都哭得撕心裂肺. 唯独他淡定啃苹果：“别慌，等我回来。” 战友崩溃：求求了，这次退伍就别再回来祸害我们了！ 不是吴汉峰不想走，实在是因为脑子里有个破系统，非逼着他在作战单位待满六年才能激活！ 为了凑够这见鬼的签到天数，他愣是卡着政策BUG. 硬生生把自己折腾成了全军罕见的“入伍钉子户”。 眼瞅着第四次入伍大计就差临门一脚，老领导却放狠话了： “你小子再敢回来，我就把你当间谍抓起来！” 终于，半年后…… 当吴汉峰第四次领着行李回到原部队时，全团都破防了！ “快！将这钉子户拉进黑名单！！” “峰哥，求求你，走吧！我们这庙小，容不下你这尊大佛啊！” 当昔日的同年兵成了自己的领导. 当自己带的兵成了自己的班长. 这个把退伍当回家的老油条。 又该如何在鸡飞狗跳中，上演第四次新兵逆袭？",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob642d28cfca7bfe899154356cf5bc9ef~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786152334&x-signature=ieDIHuALow9lN5BVD7jKW70ofaE%3D",
         "url": "https://fanqienovel.com/page/7624007186758257688"
       }
     ]
@@ -227,220 +232,225 @@
     {
       "name": "都市脑洞",
       "trend": {
-        "new_count": 1,
-        "dropped_count": 1,
+        "new_count": 2,
+        "dropped_count": 2,
         "new_books": [
-          "华娱：从绑定天仙开始全能"
+          "什么叫高考满分，但人失踪了？",
+          "人在五哈：全网催我和前任复合！"
         ],
         "dropped_books": [
           {
-            "title": "中奖九千万，我真的只想躺平啊！",
-            "intro": "（认知差爽感 + 暴富躺平 + 烟火日常 + 被动致富 + 无装逼打脸） 陆昭阳中了9500万，辞职回县城，买了个带院子的小平房。 养花种菜，钓鱼发呆，提前过上退休生活。 谁知道，以前追着跑都追不上的"
+            "title": "卖个早点，怎么上班族全迟到了",
+            "intro": "【美食+系统+日常+升级+无女主】 宋砚被老爹诓回来继承早餐店，却意外激活厨神系统。 【宿主】：宋砚 调味（初级）：165/1000（毒不死人） ……折叠…… 刀功（初级）：0/1000（比起切菜，你"
+          },
+          {
+            "title": "荒岛求生：有了个娃后百倍提升？",
+            "intro": "美女总裁：“林帆，一千万买你一瓶矿泉水……” 顶流明星：“我也五千万买你一桶泡面。” …… 实习生林帆和首富独女总裁、女明星、公司精英、富二代们遭遇海难，被海啸卷到一个不知名破岛。 别人以为救援马上来"
           }
         ],
         "top_risers": [
           {
-            "title": "救命！我这是农场，不是动物园！",
-            "change": "+2"
-          },
-          {
-            "title": "好感度系统：女神想要的，我全有",
+            "title": "上恋综后，和清冷设计师爆火全网",
             "change": "+1"
           },
           {
-            "title": "分手后，被一群精神小妹收留了",
+            "title": "每天一个亿，开局和校花签订契约",
+            "change": "+1"
+          },
+          {
+            "title": "每天六千万，只能在县城花？",
             "change": "+1"
           }
         ],
         "top_fallers": [
           {
-            "title": "继承荒山：直接改造10A级景区",
-            "change": "-3"
+            "title": "高考分手后，带校花房车旅游暴富",
+            "change": "-5"
           },
           {
-            "title": "荒岛求生：有了个娃后百倍提升？",
-            "change": "-3"
+            "title": "看见情绪颜色后，她们都变粉色了",
+            "change": "-4"
           },
           {
-            "title": "开局上岸，从外卖员成秘密特勤",
+            "title": "华娱：从绑定天仙开始全能",
             "change": "-2"
           }
         ],
         "reads_growth": [
           {
-            "title": "归国留洋水货？叫我芯片之父！",
+            "title": "华娱：从绑定天仙开始全能",
             "growth": "+2.7万"
           },
           {
-            "title": "入伍四次！我被原部队拉进黑名单",
-            "growth": "+1.0万"
+            "title": "归国留洋水货？叫我芯片之父！",
+            "growth": "+2.0万"
           },
           {
-            "title": "继承荒山：直接改造10A级景区",
-            "growth": "-2000"
+            "title": "入伍四次！我被原部队拉进黑名单",
+            "growth": "+1.6万"
           }
         ],
-        "summary": "新增1本上榜；1本掉出（《中奖九千万，我真的只想躺平啊！》）；《救命！我这是农场，不是动物园！》排名上升+2位；《归国留洋水货？叫我芯片之父！》阅读量+2.7万。"
+        "summary": "新增2本上榜；2本掉出（《卖个早点，怎么上班族全迟到了》、《荒岛求生：有了个娃后百倍提升？》）；《上恋综后，和清冷设计师爆火全网》排名上升+1位；《华娱：从绑定天仙开始全能》阅读量+2.7万。"
       },
       "books": [
         {
           "title": "归国留洋水货？叫我芯片之父！",
           "author": "这肉有毒",
-          "reads": "93.3万",
+          "reads": "95.3万",
           "intro": "【五十年代+科技强国+学霸】 新世纪青年穿越至1955年的归国留洋学生，成了与钱老同一批邮轮归国者。 原本24人的名单，竟莫名多了他一人。 然而前身这位斯坦福大学的毕业生，实际却是依靠家里捐赠毕业，肚中并无半点学识，已然被米国斩杀线将要斩杀之人，这才积极投身回国，只为混口饭吃。 为了不暴露自己是水货学生，起初在同船轮渡都不敢交流，工作分配也主动要求去工厂。 好在最艰难之际，开启了装备栏系统，真正补足学识！ 从留洋的本专业出发，晶体管，集成电路，芯片，乃至延伸至各个学科。 逐步成为那个时代的院士，未来的的芯片之父，科学奠基人！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob13aaa1957ceaddad00657ba07a18a66~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786065842&x-signature=vBcuP1oVB2qM%2F7QqMAjJtGSXcfQ%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob13aaa1957ceaddad00657ba07a18a66~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786152330&x-signature=8K6g1nrDewnnN%2F%2F%2FGZDe4ZEwr0I%3D",
           "url": "https://fanqienovel.com/page/7623581376586976281"
         },
         {
           "title": "顶级妇医：开局查出名媛怀外教种",
           "author": "咸包谷",
-          "reads": "62.4万",
+          "reads": "59万",
           "intro": "《极致反差》 + 《渣女鉴定》 + 《拯救大佬爆金币》 + 《权贵人脉》 　　林枫本是外科天才，却被恶意调剂到妇产科。虽是副主任医师，但因为被打压，在加上是个男的，门诊门可罗雀，手术逐渐无人问津，只能苦逼的常年值夜班。 　　直到他觉醒【因果清算系统】，中西医大成，并开启【真实之眼】！ 　　深夜值班，南江首富带着全网三百万粉丝的“国风纯洁未婚妻”来做婚检。 　　名媛私下狂砸五十万，半褪香肩求林枫伪造B超单。 　　林枫反手将屏幕转给推门而入的首富：“王总，恭喜。不过根据骨盆影像和超高浓度黑色素基因推算，这双胞胎大概率是哪位‘外籍私教’的杰作。” 　　首富当场暴走！名媛瞬间跌入地狱！ 　　而后，大佬的夫人突发“产科死神”羊水栓塞，全院专家下达死亡通知！林枫手持太乙神针，中西合璧逆天改命！大佬狂喜，大手一挥：全科室医护，每人赏三百万！ 　　全院震怖！ 　　从此，高冷女总裁、清纯校花为了挂他的门诊号大打出手，各路顶级权贵更是捧着金山银山，只求对他们的未婚妻进行结婚前的婚检。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0bc3fd419ce1686fa5170e9793b9e4f4~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786065842&x-signature=yhsj%2BHVIYWmof9aIYmHGwqVNDrQ%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0bc3fd419ce1686fa5170e9793b9e4f4~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786152330&x-signature=Esjcu0cV6rLC4rZHjpymalWIars%3D",
           "url": "https://fanqienovel.com/page/7624202089656241177"
-        },
-        {
-          "title": "看见情绪颜色后，她们都变粉色了",
-          "author": "M0724",
-          "reads": "54.7万",
-          "intro": "（新书刚出评分，会涨的！） （已有9.5分百万字完结青春校园作品保障） 【真·青春校园】+【中式轻小说】+【多女主】+【搞笑轻松】+【超能力】+【不重生无系统】+【恋爱暧昧】 周日早晨，许川觉醒了能吸收别人情绪颜色的超能力。 与此同时，他还能无限控制其中一种颜色——淡青色情绪【轻松】， 通过这个能力，他靠“2元拥抱”，花一个下午与他人交换情绪颜色体验。 浅红色的是焦躁，灰色的是疲惫，橙色的是兴奋，黄色的是炫压抑…… 在把大部分情绪都摸透体验后，他迎来了今天的最后一个女嘉宾， 一个情绪颜色为纯黑色的女孩…… —————— 一个星期后，当许川熟练掌握淡青色【轻松】，把这玩意当风油精使用时…… 他发现自己又刷新了一个新的无限情绪颜色，代表【恐惧】的紫色。 原来这个颜色每周刷新啊，我再也不说你飞舞了…… —— 又不知过了多久，当许川拥有无限多的情绪能力后， 在某天晚上，他忽然发现自己进入到了别人的梦里，还能使用自己拥有的情绪颜色进行绘画 在梦里，他给她画了一场， 铺满深邃夜空的粉色流星雨…… 【书名简介无力，各位客官请移步正文（已有9.5分百万字完结青春校园作品保障）】",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8ad88d9a6ba575c63352c7fec69496d2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786065842&x-signature=aPQcQXdfj%2FXDWwvfVgNTPGWq3cU%3D",
-          "url": "https://fanqienovel.com/page/7629265111009479705"
         },
         {
           "title": "上恋综后，和清冷设计师爆火全网",
           "author": "在下张滚滚",
-          "reads": "59万",
+          "reads": "59.5万",
           "intro": "这就是一本慢节奏的日常文，没有那么多冲突打脸，不喜勿入，祝您天天开心。 【系统签到+恋综直播+全网爆火+双向奔赴+甜向日常+群像】 秦轩重活一世，绑定了个日常签到系统。 每天做做饭、下下棋、做做木工，技能越签越多，日子越过越爽。 他小姨看不下去了，一脚踹开他家门，给他报了个恋综。 四十二天，要么带个女朋友回来，要么回来继承家业。 秦轩果断选了第三条路：去节目里继续当咸鱼。 节目开播第一天，弹幕就发现了这个白T恤的男人有点不太对劲。 别人在积极社交，他在厨房研究中岛台高度。 别人在镜头前疯狂营业，他在木工房里安静凿榫卯。 【这哥们儿是来度假的吧？】 【笑死，他是真的不想谈恋爱。】 【等等，那个清冷设计师为什么坐到他旁边去了？】 【她在给他递工具，递了快一个小时了。】 没有刻意撒糖，没有狗血误会。 其实只是：一个不愿将就的人，遇到了另一个。 这辈子，刚好。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe99c6f696aeabfda1d68b891d4049b4b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786065842&x-signature=5pmDfq7l2nVl%2FB7mS0AYJ6XDHco%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe99c6f696aeabfda1d68b891d4049b4b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786152330&x-signature=SWBOQ87EiKzVWh1ZPZo0tQQ8qJY%3D",
           "url": "https://fanqienovel.com/page/7641906591557487640"
         },
         {
           "title": "每天一个亿，开局和校花签订契约",
           "author": "滴滴滴哒三号",
-          "reads": "56.1万",
+          "reads": "54.9万",
           "intro": "【短剧在做】【漫剧已出】【不一样的神豪文】 【多女主】【不用压分】 大一军训第一天，苏牧被四十度高温晒到中暑，意外觉醒系统。 系统朴实无华，每天简简单单到账一个亿。 没有强制任务，也没有规定消费对象，更没有限制花完的时间。 ...... 前面是不用当舔狗的神豪，后面是不一样的神豪文。 (简介都看到这了，兄弟们进来领个系统再说！）",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob9f3663a693f7d13ca7070eb84539a4e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786065842&x-signature=bRMAWgIZMmEK7Ml9Z3bx0RYESaM%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob9f3663a693f7d13ca7070eb84539a4e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786152330&x-signature=xYjvTRakxEfn8COLCKlp8oT%2B2PA%3D",
           "url": "https://fanqienovel.com/page/7621869177141218329"
         },
         {
           "title": "每天六千万，只能在县城花？",
           "author": "凤失凰",
-          "reads": "57.1万",
+          "reads": "56万",
           "intro": "【非社达】+【人民史观】＋【无性别对立】+【基建】＋【事业】＋【慢热】＋【扮猪吃虎】 上海打工，内卷到高血压，还存不到钱。 陆明一怒辞职回乡，却意外绑定“县城消费金系统”，全县每人给我一百块，一天六千万！ 但这钱有个规矩：只能在鸟不拉屎的小县城里花！ 县城首富？ 格局小了！当别人还在炒房时，陆明反手买下一栋烂尾楼当公司总部；当亲戚劝他去修车厂拧螺丝时，他提了一台迈巴赫S680代步。 从改造全县娱乐业开始，建厂、修路、盖学校、造医院…… 面对所有人的质疑，陆明只是笑了笑：“我不是要当县城首富，我是要把这破县城，变成全世界都向往的乌托邦！” 多年以后，福布斯专栏记者采访陆明：“你是怎么想到把一个五线小县城建成2000万人口的国际化大都市的？” 陆明微微一笑：“只是一时心血来潮~”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc126ca48e7bbdce1a8962ada31918ef8~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786065842&x-signature=WMEmbhrZ%2Fi6aiBTusJLNp6eJ7Pk%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc126ca48e7bbdce1a8962ada31918ef8~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786152330&x-signature=PxN4iKgQGKX8lSwhvg2ZY8u9dAA%3D",
           "url": "https://fanqienovel.com/page/7623460631303179288"
+        },
+        {
+          "title": "什么叫高考满分，但人失踪了？",
+          "author": "核动力打窝仙人",
+          "reads": "52.5万",
+          "intro": "穿越高考现场，身背系统的秦泽心说这把稳了。 谁承想，这老六系统竟然是收费的？ 考个满分，竟然给系统干欠费了。 无奈之下，秦泽只能在朋友圈到处借钱，随后进厂打工。 他这一走不要紧，全网都震惊了。 …… “你是说全科满分的天才交不起学费？” “离奇失踪是什么鬼？” “什么叫当地名门望最有个同名同姓的孩子？” 随着调查的深入，鞭炮声响了一夜，严打自此开始。 调查组：“活要见人！死要见尸！待会进了学校，关了执法记录仪，见人就打！”",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oec7bb817033721c7c51d338e459c87a5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786152330&x-signature=SvcRFGq2CeljBd0uxEikcL3SDnY%3D",
+          "url": "https://fanqienovel.com/page/7647411499236871230"
+        },
+        {
+          "title": "看见情绪颜色后，她们都变粉色了",
+          "author": "M0724",
+          "reads": "53万",
+          "intro": "（新书刚出评分，会涨的！） （已有9.5分百万字完结青春校园作品保障） 【真·青春校园】+【中式轻小说】+【多女主】+【搞笑轻松】+【超能力】+【不重生无系统】+【恋爱暧昧】 周日早晨，许川觉醒了能吸收别人情绪颜色的超能力。 与此同时，他还能无限控制其中一种颜色——淡青色情绪【轻松】， 通过这个能力，他靠“2元拥抱”，花一个下午与他人交换情绪颜色体验。 浅红色的是焦躁，灰色的是疲惫，橙色的是兴奋，黄色的是炫压抑…… 在把大部分情绪都摸透体验后，他迎来了今天的最后一个女嘉宾， 一个情绪颜色为纯黑色的女孩…… —————— 一个星期后，当许川熟练掌握淡青色【轻松】，把这玩意当风油精使用时…… 他发现自己又刷新了一个新的无限情绪颜色，代表【恐惧】的紫色。 原来这个颜色每周刷新啊，我再也不说你飞舞了…… —— 又不知过了多久，当许川拥有无限多的情绪能力后， 在某天晚上，他忽然发现自己进入到了别人的梦里，还能使用自己拥有的情绪颜色进行绘画 在梦里，他给她画了一场， 铺满深邃夜空的粉色流星雨…… 【书名简介无力，各位客官请移步正文（已有9.5分百万字完结青春校园作品保障）】",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8ad88d9a6ba575c63352c7fec69496d2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786152330&x-signature=q%2FVWoZxk0kURWbLg8NYP9d%2BRDsE%3D",
+          "url": "https://fanqienovel.com/page/7629265111009479705"
         },
         {
           "title": "好感度系统：女神想要的，我全有",
           "author": "欧氪",
-          "reads": "51.4万",
+          "reads": "49.2万",
           "intro": "【系统+神豪+日常爽文+多图+多女+纯手搓】 曹旭，大三开学第一天，竟然觉醒【好感度满足系统】，女神想要的择偶条件，系统全部帮忙满足。 60好感度，女神想要伴侣年入百万？系统直接打给我百万现金，每年都有！ 80好感度，女神想嫁公司老总？我直接喜提上市公司股权！ 女主播想要每天10个嘉年华？我的抖音账户每天到账30万钻石！ 不管她们的愿望多离谱，系统都能让我轻松实现。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc6d682e27bdbdf601a5535bc8457c37e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786065842&x-signature=F23CCjPFvkitBlM8lNeBHAMusJY%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc6d682e27bdbdf601a5535bc8457c37e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786152330&x-signature=%2FCOcoteIFW%2Bf%2BuJ7Rc6YCDfeT2U%3D",
           "url": "https://fanqienovel.com/page/7633329934525549630"
         },
         {
           "title": "自律就变帅！高冷校花绷不住了！",
           "author": "单身狗协会副会长",
-          "reads": "47.9万",
+          "reads": "47.7万",
           "intro": "高二开学那天，一块透明面板忽然浮在陈知远眼前。 【男神养成系统已绑定。】 【当前颜值：51（路人偏下）】 【当前体质：48（弱鸡）】 【当前精神力：47（呆逼）】 【每日任务：慢跑三公里，体质+1，颜值+0.5。】 【长期任务：每晚十点半前入睡，精神力+1。】 没有超能力，没有现金暴击，就一整套科学养生计划。 他咬着牙从被窝里爬起来，第一天差点死在操场上。 一个月后，脸上的痘痘开始消，眼神亮了，个子往上抽。 系统弹窗不断。 体质突破60，解锁体能充沛； 精神力突破60，解锁专注模式； 颜值突破60，解锁清爽少年感。 一个学期后三线齐破70，运动天赋、高效学习、侧颜杀全解锁。 变化是从同桌开始的。 高冷校花坐他旁边快三个学期，说话不超过五句，最近却偷偷递来一张纸条：“你是不是整容了？” 陈知远把纸条揉成一团。 整什么容？真不知道他每天早上天没亮就起来跑步。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0e8bf7c0f832ad9ba66a781238c06a10~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786065842&x-signature=6bfIAcjgkUh7Pi7Ko9HRpiBzeOA%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0e8bf7c0f832ad9ba66a781238c06a10~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786152330&x-signature=juMq2QFQhr7dFRW%2FR%2FBD1PYpwJY%3D",
           "url": "https://fanqienovel.com/page/7634249266935909400"
         },
         {
           "title": "下载APP，才发现青梅好感爆了",
           "author": "八音",
-          "reads": "45.9万",
+          "reads": "45.4万",
           "intro": "【轻小说+青梅修罗场+多女主+乐子文+日常喜剧+视觉小说+无商业】 　　林舟一直以为自己和青梅早就疏远了。 　　直到某天，他的手机里突然多出了一款【心动APP】。 　　随时能看见对方隐藏起来的好感与心声—— 　　【白晚晚：99+】 　　【状态：喜欢喜欢喜欢喜欢喜欢喜欢喜欢喜欢喜欢想藏起来。】 　　不是？ 　　林舟沉默了，校花青梅居然还是一个病娇？ 　　说好的冷淡疏远呢？ 　　更离谱的是，随着APP不断刷新，他逐渐发现，自己单身这么多年根本不是意外。 　　收到的情书会莫名消失，约好的女生总会临时反悔，就连准备向他告白的人，也会在见过几位青梅以后主动放弃。 　　表面上，她们一个比一个无所谓。 　　背地里，却早已将林舟身边的位置围得水泄不通，各显神通。 　　什么叫你也满好感，你也喜欢我？ 　　旮旯给木里不是这样的！ 　　无所谓，我会出手。 将大局逆转吧！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o983af13d668dbf89e8b57ba55d3112d0~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786065842&x-signature=AlV00ugpiechjswkD4RR05AIAsM%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o983af13d668dbf89e8b57ba55d3112d0~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786152330&x-signature=H%2FT%2BmQ1rfWcEZsV4plFswE8XwOo%3D",
           "url": "https://fanqienovel.com/page/7638459797838236696"
-        },
-        {
-          "title": "高考分手后，带校花房车旅游暴富",
-          "author": "远大前陈",
-          "reads": "34.1万",
-          "intro": "【神豪】+【多女主】+【爽文】+【旅游】+【轻松】+【旅游打卡】+【高考】 高考刚结束，女友在宾馆甩出分手宣言：“我以后进娱乐圈，我们不是一个世界的人。” 王野笑了，当场拉黑，转身觉醒旅游神豪系统！ 别人毕业失恋emo，他去湿地公园打卡，五十万到账；新手礼包一开，豪华轻卡房车直接到手。空调、冰箱、洗衣机、独立卫浴、太阳能供电，全套拉满，移动豪宅说走就走！ 前女友嫌他普通本科没前途？不好意思，他已经准备全国景区打卡暴富。1A十万，2A五十万，5A五百万，隐藏景点一千万！ 更离谱的是，系统发布新任务：寻找颜值95分以上美女旅游搭子。校花苏清颜上车，闺蜜许安安也符合条件，奖励当场翻倍。 一路上各种美女相继上车，开启一段美女如云的旅途…… 当王野开着房车一路奔向山海草原，前女友终于刷到他的旅行视频。她才发现，自己错过的不是穷小子，而是一个即将靠旅游封神的男人…… 可第一个隐藏景点打卡后，系统弹出的神秘提示却让王野愣住：这趟旅行，远不止赚钱这么简单。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9d011b5a397e75bddf8c76d9a7e3a289~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786065842&x-signature=PoBQr9m%2Bd3jdwH7ecHVS0BwF03E%3D",
-          "url": "https://fanqienovel.com/page/7654444625955916825"
         },
         {
           "title": "救命！我这是农场，不是动物园！",
           "author": "白日阳光",
-          "reads": "37.1万",
+          "reads": "35.8万",
           "intro": "评分刚出，后面会涨。 本书又名：《白虎钻被窝，你管这叫惊喜？》、《让你回乡种田，你驯服百兽为王？》 【无直播+无系统+无女主+萌宠+日常+温馨休闲】 厌倦了大城市的996，林风辞职回村置办了个农场。 本以为接下来的日子，就是每天种种田，悠悠闲闲。 结果意外发现，自己居然能听懂动物的心声？ 本着帮助邻居的想法，林风给两只小刺猬重新做了个窝。 这可给倆家伙感动到不行，非要送他个惊喜。 你送惊喜就送吧！可问题是，我被窝里的白虎幼崽是几个意思？ 看我睡觉硌得慌，给我当垫子的？？？ 好不容易把白虎幼崽给送回了山，其他动物却是在得知情况后，一个个跑了下来。 有蹭吃蹭喝的花豹姐妹，有把他家当月子中心的金渐层。 甚至还有为了口蜂蜜，死活赖着不走的国宝大熊猫。 看着院子里越来越多，越来越多的保护动物，林风只觉得自己是真刑！ 可问题是…… 他开的是农场，不是什么动物园啊！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2obedca4a5133f932d9bda6bb941b134c8~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786065846&x-signature=KppmrqMHSky2vUjr5EkpSvMStbA%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2obedca4a5133f932d9bda6bb941b134c8~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786152334&x-signature=wDNXV5iJy1HyGBqyh1Mo%2FEnbsLI%3D",
           "url": "https://fanqienovel.com/page/7626378258417732632"
         },
         {
           "title": "改运奇书",
           "author": "写小说的斯巴达",
-          "reads": "41万",
+          "reads": "41.6万",
           "intro": "这不过是一本普通的网络小说，没有书友说得那么神！ 你之所以能点击阅读，无非是你已经开始走运了。 当你从第一个章节开始，认真阅读，你的命运齿轮，或许已然开始转动。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od77270396e84be50085def55e53ad9b0~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786065846&x-signature=eun1LQEiFUAu43qtlFNQ9gE%2FEFE%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od77270396e84be50085def55e53ad9b0~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786152334&x-signature=0C1WzXumSm1DEEg57ZaOwv9oIXA%3D",
           "url": "https://fanqienovel.com/page/7573616392256097305"
         },
         {
           "title": "分手后，被一群精神小妹收留了",
           "author": "闭门斋",
-          "reads": "36.1万",
+          "reads": "34.3万",
           "intro": "分手后，被一群精神小妹收留了（刚分手就轮到我了） 精神小妹情绪价值拉满，二百块能玩一天？ 林野以前是不信的。 直到他被谈了三年女友甩掉的当晚，蹲在路边抽烟，一个穿洛丽塔、染黄毛的妹子凑过来。 “哥，崩根烟抽，带你去玩二百块的。” 他以为遇到了仙人跳，结果被拉进一个合租屋。 屋里四五个花臂花腿的精神小妹，最小的刚满十八。 那个腿上纹玫瑰的姑娘眨着眼说：“替我还五十二，我就跟你处。” 【新手任务已完成：请六个精神小妹崩一顿饭。】 【触发10倍返利，1865元已到账。】",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o18ae784e1e3dcb12d616d2e667859599~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786065846&x-signature=K%2BgbPjEzGpsaSqQRhMQRCfCJuxU%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o18ae784e1e3dcb12d616d2e667859599~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786152334&x-signature=4iaPs%2BDYGykvoEDZ9DOGRrnyrl8%3D",
           "url": "https://fanqienovel.com/page/7631112645524851736"
         },
         {
           "title": "开局上岸，从外卖员成秘密特勤",
           "author": "骑着青牛漫步",
-          "reads": "40.7万",
+          "reads": "41.1万",
           "intro": "(非纯谍战文+都市爽文+举报违法犯罪+抓捕间谍。) 三十多岁一事无成的顾承安，意外穿越平行世界，绑定【正义辅助系统】 他以最不起眼的身份，行走在光明与黑暗的边缘，践行正义，守护家国。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od25f2b4055f7d4f259b522190172350f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786065846&x-signature=7jBXrSUSBMKKMSTWdlYaPDNDSms%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od25f2b4055f7d4f259b522190172350f~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786152334&x-signature=r844qmxzwr85QFffC7enco89N18%3D",
           "url": "https://fanqienovel.com/page/7619679529249803288"
+        },
+        {
+          "title": "高考分手后，带校花房车旅游暴富",
+          "author": "远大前陈",
+          "reads": "31.7万",
+          "intro": "【神豪】+【多女主】+【爽文】+【旅游】+【轻松】+【旅游打卡】+【高考】 高考刚结束，女友在宾馆甩出分手宣言：“我以后进娱乐圈，我们不是一个世界的人。” 王野笑了，当场拉黑，转身觉醒旅游神豪系统！ 别人毕业失恋emo，他去湿地公园打卡，五十万到账；新手礼包一开，豪华轻卡房车直接到手。空调、冰箱、洗衣机、独立卫浴、太阳能供电，全套拉满，移动豪宅说走就走！ 前女友嫌他普通本科没前途？不好意思，他已经准备全国景区打卡暴富。1A十万，2A五十万，5A五百万，隐藏景点一千万！ 更离谱的是，系统发布新任务：寻找颜值95分以上美女旅游搭子。校花苏清颜上车，闺蜜许安安也符合条件，奖励当场翻倍。 一路上各种美女相继上车，开启一段美女如云的旅途…… 当王野开着房车一路奔向山海草原，前女友终于刷到他的旅行视频。她才发现，自己错过的不是穷小子，而是一个即将靠旅游封神的男人…… 可第一个隐藏景点打卡后，系统弹出的神秘提示却让王野愣住：这趟旅行，远不止赚钱这么简单。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9d011b5a397e75bddf8c76d9a7e3a289~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786152334&x-signature=2dGdR%2FT1pYgEkbQYxXVYXGgR7fA%3D",
+          "url": "https://fanqienovel.com/page/7654444625955916825"
+        },
+        {
+          "title": "人在五哈：全网催我和前任复合！",
+          "author": "白色焰火FFF",
+          "reads": "41.1万",
+          "intro": "【系统＋单女主＋初代跑男，初代极挑＋各种综艺＋轻松搞笑＋导演＋友谊】 几年前，陈野穿越到了一个平行世界，这个世界很多爆款歌曲，电影电视剧，基本上都没有。 本以为会有系统帮助，拳打奶茶周，脚踩cd林，没事打一下陶哲。 谁知道····我tm根本没有系统！ 不过也有好处，表哥是陈贺，而且脑海的记忆很深刻。 在一次宣传新歌上了跑男的时候，遇见了让我疯狂的女人！在最巅峰的时候公布了！微薄依旧崩塌！ 就这样甜甜蜜蜜的过了一年半，最后因为两人的发展不同，好聚好散分手了，发完最后一批歌，陈野也选择了退圈。 在退圈两年后，平平无奇的一个上午，突然接到了，邓潮，鹿含，陈贺三人组的电话！ 陈野打开热搜一看，发现自己又翻红了！还是因为前女友！！ 恰巧这时候，沉寂了多年的系统，突然响起！ 刚录完新歌，就被陈贺邓潮鹿含三人坑上五哈！谁知道前女友也来了！ 之后开启了综艺生涯，后来开始跨界拍摄电影，拍出来的一个比一个爆火！ 而身边的朋友也步步高升，后来娱乐圈有一句话，没拍过陈野的电影不算火！ 多年后，陈野站在奥斯卡的颁奖台上，搂着前女友，一笑说道：我真的没想那么多，可能我是有一个好的前女友！ ps：你想看的综艺我这里都有！ 简介无力，请看正文！",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob50a3eb4889059be9e79aa09f5e2069a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786152334&x-signature=l9U2%2BtGIOaefKntILNgaM9MDQNU%3D",
+          "url": "https://fanqienovel.com/page/7644473408691899417"
         },
         {
           "title": "华娱：从绑定天仙开始全能",
           "author": "青葱咸鱼",
-          "reads": "37.8万",
+          "reads": "40.5万",
           "intro": "【非重生+系统逆袭+多女主】 2004年，艺考失败，不服输的苏言来到横店成为一名群演，妄想从群演慢慢成长为巨星。 理想很丰满，现实很骨感。 日复一日的扮演尸体、炮灰，让他感觉整个人生都在沉沦。 直到进入《神雕侠侣》剧组那天，眼前突然弹出一个画面： 【绑定女神：天仙】 【付出必有回报系统启动】 从此，他的娱乐圈生存法则彻底改变： 送一瓶水，现金到账，体能增强； 解一次围，技能到手，属性暴涨。 救于危难，获得未来爆款歌曲、剧本。 ……多年后，已经成为娱乐圈巨头·全能才子·多位女明星意难平的苏言回首往事，面对采访只能无奈一笑： “我说一开始真的只想进步，你们信吗？”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9a2ed63048fba92557304cd4a54a4b2c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786065846&x-signature=3lrOVXyWJ%2F4pRK2o2ooyzVLDblA%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9a2ed63048fba92557304cd4a54a4b2c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786152334&x-signature=Yfgrlx60sHO7Gaekuf1pBcstc9A%3D",
           "url": "https://fanqienovel.com/page/7590182452971179032"
         },
         {
           "title": "让你拍反腐片，你拍人民的名义！",
           "author": "火狐火狐",
-          "reads": "30.7万",
+          "reads": "29万",
           "intro": "林默穿越后，被单位指派拍一部法治宣传片。 他二话不说，掏出五十五集剧本——《人民的名义》。 实力派演员齐聚，央视一套播出，收视率炸了。 领导激动了：“下一部，禁毒的能拍吗？” 林默笑了笑：“《门徒》已经写好了。” “反诈的呢？” “《孤注一掷》，也准备好了。”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa780ff9d3e2171182890eaed182ef19d~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786065846&x-signature=%2FdzVOxNR53xIcAKKy6J7m69zuiE%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa780ff9d3e2171182890eaed182ef19d~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786152334&x-signature=wAMLonKMwCgNfgQd7GZpFcYnQ30%3D",
           "url": "https://fanqienovel.com/page/7640807870426008638"
-        },
-        {
-          "title": "卖个早点，怎么上班族全迟到了",
-          "author": "练腿摸鱼仔",
-          "reads": "30.1万",
-          "intro": "【美食+系统+日常+升级+无女主】 宋砚被老爹诓回来继承早餐店，却意外激活厨神系统。 【宿主】：宋砚 调味（初级）：165/1000（毒不死人） ……折叠…… 刀功（初级）：0/1000（比起切菜，你更应该注意切到手） 【综评】：一个平平无奇的白案废柴 只要肯肝就能增加技能熟练度？ 不知道我外号肝帝吗！ 完成任务还能获得白案传承？ 让我来！ 可当宋砚被传到1963年时，整个人都懵了。 你也没说这个传承是让我回到过去，跟着其他师傅学手艺啊？！ 没有短剧、没有网络、没有娱乐…… 被军训了几个月的宋砚学会了面点的制作方法，也慢慢学会了何为传承。 白案式微？传承断代？无人可用？ 下面站在你们面前的是——全国早餐店最严厉的父亲、白案最后的脊梁、红白案双绝厨神、顶级国宴手、米其林东进路上的最大敌人…… （非出场即无敌文，系统只是辅助，各项基本功需要练习成长，菜品需要学习研究）",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o1d09eee439f73280165b430957e7f9b5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786065846&x-signature=LLlqwumPXeZsnANaR%2F1ZeCP90LY%3D",
-          "url": "https://fanqienovel.com/page/7616963661713640472"
         },
         {
           "title": "继承荒山：直接改造10A级景区",
           "author": "小猪旺财",
-          "reads": "31.1万",
+          "reads": "31.8万",
           "intro": "【基建】【景点打造】【无女主】 许竞继承了一片荒山景区。 你说这烂到没人来？ 那他就给这改造成10A级的！ 生灵神山，湖底遗迹，朝圣之地…… 无数人涌入这片名不见经传的小城，看着头顶的浮空岛懵了…… 你说这就是个景区？",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o56736311e615959f5058c867f51ea554~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786065846&x-signature=laxz6PDNO%2BKb0tD7QurVtk%2FtpHk%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o56736311e615959f5058c867f51ea554~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786152334&x-signature=0q%2Fpmv8Yica5sTL3iy58u3VrFX8%3D",
           "url": "https://fanqienovel.com/page/7452345209670601790"
-        },
-        {
-          "title": "荒岛求生：有了个娃后百倍提升？",
-          "author": "风吹小草摇",
-          "reads": "29.7万",
-          "intro": "美女总裁：“林帆，一千万买你一瓶矿泉水……” 顶流明星：“我也五千万买你一桶泡面。” …… 实习生林帆和首富独女总裁、女明星、公司精英、富二代们遭遇海难，被海啸卷到一个不知名破岛。 别人以为救援马上来，都在抢夺散落的名表和奢侈品包包，林帆却在系统的提示下得知救援概率是：0.000001，他囤积了全部淡水、食物和唯一一把战术匕首。 以前高高在上的女总裁用一千万买他一瓶水，一线女星试图用美色换取庇护，主管带人想要强抢物资，林帆用唯一一把刀告诉了他们什么叫荒岛法则： 直升机永远不会来，文明的秩序已经崩塌。 这里没有总裁，没有明星，没有精英、更没有富二代，只有囤满物资的林帆，和必须靠劳动换取残羹冷炙的牛马……",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ofb496e168ad9ae7ae96c534cd9f4e6e8~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786065846&x-signature=A8OP8BkjHfMw3B%2F%2BbWigugeyRvs%3D",
-          "url": "https://fanqienovel.com/page/7610296236079320088"
         },
         {
           "title": "入伍四次！我被原部队拉进黑名单",
           "author": "朝朝和",
-          "reads": "31.9万",
-          "intro": "别人当兵是保家卫国，吴汉峰当兵是“被迫上班”。 七年时间，三次入伍，三次退伍，硬是把铁打的营盘，熬成了自家后花园。 每次退伍，老战友们都哭得撕心裂肺. 唯独他淡定啃苹果：“别慌，等我回来。” 战友崩溃：求求了，这次退伍就别再回来祸害我们了！ 不是吴汉峰不想走，实在是因为脑子里有个破系统，非逼着他在作战单位待满六年才能激活！ 为了凑够这见鬼的签到天数，他愣是卡着政策BUG. 硬生生把自己折腾成了全军罕见的“入伍钉子户”。 眼瞅着第四次入伍大计就差临门一脚，老连长却放狠话了： “你小子再敢回来，我就把你当间谍抓起来！” 终于，半年后…… 当吴汉峰第四次领着行李回到原部队时，全团都破防了！ “快！将这钉子户拉进黑名单！！” “峰哥，求求你，走吧！我们这庙小，容不下你这尊大佛啊！” 当昔日的同年兵成了自己的连长. 当自己带的兵成了自己的班长. 这个把退伍当回家的老油条。 又该如何在鸡飞狗跳中，上演第四次新兵逆袭？",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob642d28cfca7bfe899154356cf5bc9ef~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786065846&x-signature=I5JBuoSpwIscndh09cm7QZunTio%3D",
+          "reads": "33.5万",
+          "intro": "别人当兵是保家卫国，吴汉峰当兵是“被迫上班”。 七年时间，三次入伍，三次退伍，硬是把铁打的营盘，熬成了自家后花园。 每次退伍，老战友们都哭得撕心裂肺. 唯独他淡定啃苹果：“别慌，等我回来。” 战友崩溃：求求了，这次退伍就别再回来祸害我们了！ 不是吴汉峰不想走，实在是因为脑子里有个破系统，非逼着他在作战单位待满六年才能激活！ 为了凑够这见鬼的签到天数，他愣是卡着政策BUG. 硬生生把自己折腾成了全军罕见的“入伍钉子户”。 眼瞅着第四次入伍大计就差临门一脚，老领导却放狠话了： “你小子再敢回来，我就把你当间谍抓起来！” 终于，半年后…… 当吴汉峰第四次领着行李回到原部队时，全团都破防了！ “快！将这钉子户拉进黑名单！！” “峰哥，求求你，走吧！我们这庙小，容不下你这尊大佛啊！” 当昔日的同年兵成了自己的领导. 当自己带的兵成了自己的班长. 这个把退伍当回家的老油条。 又该如何在鸡飞狗跳中，上演第四次新兵逆袭？",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ob642d28cfca7bfe899154356cf5bc9ef~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1786152334&x-signature=ieDIHuALow9lN5BVD7jKW70ofaE%3D",
           "url": "https://fanqienovel.com/page/7624007186758257688"
         }
       ]
