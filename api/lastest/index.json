@@ -1,12 +1,12 @@
 {
-  "date": "2026-09-15",
-  "prev_date": "2026-09-14",
+  "date": "2026-09-16",
+  "prev_date": "2026-09-15",
   "types": [
     {
       "type": "all",
       "url": "api/lastest/all.json",
       "category_count": 19,
-      "book_count": 378
+      "book_count": 380
     },
     {
       "type": "西方奇幻",
@@ -31,7 +31,7 @@
     {
       "type": "都市修真",
       "url": "api/lastest/%E9%83%BD%E5%B8%82%E4%BF%AE%E7%9C%9F.json",
-      "book_count": 18
+      "book_count": 20
     },
     {
       "type": "都市高武",
