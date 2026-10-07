@@ -1,12 +1,12 @@
 {
-  "date": "2026-10-06",
-  "prev_date": "2026-10-04",
+  "date": "2026-10-07",
+  "prev_date": "2026-10-06",
   "types": [
     {
       "type": "all",
       "url": "api/lastest/all.json",
       "category_count": 19,
-      "book_count": 380
+      "book_count": 360
     },
     {
       "type": "西方奇幻",
@@ -46,7 +46,7 @@
     {
       "type": "战神赘婿",
       "url": "api/lastest/%E6%88%98%E7%A5%9E%E8%B5%98%E5%A9%BF.json",
-      "book_count": 20
+      "book_count": 0
     },
     {
       "type": "都市种田",
