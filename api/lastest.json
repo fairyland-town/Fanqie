@@ -1,12 +1,12 @@
 {
-  "date": "2026-11-09",
-  "prev_date": "2026-11-08",
+  "date": "2026-11-10",
+  "prev_date": "2026-11-09",
   "types": [
     {
       "type": "all",
       "url": "api/lastest/all.json",
       "category_count": 19,
-      "book_count": 370
+      "book_count": 380
     },
     {
       "type": "西方奇幻",
@@ -21,7 +21,7 @@
     {
       "type": "科幻末世",
       "url": "api/lastest/%E7%A7%91%E5%B9%BB%E6%9C%AB%E4%B8%96.json",
-      "book_count": 10
+      "book_count": 20
     },
     {
       "type": "都市日常",
