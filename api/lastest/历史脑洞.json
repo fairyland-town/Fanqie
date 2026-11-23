@@ -1,42 +1,42 @@
 {
   "type": "历史脑洞",
-  "date": "2026-11-22",
-  "prev_date": "2026-11-21",
+  "date": "2026-11-23",
+  "prev_date": "2026-11-22",
   "category": {
     "name": "历史脑洞",
     "trend": {
       "new_count": 1,
       "dropped_count": 1,
       "new_books": [
-        "五代乱世，我有斗米爆满仓"
+        "大唐：李世民求我造反"
       ],
       "dropped_books": [
         {
-          "title": "崇祯十一年：开局先救卢象昇",
-          "intro": "强逻辑+硬核考据+半爽文+权谋+战争+明末+明末+救国+争霸+非穿越 无系统无穿越，全凭对历史的了解和对人心的算计，一步一步打出一个不一样的天下。 一梦醒来，崇祯发现，自己能看见每个人头顶的历史评语。"
+          "title": "天幕：刷短视频，嬴政得了MVP",
+          "intro": "主角不完全工具人，除了短视频、历史视频盘点外，也侧重向古人展现现代生活！ 　　林齐并不知道他的生活，他刷的视频会被投放到历朝历代的观众面前。 　　于是林齐的生活便成为了天幕之下，无数先辈茶余饭后的乐子"
         }
       ],
       "top_risers": [
         {
           "title": "别人夺嫡偷偷来，我家皇帝下圣旨",
-          "change": "+5"
+          "change": "+4"
         },
         {
-          "title": "一心求死，反倒成为千古一帝？",
+          "title": "我是反派？可女主都是我爱妃啊！",
           "change": "+2"
         },
         {
-          "title": "从嬴政开始：历代皇帝陆续降临",
+          "title": "一心求死，反倒成为千古一帝？",
           "change": "+1"
         }
       ],
       "top_fallers": [
         {
-          "title": "镇国杀神：从拯救落难贵妇开始",
-          "change": "-3"
+          "title": "大秦：天道酬勤，皇长子镇杀六合",
+          "change": "-2"
         },
         {
-          "title": "乱世荒年：我每日一卦粮肉满仓！",
+          "title": "错把刘宏当爹，他送貂蝉做我老婆",
           "change": "-2"
         },
         {
@@ -47,179 +47,179 @@
       "reads_growth": [
         {
           "title": "别人夺嫡偷偷来，我家皇帝下圣旨",
-          "growth": "+2.9万"
+          "growth": "+3.5万"
         },
         {
           "title": "一心求死，反倒成为千古一帝？",
-          "growth": "+1.3万"
+          "growth": "+3000"
         },
         {
-          "title": "从嬴政开始：历代皇帝陆续降临",
-          "growth": "+2000"
+          "title": "我是反派？可女主都是我爱妃啊！",
+          "growth": "+3000"
         }
       ],
-      "summary": "新增1本上榜；1本掉出（《崇祯十一年：开局先救卢象昇》）；《别人夺嫡偷偷来，我家皇帝下圣旨》排名上升+5位；《别人夺嫡偷偷来，我家皇帝下圣旨》阅读量+2.9万。"
+      "summary": "新增1本上榜；1本掉出（《天幕：刷短视频，嬴政得了MVP》）；《别人夺嫡偷偷来，我家皇帝下圣旨》排名上升+4位；《别人夺嫡偷偷来，我家皇帝下圣旨》阅读量+3.5万。"
     },
     "books": [
       {
         "title": "秦始皇：朕有华夏全明星阵容",
         "author": "雪岭云杉",
-        "reads": "42.6万",
+        "reads": "42万",
         "intro": "基建+争霸+群像+爽文，重点强调无CP,不写任何感情线 史上最强猎头卢浩空降咸阳宫，唯一的金手指是从时空的长河里薅人。 祖龙想要谁，他就薅谁。 华夏历史上光耀千秋的人物陆续汇集于大秦。 大家齐心协力，各展所长。凑在一起火花四溅，笑料不断。   一句话：祖龙当老板，带全明星阵容搞事业。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o27f5a79224e1870ffc9c61904fcb4f10~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795923564&x-signature=eaJIwh2K6F%2BmffsGMyaSgchaDSg%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o27f5a79224e1870ffc9c61904fcb4f10~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1796011944&x-signature=YMWnMliazjv8hAfT8XFJSjZhGY0%3D",
         "url": "https://fanqienovel.com/page/7648671848443431960"
-      },
-      {
-        "title": "大秦：天道酬勤，皇长子镇杀六合",
-        "author": "蓝天冰牛奶",
-        "reads": "30.4万",
-        "intro": "穿越战国末年，赵知安赶上了一个大时代。 六王毕，四海一！ 恰在此时，觉醒爆肝系统。 赵知安笑问：“王侯将相，宁有种乎？” 他决定参军，在军功授爵下，奋力向上攀爬。 从【箭术（入门）】，爆肝到【百步穿杨】，百步之外，取敌将首级！ 从【气力（入门）】，爆肝到【力能举鼎】，宇之神勇，千古无二！ 从【兵法（入门）】，爆肝到【兵仙在世】，运筹帷幄之中，决胜千里之外！ …… 多年后，赵知安蓦然回首，已有灭六国之功。 本打算跟王翦等一众武将明哲保身，可是，出乎了所有人的意料，始皇帝唯独拒绝了赵知安的辞呈。 其中的原因，连赵知安自己都不知道。 他竟是嬴政和阿房女当年生下的第一个孩子……",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o77531ab35774e0e47d3df6dba3568d82~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795923564&x-signature=GBCAUXL2GW8Z4yerhP9AQXhUAB0%3D",
-        "url": "https://fanqienovel.com/page/7627006516167461950"
       },
       {
         "title": "一心求死，反倒成为千古一帝？",
         "author": "me小气猪",
-        "reads": "29万",
+        "reads": "29.3万",
         "intro": "【纯爽文】＋【践踏规则】+【疯批】+【发癫】+【怼人】+【一身反骨】+【造反】 普通人李承泽穿越到了古代，成为了一个皇子。 谁料系统跟他说，只要能够合理的死掉，就能回到现代当世界首富。 李承泽：？？？那我还惜此身？ 然后他就接了一个棘手的案件，严重小命都要丢。 但我李承泽是怕死的吗？强闯府衙拿卷宗，面对上百人持刀包围，李承泽主动求死，没人敢动手。 生气的李承泽抓着他的脑袋大骂废物，给你机会你不中用啊！然后追着上百人揍。 面对世家犯法，不妥协，不姑息，替身？我偏不，谁犯事我抓谁，世家不服？有本事杀我吗？ 世家暴怒，只能无能咆哮，谁说靖安王李承泽是胆小怕事，懦弱无能的？ 回京后，面对资源被克扣？那必是忍不了的。 四哥来阻止？从承安门追到朱雀街暴揍。 太子殿下？你这身蟒袍挺好看的，强扒下来，给我穿穿。 李承泽反复作死，可就是死不了，世家诬陷我造反？咦，好主意！你们没有诬陷，是真的，我要造反了！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6a169005a8032a83bb1a8f3a210a8b1c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795923564&x-signature=Cod2O5GA7N1bMLuNuI2uioh0zBg%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6a169005a8032a83bb1a8f3a210a8b1c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1796011944&x-signature=A4dJeo3ZBFyZbm7%2BHA9S71IA5nw%3D",
         "url": "https://fanqienovel.com/page/7609931463961627710"
       },
       {
         "title": "穿越乱世：每天一份拼好饭",
         "author": "与天竞自由",
-        "reads": "28.5万",
+        "reads": "28.2万",
         "intro": "【非无脑爽文】【全程智商在线】【新故事从不套娃】【番茄第一更新王】【非帝王崇拜】【有私货慎入】【架空融合历史】 林渊一觉睡醒，穿越回乱世，正当他快饿死的时候，突然发现他每天可以点一份拼好饭。 从这时起，一个回不去的灵魂，在这乱世当中，究竟该何去何从？",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9d67ea6f0e9cea454d95d64f7761a142~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795923564&x-signature=QUeLql%2BQHKjZZoJdwHcQz9pXfl0%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9d67ea6f0e9cea454d95d64f7761a142~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1796011944&x-signature=kVu5FB7eQjUZRSK8gw362RAeIkU%3D",
         "url": "https://fanqienovel.com/page/7660134591012817982"
+      },
+      {
+        "title": "大秦：天道酬勤，皇长子镇杀六合",
+        "author": "蓝天冰牛奶",
+        "reads": "27.9万",
+        "intro": "穿越战国末年，赵知安赶上了一个大时代。 六王毕，四海一！ 恰在此时，觉醒爆肝系统。 赵知安笑问：“王侯将相，宁有种乎？” 他决定参军，在军功授爵下，奋力向上攀爬。 从【箭术（入门）】，爆肝到【百步穿杨】，百步之外，取敌将首级！ 从【气力（入门）】，爆肝到【力能举鼎】，宇之神勇，千古无二！ 从【兵法（入门）】，爆肝到【兵仙在世】，运筹帷幄之中，决胜千里之外！ …… 多年后，赵知安蓦然回首，已有灭六国之功。 本打算跟王翦等一众武将明哲保身，可是，出乎了所有人的意料，始皇帝唯独拒绝了赵知安的辞呈。 其中的原因，连赵知安自己都不知道。 他竟是嬴政和阿房女当年生下的第一个孩子……",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o77531ab35774e0e47d3df6dba3568d82~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1796011944&x-signature=LX3QkCRrzKZ%2Bds7zetyCpqD1%2BCU%3D",
+        "url": "https://fanqienovel.com/page/7627006516167461950"
       },
       {
         "title": "乱世荒年：我每日一卦粮肉满仓！",
         "author": "风起于渊",
-        "reads": "28.5万",
+        "reads": "27.9万",
         "intro": "猎户+种田流+高积粮缓称王+造反争霸+十国千娇 【当前命星：山民】 【今日运势：福祸相依】 【大吉：二黑山北麓，一只麋鹿老死山间，前去可获得完整的皮肉。】 【平：小黑山脚下，一只野鸡被荆棘缠住，迅速前往或许有额外收获。】 【大凶：二黑山南，一只受伤的野猪失血过多，前去可以获得猪肉，但要小心追捕的猎户，他们并没有什么善意！】 穿越荒年，江尘带着祖传的龟甲，发现自己有了卜卦的能力。 每日卜卦，让他可以趋吉避凶。 什么观音土？什么啃树皮？我上山走走就能捡到撞树的兔子，受伤的野鸡，迷路的狍子。 我明明什么都没干，这粮仓就已经堆满了啊。 等等……乱世将起，我有粮有人，似乎能干一番大事！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o32600515fa540e75400db91bef619bd0~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795923564&x-signature=abjFp4%2FTQ5W901P8v3WWkRXRvKs%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o32600515fa540e75400db91bef619bd0~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1796011944&x-signature=CzYX9cSX9vSPPjYBahConKvYfD8%3D",
         "url": "https://fanqienovel.com/page/7530301461050166296"
-      },
-      {
-        "title": "天幕：千古第一才女的现代生活",
-        "author": "骑驴驴驴驴",
-        "reads": "22.1万",
-        "intro": "现代青年赵齐书在家上个厕所的功夫，家里突然出现个千古第一才女李清照。 在赵齐书帮助李清照融入现代生活的同时，一场天幕直播在历朝历代同步开启。 看到赵齐书用手机打电话，秦始皇双眼放光：“朕要！” 看到现代平整的公路，汉武帝满脸渴望：“若是大汉有这等道路！何愁匈奴不平！” 看到世界地图，唐太宗大感震感：“朕的大唐，居然只有这么小一块！” 看到靖康之耻，宋太祖用盘龙棍好好地感谢了一下自己的弟弟。 一场古代与现代的剧烈思想冲突正在缓缓展开。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o983d12bc73652c35a6deb8ae528e1a1a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795923564&x-signature=x%2FVRQaU%2BNN2eVyhMVJtL8%2BdpWbc%3D",
-        "url": "https://fanqienovel.com/page/7692626661904239678"
-      },
-      {
-        "title": "错把刘宏当爹，他送貂蝉做我老婆",
-        "author": "吾名张飞",
-        "reads": "20.9万",
-        "intro": "【何蔡貂乔甄，吕甘糜邹陈】 【不虐，不漏】 刘必意外穿越到东汉末年的洛阳，获得了娶妻成神系统。 一次意外，他错把微服私访的刘宏当，做是系统安排的便宜老爹……",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o3f5e10dd09f16f84385ed3fd8dbf41ec~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795923564&x-signature=%2BK71cywYJzZygCQeVzMDDA23gAI%3D",
-        "url": "https://fanqienovel.com/page/7639198981834165273"
-      },
-      {
-        "title": "从嬴政开始：历代皇帝陆续降临",
-        "author": "来碗热干面",
-        "reads": "20万",
-        "intro": "【轻松+幽默+冒险】史书怪请谨慎入坑 秦始皇死后，被传送到了一座围城之中。此处一日等于外界一年，每次开启城门场景各不相同，有诸多奇幻冒险。 第三天胡亥到来：“父皇，您要为儿做主啊！” 十二天后刘邦到来：“政哥，难道你还不知道你的大秦已经亡啦？” 王莽到来：“我又穿越了？” 刘备到来：“高祖，我真的是咱老刘家的人！” 成吉思汗到来：“论江山面积，我不是针对你，我是说在座的各位都是垃圾。” 朱棣到来：“爹，你先别动手，儿不是故意篡位的...” 溥仪到来：“我给大家带来了一个好消息...”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2odbe66bd070c88abb164650578188a2d6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795923564&x-signature=sD31SevtalCHL8oVMwveaq2humI%3D",
-        "url": "https://fanqienovel.com/page/7155426942664051753"
-      },
-      {
-        "title": "大唐皇长孙：皇爷爷！你吃鸡排吗",
-        "author": "菠萝蜜多羊",
-        "reads": "19.8万",
-        "intro": "李易穿越而来，成为李世民的长孙！获得老登爆宝箱系统，绑定李世民，只要搞老李心态，就能触发宝箱掉落！ 李易：“皇爷爷，你吃鸡排吗？” 李世民：“乖大孙，皇爷爷不吃！” 李易：“那我吃！” 李世民：“乖大孙，你吃荔枝吗？” 李易：“吃！” 李世民：“大孙，你最近学习怎么样啊？” 李易：“皇爷爷，说多少次了，在外要称职务。” 李世民：“大孙，今天皇爷爷考考你！学而时习之，后面是什么？” 李易：“是不亦说乎！太简单啦，皇爷爷，我也考考你！” 李世民：“大孙，你说！” 李易：“秦王绕柱，跑了几圈？” 李世民：“大孙，皇爷爷要是被一个特别厉害的人噶了，你会替皇爷爷报仇吗？” 李易：“杀爷之仇，不共戴天！皇爷爷，我们从今日起断绝爷孙关系！” 李世民：“大孙，皇爷爷在位这些年，能称得上是盛世吗？” 李易：皇爷爷，你就算把贞观治成天下第一盛世，史书也不会记载你是顺位继承哒！ 李世民：？？？ 麻了，这六十斤的大孙，五十九斤反骨？ 本书又名《大唐皇长孙：老登，爆金币！》、《大唐：乖孙儿孝死皇爷爷了！》、《大唐：我，皇长孙，混世魔王！》",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o4b5731b9d142bd695ebb14af57a05219~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795923564&x-signature=ghtF8luzWsTfg%2BFX3iAKwinbFiU%3D",
-        "url": "https://fanqienovel.com/page/7535840601317592089"
       },
       {
         "title": "别人夺嫡偷偷来，我家皇帝下圣旨",
         "author": "荒漠之缘",
-        "reads": "19.5万",
+        "reads": "23万",
         "intro": "穿越大玄王朝最不受宠的九皇子赵凡，开局就迎来一道奇葩圣旨：父皇让包括他在内的七个皇子两个公主一起“考校”，能者居之。 别人有军方、文官、世家撑腰，他只有一座漏风的王府和21个太监。 就在赵凡以为穿越标配的“金手指”不存在时，脑子里忽然响起一个声音——“叮！淘多多系统绑定成功。” 一个购物App。能用银子买现代商品，前三次购物还保证“假一赔万”的真货。 2.95元的《葵花宝典》瞬间变成真品，让太监们一夜练成神功，忠诚度拉满； 9块9的召唤卡，拍出两个宗师级别的少年和尚和一个能文能武的谋士。 当皇兄们在京城里斗得头破血流时，赵凡默默思考下一次该买点啥。他渐渐发现，这场夺嫡盛宴迷雾重重，父皇的心思深不见底。 既然都以为我最弱，那就让“淘多多”来告诉他们，什么叫降维打击。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o7988846d4f77af5cfe93793683741c95~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795923564&x-signature=C3%2FL41qX5us8UceEWzQJnE%2BgY00%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o7988846d4f77af5cfe93793683741c95~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1796011944&x-signature=9K8TVj5LjBEYFAacKxOmiOPxOmI%3D",
         "url": "https://fanqienovel.com/page/7636574642320198681"
+      },
+      {
+        "title": "天幕：千古第一才女的现代生活",
+        "author": "骑驴驴驴驴",
+        "reads": "20万",
+        "intro": "现代青年赵齐书在家上个厕所的功夫，家里突然出现个千古第一才女李清照。 在赵齐书帮助李清照融入现代生活的同时，一场天幕直播在历朝历代同步开启。 看到赵齐书用手机打电话，秦始皇双眼放光：“朕要！” 看到现代平整的公路，汉武帝满脸渴望：“若是大汉有这等道路！何愁匈奴不平！” 看到世界地图，唐太宗大感震感：“朕的大唐，居然只有这么小一块！” 看到靖康之耻，宋太祖用盘龙棍好好地感谢了一下自己的弟弟。 一场古代与现代的剧烈思想冲突正在缓缓展开。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o983d12bc73652c35a6deb8ae528e1a1a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1796011944&x-signature=FO2B6FmGYySPCrK2wHSf2kH1D%2BI%3D",
+        "url": "https://fanqienovel.com/page/7692626661904239678"
+      },
+      {
+        "title": "从嬴政开始：历代皇帝陆续降临",
+        "author": "来碗热干面",
+        "reads": "19.8万",
+        "intro": "【轻松+幽默+冒险】史书怪请谨慎入坑 秦始皇死后，被传送到了一座围城之中。此处一日等于外界一年，每次开启城门场景各不相同，有诸多奇幻冒险。 第三天胡亥到来：“父皇，您要为儿做主啊！” 十二天后刘邦到来：“政哥，难道你还不知道你的大秦已经亡啦？” 王莽到来：“我又穿越了？” 刘备到来：“高祖，我真的是咱老刘家的人！” 成吉思汗到来：“论江山面积，我不是针对你，我是说在座的各位都是垃圾。” 朱棣到来：“爹，你先别动手，儿不是故意篡位的...” 溥仪到来：“我给大家带来了一个好消息...”",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2odbe66bd070c88abb164650578188a2d6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1796011944&x-signature=yJIGHWLaJ2HyWGy3Xm7Flz1K8dQ%3D",
+        "url": "https://fanqienovel.com/page/7155426942664051753"
+      },
+      {
+        "title": "错把刘宏当爹，他送貂蝉做我老婆",
+        "author": "吾名张飞",
+        "reads": "19.4万",
+        "intro": "【何蔡貂乔甄，吕甘糜邹陈】 【不虐，不漏】 刘必意外穿越到东汉末年的洛阳，获得了娶妻成神系统。 一次意外，他错把微服私访的刘宏当，做是系统安排的便宜老爹……",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o3f5e10dd09f16f84385ed3fd8dbf41ec~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1796011944&x-signature=O8KF3nMMnbQVLoeisV6aIxPvegg%3D",
+        "url": "https://fanqienovel.com/page/7639198981834165273"
+      },
+      {
+        "title": "大唐皇长孙：皇爷爷！你吃鸡排吗",
+        "author": "菠萝蜜多羊",
+        "reads": "18.5万",
+        "intro": "李易穿越而来，成为李世民的长孙！获得老登爆宝箱系统，绑定李世民，只要搞老李心态，就能触发宝箱掉落！ 李易：“皇爷爷，你吃鸡排吗？” 李世民：“乖大孙，皇爷爷不吃！” 李易：“那我吃！” 李世民：“乖大孙，你吃荔枝吗？” 李易：“吃！” 李世民：“大孙，你最近学习怎么样啊？” 李易：“皇爷爷，说多少次了，在外要称职务。” 李世民：“大孙，今天皇爷爷考考你！学而时习之，后面是什么？” 李易：“是不亦说乎！太简单啦，皇爷爷，我也考考你！” 李世民：“大孙，你说！” 李易：“秦王绕柱，跑了几圈？” 李世民：“大孙，皇爷爷要是被一个特别厉害的人噶了，你会替皇爷爷报仇吗？” 李易：“杀爷之仇，不共戴天！皇爷爷，我们从今日起断绝爷孙关系！” 李世民：“大孙，皇爷爷在位这些年，能称得上是盛世吗？” 李易：皇爷爷，你就算把贞观治成天下第一盛世，史书也不会记载你是顺位继承哒！ 李世民：？？？ 麻了，这六十斤的大孙，五十九斤反骨？ 本书又名《大唐皇长孙：老登，爆金币！》、《大唐：乖孙儿孝死皇爷爷了！》、《大唐：我，皇长孙，混世魔王！》",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o4b5731b9d142bd695ebb14af57a05219~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1796011944&x-signature=2sBRghSXo871dv5oTJ8OwUzioD0%3D",
+        "url": "https://fanqienovel.com/page/7535840601317592089"
       },
       {
         "title": "女帝请卸甲，我一剑挽天倾！",
         "author": "美的冒泡",
-        "reads": "19万",
+        "reads": "18.1万",
         "intro": "【系统+美女+杀伐果断+马踏江湖+争霸天下】 我有一剑，可斩篡臣，平北雍，踏江湖，灭大乾，吞大梁，敕绝顶宗师，斩陆地神仙！ 那天，我站在皇极殿前，看着满身血污的女帝。 “请女帝卸甲。” “这天倾，我一剑挽之！” 我虽名吴良，心却大大的好。每天都做一件善事，拿一个词条。 路人倒毙，我不救，因为那只有白色词条。 女帝蒙难，十万大军围城，我拔剑了。 结果…… 满朝文武：“大都督冲冠一怒为红颜，杀穿十万军，乃绝世疯批情种！” 我：“放屁，那是五彩词条！” 江湖群雄：“活阎王马踏江湖，镇压陆地神仙，实乃大周第一鹰犬！” 我：“你们TM……老子真的只是做善事。” 绝美女帝：“他灭大乾、吞大梁、收楼兰，甚至将大元铁骑赶至极西尽头，全是为了朕？” 我：“我不是，别瞎脑补。” 天下人麻了：“你管这叫日行一善？你特么把全天下都打穿了！” ……",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o3623b36515f9ca12e450b4dca5f5a36c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795923568&x-signature=3qtYpCD05gDjKEqhWmQobrChIxE%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o3623b36515f9ca12e450b4dca5f5a36c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1796011947&x-signature=eS3DYkH7Bp57spolSw%2FWdyEYwAs%3D",
         "url": "https://fanqienovel.com/page/7626296305324657688"
-      },
-      {
-        "title": "大秦：我，嬴政！开局面壁穿越者",
-        "author": "白路鸟",
-        "reads": "17.8万",
-        "intro": "【主角嬴政，唯一男主】＋【给始皇续命】 这不是一个人的穿越，而是一个文明的冲锋。 华夏历四七三六年，华夏危在旦夕。 唯一的生机，是点燃两千年前的那唯一火种——始皇帝，嬴政！ 于是，一场跨越两千年的悲壮献祭，开始了。 第一位来者是军医，他跪在朕的榻前，泣不成声：“陛下，后辈陈尧，为您续命而来！”五日后，他化光而逝。 第二位是农学家，他在骊山脚下种出高产的土豆，临终前抓着泥土：“陛下，让百姓…吃饱饭…” 第三位是造纸非遗传承人，她造出大秦的第一张纸，最后倒在嬴政怀中，喃喃道：“陛下，此为……大秦文脉…” 第四位、第五位…… 他们是科学家、是军人、是教授、是工程师。 他们前仆后继，如飞蛾扑火，不求回报，不图名利。 他们只有一个信念：祖龙当兴，华夏不灭！ 当朕手握他们用生命换来的利剑，看着世界地图时，朕终于明白。 朕的背后，站着的是十四亿华夏子孙。 “后世子孙们，看着吧。” “这一次，换朕来庇护你们！” “大秦铁骑，出征！”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6faaa86e6566a8455913a2d10e4ec664~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795923568&x-signature=yhwy3v%2BXlhupm3gNY%2FFTnY%2FKZjg%3D",
-        "url": "https://fanqienovel.com/page/7626402281239366680"
-      },
-      {
-        "title": "大明：我真不是万寿帝君",
-        "author": "翊月影",
-        "reads": "17.3万",
-        "intro": "万寿帝君，乃是大明世宗嘉靖皇帝给自己封的道号。 陆辰穿越了，来到明朝嘉靖十七年。 虽是魂穿，原主却没有留下什么记忆，幸好有念力傍身。 机缘巧合之下，冒用了疑似陆炳之父陆松私生子的路引。 更离奇的是，这具被陆辰夺舍的身体，竟长着一张与嘉靖帝少年时一模一样的脸。 。。。 本书慢热，重逻辑，不无脑，主线与书名绝对契合，会随着剧情展开逐渐明朗。 主角唯我独法，所在位面是低武世界，不会出现能以一敌百的高手。 作者已有一本166万字9.1分精品完本小说，品质保证，请读者放心入坑。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe39f7f840333b7d4a6bac5668b5db6ab~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795923568&x-signature=aeSqKv3GNUtHQp064RXc73N12k0%3D",
-        "url": "https://fanqienovel.com/page/7615429462477261848"
       },
       {
         "title": "我是反派？可女主都是我爱妃啊！",
         "author": "铁锤锤豆豆",
-        "reads": "17.1万",
+        "reads": "17.4万",
         "intro": "同名漫剧已上线！ 【天命反派+胎穿+权谋夺嫡+红颜系统+多女主护夫+全洁】 　　顾墨染一觉醒来，发现自己竟是书里最惨的反派。 　　十二位天命之子轮番登场，退婚逆袭、神医无双、龙王出狱…… 　　每一个主角踩着他的脸起飞。 　　他被夺女、当众刺字…… 还因身世异常被抄家，五马分尸！ 好在，他现在觉醒了系统，还拥有蓝星聪慧。 　　…… 　　他一口气向父皇求了六道婚书。 　　丞相嫡女掌账如刀；太医院千金医毒双绝； 　　北境公主马上能战；太尉之女刀法凌厉； 　　书香才女识人辨局；花魁暗线通京城。 　　她们曾看不上他、恨他、防他、试探他。 　　后来却一个个把身家、命运，全押在了他身上。 　　…… 　　外人都笑他荒唐。 　　病弱纨绔，仗着皇恩躲在女人堆里装死，日日怕妻，迟早死女人身上。 　　可天命人入京后，却发现自己竟然是小丑？ 　　…… 　　皇帝疑他，他装病、装怂、装荒唐。 　　还把“轻纱足衣图”送进宫，把父皇气得连夜催他滚去封地。 　　顾墨染坐在南下马车里，怀揣柳家旧军路线，袖藏北境密信，身后六位夫人各掌一局。 　　他低咳一声，懒洋洋掀开车帘。 　　“父皇让本王去逸州养病。” 　　“可若养着，把天下养进怀里……” 　　“那也不能怪本王吧？”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc646bba9de88034830f1a2207496e9e4~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795923568&x-signature=Q7SUI1uCHLd4Zt8reSus5I%2Bakxo%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc646bba9de88034830f1a2207496e9e4~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1796011947&x-signature=hZtBGh5pQjP752s0pnCAmRUVdMs%3D",
         "url": "https://fanqienovel.com/page/7628826079339220030"
+      },
+      {
+        "title": "大秦：我，嬴政！开局面壁穿越者",
+        "author": "白路鸟",
+        "reads": "17.1万",
+        "intro": "【主角嬴政，唯一男主】＋【给始皇续命】 这不是一个人的穿越，而是一个文明的冲锋。 华夏历四七三六年，华夏危在旦夕。 唯一的生机，是点燃两千年前的那唯一火种——始皇帝，嬴政！ 于是，一场跨越两千年的悲壮献祭，开始了。 第一位来者是军医，他跪在朕的榻前，泣不成声：“陛下，后辈陈尧，为您续命而来！”五日后，他化光而逝。 第二位是农学家，他在骊山脚下种出高产的土豆，临终前抓着泥土：“陛下，让百姓…吃饱饭…” 第三位是造纸非遗传承人，她造出大秦的第一张纸，最后倒在嬴政怀中，喃喃道：“陛下，此为……大秦文脉…” 第四位、第五位…… 他们是科学家、是军人、是教授、是工程师。 他们前仆后继，如飞蛾扑火，不求回报，不图名利。 他们只有一个信念：祖龙当兴，华夏不灭！ 当朕手握他们用生命换来的利剑，看着世界地图时，朕终于明白。 朕的背后，站着的是十四亿华夏子孙。 “后世子孙们，看着吧。” “这一次，换朕来庇护你们！” “大秦铁骑，出征！”",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6faaa86e6566a8455913a2d10e4ec664~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1796011947&x-signature=T8zSRkURcTYnyxdYoCS0Jqxtuyc%3D",
+        "url": "https://fanqienovel.com/page/7626402281239366680"
       },
       {
         "title": "吾乃忠烈之后，夺你皇位怎么了？",
         "author": "不会玩游戏的小西瓜",
         "reads": "16.7万",
         "intro": "刚穿越，就成了镇北王府唯一活着的男丁！父兄九人全部为国捐躯，尸骨未寒，皇帝就想收回兵权，满朝文武等着看萧家覆灭的笑话！ 绝境之下，老太君一根拐杖指着我：“萧尘，我不管你以前多文弱，从今天起，你八个嫂嫂，你一肩挑了！用尽一切办法，给我萧家延续血脉，守住这北境长城！” 面对八位性格各异、手握兵权的绝色寡嫂，还有虎视眈眈的朝堂与外敌，我，代号“阎王”的现代兵王萧尘，笑了。 乱世？危局？一群桀骜不驯的女中豪杰？ 正好，这天下，该换个玩法了！从今天起，我为镇北王，八方来朝！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o97afc43a6081ea383fb2530bb22249a3~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795923568&x-signature=WRcqnUXTmAm9eK72VrkWAV06RkY%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o97afc43a6081ea383fb2530bb22249a3~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1796011947&x-signature=lu99nv8dF6ynm0yH8p2pBbS4rGs%3D",
         "url": "https://fanqienovel.com/page/7596253294612188185"
+      },
+      {
+        "title": "大明：我真不是万寿帝君",
+        "author": "翊月影",
+        "reads": "16.6万",
+        "intro": "万寿帝君，乃是大明世宗嘉靖皇帝给自己封的道号。 陆辰穿越了，来到明朝嘉靖十七年。 虽是魂穿，原主却没有留下什么记忆，幸好有念力傍身。 机缘巧合之下，冒用了疑似陆炳之父陆松私生子的路引。 更离奇的是，这具被陆辰夺舍的身体，竟长着一张与嘉靖帝少年时一模一样的脸。 。。。 本书慢热，重逻辑，不无脑，主线与书名绝对契合，会随着剧情展开逐渐明朗。 主角唯我独法，所在位面是低武世界，不会出现能以一敌百的高手。 作者已有一本166万字9.1分精品完本小说，品质保证，请读者放心入坑。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe39f7f840333b7d4a6bac5668b5db6ab~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1796011947&x-signature=VBnjIOnKZeYMD8RKWqPhRMHt0U8%3D",
+        "url": "https://fanqienovel.com/page/7615429462477261848"
       },
       {
         "title": "镇国杀神：从拯救落难贵妇开始",
         "author": "好大的茄子",
-        "reads": "16.7万",
+        "reads": "15.8万",
         "intro": "在战火纷飞的古代世界，秦安开局成为一贫如洗，开荒拓边的移民。 在自身难保的情况下，还被迫迎娶了带着两个女儿的落难贵妇，彻底陷入生存绝境。 幸得觉醒杀神系统，可在战场上不断变强。 为了能在这战火不断的乱世中活下去，秦安果断选择参军，替妻女在这人命卑微如蝼蚁的黑暗世界，杀出一条富贵路。 征异族，平内乱，扫六合，改天换地，秦安蓦然回首，自己竟杀出了一个太平盛世！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o142ebf8c93e25a46388a2bdd83135ad1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795923568&x-signature=7eEteroJH2722f4p55nci5%2BWtmc%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o142ebf8c93e25a46388a2bdd83135ad1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1796011947&x-signature=L5unTBUjnrrbN9nMPSlzRMY7Vnc%3D",
         "url": "https://fanqienovel.com/page/7627044537780669464"
-      },
-      {
-        "title": "天崩开局，从死囚营砍到并肩王",
-        "author": "大和尚o",
-        "reads": "15.6万",
-        "intro": "【重生+无敌+杀伐果断+极道】 李道重生到大乾王朝成为一名三等伯爵。 一场宫廷夜宴中，意外醉酒闯入一座宫殿之中，恰逢此时前世记忆复苏，于是记忆混乱外加醉酒的他坏了宫殿女主人的清白。 最后，皇帝大怒，将李道发配至边塞死囚营，想让其死在关外。 结果，他意外觉醒了‘杀敌爆属性‘系统。 从此杀人便可无限变强。 至此，大乾少了一个纨绔伯爵，多了一个屠戮无数的人雄。 王朝争霸，江湖纷争，异族入侵，海外汹涌，仙门大开。 一步一步，李道砍出一条独属于他的无敌路。 多年后，当李道带着赫赫战功回归帝都，重新踏入皇宫时发现，当初被他毁去清白的女人已经坐在龙椅上。 而在龙椅旁边，有一个眉眼与他相似的幼女。 此刻，李道脑海中只剩下一个问题。 这反还是不反？",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6e60982bb77db36afdb9d5b368f0fa8a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795923568&x-signature=ukUSWdqt2Egot0aCSb0GOn3z3ro%3D",
-        "url": "https://fanqienovel.com/page/7261456320132287529"
       },
       {
         "title": "带着军火闯古代，开局发配死囚营",
         "author": "东方离",
-        "reads": "15.5万",
+        "reads": "15.6万",
         "intro": "【穿越古代+军火+物资+争霸】 陈楠是一名退伍老兵，在一家公司做销售处处被经理刁难，甚至被克扣两万提成。 一天晚上老祖宗托梦告诉陈楠，十天后安排他穿越古代替老祖宗重振大乾王朝，并赠送一个超大储物空间。 坑爹的是，老祖宗只送了空间却没给一分钱采购物资。 万般无奈下，陈楠灵机一动，跑到漂亮国和岛国大肆偷盗。 偷枪店、偷农场、偷汽车、偷农贸市场…… 两国相继被盗，引起全球恐慌！ 十天后，陈楠的空间里装满了枪支弹药、粮草辎重，以及在古代能用到的一切物资。 在穿越前，陈楠找到克扣提成的经理和骗光他钱财的前女友，亲手结果了他们。 第十一天，陈楠准时穿越，却不料穿越到了死囚营……",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o3fdab1c93c4b8eba07d62d00ca5dfad1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795923568&x-signature=GfVTwjZ0jcOUEqBx9pSnMfrS8wM%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o3fdab1c93c4b8eba07d62d00ca5dfad1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1796011947&x-signature=catSb1%2B0DBSdzp3ZFODxd1456KA%3D",
         "url": "https://fanqienovel.com/page/7649939935390092312"
+      },
+      {
+        "title": "天崩开局，从死囚营砍到并肩王",
+        "author": "大和尚o",
+        "reads": "15.2万",
+        "intro": "【重生+无敌+杀伐果断+极道】 李道重生到大乾王朝成为一名三等伯爵。 一场宫廷夜宴中，意外醉酒闯入一座宫殿之中，恰逢此时前世记忆复苏，于是记忆混乱外加醉酒的他坏了宫殿女主人的清白。 最后，皇帝大怒，将李道发配至边塞死囚营，想让其死在关外。 结果，他意外觉醒了‘杀敌爆属性‘系统。 从此杀人便可无限变强。 至此，大乾少了一个纨绔伯爵，多了一个屠戮无数的人雄。 王朝争霸，江湖纷争，异族入侵，海外汹涌，仙门大开。 一步一步，李道砍出一条独属于他的无敌路。 多年后，当李道带着赫赫战功回归帝都，重新踏入皇宫时发现，当初被他毁去清白的女人已经坐在龙椅上。 而在龙椅旁边，有一个眉眼与他相似的幼女。 此刻，李道脑海中只剩下一个问题。 这反还是不反？",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6e60982bb77db36afdb9d5b368f0fa8a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1796011947&x-signature=aSY9c1XWq7trVFr%2B9O8ObhjnQes%3D",
+        "url": "https://fanqienovel.com/page/7261456320132287529"
       },
       {
         "title": "五代乱世，我有斗米爆满仓",
         "author": "黄芪当归",
         "reads": "15万",
         "intro": "【系统爆米+基建种田+极致爆兵+现代管理降维打击+五代乱世+爽文】 陆安年穿越五代十国架空乱世，开局城破官亡，流寇环伺！城内仅剩四百九十个饿到易子而食的饥民。 地狱开局，绑定“人口粮秣系统”！ 只要领地内有合法户籍的常驻人口，每天零点，按人头一人爆出一斗极品脱壳香米！ 为了活命，陆安年开启了丧心病狂的基建爆兵之路。 现代行政体系降维打击、网格化管理流民、五年城市规划…… 直到有一天，北方皇帝和南方霸主彻底眼红，联合二十万大军兵临城下，企图扼杀这个新崛起的势力。 却绝望地看到…… 高达十丈的钢铁城墙上，几十万全员重甲、每天顿顿吃大米饭红烧肉的“干饭军”，正眼冒绿光地看着他们。 几百年后，后世史学家看着陆安年留下的《五年城市发展规划》陷入沉思：这位横推乱世、收复燕云十六州，一统天下跟始皇并肩的千古一帝，当真是古人？",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o939d65f33d83a93066ab285b3e422be2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795923568&x-signature=ZCroiKO63HSs79KC56E3hRqral4%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o939d65f33d83a93066ab285b3e422be2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1796011947&x-signature=0t6Pu%2Fmbw1XLqsaMeZMVABa6%2FUo%3D",
         "url": "https://fanqienovel.com/page/7637398943264934936"
       },
       {
-        "title": "天幕：刷短视频，嬴政得了MVP",
-        "author": "北起北起",
-        "reads": "14.5万",
-        "intro": "主角不完全工具人，除了短视频、历史视频盘点外，也侧重向古人展现现代生活！ 　　林齐并不知道他的生活，他刷的视频会被投放到历朝历代的观众面前。 　　于是林齐的生活便成为了天幕之下，无数先辈茶余饭后的乐子。 　　刷AI短视频【“哎呀，我嬴政得了MVP”】让嬴政直接裂开。 刷【绍宋龙纛前压】让赵匡胤泪目。 　　刷【帝皇前十排名】引起无数皇帝愤懑不平。 　　刷【大明不妙曲】让明朝的皇帝们直接吐血。 　　刷【深夜网抑云】EMO先辈 　　... 　　林齐游览在祖国的大好河山之中，带着先辈一览盛世华夏的风采！ 　　嬴政：“不是，为什么朕总是被调侃的那一个？” 　　刘彻：“凭什么他们是什么龙凤皇帝，到我就是猪皇帝了!” 　　李世民：“能不能别提那个破玄武门继承法了！” 　　李承乾：“请陛下称太子！” 　　朱元璋：“老四你给咱过来！”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o276638caa88fe85da7fdde16320b8e1c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795923568&x-signature=F3yzAmyaaHCHsNzQ%2BB%2FWgdQ9zlc%3D",
-        "url": "https://fanqienovel.com/page/7481502794919185433"
+        "title": "大唐：李世民求我造反",
+        "author": "天下乐",
+        "reads": "14.1万",
+        "intro": "穿越大唐贞观年的李恪，本想凭着自己传销讲师的能力，洗脑一帮忠实班底，苟着当个不起眼的小王爷。 　　谁知道穿越八年后，却发现自己还带来了一整个国家战略储备仓库。 　　于是李恪彻底放飞了自我，要当就得当个天不怕地不怕的逍遥王爷！ 　　先整个报纸，刷刷名声。 　　再整个炼铁厂，掌控大唐钢铁炼制，从世家手里抢抢钱。 　　接着为天下工匠和府兵谋个福利，团结一切可团结之人。 　　当长孙老阴人想要针对李恪的时候，却发现，除了朝堂之上，外面已经都是李恪了。 等李恪搞定一切，可以彻底逍遥的时候。 李世民：“恪儿啊，朕已经封你当太子了。” 李恪：“……”别啊，那个皇帝，狗都不当。 新书《我崇祯：求李自成造反》《全球神邸：我背后站着秦皇汉武》",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/c63becfc3505baaa32aa6e6819288cae~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1796011947&x-signature=DQULaWGOkbXj7iw3UqSSICFP1uw%3D",
+        "url": "https://fanqienovel.com/page/7143506226230332447"
       }
     ]
   },
@@ -230,35 +230,35 @@
         "new_count": 1,
         "dropped_count": 1,
         "new_books": [
-          "五代乱世，我有斗米爆满仓"
+          "大唐：李世民求我造反"
         ],
         "dropped_books": [
           {
-            "title": "崇祯十一年：开局先救卢象昇",
-            "intro": "强逻辑+硬核考据+半爽文+权谋+战争+明末+明末+救国+争霸+非穿越 无系统无穿越，全凭对历史的了解和对人心的算计，一步一步打出一个不一样的天下。 一梦醒来，崇祯发现，自己能看见每个人头顶的历史评语。"
+            "title": "天幕：刷短视频，嬴政得了MVP",
+            "intro": "主角不完全工具人，除了短视频、历史视频盘点外，也侧重向古人展现现代生活！ 　　林齐并不知道他的生活，他刷的视频会被投放到历朝历代的观众面前。 　　于是林齐的生活便成为了天幕之下，无数先辈茶余饭后的乐子"
           }
         ],
         "top_risers": [
           {
             "title": "别人夺嫡偷偷来，我家皇帝下圣旨",
-            "change": "+5"
+            "change": "+4"
           },
           {
-            "title": "一心求死，反倒成为千古一帝？",
+            "title": "我是反派？可女主都是我爱妃啊！",
             "change": "+2"
           },
           {
-            "title": "从嬴政开始：历代皇帝陆续降临",
+            "title": "一心求死，反倒成为千古一帝？",
             "change": "+1"
           }
         ],
         "top_fallers": [
           {
-            "title": "镇国杀神：从拯救落难贵妇开始",
-            "change": "-3"
+            "title": "大秦：天道酬勤，皇长子镇杀六合",
+            "change": "-2"
           },
           {
-            "title": "乱世荒年：我每日一卦粮肉满仓！",
+            "title": "错把刘宏当爹，他送貂蝉做我老婆",
             "change": "-2"
           },
           {
@@ -269,179 +269,179 @@
         "reads_growth": [
           {
             "title": "别人夺嫡偷偷来，我家皇帝下圣旨",
-            "growth": "+2.9万"
+            "growth": "+3.5万"
           },
           {
             "title": "一心求死，反倒成为千古一帝？",
-            "growth": "+1.3万"
+            "growth": "+3000"
           },
           {
-            "title": "从嬴政开始：历代皇帝陆续降临",
-            "growth": "+2000"
+            "title": "我是反派？可女主都是我爱妃啊！",
+            "growth": "+3000"
           }
         ],
-        "summary": "新增1本上榜；1本掉出（《崇祯十一年：开局先救卢象昇》）；《别人夺嫡偷偷来，我家皇帝下圣旨》排名上升+5位；《别人夺嫡偷偷来，我家皇帝下圣旨》阅读量+2.9万。"
+        "summary": "新增1本上榜；1本掉出（《天幕：刷短视频，嬴政得了MVP》）；《别人夺嫡偷偷来，我家皇帝下圣旨》排名上升+4位；《别人夺嫡偷偷来，我家皇帝下圣旨》阅读量+3.5万。"
       },
       "books": [
         {
           "title": "秦始皇：朕有华夏全明星阵容",
           "author": "雪岭云杉",
-          "reads": "42.6万",
+          "reads": "42万",
           "intro": "基建+争霸+群像+爽文，重点强调无CP,不写任何感情线 史上最强猎头卢浩空降咸阳宫，唯一的金手指是从时空的长河里薅人。 祖龙想要谁，他就薅谁。 华夏历史上光耀千秋的人物陆续汇集于大秦。 大家齐心协力，各展所长。凑在一起火花四溅，笑料不断。   一句话：祖龙当老板，带全明星阵容搞事业。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o27f5a79224e1870ffc9c61904fcb4f10~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795923564&x-signature=eaJIwh2K6F%2BmffsGMyaSgchaDSg%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o27f5a79224e1870ffc9c61904fcb4f10~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1796011944&x-signature=YMWnMliazjv8hAfT8XFJSjZhGY0%3D",
           "url": "https://fanqienovel.com/page/7648671848443431960"
-        },
-        {
-          "title": "大秦：天道酬勤，皇长子镇杀六合",
-          "author": "蓝天冰牛奶",
-          "reads": "30.4万",
-          "intro": "穿越战国末年，赵知安赶上了一个大时代。 六王毕，四海一！ 恰在此时，觉醒爆肝系统。 赵知安笑问：“王侯将相，宁有种乎？” 他决定参军，在军功授爵下，奋力向上攀爬。 从【箭术（入门）】，爆肝到【百步穿杨】，百步之外，取敌将首级！ 从【气力（入门）】，爆肝到【力能举鼎】，宇之神勇，千古无二！ 从【兵法（入门）】，爆肝到【兵仙在世】，运筹帷幄之中，决胜千里之外！ …… 多年后，赵知安蓦然回首，已有灭六国之功。 本打算跟王翦等一众武将明哲保身，可是，出乎了所有人的意料，始皇帝唯独拒绝了赵知安的辞呈。 其中的原因，连赵知安自己都不知道。 他竟是嬴政和阿房女当年生下的第一个孩子……",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o77531ab35774e0e47d3df6dba3568d82~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795923564&x-signature=GBCAUXL2GW8Z4yerhP9AQXhUAB0%3D",
-          "url": "https://fanqienovel.com/page/7627006516167461950"
         },
         {
           "title": "一心求死，反倒成为千古一帝？",
           "author": "me小气猪",
-          "reads": "29万",
+          "reads": "29.3万",
           "intro": "【纯爽文】＋【践踏规则】+【疯批】+【发癫】+【怼人】+【一身反骨】+【造反】 普通人李承泽穿越到了古代，成为了一个皇子。 谁料系统跟他说，只要能够合理的死掉，就能回到现代当世界首富。 李承泽：？？？那我还惜此身？ 然后他就接了一个棘手的案件，严重小命都要丢。 但我李承泽是怕死的吗？强闯府衙拿卷宗，面对上百人持刀包围，李承泽主动求死，没人敢动手。 生气的李承泽抓着他的脑袋大骂废物，给你机会你不中用啊！然后追着上百人揍。 面对世家犯法，不妥协，不姑息，替身？我偏不，谁犯事我抓谁，世家不服？有本事杀我吗？ 世家暴怒，只能无能咆哮，谁说靖安王李承泽是胆小怕事，懦弱无能的？ 回京后，面对资源被克扣？那必是忍不了的。 四哥来阻止？从承安门追到朱雀街暴揍。 太子殿下？你这身蟒袍挺好看的，强扒下来，给我穿穿。 李承泽反复作死，可就是死不了，世家诬陷我造反？咦，好主意！你们没有诬陷，是真的，我要造反了！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6a169005a8032a83bb1a8f3a210a8b1c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795923564&x-signature=Cod2O5GA7N1bMLuNuI2uioh0zBg%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6a169005a8032a83bb1a8f3a210a8b1c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1796011944&x-signature=A4dJeo3ZBFyZbm7%2BHA9S71IA5nw%3D",
           "url": "https://fanqienovel.com/page/7609931463961627710"
         },
         {
           "title": "穿越乱世：每天一份拼好饭",
           "author": "与天竞自由",
-          "reads": "28.5万",
+          "reads": "28.2万",
           "intro": "【非无脑爽文】【全程智商在线】【新故事从不套娃】【番茄第一更新王】【非帝王崇拜】【有私货慎入】【架空融合历史】 林渊一觉睡醒，穿越回乱世，正当他快饿死的时候，突然发现他每天可以点一份拼好饭。 从这时起，一个回不去的灵魂，在这乱世当中，究竟该何去何从？",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9d67ea6f0e9cea454d95d64f7761a142~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795923564&x-signature=QUeLql%2BQHKjZZoJdwHcQz9pXfl0%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9d67ea6f0e9cea454d95d64f7761a142~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1796011944&x-signature=kVu5FB7eQjUZRSK8gw362RAeIkU%3D",
           "url": "https://fanqienovel.com/page/7660134591012817982"
+        },
+        {
+          "title": "大秦：天道酬勤，皇长子镇杀六合",
+          "author": "蓝天冰牛奶",
+          "reads": "27.9万",
+          "intro": "穿越战国末年，赵知安赶上了一个大时代。 六王毕，四海一！ 恰在此时，觉醒爆肝系统。 赵知安笑问：“王侯将相，宁有种乎？” 他决定参军，在军功授爵下，奋力向上攀爬。 从【箭术（入门）】，爆肝到【百步穿杨】，百步之外，取敌将首级！ 从【气力（入门）】，爆肝到【力能举鼎】，宇之神勇，千古无二！ 从【兵法（入门）】，爆肝到【兵仙在世】，运筹帷幄之中，决胜千里之外！ …… 多年后，赵知安蓦然回首，已有灭六国之功。 本打算跟王翦等一众武将明哲保身，可是，出乎了所有人的意料，始皇帝唯独拒绝了赵知安的辞呈。 其中的原因，连赵知安自己都不知道。 他竟是嬴政和阿房女当年生下的第一个孩子……",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o77531ab35774e0e47d3df6dba3568d82~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1796011944&x-signature=LX3QkCRrzKZ%2Bds7zetyCpqD1%2BCU%3D",
+          "url": "https://fanqienovel.com/page/7627006516167461950"
         },
         {
           "title": "乱世荒年：我每日一卦粮肉满仓！",
           "author": "风起于渊",
-          "reads": "28.5万",
+          "reads": "27.9万",
           "intro": "猎户+种田流+高积粮缓称王+造反争霸+十国千娇 【当前命星：山民】 【今日运势：福祸相依】 【大吉：二黑山北麓，一只麋鹿老死山间，前去可获得完整的皮肉。】 【平：小黑山脚下，一只野鸡被荆棘缠住，迅速前往或许有额外收获。】 【大凶：二黑山南，一只受伤的野猪失血过多，前去可以获得猪肉，但要小心追捕的猎户，他们并没有什么善意！】 穿越荒年，江尘带着祖传的龟甲，发现自己有了卜卦的能力。 每日卜卦，让他可以趋吉避凶。 什么观音土？什么啃树皮？我上山走走就能捡到撞树的兔子，受伤的野鸡，迷路的狍子。 我明明什么都没干，这粮仓就已经堆满了啊。 等等……乱世将起，我有粮有人，似乎能干一番大事！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o32600515fa540e75400db91bef619bd0~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795923564&x-signature=abjFp4%2FTQ5W901P8v3WWkRXRvKs%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o32600515fa540e75400db91bef619bd0~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1796011944&x-signature=CzYX9cSX9vSPPjYBahConKvYfD8%3D",
           "url": "https://fanqienovel.com/page/7530301461050166296"
-        },
-        {
-          "title": "天幕：千古第一才女的现代生活",
-          "author": "骑驴驴驴驴",
-          "reads": "22.1万",
-          "intro": "现代青年赵齐书在家上个厕所的功夫，家里突然出现个千古第一才女李清照。 在赵齐书帮助李清照融入现代生活的同时，一场天幕直播在历朝历代同步开启。 看到赵齐书用手机打电话，秦始皇双眼放光：“朕要！” 看到现代平整的公路，汉武帝满脸渴望：“若是大汉有这等道路！何愁匈奴不平！” 看到世界地图，唐太宗大感震感：“朕的大唐，居然只有这么小一块！” 看到靖康之耻，宋太祖用盘龙棍好好地感谢了一下自己的弟弟。 一场古代与现代的剧烈思想冲突正在缓缓展开。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o983d12bc73652c35a6deb8ae528e1a1a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795923564&x-signature=x%2FVRQaU%2BNN2eVyhMVJtL8%2BdpWbc%3D",
-          "url": "https://fanqienovel.com/page/7692626661904239678"
-        },
-        {
-          "title": "错把刘宏当爹，他送貂蝉做我老婆",
-          "author": "吾名张飞",
-          "reads": "20.9万",
-          "intro": "【何蔡貂乔甄，吕甘糜邹陈】 【不虐，不漏】 刘必意外穿越到东汉末年的洛阳，获得了娶妻成神系统。 一次意外，他错把微服私访的刘宏当，做是系统安排的便宜老爹……",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o3f5e10dd09f16f84385ed3fd8dbf41ec~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795923564&x-signature=%2BK71cywYJzZygCQeVzMDDA23gAI%3D",
-          "url": "https://fanqienovel.com/page/7639198981834165273"
-        },
-        {
-          "title": "从嬴政开始：历代皇帝陆续降临",
-          "author": "来碗热干面",
-          "reads": "20万",
-          "intro": "【轻松+幽默+冒险】史书怪请谨慎入坑 秦始皇死后，被传送到了一座围城之中。此处一日等于外界一年，每次开启城门场景各不相同，有诸多奇幻冒险。 第三天胡亥到来：“父皇，您要为儿做主啊！” 十二天后刘邦到来：“政哥，难道你还不知道你的大秦已经亡啦？” 王莽到来：“我又穿越了？” 刘备到来：“高祖，我真的是咱老刘家的人！” 成吉思汗到来：“论江山面积，我不是针对你，我是说在座的各位都是垃圾。” 朱棣到来：“爹，你先别动手，儿不是故意篡位的...” 溥仪到来：“我给大家带来了一个好消息...”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2odbe66bd070c88abb164650578188a2d6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795923564&x-signature=sD31SevtalCHL8oVMwveaq2humI%3D",
-          "url": "https://fanqienovel.com/page/7155426942664051753"
-        },
-        {
-          "title": "大唐皇长孙：皇爷爷！你吃鸡排吗",
-          "author": "菠萝蜜多羊",
-          "reads": "19.8万",
-          "intro": "李易穿越而来，成为李世民的长孙！获得老登爆宝箱系统，绑定李世民，只要搞老李心态，就能触发宝箱掉落！ 李易：“皇爷爷，你吃鸡排吗？” 李世民：“乖大孙，皇爷爷不吃！” 李易：“那我吃！” 李世民：“乖大孙，你吃荔枝吗？” 李易：“吃！” 李世民：“大孙，你最近学习怎么样啊？” 李易：“皇爷爷，说多少次了，在外要称职务。” 李世民：“大孙，今天皇爷爷考考你！学而时习之，后面是什么？” 李易：“是不亦说乎！太简单啦，皇爷爷，我也考考你！” 李世民：“大孙，你说！” 李易：“秦王绕柱，跑了几圈？” 李世民：“大孙，皇爷爷要是被一个特别厉害的人噶了，你会替皇爷爷报仇吗？” 李易：“杀爷之仇，不共戴天！皇爷爷，我们从今日起断绝爷孙关系！” 李世民：“大孙，皇爷爷在位这些年，能称得上是盛世吗？” 李易：皇爷爷，你就算把贞观治成天下第一盛世，史书也不会记载你是顺位继承哒！ 李世民：？？？ 麻了，这六十斤的大孙，五十九斤反骨？ 本书又名《大唐皇长孙：老登，爆金币！》、《大唐：乖孙儿孝死皇爷爷了！》、《大唐：我，皇长孙，混世魔王！》",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o4b5731b9d142bd695ebb14af57a05219~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795923564&x-signature=ghtF8luzWsTfg%2BFX3iAKwinbFiU%3D",
-          "url": "https://fanqienovel.com/page/7535840601317592089"
         },
         {
           "title": "别人夺嫡偷偷来，我家皇帝下圣旨",
           "author": "荒漠之缘",
-          "reads": "19.5万",
+          "reads": "23万",
           "intro": "穿越大玄王朝最不受宠的九皇子赵凡，开局就迎来一道奇葩圣旨：父皇让包括他在内的七个皇子两个公主一起“考校”，能者居之。 别人有军方、文官、世家撑腰，他只有一座漏风的王府和21个太监。 就在赵凡以为穿越标配的“金手指”不存在时，脑子里忽然响起一个声音——“叮！淘多多系统绑定成功。” 一个购物App。能用银子买现代商品，前三次购物还保证“假一赔万”的真货。 2.95元的《葵花宝典》瞬间变成真品，让太监们一夜练成神功，忠诚度拉满； 9块9的召唤卡，拍出两个宗师级别的少年和尚和一个能文能武的谋士。 当皇兄们在京城里斗得头破血流时，赵凡默默思考下一次该买点啥。他渐渐发现，这场夺嫡盛宴迷雾重重，父皇的心思深不见底。 既然都以为我最弱，那就让“淘多多”来告诉他们，什么叫降维打击。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o7988846d4f77af5cfe93793683741c95~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795923564&x-signature=C3%2FL41qX5us8UceEWzQJnE%2BgY00%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o7988846d4f77af5cfe93793683741c95~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1796011944&x-signature=9K8TVj5LjBEYFAacKxOmiOPxOmI%3D",
           "url": "https://fanqienovel.com/page/7636574642320198681"
+        },
+        {
+          "title": "天幕：千古第一才女的现代生活",
+          "author": "骑驴驴驴驴",
+          "reads": "20万",
+          "intro": "现代青年赵齐书在家上个厕所的功夫，家里突然出现个千古第一才女李清照。 在赵齐书帮助李清照融入现代生活的同时，一场天幕直播在历朝历代同步开启。 看到赵齐书用手机打电话，秦始皇双眼放光：“朕要！” 看到现代平整的公路，汉武帝满脸渴望：“若是大汉有这等道路！何愁匈奴不平！” 看到世界地图，唐太宗大感震感：“朕的大唐，居然只有这么小一块！” 看到靖康之耻，宋太祖用盘龙棍好好地感谢了一下自己的弟弟。 一场古代与现代的剧烈思想冲突正在缓缓展开。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o983d12bc73652c35a6deb8ae528e1a1a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1796011944&x-signature=FO2B6FmGYySPCrK2wHSf2kH1D%2BI%3D",
+          "url": "https://fanqienovel.com/page/7692626661904239678"
+        },
+        {
+          "title": "从嬴政开始：历代皇帝陆续降临",
+          "author": "来碗热干面",
+          "reads": "19.8万",
+          "intro": "【轻松+幽默+冒险】史书怪请谨慎入坑 秦始皇死后，被传送到了一座围城之中。此处一日等于外界一年，每次开启城门场景各不相同，有诸多奇幻冒险。 第三天胡亥到来：“父皇，您要为儿做主啊！” 十二天后刘邦到来：“政哥，难道你还不知道你的大秦已经亡啦？” 王莽到来：“我又穿越了？” 刘备到来：“高祖，我真的是咱老刘家的人！” 成吉思汗到来：“论江山面积，我不是针对你，我是说在座的各位都是垃圾。” 朱棣到来：“爹，你先别动手，儿不是故意篡位的...” 溥仪到来：“我给大家带来了一个好消息...”",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2odbe66bd070c88abb164650578188a2d6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1796011944&x-signature=yJIGHWLaJ2HyWGy3Xm7Flz1K8dQ%3D",
+          "url": "https://fanqienovel.com/page/7155426942664051753"
+        },
+        {
+          "title": "错把刘宏当爹，他送貂蝉做我老婆",
+          "author": "吾名张飞",
+          "reads": "19.4万",
+          "intro": "【何蔡貂乔甄，吕甘糜邹陈】 【不虐，不漏】 刘必意外穿越到东汉末年的洛阳，获得了娶妻成神系统。 一次意外，他错把微服私访的刘宏当，做是系统安排的便宜老爹……",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o3f5e10dd09f16f84385ed3fd8dbf41ec~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1796011944&x-signature=O8KF3nMMnbQVLoeisV6aIxPvegg%3D",
+          "url": "https://fanqienovel.com/page/7639198981834165273"
+        },
+        {
+          "title": "大唐皇长孙：皇爷爷！你吃鸡排吗",
+          "author": "菠萝蜜多羊",
+          "reads": "18.5万",
+          "intro": "李易穿越而来，成为李世民的长孙！获得老登爆宝箱系统，绑定李世民，只要搞老李心态，就能触发宝箱掉落！ 李易：“皇爷爷，你吃鸡排吗？” 李世民：“乖大孙，皇爷爷不吃！” 李易：“那我吃！” 李世民：“乖大孙，你吃荔枝吗？” 李易：“吃！” 李世民：“大孙，你最近学习怎么样啊？” 李易：“皇爷爷，说多少次了，在外要称职务。” 李世民：“大孙，今天皇爷爷考考你！学而时习之，后面是什么？” 李易：“是不亦说乎！太简单啦，皇爷爷，我也考考你！” 李世民：“大孙，你说！” 李易：“秦王绕柱，跑了几圈？” 李世民：“大孙，皇爷爷要是被一个特别厉害的人噶了，你会替皇爷爷报仇吗？” 李易：“杀爷之仇，不共戴天！皇爷爷，我们从今日起断绝爷孙关系！” 李世民：“大孙，皇爷爷在位这些年，能称得上是盛世吗？” 李易：皇爷爷，你就算把贞观治成天下第一盛世，史书也不会记载你是顺位继承哒！ 李世民：？？？ 麻了，这六十斤的大孙，五十九斤反骨？ 本书又名《大唐皇长孙：老登，爆金币！》、《大唐：乖孙儿孝死皇爷爷了！》、《大唐：我，皇长孙，混世魔王！》",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o4b5731b9d142bd695ebb14af57a05219~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1796011944&x-signature=2sBRghSXo871dv5oTJ8OwUzioD0%3D",
+          "url": "https://fanqienovel.com/page/7535840601317592089"
         },
         {
           "title": "女帝请卸甲，我一剑挽天倾！",
           "author": "美的冒泡",
-          "reads": "19万",
+          "reads": "18.1万",
           "intro": "【系统+美女+杀伐果断+马踏江湖+争霸天下】 我有一剑，可斩篡臣，平北雍，踏江湖，灭大乾，吞大梁，敕绝顶宗师，斩陆地神仙！ 那天，我站在皇极殿前，看着满身血污的女帝。 “请女帝卸甲。” “这天倾，我一剑挽之！” 我虽名吴良，心却大大的好。每天都做一件善事，拿一个词条。 路人倒毙，我不救，因为那只有白色词条。 女帝蒙难，十万大军围城，我拔剑了。 结果…… 满朝文武：“大都督冲冠一怒为红颜，杀穿十万军，乃绝世疯批情种！” 我：“放屁，那是五彩词条！” 江湖群雄：“活阎王马踏江湖，镇压陆地神仙，实乃大周第一鹰犬！” 我：“你们TM……老子真的只是做善事。” 绝美女帝：“他灭大乾、吞大梁、收楼兰，甚至将大元铁骑赶至极西尽头，全是为了朕？” 我：“我不是，别瞎脑补。” 天下人麻了：“你管这叫日行一善？你特么把全天下都打穿了！” ……",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o3623b36515f9ca12e450b4dca5f5a36c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795923568&x-signature=3qtYpCD05gDjKEqhWmQobrChIxE%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o3623b36515f9ca12e450b4dca5f5a36c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1796011947&x-signature=eS3DYkH7Bp57spolSw%2FWdyEYwAs%3D",
           "url": "https://fanqienovel.com/page/7626296305324657688"
-        },
-        {
-          "title": "大秦：我，嬴政！开局面壁穿越者",
-          "author": "白路鸟",
-          "reads": "17.8万",
-          "intro": "【主角嬴政，唯一男主】＋【给始皇续命】 这不是一个人的穿越，而是一个文明的冲锋。 华夏历四七三六年，华夏危在旦夕。 唯一的生机，是点燃两千年前的那唯一火种——始皇帝，嬴政！ 于是，一场跨越两千年的悲壮献祭，开始了。 第一位来者是军医，他跪在朕的榻前，泣不成声：“陛下，后辈陈尧，为您续命而来！”五日后，他化光而逝。 第二位是农学家，他在骊山脚下种出高产的土豆，临终前抓着泥土：“陛下，让百姓…吃饱饭…” 第三位是造纸非遗传承人，她造出大秦的第一张纸，最后倒在嬴政怀中，喃喃道：“陛下，此为……大秦文脉…” 第四位、第五位…… 他们是科学家、是军人、是教授、是工程师。 他们前仆后继，如飞蛾扑火，不求回报，不图名利。 他们只有一个信念：祖龙当兴，华夏不灭！ 当朕手握他们用生命换来的利剑，看着世界地图时，朕终于明白。 朕的背后，站着的是十四亿华夏子孙。 “后世子孙们，看着吧。” “这一次，换朕来庇护你们！” “大秦铁骑，出征！”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6faaa86e6566a8455913a2d10e4ec664~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795923568&x-signature=yhwy3v%2BXlhupm3gNY%2FFTnY%2FKZjg%3D",
-          "url": "https://fanqienovel.com/page/7626402281239366680"
-        },
-        {
-          "title": "大明：我真不是万寿帝君",
-          "author": "翊月影",
-          "reads": "17.3万",
-          "intro": "万寿帝君，乃是大明世宗嘉靖皇帝给自己封的道号。 陆辰穿越了，来到明朝嘉靖十七年。 虽是魂穿，原主却没有留下什么记忆，幸好有念力傍身。 机缘巧合之下，冒用了疑似陆炳之父陆松私生子的路引。 更离奇的是，这具被陆辰夺舍的身体，竟长着一张与嘉靖帝少年时一模一样的脸。 。。。 本书慢热，重逻辑，不无脑，主线与书名绝对契合，会随着剧情展开逐渐明朗。 主角唯我独法，所在位面是低武世界，不会出现能以一敌百的高手。 作者已有一本166万字9.1分精品完本小说，品质保证，请读者放心入坑。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe39f7f840333b7d4a6bac5668b5db6ab~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795923568&x-signature=aeSqKv3GNUtHQp064RXc73N12k0%3D",
-          "url": "https://fanqienovel.com/page/7615429462477261848"
         },
         {
           "title": "我是反派？可女主都是我爱妃啊！",
           "author": "铁锤锤豆豆",
-          "reads": "17.1万",
+          "reads": "17.4万",
           "intro": "同名漫剧已上线！ 【天命反派+胎穿+权谋夺嫡+红颜系统+多女主护夫+全洁】 　　顾墨染一觉醒来，发现自己竟是书里最惨的反派。 　　十二位天命之子轮番登场，退婚逆袭、神医无双、龙王出狱…… 　　每一个主角踩着他的脸起飞。 　　他被夺女、当众刺字…… 还因身世异常被抄家，五马分尸！ 好在，他现在觉醒了系统，还拥有蓝星聪慧。 　　…… 　　他一口气向父皇求了六道婚书。 　　丞相嫡女掌账如刀；太医院千金医毒双绝； 　　北境公主马上能战；太尉之女刀法凌厉； 　　书香才女识人辨局；花魁暗线通京城。 　　她们曾看不上他、恨他、防他、试探他。 　　后来却一个个把身家、命运，全押在了他身上。 　　…… 　　外人都笑他荒唐。 　　病弱纨绔，仗着皇恩躲在女人堆里装死，日日怕妻，迟早死女人身上。 　　可天命人入京后，却发现自己竟然是小丑？ 　　…… 　　皇帝疑他，他装病、装怂、装荒唐。 　　还把“轻纱足衣图”送进宫，把父皇气得连夜催他滚去封地。 　　顾墨染坐在南下马车里，怀揣柳家旧军路线，袖藏北境密信，身后六位夫人各掌一局。 　　他低咳一声，懒洋洋掀开车帘。 　　“父皇让本王去逸州养病。” 　　“可若养着，把天下养进怀里……” 　　“那也不能怪本王吧？”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc646bba9de88034830f1a2207496e9e4~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795923568&x-signature=Q7SUI1uCHLd4Zt8reSus5I%2Bakxo%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc646bba9de88034830f1a2207496e9e4~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1796011947&x-signature=hZtBGh5pQjP752s0pnCAmRUVdMs%3D",
           "url": "https://fanqienovel.com/page/7628826079339220030"
+        },
+        {
+          "title": "大秦：我，嬴政！开局面壁穿越者",
+          "author": "白路鸟",
+          "reads": "17.1万",
+          "intro": "【主角嬴政，唯一男主】＋【给始皇续命】 这不是一个人的穿越，而是一个文明的冲锋。 华夏历四七三六年，华夏危在旦夕。 唯一的生机，是点燃两千年前的那唯一火种——始皇帝，嬴政！ 于是，一场跨越两千年的悲壮献祭，开始了。 第一位来者是军医，他跪在朕的榻前，泣不成声：“陛下，后辈陈尧，为您续命而来！”五日后，他化光而逝。 第二位是农学家，他在骊山脚下种出高产的土豆，临终前抓着泥土：“陛下，让百姓…吃饱饭…” 第三位是造纸非遗传承人，她造出大秦的第一张纸，最后倒在嬴政怀中，喃喃道：“陛下，此为……大秦文脉…” 第四位、第五位…… 他们是科学家、是军人、是教授、是工程师。 他们前仆后继，如飞蛾扑火，不求回报，不图名利。 他们只有一个信念：祖龙当兴，华夏不灭！ 当朕手握他们用生命换来的利剑，看着世界地图时，朕终于明白。 朕的背后，站着的是十四亿华夏子孙。 “后世子孙们，看着吧。” “这一次，换朕来庇护你们！” “大秦铁骑，出征！”",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6faaa86e6566a8455913a2d10e4ec664~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1796011947&x-signature=T8zSRkURcTYnyxdYoCS0Jqxtuyc%3D",
+          "url": "https://fanqienovel.com/page/7626402281239366680"
         },
         {
           "title": "吾乃忠烈之后，夺你皇位怎么了？",
           "author": "不会玩游戏的小西瓜",
           "reads": "16.7万",
           "intro": "刚穿越，就成了镇北王府唯一活着的男丁！父兄九人全部为国捐躯，尸骨未寒，皇帝就想收回兵权，满朝文武等着看萧家覆灭的笑话！ 绝境之下，老太君一根拐杖指着我：“萧尘，我不管你以前多文弱，从今天起，你八个嫂嫂，你一肩挑了！用尽一切办法，给我萧家延续血脉，守住这北境长城！” 面对八位性格各异、手握兵权的绝色寡嫂，还有虎视眈眈的朝堂与外敌，我，代号“阎王”的现代兵王萧尘，笑了。 乱世？危局？一群桀骜不驯的女中豪杰？ 正好，这天下，该换个玩法了！从今天起，我为镇北王，八方来朝！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o97afc43a6081ea383fb2530bb22249a3~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795923568&x-signature=WRcqnUXTmAm9eK72VrkWAV06RkY%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o97afc43a6081ea383fb2530bb22249a3~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1796011947&x-signature=lu99nv8dF6ynm0yH8p2pBbS4rGs%3D",
           "url": "https://fanqienovel.com/page/7596253294612188185"
+        },
+        {
+          "title": "大明：我真不是万寿帝君",
+          "author": "翊月影",
+          "reads": "16.6万",
+          "intro": "万寿帝君，乃是大明世宗嘉靖皇帝给自己封的道号。 陆辰穿越了，来到明朝嘉靖十七年。 虽是魂穿，原主却没有留下什么记忆，幸好有念力傍身。 机缘巧合之下，冒用了疑似陆炳之父陆松私生子的路引。 更离奇的是，这具被陆辰夺舍的身体，竟长着一张与嘉靖帝少年时一模一样的脸。 。。。 本书慢热，重逻辑，不无脑，主线与书名绝对契合，会随着剧情展开逐渐明朗。 主角唯我独法，所在位面是低武世界，不会出现能以一敌百的高手。 作者已有一本166万字9.1分精品完本小说，品质保证，请读者放心入坑。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe39f7f840333b7d4a6bac5668b5db6ab~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1796011947&x-signature=VBnjIOnKZeYMD8RKWqPhRMHt0U8%3D",
+          "url": "https://fanqienovel.com/page/7615429462477261848"
         },
         {
           "title": "镇国杀神：从拯救落难贵妇开始",
           "author": "好大的茄子",
-          "reads": "16.7万",
+          "reads": "15.8万",
           "intro": "在战火纷飞的古代世界，秦安开局成为一贫如洗，开荒拓边的移民。 在自身难保的情况下，还被迫迎娶了带着两个女儿的落难贵妇，彻底陷入生存绝境。 幸得觉醒杀神系统，可在战场上不断变强。 为了能在这战火不断的乱世中活下去，秦安果断选择参军，替妻女在这人命卑微如蝼蚁的黑暗世界，杀出一条富贵路。 征异族，平内乱，扫六合，改天换地，秦安蓦然回首，自己竟杀出了一个太平盛世！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o142ebf8c93e25a46388a2bdd83135ad1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795923568&x-signature=7eEteroJH2722f4p55nci5%2BWtmc%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o142ebf8c93e25a46388a2bdd83135ad1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1796011947&x-signature=L5unTBUjnrrbN9nMPSlzRMY7Vnc%3D",
           "url": "https://fanqienovel.com/page/7627044537780669464"
-        },
-        {
-          "title": "天崩开局，从死囚营砍到并肩王",
-          "author": "大和尚o",
-          "reads": "15.6万",
-          "intro": "【重生+无敌+杀伐果断+极道】 李道重生到大乾王朝成为一名三等伯爵。 一场宫廷夜宴中，意外醉酒闯入一座宫殿之中，恰逢此时前世记忆复苏，于是记忆混乱外加醉酒的他坏了宫殿女主人的清白。 最后，皇帝大怒，将李道发配至边塞死囚营，想让其死在关外。 结果，他意外觉醒了‘杀敌爆属性‘系统。 从此杀人便可无限变强。 至此，大乾少了一个纨绔伯爵，多了一个屠戮无数的人雄。 王朝争霸，江湖纷争，异族入侵，海外汹涌，仙门大开。 一步一步，李道砍出一条独属于他的无敌路。 多年后，当李道带着赫赫战功回归帝都，重新踏入皇宫时发现，当初被他毁去清白的女人已经坐在龙椅上。 而在龙椅旁边，有一个眉眼与他相似的幼女。 此刻，李道脑海中只剩下一个问题。 这反还是不反？",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6e60982bb77db36afdb9d5b368f0fa8a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795923568&x-signature=ukUSWdqt2Egot0aCSb0GOn3z3ro%3D",
-          "url": "https://fanqienovel.com/page/7261456320132287529"
         },
         {
           "title": "带着军火闯古代，开局发配死囚营",
           "author": "东方离",
-          "reads": "15.5万",
+          "reads": "15.6万",
           "intro": "【穿越古代+军火+物资+争霸】 陈楠是一名退伍老兵，在一家公司做销售处处被经理刁难，甚至被克扣两万提成。 一天晚上老祖宗托梦告诉陈楠，十天后安排他穿越古代替老祖宗重振大乾王朝，并赠送一个超大储物空间。 坑爹的是，老祖宗只送了空间却没给一分钱采购物资。 万般无奈下，陈楠灵机一动，跑到漂亮国和岛国大肆偷盗。 偷枪店、偷农场、偷汽车、偷农贸市场…… 两国相继被盗，引起全球恐慌！ 十天后，陈楠的空间里装满了枪支弹药、粮草辎重，以及在古代能用到的一切物资。 在穿越前，陈楠找到克扣提成的经理和骗光他钱财的前女友，亲手结果了他们。 第十一天，陈楠准时穿越，却不料穿越到了死囚营……",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o3fdab1c93c4b8eba07d62d00ca5dfad1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795923568&x-signature=GfVTwjZ0jcOUEqBx9pSnMfrS8wM%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o3fdab1c93c4b8eba07d62d00ca5dfad1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1796011947&x-signature=catSb1%2B0DBSdzp3ZFODxd1456KA%3D",
           "url": "https://fanqienovel.com/page/7649939935390092312"
+        },
+        {
+          "title": "天崩开局，从死囚营砍到并肩王",
+          "author": "大和尚o",
+          "reads": "15.2万",
+          "intro": "【重生+无敌+杀伐果断+极道】 李道重生到大乾王朝成为一名三等伯爵。 一场宫廷夜宴中，意外醉酒闯入一座宫殿之中，恰逢此时前世记忆复苏，于是记忆混乱外加醉酒的他坏了宫殿女主人的清白。 最后，皇帝大怒，将李道发配至边塞死囚营，想让其死在关外。 结果，他意外觉醒了‘杀敌爆属性‘系统。 从此杀人便可无限变强。 至此，大乾少了一个纨绔伯爵，多了一个屠戮无数的人雄。 王朝争霸，江湖纷争，异族入侵，海外汹涌，仙门大开。 一步一步，李道砍出一条独属于他的无敌路。 多年后，当李道带着赫赫战功回归帝都，重新踏入皇宫时发现，当初被他毁去清白的女人已经坐在龙椅上。 而在龙椅旁边，有一个眉眼与他相似的幼女。 此刻，李道脑海中只剩下一个问题。 这反还是不反？",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6e60982bb77db36afdb9d5b368f0fa8a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1796011947&x-signature=aSY9c1XWq7trVFr%2B9O8ObhjnQes%3D",
+          "url": "https://fanqienovel.com/page/7261456320132287529"
         },
         {
           "title": "五代乱世，我有斗米爆满仓",
           "author": "黄芪当归",
           "reads": "15万",
           "intro": "【系统爆米+基建种田+极致爆兵+现代管理降维打击+五代乱世+爽文】 陆安年穿越五代十国架空乱世，开局城破官亡，流寇环伺！城内仅剩四百九十个饿到易子而食的饥民。 地狱开局，绑定“人口粮秣系统”！ 只要领地内有合法户籍的常驻人口，每天零点，按人头一人爆出一斗极品脱壳香米！ 为了活命，陆安年开启了丧心病狂的基建爆兵之路。 现代行政体系降维打击、网格化管理流民、五年城市规划…… 直到有一天，北方皇帝和南方霸主彻底眼红，联合二十万大军兵临城下，企图扼杀这个新崛起的势力。 却绝望地看到…… 高达十丈的钢铁城墙上，几十万全员重甲、每天顿顿吃大米饭红烧肉的“干饭军”，正眼冒绿光地看着他们。 几百年后，后世史学家看着陆安年留下的《五年城市发展规划》陷入沉思：这位横推乱世、收复燕云十六州，一统天下跟始皇并肩的千古一帝，当真是古人？",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o939d65f33d83a93066ab285b3e422be2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795923568&x-signature=ZCroiKO63HSs79KC56E3hRqral4%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o939d65f33d83a93066ab285b3e422be2~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1796011947&x-signature=0t6Pu%2Fmbw1XLqsaMeZMVABa6%2FUo%3D",
           "url": "https://fanqienovel.com/page/7637398943264934936"
         },
         {
-          "title": "天幕：刷短视频，嬴政得了MVP",
-          "author": "北起北起",
-          "reads": "14.5万",
-          "intro": "主角不完全工具人，除了短视频、历史视频盘点外，也侧重向古人展现现代生活！ 　　林齐并不知道他的生活，他刷的视频会被投放到历朝历代的观众面前。 　　于是林齐的生活便成为了天幕之下，无数先辈茶余饭后的乐子。 　　刷AI短视频【“哎呀，我嬴政得了MVP”】让嬴政直接裂开。 刷【绍宋龙纛前压】让赵匡胤泪目。 　　刷【帝皇前十排名】引起无数皇帝愤懑不平。 　　刷【大明不妙曲】让明朝的皇帝们直接吐血。 　　刷【深夜网抑云】EMO先辈 　　... 　　林齐游览在祖国的大好河山之中，带着先辈一览盛世华夏的风采！ 　　嬴政：“不是，为什么朕总是被调侃的那一个？” 　　刘彻：“凭什么他们是什么龙凤皇帝，到我就是猪皇帝了!” 　　李世民：“能不能别提那个破玄武门继承法了！” 　　李承乾：“请陛下称太子！” 　　朱元璋：“老四你给咱过来！”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o276638caa88fe85da7fdde16320b8e1c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1795923568&x-signature=F3yzAmyaaHCHsNzQ%2BB%2FWgdQ9zlc%3D",
-          "url": "https://fanqienovel.com/page/7481502794919185433"
+          "title": "大唐：李世民求我造反",
+          "author": "天下乐",
+          "reads": "14.1万",
+          "intro": "穿越大唐贞观年的李恪，本想凭着自己传销讲师的能力，洗脑一帮忠实班底，苟着当个不起眼的小王爷。 　　谁知道穿越八年后，却发现自己还带来了一整个国家战略储备仓库。 　　于是李恪彻底放飞了自我，要当就得当个天不怕地不怕的逍遥王爷！ 　　先整个报纸，刷刷名声。 　　再整个炼铁厂，掌控大唐钢铁炼制，从世家手里抢抢钱。 　　接着为天下工匠和府兵谋个福利，团结一切可团结之人。 　　当长孙老阴人想要针对李恪的时候，却发现，除了朝堂之上，外面已经都是李恪了。 等李恪搞定一切，可以彻底逍遥的时候。 李世民：“恪儿啊，朕已经封你当太子了。” 李恪：“……”别啊，那个皇帝，狗都不当。 新书《我崇祯：求李自成造反》《全球神邸：我背后站着秦皇汉武》",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/c63becfc3505baaa32aa6e6819288cae~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1796011947&x-signature=DQULaWGOkbXj7iw3UqSSICFP1uw%3D",
+          "url": "https://fanqienovel.com/page/7143506226230332447"
         }
       ]
     }
